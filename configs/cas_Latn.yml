@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.09
+- - 6
+  - 0.06
+- - 7
+  - 0.041
+- - 8
+  - 0.026
+- - 9
+  - 0.017
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.592
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- in
+- mu
+- ra
+- qui
+- "y\u1EE5"
+- mi'in
+- mu'in
+- "m\u1ECD"
+- jam
+- me
+- tsun
+- jen
+- judyeya
+- paj
+- na
+- muntyi
+- yi
+- "p\u0302eyacdye"
+- aty
+- "jes\xFAs"
+- jiquej
+- chuc
+top_n_grams:
+- - 2
+  - 0.089
+- - 3
+  - 0.164
+- - 4
+  - 0.135

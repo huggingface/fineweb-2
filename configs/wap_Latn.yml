@@ -1,0 +1,46 @@
+dup_line_frac: 0.914
+dup_n_grams:
+- - 5
+  - 0.691
+- - 6
+  - 0.69
+- - 7
+  - 0.679
+- - 8
+  - 0.677
+- - 9
+  - 0.679
+- - 10
+  - 0.675
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- nii
+- "na\uA78Ciki"
+- naa
+- tominkaru
+- uruu
+- aonaa
+- "wuru\uA78Cu"
+- jesus
+- kida
+- pidannao
+- mazan
+- ati
+- kao
+- idi
+- ipai
+- unao
+- aimaakan
+- aizii
+- pidan
+top_n_grams:
+- - 2
+  - 1.449
+- - 3
+  - 2.235
+- - 4
+  - 3.012

@@ -1,0 +1,59 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.199
+- - 6
+  - 0.176
+- - 7
+  - 0.167
+- - 8
+  - 0.149
+- - 9
+  - 0.14
+- - 10
+  - 0.133
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- li
+- ua
+- peb
+- rau
+- nws
+- uas
+- yuav
+- lub
+- thiab
+- cov
+- tus
+- yog
+- tsis
+- tias
+- tau
+- muaj
+- tej
+- ib
+- lawv
+- los
+- hais
+- siab
+- ntawd
+- vajtswv
+- kuv
+- mus
+- koj
+- zoo
+- hauv
+- 'no'
+- yehauvas
+- kev
+top_n_grams:
+- - 2
+  - 0.082
+- - 3
+  - 0.096
+- - 4
+  - 0.106

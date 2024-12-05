@@ -1,0 +1,50 @@
+dup_line_frac: 0.923
+dup_n_grams:
+- - 5
+  - 0.64
+- - 6
+  - 0.64
+- - 7
+  - 0.626
+- - 8
+  - 0.626
+- - 9
+  - 0.616
+- - 10
+  - 0.606
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- nogo
+- nen
+- aret
+- o.
+- o
+- at
+- it
+- logonet
+- me
+- paga
+- ala
+- ti
+- yinuk
+- wone
+- nduk
+- aap
+- inom
+- mendek
+- ndi
+- an
+- yi
+- lek
+- aakumi
+top_n_grams:
+- - 2
+  - 0.54
+- - 3
+  - 0.71
+- - 4
+  - 0.911

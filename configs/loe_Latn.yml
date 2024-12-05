@@ -1,0 +1,47 @@
+dup_line_frac: 0.789
+dup_n_grams:
+- - 5
+  - 0.609
+- - 6
+  - 0.568
+- - 7
+  - 0.542
+- - 8
+  - 0.55
+- - 9
+  - 0.554
+- - 10
+  - 0.533
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.708
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- i
+- anu
+- nu
+- na
+- ka
+- aijo
+- hi
+- mian
+- tumpu
+- ia
+- aha
+- to
+- iwi
+- madi
+- komiu
+- yesus
+- aku
+- kalana
+- da
+- ko
+top_n_grams:
+- - 2
+  - 0.699
+- - 3
+  - 1.105
+- - 4
+  - 1.36

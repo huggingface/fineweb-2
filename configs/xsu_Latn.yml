@@ -1,0 +1,48 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.382
+- - 6
+  - 0.353
+- - 7
+  - 0.301
+- - 8
+  - 0.293
+- - 9
+  - 0.299
+- - 10
+  - 0.307
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.043
+stopwords:
+- "\u0129"
+- na
+- a
+- "t\xE4"
+- "t\xF6p\xF6"
+- kuu
+- wi
+- sa
+- "n\xF6"
+- pi
+- "teus\xF6"
+- "mak\xF6"
+- ha
+- jesus
+- kua
+- wa
+- ai
+- "an\xF6"
+- pata
+- ta
+- noai
+top_n_grams:
+- - 2
+  - 0.116
+- - 3
+  - 0.104
+- - 4
+  - 0.221

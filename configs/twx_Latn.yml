@@ -1,0 +1,40 @@
+dup_line_frac: 0.729
+dup_n_grams:
+- - 5
+  - 0.605
+- - 6
+  - 0.601
+- - 7
+  - 0.544
+- - 8
+  - 0.548
+- - 9
+  - 0.549
+- - 10
+  - 0.509
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- kuti
+- uye
+- djehovha
+- 'no'
+- mu
+- nge
+- anhu
+- pa
+- kana
+- mwari
+- djesu
+- na
+- bhaibheri
+top_n_grams:
+- - 2
+  - 0.686
+- - 3
+  - 0.8
+- - 4
+  - 1.0

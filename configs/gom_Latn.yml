@@ -1,0 +1,71 @@
+dup_line_frac: 0.835
+dup_n_grams:
+- - 5
+  - 0.585
+- - 6
+  - 0.579
+- - 7
+  - 0.566
+- - 8
+  - 0.55
+- - 9
+  - 0.541
+- - 10
+  - 0.524
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- ani
+- ami
+- to
+- korunk
+- tem
+- mhunn
+- punn
+- asa
+- hea
+- amkam
+- tea
+- ek
+- taka
+- vixim
+- tumi
+- tankam
+- kitem
+- na
+- tednam
+- zalear
+- zata
+- zai
+- tannem
+- oxem
+- aplea
+- jehova
+- hanv
+- vo
+- hem
+- tumkam
+- tim
+- kiteak
+- te
+- eka
+- mhonn
+- uprant
+- modot
+- thaun
+- zaunk
+- kortat
+- amchea
+- bible
+- tachea
+- jezu
+top_n_grams:
+- - 2
+  - 0.418
+- - 3
+  - 0.544
+- - 4
+  - 0.583

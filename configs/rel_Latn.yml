@@ -1,0 +1,46 @@
+dup_line_frac: 0.83
+dup_n_grams:
+- - 5
+  - 0.689
+- - 6
+  - 0.679
+- - 7
+  - 0.668
+- - 8
+  - 0.668
+- - 9
+  - 0.648
+- - 10
+  - 0.632
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- a
+- ka
+- la
+- wihi
+- waakh
+- atin
+- us
+- ichoow
+- doo'di
+- yeesso
+- icho
+- tuumman
+- an
+- i'daasenyi
+- laka
+- eti
+- toro
+- ma
+- 'on'
+top_n_grams:
+- - 2
+  - 0.571
+- - 3
+  - 0.734
+- - 4
+  - 0.861

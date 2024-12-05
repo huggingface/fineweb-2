@@ -1,0 +1,43 @@
+dup_line_frac: 0.873
+dup_n_grams:
+- - 5
+  - 0.692
+- - 6
+  - 0.692
+- - 7
+  - 0.666
+- - 8
+  - 0.651
+- - 9
+  - 0.669
+- - 10
+  - 0.641
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.814
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- chuh
+- chun
+- na
+- ka
+- in
+- hi
+- u
+- leh
+- ahi
+- um
+- pathien
+- zie
+- ding
+- haw
+- ah
+top_n_grams:
+- - 2
+  - 0.672
+- - 3
+  - 0.938
+- - 4
+  - 0.977

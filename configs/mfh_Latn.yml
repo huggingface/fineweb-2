@@ -1,0 +1,51 @@
+dup_line_frac: 0.893
+dup_n_grams:
+- - 5
+  - 0.943
+- - 6
+  - 0.942
+- - 7
+  - 0.941
+- - 8
+  - 0.94
+- - 9
+  - 0.939
+- - 10
+  - 0.936
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.816
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- "\xE0"
+- la
+- "k\xE0"
+- uwana
+- "a\u014Ba"
+- vok
+- aw
+- "z\u0259zag\u0259la"
+- uwaga
+- gay
+- "a\u014Bha"
+- "at\xE0"
+- "ah\u0259\u014B"
+- "\u014Bgaha"
+- "g\u0259l"
+- "ab\xE0"
+- akul
+- dza
+- azladza
+- yesu
+- masla
+- ala
+- gi
+- ama
+top_n_grams:
+- - 2
+  - 1.485
+- - 3
+  - 2.237
+- - 4
+  - 2.881

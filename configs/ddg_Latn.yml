@@ -1,0 +1,53 @@
+dup_line_frac: 0.629
+dup_n_grams:
+- - 5
+  - 0.576
+- - 6
+  - 0.582
+- - 7
+  - 0.575
+- - 8
+  - 0.513
+- - 9
+  - 0.513
+- - 10
+  - 0.498
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- i
+- ocava
+- a
+- afa
+- afi
+- "la\u02BCan"
+- ere
+- em
+- fai
+- "ma\u02BCarlauhana"
+- tava
+- "b\xEDblia"
+- tavar
+- akam
+- hai
+- it
+- rau
+- e
+- hin
+- nauvara
+- ia
+- uhulen
+- ho
+- har
+- "ta\u02BCa"
+- 'no'
+top_n_grams:
+- - 2
+  - 0.665
+- - 3
+  - 0.876
+- - 4
+  - 0.75

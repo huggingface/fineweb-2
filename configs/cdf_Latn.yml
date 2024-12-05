@@ -1,0 +1,48 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.61
+- - 6
+  - 0.588
+- - 7
+  - 0.586
+- - 8
+  - 0.558
+- - 9
+  - 0.533
+- - 10
+  - 0.495
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- kha
+- a
+- na
+- khan
+- u
+- hai
+- ama
+- ah
+- rang
+- dieng
+- le
+- inih
+- amani
+- uh
+- joi
+- hi
+- miring
+- nang
+- roh
+- pathien
+- inia
+top_n_grams:
+- - 2
+  - 0.546
+- - 3
+  - 0.752
+- - 4
+  - 0.858

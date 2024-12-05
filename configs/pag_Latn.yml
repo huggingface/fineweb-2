@@ -1,0 +1,53 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.0
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: 0.222
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.812
+stopwords:
+- say
+- ed
+- et
+- to
+- na
+- tan
+- ya
+- saray
+- walay
+- barangay
+- filipinas
+- totoo
+- sukat
+- census
+- unong
+- kabaleg
+- populasyon
+- sq
+- km
+- demograpiko
+- abong
+- luyag
+- code
+- zip
+- a
+- so
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

@@ -1,0 +1,45 @@
+dup_line_frac: 0.962
+dup_n_grams:
+- - 5
+  - 0.778
+- - 6
+  - 0.776
+- - 7
+  - 0.775
+- - 8
+  - 0.776
+- - 9
+  - 0.776
+- - 10
+  - 0.735
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- ie
+- "omo\u0268"
+- "jusi\xF1amui"
+- "naim\u0268e"
+- cue
+- "ca\u0268"
+- jira
+- jai
+- "d\u0268ga"
+- rafuena
+- iena
+- "naimac\u0268"
+- "iaded\u0268"
+- naie
+- ite
+- "jes\xFAs"
+- "j\u0268a\u0268"
+- "naim\u0268ena"
+top_n_grams:
+- - 2
+  - 1.675
+- - 3
+  - 2.676
+- - 4
+  - 3.47

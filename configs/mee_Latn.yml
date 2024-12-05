@@ -1,0 +1,53 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.141
+- - 6
+  - 0.165
+- - 7
+  - 0.186
+- - 8
+  - 0.125
+- - 9
+  - 0.129
+- - 10
+  - 0.141
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.872
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- ka
+- ke
+- nga
+- ta
+- ba
+- na
+- i
+- e
+- te
+- a
+- ra
+- iau
+- nge
+- nutu
+- ri
+- miau
+- keke
+- roma
+- ragau
+- reke
+- ae
+- la
+- sana
+- laeala
+- minmina
+- agau
+top_n_grams:
+- - 2
+  - 0.733
+- - 3
+  - 1.0
+- - 4
+  - 0.236

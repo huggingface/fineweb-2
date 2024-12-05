@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.096
+- - 6
+  - 0.068
+- - 7
+  - 0.048
+- - 8
+  - 0.036
+- - 9
+  - 0.03
+- - 10
+  - 0.025
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.86
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- yokamai
+- ena
+- di
+- te
+- yai
+- ari
+- ne
+- i
+- na
+- yaromi
+- ka
+- epe
+- gumam
+- tei
+- bei
+- ta
+- 'no'
+- mapunom
+- fi
+- kakom
+- yesu
+- si
+top_n_grams:
+- - 2
+  - 0.058
+- - 3
+  - 0.031
+- - 4
+  - 0.033

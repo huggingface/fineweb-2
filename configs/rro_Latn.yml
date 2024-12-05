@@ -1,0 +1,44 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.179
+- - 6
+  - 0.182
+- - 7
+  - 0.179
+- - 8
+  - 0.157
+- - 9
+  - 0.161
+- - 10
+  - 0.158
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- hanona
+- ia
+- haukia
+- ena
+- a'i
+- hauna
+- mai
+- tirama
+- ha
+- weiana
+- au
+- iesu
+- ba
+- aonai
+- wai
+- maearima
+- ki'a
+top_n_grams:
+- - 2
+  - 0.13
+- - 3
+  - 0.138
+- - 4
+  - 0.161

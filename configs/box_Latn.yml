@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.078
+- - 6
+  - 0.054
+- - 7
+  - 0.041
+- - 8
+  - 0.028
+- - 9
+  - 0.022
+- - 10
+  - 0.024
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.861
+min_avg_word_length: 2
+new_line_ratio: 0.059
+stopwords:
+- le
+- yi
+- o
+- "\u0253a"
+- "\xE1"
+- na
+- "b\xECo"
+- mu
+- ho
+- wee
+- mi
+- "\xE0"
+- a
+- "l\xE9"
+- "\xF3"
+- "a\u0301"
+- "y\xED"
+- "k\xE1"
+- "d\xF3nbeen\xEC"
+- "bi\u0300o"
+- "\u0129"
+- wa
+- "l\xE8"
+- "w\xE9"
+- "m\xED"
+top_n_grams:
+- - 2
+  - 0.051
+- - 3
+  - 0.08
+- - 4
+  - 0.024

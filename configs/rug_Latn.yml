@@ -1,0 +1,49 @@
+dup_line_frac: 0.562
+dup_n_grams:
+- - 5
+  - 0.531
+- - 6
+  - 0.502
+- - 7
+  - 0.462
+- - 8
+  - 0.456
+- - 9
+  - 0.418
+- - 10
+  - 0.422
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- si
+- sa
+- meke
+- na
+- pa
+- sari
+- va
+- sapu
+- tie
+- asa
+- gua
+- koa
+- nia
+- lopu
+- pude
+- la
+- gamu
+- rau
+- ta
+- kote
+- koasa
+- ba
+top_n_grams:
+- - 2
+  - 0.617
+- - 3
+  - 0.737
+- - 4
+  - 0.887

@@ -1,0 +1,53 @@
+dup_line_frac: 0.596
+dup_n_grams:
+- - 5
+  - 0.7
+- - 6
+  - 0.681
+- - 7
+  - 0.684
+- - 8
+  - 0.678
+- - 9
+  - 0.644
+- - 10
+  - 0.637
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.471
+min_avg_word_length: 2
+new_line_ratio: 0.028
+stopwords:
+- a
+- or
+- de
+- eh
+- 'on'
+- dih
+- ye
+- 'no'
+- yee
+- an
+- bo
+- deh
+- nyorsoa
+- do
+- "nyor\u29FE"
+- mu
+- ne
+- o
+- dhih
+- po
+- mor
+- se
+- i
+- di
+- nyor
+- da
+top_n_grams:
+- - 2
+  - 0.28
+- - 3
+  - 0.46
+- - 4
+  - 0.275

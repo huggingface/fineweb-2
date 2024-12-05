@@ -1,0 +1,43 @@
+dup_line_frac: 0.303
+dup_n_grams:
+- - 5
+  - 0.168
+- - 6
+  - 0.151
+- - 7
+  - 0.135
+- - 8
+  - 0.123
+- - 9
+  - 0.116
+- - 10
+  - 0.107
+line_punct_thr: 0.2
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 3
+new_line_ratio: 0.273
+stopwords:
+- ve
+- bir
+- olarak
+- bu
+- ile
+- "i\xE7in"
+- olan
+- da
+- de
+- "taraf\u0131ndan"
+- "y\u0131l\u0131nda"
+- sonra
+- en
+- daha
+- ilk
+- the
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.114
+- - 4
+  - 0.136

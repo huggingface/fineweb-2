@@ -1,0 +1,50 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.378
+- - 6
+  - 0.371
+- - 7
+  - 0.318
+- - 8
+  - 0.312
+- - 9
+  - 0.302
+- - 10
+  - 0.297
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- i
+- ge
+- hi
+- ni
+- inoke
+- elana
+- ya
+- ba
+- wana
+- nige
+- yehoba
+- ana
+- na
+- nihi
+- ola
+- he
+- o
+- yaka
+- kaiwena
+- nuku
+- sauga
+- yaa
+- toto
+top_n_grams:
+- - 2
+  - 0.09
+- - 3
+  - 0.12
+- - 4
+  - 0.144

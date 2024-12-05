@@ -1,0 +1,45 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.095
+- - 6
+  - 0.064
+- - 7
+  - 0.044
+- - 8
+  - 0.032
+- - 9
+  - 0.023
+- - 10
+  - 0.016
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.879
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- te
+- "n\xED"
+- "s\xE1"
+- "\xF1\xE1yiu"
+- "ndi\u01D2x\xED"
+- nchaa
+- chi
+- "n\u01D0"
+- "t\xE9e"
+- "n\xFA\xFA"
+- "\xF1\xE1"
+- cue
+- "t\xFA\xFA"
+- "nd\u0268h\u0268"
+- "tn\xFAhu"
+- "cu\xE8nd\xE1"
+- "duca\u207F"
+- "y\u01CE"
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.15
+- - 4
+  - 0.131

@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.044
+- - 6
+  - 0.031
+- - 7
+  - 0.024
+- - 8
+  - 0.02
+- - 9
+  - 0.016
+- - 10
+  - 0.014
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.838
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- u
+- "\xE4ma"
+- "n\xE4mo"
+- ude
+- "t\xE4\u014Bo"
+- man
+- unita
+- ba
+- "uw\xE4"
+- api
+- "t\xE4ka\u014B"
+- "\u014Bode"
+- "y\xE4k"
+- "y\xE4\u014B"
+- anutu
+- "kub\xE4"
+top_n_grams:
+- - 2
+  - 0.027
+- - 3
+  - 0.026
+- - 4
+  - 0.027

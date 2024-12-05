@@ -1,0 +1,36 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.404
+- - 6
+  - 0.395
+- - 7
+  - 0.385
+- - 8
+  - 0.378
+- - 9
+  - 0.367
+- - 10
+  - 0.362
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- "k\xF8n"
+- tru
+- cha
+- inchen
+- "g\xF8n"
+- maig
+- "kat\xF8"
+- treeg
+- kan
+top_n_grams:
+- - 2
+  - 0.109
+- - 3
+  - 0.176
+- - 4
+  - 0.224

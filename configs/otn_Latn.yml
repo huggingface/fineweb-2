@@ -1,0 +1,48 @@
+dup_line_frac: 0.133
+dup_n_grams:
+- - 5
+  - 0.258
+- - 6
+  - 0.24
+- - 7
+  - 0.245
+- - 8
+  - 0.24
+- - 9
+  - 0.231
+- - 10
+  - 0.193
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- "ra\u0331"
+- ngue
+- "y\xF8"
+- bi
+- "da\u0331"
+- ja
+- ya
+- "ja\u0331'i\u0331"
+- "hya\u0331"
+- "r\xE1\u0331"
+- te
+- "oja\u0331"
+- "di\u0331"
+- "p'\u0289ya"
+- di
+- "bi\u0331"
+- "ga\u0331"
+- "p\u025B"
+- "na\u0331"
+- "ma\u0331"
+- "p'\u0289"
+top_n_grams:
+- - 2
+  - 0.772
+- - 3
+  - 1.215
+- - 4
+  - 1.604

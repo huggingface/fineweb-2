@@ -1,0 +1,36 @@
+dup_line_frac: 0.619
+dup_n_grams:
+- - 5
+  - 0.4
+- - 6
+  - 0.373
+- - 7
+  - 0.36
+- - 8
+  - 0.345
+- - 9
+  - 0.324
+- - 10
+  - 0.322
+line_punct_thr: 0.143
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 3
+new_line_ratio: 0.2
+stopwords:
+- the
+- o
+- an
+- in
+- a
+- is
+- tae
+- wis
+- as
+top_n_grams:
+- - 2
+  - 0.267
+- - 3
+  - 0.293
+- - 4
+  - 0.314

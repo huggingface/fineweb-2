@@ -1,0 +1,40 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.386
+- - 6
+  - 0.374
+- - 7
+  - 0.339
+- - 8
+  - 0.317
+- - 9
+  - 0.324
+- - 10
+  - 0.28
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- na
+- neke
+- nguluvi
+- kwa
+- va
+- pakuva
+- yesu
+- avanu
+- ndawe
+- swe
+- nene
+- ulwa
+- ku
+top_n_grams:
+- - 2
+  - 0.205
+- - 3
+  - 0.17
+- - 4
+  - 0.256

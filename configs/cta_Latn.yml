@@ -1,0 +1,56 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.062
+- - 6
+  - 0.041
+- - 7
+  - 0.03
+- - 8
+  - 0.023
+- - 9
+  - 0.018
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 4
+new_line_ratio: 0.045
+stopwords:
+- nu
+- "cha\uA78C"
+- "ji\uA78Ci\u0331"
+- "ngu\uA78C"
+- "ma\u0331"
+- na
+- cha
+- "lo\uA78Co"
+- "bi\uA78C"
+- "ji'i\u0331"
+- ti
+- ngu
+- ni
+- yu
+- lo'o
+- cua
+- "\xF1ati\u0331"
+- bi
+- ndyosi
+- tsa
+- laca
+- "ycui\uA78C"
+- "n\xE1"
+- ca
+- "na\uA78C"
+- la
+- "li\uA78C"
+- "jes\xFAs"
+- lcaa
+top_n_grams:
+- - 2
+  - 0.066
+- - 3
+  - 0.055
+- - 4
+  - 0.028

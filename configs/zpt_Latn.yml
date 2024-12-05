@@ -1,0 +1,51 @@
+dup_line_frac: 0.587
+dup_n_grams:
+- - 5
+  - 0.459
+- - 6
+  - 0.443
+- - 7
+  - 0.408
+- - 8
+  - 0.392
+- - 9
+  - 0.347
+- - 10
+  - 0.318
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- "le\uA78Ca"
+- xa
+- bexa
+- wa
+- ta
+- be
+- bega
+- le'a
+- dios
+- 'no'
+- na
+- cha
+- "ndo\uA78C"
+- ten
+- "na\uA78C"
+- dub
+- ndab
+- men
+- "jes\xFAs"
+- "l\xE1"
+- ndo
+- nak
+- ladna
+- beuna
+top_n_grams:
+- - 2
+  - 0.351
+- - 3
+  - 0.481
+- - 4
+  - 0.579

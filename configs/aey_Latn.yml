@@ -1,0 +1,46 @@
+dup_line_frac: 0.744
+dup_n_grams:
+- - 5
+  - 0.548
+- - 6
+  - 0.533
+- - 7
+  - 0.51
+- - 8
+  - 0.496
+- - 9
+  - 0.472
+- - 10
+  - 0.464
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.815
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- eu
+- uqa
+- age
+- dana
+- qee
+- je
+- odocob
+- ija
+- eunu
+- anut
+- oso
+- ege
+- me
+- uqana
+- odi
+- cunug
+- bahic
+- agena
+- jisas
+top_n_grams:
+- - 2
+  - 0.598
+- - 3
+  - 0.76
+- - 4
+  - 0.973

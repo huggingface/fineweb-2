@@ -1,0 +1,45 @@
+dup_line_frac: 0.538
+dup_n_grams:
+- - 5
+  - 0.338
+- - 6
+  - 0.304
+- - 7
+  - 0.277
+- - 8
+  - 0.253
+- - 9
+  - 0.232
+- - 10
+  - 0.206
+line_punct_thr: 0.059
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 3
+new_line_ratio: 0.634
+stopwords:
+- nan
+- de
+- se
+- li
+- yo
+- vil
+- sa
+- yon
+- ak
+- ayisyen
+- "k\xF2m"
+- istwa
+- relasyon
+- la
+- te
+- ayiti
+- jewografi
+- kiba
+top_n_grams:
+- - 2
+  - 0.385
+- - 3
+  - 0.5
+- - 4
+  - 0.593

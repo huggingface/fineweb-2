@@ -1,0 +1,53 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.096
+- - 6
+  - 0.067
+- - 7
+  - 0.051
+- - 8
+  - 0.036
+- - 9
+  - 0.03
+- - 10
+  - 0.026
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.664
+min_avg_word_length: 6
+new_line_ratio: 0.062
+stopwords:
+- langwa
+- manja
+- wa
+- nakina
+- akwa
+- kembirra
+- ni
+- ka
+- yama
+- da
+- umba
+- warnumamalya
+- wurrakina
+- ayakwa
+- jesus
+- yada
+- arakba
+- akina
+- eneja
+- nara
+- ngayuwa
+- ngawa
+- angalya
+- neningikarrawara
+- ena
+- biya
+top_n_grams:
+- - 2
+  - 0.058
+- - 3
+  - 0.042
+- - 4
+  - 0.025

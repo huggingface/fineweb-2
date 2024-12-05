@@ -1,0 +1,58 @@
+dup_line_frac: 0.295
+dup_n_grams:
+- - 5
+  - 0.237
+- - 6
+  - 0.212
+- - 7
+  - 0.203
+- - 8
+  - 0.185
+- - 9
+  - 0.169
+- - 10
+  - 0.161
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.167
+stopwords:
+- li
+- e
+- mi
+- jan
+- ni
+- tawa
+- la
+- lon
+- sina
+- pi
+- ala
+- ona
+- tenpo
+- kama
+- toki
+- pona
+- mute
+- seme
+- wile
+- ton
+- sona
+- tomo
+- ken
+- o
+- lukin
+- pali
+- tan
+- pilin
+- ma
+- lili
+- jo
+top_n_grams:
+- - 2
+  - 0.129
+- - 3
+  - 0.127
+- - 4
+  - 0.135

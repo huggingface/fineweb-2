@@ -1,0 +1,59 @@
+dup_line_frac: 0.695
+dup_n_grams:
+- - 5
+  - 0.357
+- - 6
+  - 0.317
+- - 7
+  - 0.28
+- - 8
+  - 0.251
+- - 9
+  - 0.235
+- - 10
+  - 0.21
+line_punct_thr: -1
+max_avg_word_length: 20
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.2
+stopwords:
+- da
+- lij
+- "li\xE2"
+- "\u0161to"
+- "s\xE4\xE4\xB4mtee\xB4\u01E7\u01E7"
+- "\u0161e"
+- di
+- ko
+- "le\xE4i"
+- "t\xF5n"
+- "di\xF5tt"
+- "mie\xB4ldd"
+- "t\xF5t"
+- lie
+- "le\xB4be"
+- "saa\xB4mi"
+- "s\xE4\xE4\xB4m"
+- ij
+- aanar
+- "s\xE4\xE4\xB4mte\xB4\u01E7\u01E7"
+- son
+- "s\xE4\xE4\xB4m\u01E9i\xF5l"
+- "l\xE4\xE4\xB4ddj\xE2nnam"
+- "vu\xE4itt"
+- "jee\xB4res"
+- "t\xE4n"
+- "\u010Di\xE2ss"
+- de
+- "o\u0111\u0111"
+- "\xE2lgg"
+- "k\xE5\xE5\xB4tt"
+- "l\xE2\xE2\xB4ssen"
+top_n_grams:
+- - 2
+  - 0.349
+- - 3
+  - 0.371
+- - 4
+  - 0.42

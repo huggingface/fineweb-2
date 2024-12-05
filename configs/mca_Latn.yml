@@ -1,0 +1,45 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.415
+- - 6
+  - 0.414
+- - 7
+  - 0.412
+- - 8
+  - 0.411
+- - 9
+  - 0.409
+- - 10
+  - 0.407
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.646
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- qa
+- in
+- qu
+- pa
+- iye
+- ha
+- qe
+- hik
+- hats
+- nite
+- "qu\uA78C"
+- pe
+- "pa\uA78C"
+- pa'aj
+- week
+- ma
+- intata
+- pa'qu
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.134
+- - 4
+  - 0.16

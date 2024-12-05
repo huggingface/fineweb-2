@@ -1,0 +1,48 @@
+dup_line_frac: 0.933
+dup_n_grams:
+- - 5
+  - 0.608
+- - 6
+  - 0.593
+- - 7
+  - 0.587
+- - 8
+  - 0.608
+- - 9
+  - 0.617
+- - 10
+  - 0.608
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- in
+- ke
+- ac
+- ma
+- el
+- mwet
+- inge
+- uh
+- nu
+- se
+- a
+- sie
+- sin
+- nuh
+- god
+- lal
+- elos
+- na
+- kom
+- kuht
+- kuh
+top_n_grams:
+- - 2
+  - 0.766
+- - 3
+  - 1.242
+- - 4
+  - 1.615

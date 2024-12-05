@@ -1,0 +1,44 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.478
+- - 6
+  - 0.451
+- - 7
+  - 0.367
+- - 8
+  - 0.365
+- - 9
+  - 0.364
+- - 10
+  - 0.366
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.565
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- na
+- "be\u1E49e"
+- da
+- ca
+- diosen
+- bi
+- "c\u0331he"
+- "\u1E3Be"
+- len
+- cont
+- ba
+- to
+- can
+- dan
+- "\u1E3Bo"
+- cate
+- le'e
+top_n_grams:
+- - 2
+  - 0.306
+- - 3
+  - 0.383
+- - 4
+  - 0.428

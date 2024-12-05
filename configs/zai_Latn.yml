@@ -1,0 +1,44 @@
+dup_line_frac: 0.348
+dup_n_grams:
+- - 5
+  - 0.337
+- - 6
+  - 0.303
+- - 7
+  - 0.275
+- - 8
+  - 0.257
+- - 9
+  - 0.219
+- - 10
+  - 0.194
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ni
+- ca
+- ne
+- de
+- binni
+- para
+- ti
+- nga
+- "qu\xE9"
+- lu
+- dios
+- que
+- la
+- cadi
+- "sti\u02BC"
+- ora
+- laanu
+top_n_grams:
+- - 2
+  - 0.529
+- - 3
+  - 0.68
+- - 4
+  - 0.737

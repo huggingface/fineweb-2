@@ -1,0 +1,47 @@
+dup_line_frac: 0.632
+dup_n_grams:
+- - 5
+  - 0.58
+- - 6
+  - 0.559
+- - 7
+  - 0.553
+- - 8
+  - 0.547
+- - 9
+  - 0.545
+- - 10
+  - 0.535
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- e
+- ku
+- ke
+- "k\u0254c"
+- ci
+- ne
+- raan
+- bi
+- yan
+- de
+- ee
+- yen
+- go
+- en
+- nhialic
+- wen
+- na
+- te
+- ye
+- aa
+top_n_grams:
+- - 2
+  - 0.568
+- - 3
+  - 0.878
+- - 4
+  - 1.196

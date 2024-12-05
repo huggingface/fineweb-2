@@ -1,0 +1,43 @@
+dup_line_frac: 0.583
+dup_n_grams:
+- - 5
+  - 0.554
+- - 6
+  - 0.538
+- - 7
+  - 0.567
+- - 8
+  - 0.47
+- - 9
+  - 0.492
+- - 10
+  - 0.496
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.718
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- doo
+- da
+- "bik\u2019ehgo\u2019ihi\u2019\u1E49a\u0144"
+- "n\u1E49ee"
+- "\u0142a\u2019\xED\xED"
+- "bigh\u0105"
+- bee
+- jesus
+- baa
+- "\xE1\xED"
+- "bi\u0142"
+- "\xE1\xEDk\u2019ehgo"
+- ndi
+- "dolee\u0142"
+- "n\u2019\xED\xED"
+- "k\u2019ehgo"
+top_n_grams:
+- - 2
+  - 0.621
+- - 3
+  - 0.673
+- - 4
+  - 0.825

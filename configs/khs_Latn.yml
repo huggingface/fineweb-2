@@ -1,0 +1,42 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.419
+- - 6
+  - 0.417
+- - 7
+  - 0.414
+- - 8
+  - 0.409
+- - 9
+  - 0.406
+- - 10
+  - 0.402
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.681
+min_avg_word_length: 5
+new_line_ratio: 0.056
+stopwords:
+- sena
+- na
+- e
+- ta
+- kesale
+- selese
+- eta
+- tiye
+- sita
+- aputa
+- apula
+- aluse
+- kote
+- amowa
+- koteyewi
+top_n_grams:
+- - 2
+  - 0.114
+- - 3
+  - 0.139
+- - 4
+  - 0.17

@@ -1,0 +1,67 @@
+dup_line_frac: 0.722
+dup_n_grams:
+- - 5
+  - 0.503
+- - 6
+  - 0.479
+- - 7
+  - 0.447
+- - 8
+  - 0.425
+- - 9
+  - 0.406
+- - 10
+  - 0.389
+line_punct_thr: 0.118
+max_avg_word_length: 20
+max_non_alpha_words_ratio: 0.767
+min_avg_word_length: 2
+new_line_ratio: 0.415
+stopwords:
+- li
+- de
+- es
+- e
+- in
+- del
+- sud
+- en
+- esed
+- kel
+- ek
+- lo
+- afrika
+- un
+- urbe
+- komunies
+- did
+- maxim
+- total
+- nombro
+- elektionure
+- lingues
+- kun
+- a
+- por
+- ke
+- lun
+- kom
+- have
+- lu
+- ye
+- homes
+- la
+- parla
+- anke
+- provinse
+- bli
+- lande
+- distrikte
+- al
+top_n_grams:
+- - 2
+  - 0.423
+- - 3
+  - 0.467
+- - 4
+  - 0.537

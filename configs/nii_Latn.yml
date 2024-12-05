@@ -1,0 +1,53 @@
+dup_line_frac: 0.217
+dup_n_grams:
+- - 5
+  - 0.068
+- - 6
+  - 0.041
+- - 7
+  - 0.027
+- - 8
+  - 0.018
+- - 9
+  - 0.014
+- - 10
+  - 0.008
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- ei
+- kin
+- wumb
+- eim
+- enim
+- "e\u0142e"
+- ek
+- yi
+- gos
+- nge
+- wu
+- nga
+- "mi\u0142"
+- na
+- ka
+- nim
+- "o\u0142"
+- ni
+- endi
+- pe
+- konu
+- noman
+- mon
+- kunum
+- jiisas
+- ba
+top_n_grams:
+- - 2
+  - 0.06
+- - 3
+  - 0.054
+- - 4
+  - 0.055

@@ -1,0 +1,52 @@
+dup_line_frac: 0.045
+dup_n_grams:
+- - 5
+  - 0.121
+- - 6
+  - 0.095
+- - 7
+  - 0.087
+- - 8
+  - 0.105
+- - 9
+  - 0.086
+- - 10
+  - 0.095
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.86
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- be
+- ok
+- ane
+- ebe
+- ve
+- amolmol
+- ei
+- gen
+- ginei
+- etok
+- yaun
+- amol
+- pomate
+- yem
+- ayeu
+- gitangi
+- eisir
+- atob
+- ge
+- ti
+- ite
+- givin
+- ete
+- as
+- yisu
+top_n_grams:
+- - 2
+  - 0.353
+- - 3
+  - 0.279
+- - 4
+  - 0.355

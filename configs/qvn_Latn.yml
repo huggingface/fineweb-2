@@ -1,0 +1,40 @@
+dup_line_frac: 0.024
+dup_n_grams:
+- - 5
+  - 0.043
+- - 6
+  - 0.04
+- - 7
+  - 0.034
+- - 8
+  - 0.039
+- - 9
+  - 0.032
+- - 10
+  - 0.036
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 6
+new_line_ratio: 0.1
+stopwords:
+- chay
+- "n\xE4tan"
+- cay
+- mana
+- jinaman
+- chaura
+- manam
+- "n\xE4"
+- juc
+- dios
+- chaynuy
+- alisca
+- diospa
+top_n_grams:
+- - 2
+  - 0.332
+- - 3
+  - 0.358
+- - 4
+  - 0.276

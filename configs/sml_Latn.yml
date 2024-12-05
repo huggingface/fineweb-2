@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.042
+- - 6
+  - 0.029
+- - 7
+  - 0.017
+- - 8
+  - 0.01
+- - 9
+  - 0.008
+- - 10
+  - 0.006
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ma
+- si
+- ya
+- saga
+- "sig\u0101m"
+- bay
+- ni
+- maka
+- iya
+- tuhan
+- na
+- min
+- isa
+- bang
+- itu
+- aku
+- mbal
+- e
+- "e\u02C8"
+- kam
+- sabab
+- a'a
+- "a\u02C8a"
+- "in\u0101n"
+top_n_grams:
+- - 2
+  - 0.08
+- - 3
+  - 0.131
+- - 4
+  - 0.132

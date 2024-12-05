@@ -1,0 +1,45 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.404
+- - 6
+  - 0.411
+- - 7
+  - 0.316
+- - 8
+  - 0.32
+- - 9
+  - 0.292
+- - 10
+  - 0.287
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.722
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- ipi
+- ici
+- oti
+- shi
+- ci
+- ni
+- i
+- ki
+- pic
+- caye'k
+- okinan
+- iwci
+- kshe'mine'to
+- o
+- cisus
+- nini
+- kci
+- win
+top_n_grams:
+- - 2
+  - 0.538
+- - 3
+  - 1.154
+- - 4
+  - 0.809

@@ -1,0 +1,54 @@
+dup_line_frac: 0.466
+dup_n_grams:
+- - 5
+  - 0.372
+- - 6
+  - 0.365
+- - 7
+  - 0.34
+- - 8
+  - 0.351
+- - 9
+  - 0.326
+- - 10
+  - 0.342
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- "\xF2"
+- "b\xE0"
+- ta
+- "n\u0300"
+- di
+- maa
+- yi
+- "\xEC"
+- sa
+- "d\xE0"
+- n
+- "w\u025B\u014Buro"
+- ba
+- ti
+- na
+- den
+- da
+- mii
+- o
+- "w\xF2"
+- ka
+- maasi
+- i
+- yeesu
+- wa
+- baa
+- "t\xE0n"
+top_n_grams:
+- - 2
+  - 0.165
+- - 3
+  - 0.183
+- - 4
+  - 0.117

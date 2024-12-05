@@ -1,0 +1,45 @@
+dup_line_frac: 0.847
+dup_n_grams:
+- - 5
+  - 0.575
+- - 6
+  - 0.568
+- - 7
+  - 0.56
+- - 8
+  - 0.558
+- - 9
+  - 0.544
+- - 10
+  - 0.546
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- ne
+- men
+- de
+- noo
+- lo
+- yra
+- 'no'
+- "m\xE9n"
+- "d\xEBdyuzh"
+- nak
+- por
+- re
+- be
+- le
+- laa
+- guin
+- jesucrist
+- per
+top_n_grams:
+- - 2
+  - 0.647
+- - 3
+  - 0.895
+- - 4
+  - 1.136

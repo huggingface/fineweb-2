@@ -1,0 +1,54 @@
+dup_line_frac: 0.394
+dup_n_grams:
+- - 5
+  - 0.326
+- - 6
+  - 0.315
+- - 7
+  - 0.304
+- - 8
+  - 0.3
+- - 9
+  - 0.295
+- - 10
+  - 0.293
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.865
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- na
+- nggo
+- a
+- ku
+- ni
+- ba
+- di
+- si
+- yi
+- ka
+- i
+- imba
+- nu
+- ta
+- wa
+- "\xE0"
+- ingga
+- abachi
+- hen
+- so
+- ki
+- yo
+- da
+- ma
+- bu
+- inta
+- anishirr
+top_n_grams:
+- - 2
+  - 0.066
+- - 3
+  - 0.085
+- - 4
+  - 0.093

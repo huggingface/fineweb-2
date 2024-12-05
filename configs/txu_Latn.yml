@@ -1,0 +1,45 @@
+dup_line_frac: 0.013
+dup_n_grams:
+- - 5
+  - 0.119
+- - 6
+  - 0.076
+- - 7
+  - 0.058
+- - 8
+  - 0.045
+- - 9
+  - 0.035
+- - 10
+  - 0.032
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- ne
+- me
+- ar
+- nhym
+- kute
+- "ar\u1EF3m"
+- kam
+- ba
+- kum
+- dja
+- "met\u0129ndjw\u1EF3nh"
+- ane
+- "k\xEAt"
+- "mem\xE3"
+- "\xE3"
+- ga
+- "am\xE3"
+- amim
+top_n_grams:
+- - 2
+  - 0.19
+- - 3
+  - 0.066
+- - 4
+  - 0.103

@@ -1,0 +1,46 @@
+dup_line_frac: 0.492
+dup_n_grams:
+- - 5
+  - 0.484
+- - 6
+  - 0.465
+- - 7
+  - 0.44
+- - 8
+  - 0.417
+- - 9
+  - 0.41
+- - 10
+  - 0.4
+line_punct_thr: 0.125
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.776
+min_avg_word_length: 3
+new_line_ratio: 0.458
+stopwords:
+- te
+- o
+- he
+- ko
+- ki
+- e
+- i
+- whenua
+- nohanga
+- ai
+- "ng\u0101"
+- "takiw\u0101"
+- nui
+- a
+- reo
+- "toit\u016B"
+- "t\u0101one"
+- "p\u0101keh\u0101"
+- "w\u0101hi"
+top_n_grams:
+- - 2
+  - 0.358
+- - 3
+  - 0.448
+- - 4
+  - 0.531

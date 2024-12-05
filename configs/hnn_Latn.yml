@@ -1,0 +1,50 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.635
+- - 6
+  - 0.612
+- - 7
+  - 0.63
+- - 8
+  - 0.568
+- - 9
+  - 0.606
+- - 10
+  - 0.549
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.822
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- sa
+- ti
+- manga
+- pag
+- kay
+- yi
+- diyus
+- may
+- tawu
+- siya
+- nu
+- unman
+- si
+- kanyu
+- kanda
+- ni
+- hisus
+- magkun
+- sida
+- kamu
+- niya
+- dahil
+- u
+top_n_grams:
+- - 2
+  - 0.46
+- - 3
+  - 0.675
+- - 4
+  - 0.882

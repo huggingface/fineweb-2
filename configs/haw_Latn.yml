@@ -1,0 +1,47 @@
+dup_line_frac: 0.214
+dup_n_grams:
+- - 5
+  - 0.117
+- - 6
+  - 0.095
+- - 7
+  - 0.081
+- - 8
+  - 0.07
+- - 9
+  - 0.068
+- - 10
+  - 0.063
+line_punct_thr: 0.489
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 3
+new_line_ratio: 0.2
+stopwords:
+- ka
+- i
+- o
+- ma
+- a
+- mea
+- "n\u0101"
+- ke
+- e
+- "\u02BBo"
+- he
+- me
+- mai
+- ua
+- helu
+- "hakak\u0101"
+- "panal\u0101\u2018au"
+- "\u02BBia"
+- nui
+- "ho\u02BBohana"
+top_n_grams:
+- - 2
+  - 0.069
+- - 3
+  - 0.104
+- - 4
+  - 0.098

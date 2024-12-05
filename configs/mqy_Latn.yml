@@ -1,0 +1,51 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.406
+- - 6
+  - 0.38
+- - 7
+  - 0.323
+- - 8
+  - 0.301
+- - 9
+  - 0.251
+- - 10
+  - 0.209
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.816
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- agu
+- ata
+- "on\xE9"
+- te
+- mori
+- mai
+- de
+- "to\xE9"
+- "m\xE9u"
+- hitu
+- hia
+- le
+- poli
+- "kera\xE9ng"
+- hi
+- "sangg\xE9d"
+- manga
+- aku
+- "pand\xE9"
+- "is\xE9"
+- maik
+- ai
+- latang
+- kudut
+top_n_grams:
+- - 2
+  - 0.498
+- - 3
+  - 0.609
+- - 4
+  - 0.412

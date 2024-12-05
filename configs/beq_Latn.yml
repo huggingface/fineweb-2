@@ -1,0 +1,44 @@
+dup_line_frac: 0.95
+dup_n_grams:
+- - 5
+  - 0.714
+- - 6
+  - 0.677
+- - 7
+  - 0.694
+- - 8
+  - 0.667
+- - 9
+  - 0.677
+- - 10
+  - 0.677
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- mu
+- na
+- ti
+- kuri
+- me
+- nde
+- ngo
+- beenu
+- nzaambi
+- bo
+- ha
+- ko
+- ku
+- bu
+- ya
+- yesu
+- ma
+top_n_grams:
+- - 2
+  - 0.451
+- - 3
+  - 0.653
+- - 4
+  - 0.958

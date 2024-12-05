@@ -1,0 +1,49 @@
+dup_line_frac: 0.887
+dup_n_grams:
+- - 5
+  - 0.546
+- - 6
+  - 0.499
+- - 7
+  - 0.474
+- - 8
+  - 0.457
+- - 9
+  - 0.429
+- - 10
+  - 0.423
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- "k\u1EA1"
+- "k\u1EB9"
+- "w\u1EA1"
+- "t\u1EA1"
+- "b\u1EA1"
+- "\u1EB9"
+- "n\u1EA1"
+- "od\u1EA1"
+- "ob\u1EA1"
+- "\u1ECDbas\u1EB9"
+- "b\u1EB9"
+- "yan\u1EB9n"
+- maa
+- "\u1EB9d\u1ECD"
+- baa
+- "d\u1EA1"
+- "y\u1EA1"
+- "j\u1EA1"
+- "\u1ECDn\u1EB9n"
+- boong
+- obi
+- abaa
+top_n_grams:
+- - 2
+  - 1.166
+- - 3
+  - 1.656
+- - 4
+  - 2.021

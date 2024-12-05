@@ -1,0 +1,46 @@
+dup_line_frac: 0.636
+dup_n_grams:
+- - 5
+  - 0.514
+- - 6
+  - 0.507
+- - 7
+  - 0.438
+- - 8
+  - 0.401
+- - 9
+  - 0.413
+- - 10
+  - 0.378
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ka
+- nu
+- nna
+- benne
+- lhe
+- ge
+- tata
+- do
+- chi
+- "yeb\xE1ha"
+- lo
+- ttu
+- nuha
+- tti
+- kini
+- de
+- kumu
+- "lab\xED"
+- len
+top_n_grams:
+- - 2
+  - 0.619
+- - 3
+  - 0.703
+- - 4
+  - 0.949

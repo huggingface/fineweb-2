@@ -1,0 +1,57 @@
+dup_line_frac: 0.752
+dup_n_grams:
+- - 5
+  - 0.413
+- - 6
+  - 0.392
+- - 7
+  - 0.366
+- - 8
+  - 0.338
+- - 9
+  - 0.327
+- - 10
+  - 0.315
+line_punct_thr: 0.0
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.791
+min_avg_word_length: 4
+new_line_ratio: 1
+stopwords:
+- lea
+- ja
+- leat
+- dan
+- lei
+- gielda
+- "rieg\xE1deamit"
+- "j\xE1pmimat"
+- "d\xE1hp\xE1husat"
+- go
+- maid
+- son
+- jagi
+- kaleandar
+- mii
+- dat
+- suoma
+- ahte
+- jagis
+- "s\xE1mi"
+- mielde
+- dahje
+- beaivi
+- ii
+- "olmmo\u0161lohku"
+- leatna
+- "ear\xE1"
+- "geah\u010Da"
+- "li\u014Bkkat"
+- norgga
+top_n_grams:
+- - 2
+  - 0.246
+- - 3
+  - 0.314
+- - 4
+  - 0.347

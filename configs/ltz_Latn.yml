@@ -1,0 +1,41 @@
+dup_line_frac: 0.473
+dup_n_grams:
+- - 5
+  - 0.325
+- - 6
+  - 0.28
+- - 7
+  - 0.241
+- - 8
+  - 0.207
+- - 9
+  - 0.181
+- - 10
+  - 0.15
+line_punct_thr: 0.118
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 1
+new_line_ratio: 0.39
+stopwords:
+- de
+- an
+- der
+- d'
+- vun
+- a
+- vum
+- den
+- am
+- ass
+- "d\xE9i"
+- regie
+- huet
+- eng
+top_n_grams:
+- - 2
+  - 0.325
+- - 3
+  - 0.395
+- - 4
+  - 0.439

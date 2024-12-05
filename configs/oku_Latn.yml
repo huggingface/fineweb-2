@@ -1,0 +1,50 @@
+dup_line_frac: 0.054
+dup_n_grams:
+- - 5
+  - 0.039
+- - 6
+  - 0.005
+- - 7
+  - 0.005
+- - 8
+  - 0.005
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- se
+- ge
+- lu
+- "\xE8"
+- "\u025B"
+- "y\u025B"
+- "\u0259b"
+- "n\xE8"
+- "n\u025B"
+- ghene
+- "m\u025B"
+- "\u0259"
+- "w\u025B"
+- "gh\u025Bn"
+- wen
+- "\u025B\u0301"
+- ka
+- me
+- ghel
+- "n\u025B\u0300"
+- feyine
+- wel
+- ke
+top_n_grams:
+- - 2
+  - 0.187
+- - 3
+  - 0.347
+- - 4
+  - 0.166

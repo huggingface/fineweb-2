@@ -1,0 +1,45 @@
+dup_line_frac: 0.515
+dup_n_grams:
+- - 5
+  - 0.422
+- - 6
+  - 0.403
+- - 7
+  - 0.398
+- - 8
+  - 0.41
+- - 9
+  - 0.405
+- - 10
+  - 0.373
+line_punct_thr: 0.083
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.643
+min_avg_word_length: 2
+new_line_ratio: 0.431
+stopwords:
+- ke
+- he
+- "s\u1E73"
+- "ng\xECn"
+- koet
+- "l\xEE"
+- thi
+- yit
+- "kh\xEE"
+- "ch\xFBng"
+- phu
+- "v\xF9n"
+- "khi\xE9u"
+- "ngi\xE8n"
+- thai
+- kau
+- "li\u030Dt"
+- "ng\xEE"
+top_n_grams:
+- - 2
+  - 0.464
+- - 3
+  - 0.619
+- - 4
+  - 0.65

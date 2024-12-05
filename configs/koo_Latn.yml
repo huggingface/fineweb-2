@@ -1,0 +1,36 @@
+dup_line_frac: 0.843
+dup_n_grams:
+- - 5
+  - 0.669
+- - 6
+  - 0.649
+- - 7
+  - 0.64
+- - 8
+  - 0.619
+- - 9
+  - 0.603
+- - 10
+  - 0.591
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- omwa
+- okwa
+- yehova
+- kandi
+- nyamuhanga
+- ngoku
+- ni
+- athi
+- yesu
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.29

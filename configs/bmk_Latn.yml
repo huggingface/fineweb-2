@@ -1,0 +1,46 @@
+dup_line_frac: 0.993
+dup_n_grams:
+- - 5
+  - 0.868
+- - 6
+  - 0.851
+- - 7
+  - 0.851
+- - 8
+  - 0.846
+- - 9
+  - 0.845
+- - 10
+  - 0.842
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ma
+- ina
+- da
+- na
+- yesu
+- ivi
+- rava
+- iya
+- ku
+- touna
+- bade
+- ivavo
+- meimeituwa
+- sago
+- ita
+- bo
+- nuke
+- asi
+- kubina
+top_n_grams:
+- - 2
+  - 1.797
+- - 3
+  - 2.726
+- - 4
+  - 3.667

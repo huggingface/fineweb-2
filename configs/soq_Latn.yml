@@ -1,0 +1,50 @@
+dup_line_frac: 0.759
+dup_n_grams:
+- - 5
+  - 0.615
+- - 6
+  - 0.632
+- - 7
+  - 0.583
+- - 8
+  - 0.597
+- - 9
+  - 0.571
+- - 10
+  - 0.556
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- me
+- ita
+- e
+- ne
+- mai
+- god
+- mo
+- tane
+- bedewe
+- apana
+- sa
+- do
+- baiwa
+- ipa
+- ema
+- 'no'
+- mampe
+- dia
+- iesu
+- rua
+- uduudu
+- mida
+- apanawa
+top_n_grams:
+- - 2
+  - 0.722
+- - 3
+  - 0.943
+- - 4
+  - 1.195

@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.055
+- - 6
+  - 0.041
+- - 7
+  - 0.03
+- - 8
+  - 0.02
+- - 9
+  - 0.014
+- - 10
+  - 0.009
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- "n\xED"
+- ki
+- u
+- "k\xED"
+- bi
+- yii
+- ni
+- "b\xED"
+- "s\xE1"
+- "n\xEC"
+- "unimb\u0254ti"
+- m
+- ti
+- pu
+- puee
+- kaa
+- "n\xECn"
+- an
+- "n\xEDn"
+- di
+- yeesu
+- "d\xE0\xE1"
+- yaa
+- un
+- "n\u012Bn"
+top_n_grams:
+- - 2
+  - 0.043
+- - 3
+  - 0.068
+- - 4
+  - 0.086

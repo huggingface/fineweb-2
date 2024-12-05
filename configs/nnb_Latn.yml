@@ -1,0 +1,39 @@
+dup_line_frac: 0.843
+dup_n_grams:
+- - 5
+  - 0.614
+- - 6
+  - 0.607
+- - 7
+  - 0.579
+- - 8
+  - 0.569
+- - 9
+  - 0.552
+- - 10
+  - 0.544
+line_punct_thr: -1
+max_avg_word_length: 26
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.167
+stopwords:
+- omo
+- oko
+- neryo
+- kandi
+- busana
+- ati
+- na
+- kusangwa
+- "n\u0129kwa"
+- nyamuhanga
+- mukulu
+- yesu
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.19
+- - 4
+  - 1.611

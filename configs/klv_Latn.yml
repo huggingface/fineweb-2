@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.085
+- - 6
+  - 0.071
+- - 7
+  - 0.06
+- - 8
+  - 0.044
+- - 9
+  - 0.028
+- - 10
+  - 0.016
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "h\u01DDn"
+- len
+- mai
+- ke
+- gail
+- ale
+- agot
+- a
+- husur
+- "n\u01DDvanuan"
+- "n\u01DDbo\u014B"
+- an
+- be
+- ayesu
+- "p\u0303isi"
+- ginau
+top_n_grams:
+- - 2
+  - 0.176
+- - 3
+  - 0.19
+- - 4
+  - 0.226

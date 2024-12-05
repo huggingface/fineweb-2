@@ -1,0 +1,49 @@
+dup_line_frac: 0.495
+dup_n_grams:
+- - 5
+  - 0.127
+- - 6
+  - 0.121
+- - 7
+  - 0.104
+- - 8
+  - 0.104
+- - 9
+  - 0.101
+- - 10
+  - 0.095
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.874
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- "m\xE1"
+- a
+- i
+- "\xE1i"
+- di
+- ngo
+- suri
+- "\xE1"
+- ngorer
+- gam
+- "k\xE1l\xE1u"
+- na
+- iau
+- tan
+- lu
+- er
+- "s\xE1r"
+- mai
+- "m\xE1i"
+- uri
+- parai
+- sang
+top_n_grams:
+- - 2
+  - 0.188
+- - 3
+  - 0.161
+- - 4
+  - 0.206

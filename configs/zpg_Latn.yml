@@ -1,0 +1,52 @@
+dup_line_frac: 0.968
+dup_n_grams:
+- - 5
+  - 0.874
+- - 6
+  - 0.874
+- - 7
+  - 0.843
+- - 8
+  - 0.794
+- - 9
+  - 0.813
+- - 10
+  - 0.874
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ni
+- 'no'
+- noo
+- dios
+- yahc
+- yame
+- "me\xF1y"
+- lo
+- nehx
+- to
+- "l\xE1"
+- ru
+- lehty
+- "b\xEAy"
+- "jehov\xE1"
+- "xd\xEEdz"
+- de
+- guidzyliee
+- "l\xEAme"
+- gyre
+- bia
+- nuu
+- ba
+- "jes\xFAs"
+- "l\xEA\xFC"
+top_n_grams:
+- - 2
+  - 1.845
+- - 3
+  - 2.722
+- - 4
+  - 3.534

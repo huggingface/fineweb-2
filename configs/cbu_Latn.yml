@@ -1,0 +1,44 @@
+dup_line_frac: 0.778
+dup_n_grams:
+- - 5
+  - 0.629
+- - 6
+  - 0.604
+- - 7
+  - 0.591
+- - 8
+  - 0.579
+- - 9
+  - 0.564
+- - 10
+  - 0.565
+line_punct_thr: -1
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.692
+min_avg_word_length: 7
+new_line_ratio: 0.083
+stopwords:
+- apanll
+- itaru
+- tputs
+- "\xBF"
+- nda
+- "t\xE1rangiya"
+- kuk
+- anoo
+- nuwaa
+- apanllee
+- ashiri
+- siyaa
+- isusoo
+- isus
+- watam
+- nuw
+- mang
+top_n_grams:
+- - 2
+  - 0.588
+- - 3
+  - 0.728
+- - 4
+  - 0.657

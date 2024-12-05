@@ -1,0 +1,50 @@
+dup_line_frac: 0.912
+dup_n_grams:
+- - 5
+  - 0.752
+- - 6
+  - 0.718
+- - 7
+  - 0.707
+- - 8
+  - 0.613
+- - 9
+  - 0.585
+- - 10
+  - 0.565
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- go
+- para
+- goa
+- kone
+- agaa
+- aa
+- gote
+- na
+- gore
+- rabu
+- pua
+- epe
+- madaa
+- page
+- pare
+- ora
+- nipuna
+- nipu
+- me
+- su
+- neme
+- onaa
+- rupa
+top_n_grams:
+- - 2
+  - 0.667
+- - 3
+  - 1.0
+- - 4
+  - 0.777

@@ -1,0 +1,43 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.4
+- - 6
+  - 0.396
+- - 7
+  - 0.392
+- - 8
+  - 0.386
+- - 9
+  - 0.383
+- - 10
+  - 0.377
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.561
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- na
+- ka
+- benne
+- da
+- dios
+- bi
+- che
+- "\u1E3Bo"
+- dan
+- kan
+- "\u1E3Be'e"
+- "\u1E3Be"
+- to
+- gan
+- nich
+- jesusen
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.136
+- - 4
+  - 0.141

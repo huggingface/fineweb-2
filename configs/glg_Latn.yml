@@ -1,0 +1,42 @@
+dup_line_frac: 0.825
+dup_n_grams:
+- - 5
+  - 0.34
+- - 6
+  - 0.314
+- - 7
+  - 0.293
+- - 8
+  - 0.272
+- - 9
+  - 0.253
+- - 10
+  - 0.229
+line_punct_thr: 0.2
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 1
+new_line_ratio: 0.242
+stopwords:
+- de
+- a
+- e
+- o
+- en
+- que
+- do
+- da
+- un
+- 'no'
+- os
+- na
+- "\xE9"
+- unha
+- como
+top_n_grams:
+- - 2
+  - 0.447
+- - 3
+  - 0.305
+- - 4
+  - 0.329

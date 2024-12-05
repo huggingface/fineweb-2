@@ -1,0 +1,47 @@
+dup_line_frac: 0.018
+dup_n_grams:
+- - 5
+  - 0.096
+- - 6
+  - 0.039
+- - 7
+  - 0.023
+- - 8
+  - 0.002
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- tlen
+- uan
+- amo
+- ma
+- itech
+- "jehov\xE1"
+- ken
+- ijkuak
+- se
+- kuali
+- uelis
+- dios
+- non
+- ijkon
+- noijki
+- akinmej
+- totajtsin
+- "\xBF"
+- tla
+- "jes\xFAs"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

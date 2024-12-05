@@ -1,0 +1,60 @@
+dup_line_frac: 0.875
+dup_n_grams:
+- - 5
+  - 0.631
+- - 6
+  - 0.628
+- - 7
+  - 0.621
+- - 8
+  - 0.616
+- - 9
+  - 0.611
+- - 10
+  - 0.612
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- do
+- kinoringan
+- it
+- sid
+- di
+- i
+- om
+- tokou
+- kitab
+- 'no'
+- ko
+- dot
+- dit
+- varo
+- ong
+- boros
+- dau
+- ulun
+- amu
+- kanangan
+- diti
+- kuran
+- panarangan
+- tu
+- yehovah
+- ka
+- nunu
+- yesus
+- minatai
+- antad
+- pomogunan
+- kadapat
+- pongoduatan
+top_n_grams:
+- - 2
+  - 0.957
+- - 3
+  - 1.344
+- - 4
+  - 1.731

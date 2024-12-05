@@ -1,0 +1,49 @@
+dup_line_frac: 0.556
+dup_n_grams:
+- - 5
+  - 0.658
+- - 6
+  - 0.654
+- - 7
+  - 0.659
+- - 8
+  - 0.659
+- - 9
+  - 0.654
+- - 10
+  - 0.652
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- e
+- le
+- ke
+- a
+- o
+- ki
+- ko
+- mo
+- na
+- i
+- ai
+- tou
+- ia
+- ti
+- se
+- seova
+- leia
+- loa
+- fai
+- "kole\u0101"
+- atua
+- kau
+top_n_grams:
+- - 2
+  - 1.539
+- - 3
+  - 2.415
+- - 4
+  - 3.288

@@ -1,0 +1,47 @@
+dup_line_frac: 0.765
+dup_n_grams:
+- - 5
+  - 0.676
+- - 6
+  - 0.678
+- - 7
+  - 0.66
+- - 8
+  - 0.65
+- - 9
+  - 0.641
+- - 10
+  - 0.64
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- a
+- nynh
+- tuh
+- kha
+- te
+- hae
+- oh
+- kya
+- paw
+- ka
+- e
+- thua
+- na
+- kae
+- ah
+- pachia
+- zah
+- khyh
+- ci
+- cih
+top_n_grams:
+- - 2
+  - 0.672
+- - 3
+  - 0.925
+- - 4
+  - 1.126

@@ -1,0 +1,48 @@
+dup_line_frac: 0.437
+dup_n_grams:
+- - 5
+  - 0.634
+- - 6
+  - 0.627
+- - 7
+  - 0.62
+- - 8
+  - 0.625
+- - 9
+  - 0.619
+- - 10
+  - 0.607
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.9
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ta
+- na
+- eto
+- ke
+- amo
+- embo
+- te
+- avo
+- god
+- ari
+- amita
+- degi
+- ainge
+- be
+- tapa
+- embomeni
+- iesu
+- nei
+- ere
+- ungo
+- avoeto
+top_n_grams:
+- - 2
+  - 0.683
+- - 3
+  - 1.0
+- - 4
+  - 1.438

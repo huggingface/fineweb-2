@@ -1,0 +1,45 @@
+dup_line_frac: 0.878
+dup_n_grams:
+- - 5
+  - 0.738
+- - 6
+  - 0.747
+- - 7
+  - 0.73
+- - 8
+  - 0.753
+- - 9
+  - 0.754
+- - 10
+  - 0.738
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- la
+- mbo
+- nda
+- ko
+- ya
+- inde
+- wa
+- nde
+- mungu
+- eoka
+- lia
+- iyo
+- yesu
+- ba
+- bato
+- kwa
+- to
+- "lim\u0254"
+top_n_grams:
+- - 2
+  - 1.544
+- - 3
+  - 2.344
+- - 4
+  - 3.134

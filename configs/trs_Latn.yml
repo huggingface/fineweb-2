@@ -1,0 +1,50 @@
+dup_line_frac: 0.469
+dup_n_grams:
+- - 5
+  - 0.36
+- - 6
+  - 0.354
+- - 7
+  - 0.341
+- - 8
+  - 0.357
+- - 9
+  - 0.355
+- - 10
+  - 0.345
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- nej
+- "ni\u0331"
+- "s\xF4"
+- "ma\u0331'an"
+- si
+- suj
+- "ri\xF1an"
+- "ruhu\xE2"
+- huin
+- "s\xED"
+- sij
+- sa
+- an
+- "\xF1a'anj"
+- "d\xE2nj"
+- "gui\xEC"
+- dadin
+- "ng\xE0"
+- ninj
+- "hu\xEA"
+- gi'hiaj
+- "ngo\u0331"
+- "jes\xFAs"
+top_n_grams:
+- - 2
+  - 0.22
+- - 3
+  - 0.235
+- - 4
+  - 0.247

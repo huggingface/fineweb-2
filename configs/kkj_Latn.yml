@@ -1,0 +1,50 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.369
+- - 6
+  - 0.369
+- - 7
+  - 0.314
+- - 8
+  - 0.312
+- - 9
+  - 0.302
+- - 10
+  - 0.306
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.841
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- "k\u025B"
+- yi
+- te
+- nde
+- "n\u025B"
+- "k\xE1"
+- "ny\u025B"
+- mi
+- "n\xE1"
+- na
+- yo
+- "\u0253o"
+- "ny\xE1"
+- "\u025B"
+- "wun\u025B"
+- yasi
+- ta
+- "k\u025B\u0301"
+- "njambiy\u025B"
+- ma
+- nje
+- a
+- "\u0253e"
+top_n_grams:
+- - 2
+  - 0.117
+- - 3
+  - 0.221
+- - 4
+  - 0.239

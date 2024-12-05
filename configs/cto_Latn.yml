@@ -1,0 +1,43 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.515
+- - 6
+  - 0.476
+- - 7
+  - 0.454
+- - 8
+  - 0.415
+- - 9
+  - 0.411
+- - 10
+  - 0.396
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- "ak\u0289za"
+- daizeze
+- "\u1EBD"
+- "\u0289\u0303r\u0289"
+- "s\xE3w\u0169\xE3"
+- "\xBF"
+- yi
+- "bed\u02BCea"
+- "ma\u0289\u0303"
+- "k\u02BC\xE3r\u1EBDta"
+- iyi
+- "na\u0289\u0303"
+- jeowa
+- "maw\u0169\xE3"
+- "k\u02BC\xE3r\u1EBDa"
+- audre
+top_n_grams:
+- - 2
+  - 0.617
+- - 3
+  - 0.794
+- - 4
+  - 1.0

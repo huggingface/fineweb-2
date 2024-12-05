@@ -1,0 +1,46 @@
+dup_line_frac: 0.643
+dup_n_grams:
+- - 5
+  - 0.402
+- - 6
+  - 0.351
+- - 7
+  - 0.321
+- - 8
+  - 0.297
+- - 9
+  - 0.265
+- - 10
+  - 0.237
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- o
+- le
+- a
+- cho
+- mi
+- wa
+- "ni\u014B"
+- "y\u025B"
+- naa
+- "o\u030D"
+- "n\u0254"
+- nda
+- ma
+- wo
+- "\u014B"
+- maa
+- ni
+- mbo
+- te
+top_n_grams:
+- - 2
+  - 0.466
+- - 3
+  - 0.41
+- - 4
+  - 0.36

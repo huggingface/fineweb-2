@@ -1,0 +1,90 @@
+dup_line_frac: 0.871
+dup_n_grams:
+- - 5
+  - 0.695
+- - 6
+  - 0.667
+- - 7
+  - 0.671
+- - 8
+  - 0.617
+- - 9
+  - 0.659
+- - 10
+  - 0.649
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- da
+- "o\u0142"
+- biri
+- ki
+- "mie\u0144"
+- menim
+- bir
+- kyz
+- bar
+- "ma\u0142ym"
+- "sie\u0144"
+- "uw\u0142um"
+- men
+- bahyma
+- sieni
+- puncz
+- iczmia
+- "bo\u0142sun"
+- mienim
+- talala
+- nar
+- "bo\u0142ur"
+- "tirligimi\u017A"
+- "jy\u0142ar\u0142ar"
+- siuwiar
+- kiel
+- kujaszymyz
+- jarych
+- "juk\u0142a"
+- iczilir
+- barhyn
+- "bag\u0142ama"
+- "tuju\u0142ad\u0142ar"
+- karaj
+- bu
+- elimde
+- ben
+- czalsam
+- dispal
+- "kajhy\u0142arda"
+- saja
+- hiem
+- irach
+- "jo\u0142dan"
+- hanuz
+- jelir
+- aj
+- vaj
+- "\xF6z\xFCni\u014B"
+- de
+- basz
+- nie
+- jarem
+- tioziam
+- die
+- "\xEBrksi\u017A"
+- siuwiarim
+- sewilir
+- nieczik
+- sorat
+- mo
+- kart
+- janhy
+top_n_grams:
+- - 2
+  - 0.888
+- - 3
+  - 1.263
+- - 4
+  - 1.792

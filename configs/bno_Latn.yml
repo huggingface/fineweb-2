@@ -1,0 +1,43 @@
+dup_line_frac: 0.766
+dup_n_grams:
+- - 5
+  - 0.581
+- - 6
+  - 0.549
+- - 7
+  - 0.563
+- - 8
+  - 0.546
+- - 9
+  - 0.549
+- - 10
+  - 0.549
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- sa
+- it
+- nak
+- kag
+- ay
+- ag
+- mga
+- ako
+- ida
+- o
+- dios
+- inro
+- sida
+- ra
+- inra
+- dahil
+top_n_grams:
+- - 2
+  - 0.674
+- - 3
+  - 1.078
+- - 4
+  - 1.469

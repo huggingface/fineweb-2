@@ -1,0 +1,51 @@
+dup_line_frac: 0.95
+dup_n_grams:
+- - 5
+  - 0.778
+- - 6
+  - 0.772
+- - 7
+  - 0.751
+- - 8
+  - 0.772
+- - 9
+  - 0.772
+- - 10
+  - 0.751
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.722
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- ma
+- re
+- o
+- gena
+- ge
+- ngowa'a
+- toma
+- "ad\u0331i"
+- ai
+- ra
+- unanga
+- ga'a
+- ngoi
+- i'a
+- ananga
+- ngini
+- i
+- madutu
+- ua
+- jou'ongu
+- ni
+- a
+- yesus
+- sababu
+top_n_grams:
+- - 2
+  - 1.054
+- - 3
+  - 1.894
+- - 4
+  - 2.185

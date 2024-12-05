@@ -1,0 +1,46 @@
+dup_line_frac: 0.438
+dup_n_grams:
+- - 5
+  - 0.458
+- - 6
+  - 0.407
+- - 7
+  - 0.389
+- - 8
+  - 0.383
+- - 9
+  - 0.366
+- - 10
+  - 0.34
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.644
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- le
+- len
+- dios
+- ca
+- "na\uA78C"
+- ni
+- lu
+- "b\xF6nni\uA78C"
+- ga
+- "l\xEB"
+- nac
+- "bun\xE1ch"
+- cutu
+- na
+- nu
+- qui
+- "b\xF6nni"
+- "jes\xFAs"
+- "que\xEB\uA78C"
+top_n_grams:
+- - 2
+  - 0.412
+- - 3
+  - 0.468
+- - 4
+  - 0.627

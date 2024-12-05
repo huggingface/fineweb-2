@@ -1,0 +1,39 @@
+dup_line_frac: 0.867
+dup_n_grams:
+- - 5
+  - 0.615
+- - 6
+  - 0.738
+- - 7
+  - 0.631
+- - 8
+  - 0.738
+- - 9
+  - 0.553
+- - 10
+  - 0.615
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.807
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- mee
+- a
+- gumasi
+- rako
+- iti
+- ana
+- "mb\u0268\u014Bgeeghi"
+- bar
+- gee
+- "n\u0268\u0268"
+- kamagh
+- "kh\u0268\u0268"
+top_n_grams:
+- - 2
+  - 0.918
+- - 3
+  - 1.033
+- - 4
+  - 1.623

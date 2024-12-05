@@ -1,0 +1,50 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.373
+- - 6
+  - 0.376
+- - 7
+  - 0.323
+- - 8
+  - 0.332
+- - 9
+  - 0.319
+- - 10
+  - 0.313
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.797
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- ka
+- ni
+- n
+- daa
+- u
+- ba
+- ti
+- la
+- maa
+- ya
+- di
+- naawunni
+- "\u014B\u2184n"
+- m
+- na
+- nin
+- zaa
+- "ny\u025B"
+- zugu
+- yi
+- "ky\u025B"
+- "b\u025B"
+- ban
+top_n_grams:
+- - 2
+  - 0.122
+- - 3
+  - 0.226
+- - 4
+  - 0.243

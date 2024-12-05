@@ -1,0 +1,48 @@
+dup_line_frac: 0.875
+dup_n_grams:
+- - 5
+  - 0.759
+- - 6
+  - 0.758
+- - 7
+  - 0.754
+- - 8
+  - 0.733
+- - 9
+  - 0.742
+- - 10
+  - 0.733
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- nog
+- og
+- sog
+- non
+- bu
+- dia
+- ion
+- "kitu\uA78C"
+- nilan
+- koyon
+- "po\uA78C"
+- niu
+- ilan
+- mikpongon
+- ni
+- na
+- u
+- dadi
+- si
+- amu
+- dun
+top_n_grams:
+- - 2
+  - 1.378
+- - 3
+  - 1.987
+- - 4
+  - 2.575

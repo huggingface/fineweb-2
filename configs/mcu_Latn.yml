@@ -1,0 +1,43 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.346
+- - 6
+  - 0.341
+- - 7
+  - 0.281
+- - 8
+  - 0.277
+- - 9
+  - 0.268
+- - 10
+  - 0.271
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- "b\u0254\u0300"
+- "b\u0254\u0301"
+- "n\xE9"
+- "ne\u0301"
+- ye
+- "m\xE9"
+- "me\u0301"
+- nde
+- te
+- "nd\u0254"
+- a
+- "b\xED"
+- "bi\u0301"
+- "\xE0"
+- "a\u0300"
+- "s\xE2"
+top_n_grams:
+- - 2
+  - 0.077
+- - 3
+  - 0.099
+- - 4
+  - 0.118

@@ -1,0 +1,40 @@
+dup_line_frac: 0.911
+dup_n_grams:
+- - 5
+  - 0.69
+- - 6
+  - 0.683
+- - 7
+  - 0.669
+- - 8
+  - 0.657
+- - 9
+  - 0.641
+- - 10
+  - 0.64
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- na
+- wa
+- mulungu
+- wanhu
+- kwa
+- yesu
+- ya
+- kamba
+- munhu
+- mbuli
+- lakini
+- kwavija
+- avo
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.324
+- - 4
+  - 1.838

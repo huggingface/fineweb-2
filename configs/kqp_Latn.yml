@@ -1,0 +1,46 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.362
+- - 6
+  - 0.359
+- - 7
+  - 0.306
+- - 8
+  - 0.305
+- - 9
+  - 0.294
+- - 10
+  - 0.297
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- a
+- na
+- hen
+- wo
+- men
+- "r\xE9"
+- bay
+- ka
+- ba
+- "na\u0272"
+- "\xF4bi"
+- "iy\xF4\u014B"
+- sa
+- bi
+- "a\u0272"
+- emen
+- to
+- menba
+- "\u0253i\u0272\xE9"
+top_n_grams:
+- - 2
+  - 0.118
+- - 3
+  - 0.221
+- - 4
+  - 0.239

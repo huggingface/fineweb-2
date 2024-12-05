@@ -1,0 +1,48 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.318
+- - 6
+  - 0.331
+- - 7
+  - 0.258
+- - 8
+  - 0.232
+- - 9
+  - 0.205
+- - 10
+  - 0.191
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- a
+- u
+- n
+- ka
+- "\u0257a"
+- "ta\u0331"
+- i
+- wa
+- ma
+- tsu
+- yi
+- "kashila\u0331"
+- kpam
+- "i\uA78Cya"
+- ili
+- le
+- nala
+- uza
+- ne
+- aza
+- ama
+top_n_grams:
+- - 2
+  - 0.124
+- - 3
+  - 0.164
+- - 4
+  - 0.189

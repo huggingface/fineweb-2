@@ -1,0 +1,41 @@
+dup_line_frac: 0.88
+dup_n_grams:
+- - 5
+  - 0.556
+- - 6
+  - 0.57
+- - 7
+  - 0.545
+- - 8
+  - 0.543
+- - 9
+  - 0.519
+- - 10
+  - 0.526
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.674
+min_avg_word_length: 5
+new_line_ratio: 0.067
+stopwords:
+- ca
+- so
+- quiyim
+- na
+- chaqai
+- da
+- ma
+- "\xF1i"
+- qam
+- se
+- "\u1EF9aatqajam"
+- "n\xE1'maq"
+- "c\xE1'maq"
+- qamiri
+top_n_grams:
+- - 2
+  - 0.561
+- - 3
+  - 0.71
+- - 4
+  - 0.923

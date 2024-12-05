@@ -1,0 +1,48 @@
+dup_line_frac: 0.833
+dup_n_grams:
+- - 5
+  - 0.76
+- - 6
+  - 0.766
+- - 7
+  - 0.77
+- - 8
+  - 0.633
+- - 9
+  - 0.658
+- - 10
+  - 0.678
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ree
+- reeman
+- "b\xE9n"
+- ni
+- loj
+- dios
+- ad
+- guial
+- din
+- guin
+- abi
+- "na\u0331j"
+- bejn
+- ma
+- chi
+- laaman
+- per
+- dxel
+- "l\xEBjt"
+- con
+- zi'c
+top_n_grams:
+- - 2
+  - 0.938
+- - 3
+  - 1.0
+- - 4
+  - 1.0

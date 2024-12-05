@@ -1,0 +1,50 @@
+dup_line_frac: 0.954
+dup_n_grams:
+- - 5
+  - 0.49
+- - 6
+  - 0.453
+- - 7
+  - 0.411
+- - 8
+  - 0.346
+- - 9
+  - 0.291
+- - 10
+  - 0.217
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ni
+- di
+- "al\u025B"
+- nwu
+- "kaf\u0254\u0254"
+- yaa
+- "w\u0254"
+- suoto
+- "kam\u025B"
+- nkpo
+- mmle
+- batii
+- ku
+- nii
+- "nw\u0254"
+- "n\u025B"
+- otii
+- "\u0254laa"
+- yesu
+- "n\u0254\u0254"
+- ye
+- ma
+- obe
+top_n_grams:
+- - 2
+  - 0.9
+- - 3
+  - 1.029
+- - 4
+  - 1.075

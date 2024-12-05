@@ -1,0 +1,39 @@
+dup_line_frac: 0.824
+dup_n_grams:
+- - 5
+  - 0.854
+- - 6
+  - 0.846
+- - 7
+  - 0.847
+- - 8
+  - 0.841
+- - 9
+  - 0.834
+- - 10
+  - 0.812
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- na
+- mu
+- co
+- ku
+- ya
+- njambi
+- kuli
+- wa
+- ngwendi
+- yehova
+- oloni
+- a
+top_n_grams:
+- - 2
+  - 1.749
+- - 3
+  - 2.608
+- - 4
+  - 3.438

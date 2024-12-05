@@ -1,0 +1,47 @@
+dup_line_frac: 0.104
+dup_n_grams:
+- - 5
+  - 0.097
+- - 6
+  - 0.033
+- - 7
+  - 0.026
+- - 8
+  - 0.023
+- - 9
+  - 0.014
+- - 10
+  - 0.014
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 5
+new_line_ratio: 0.062
+stopwords:
+- ante
+- "n\xEB"
+- "bot\xF6"
+- "t\xF6meng\xE4"
+- "w\xE6ngongu\xEF"
+- "ed\xE6"
+- inte
+- "\xEF\xF1\xF6m\xF6"
+- "m\xEFnit\xF6"
+- "ba\xEF"
+- ingante
+- "m\xF6n\xF6"
+- "ay\xE6\u0308"
+- "n\xE4ni"
+- "w\xE6\xE6t\xEB"
+- "n\xE4n\xF6"
+- itota
+- "t\xF6m\xEBn\xE4ni"
+- "bit\xF6"
+- "inc\xE6"
+top_n_grams:
+- - 2
+  - 0.237
+- - 3
+  - 0.13
+- - 4
+  - 0.159

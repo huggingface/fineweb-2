@@ -1,0 +1,36 @@
+dup_line_frac: 0.016
+dup_n_grams:
+- - 5
+  - 0.511
+- - 6
+  - 0.398
+- - 7
+  - 0.379
+- - 8
+  - 0.358
+- - 9
+  - 0.282
+- - 10
+  - 0.32
+line_punct_thr: -1
+max_avg_word_length: 22
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 7
+new_line_ratio: 0.1
+stopwords:
+- "ji\u0331ta"
+- variy
+- jiryatiy
+- ne
+- "ju\u0331denu"
+- jarye
+- "jes\xFAs"
+- "ti\u0331ta\u0331ju\u0331"
+- day
+top_n_grams:
+- - 2
+  - 0.606
+- - 3
+  - 0.813
+- - 4
+  - 0.939

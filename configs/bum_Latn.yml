@@ -1,0 +1,46 @@
+dup_line_frac: 0.571
+dup_n_grams:
+- - 5
+  - 0.451
+- - 6
+  - 0.451
+- - 7
+  - 0.382
+- - 8
+  - 0.364
+- - 9
+  - 0.358
+- - 10
+  - 0.352
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- a
+- be
+- na
+- nga
+- ya
+- ne
+- bo
+- e
+- bi
+- bia
+- ye
+- ve
+- ba
+- me
+- wo
+- nye
+- ma
+- "\xF4"
+- zambe
+top_n_grams:
+- - 2
+  - 0.526
+- - 3
+  - 0.69
+- - 4
+  - 0.793

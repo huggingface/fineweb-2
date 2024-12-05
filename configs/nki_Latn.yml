@@ -1,0 +1,48 @@
+dup_line_frac: 0.971
+dup_n_grams:
+- - 5
+  - 0.8
+- - 6
+  - 0.764
+- - 7
+  - 0.764
+- - 8
+  - 0.758
+- - 9
+  - 0.713
+- - 10
+  - 0.727
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- a
+- in
+- hi
+- ding
+- ka
+- ah
+- ua
+- tualeh
+- leh
+- na
+- uh
+- ahi
+- uhi
+- un
+- pasian
+- pen
+- hinanleh
+- kei
+- om
+- ahung
+- zong
+top_n_grams:
+- - 2
+  - 1.839
+- - 3
+  - 2.728
+- - 4
+  - 3.576

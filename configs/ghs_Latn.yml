@@ -1,0 +1,42 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.423
+- - 6
+  - 0.401
+- - 7
+  - 0.379
+- - 8
+  - 0.401
+- - 9
+  - 0.326
+- - 10
+  - 0.332
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.88
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- ma
+- abi
+- oi
+- oho
+- oke
+- noi
+- quba
+- nike
+- hiiremi
+- hee
+- hiireta
+- nokoi
+- noo
+- ana
+- oonita
+top_n_grams:
+- - 2
+  - 0.569
+- - 3
+  - 0.538
+- - 4
+  - 0.639

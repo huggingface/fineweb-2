@@ -1,0 +1,48 @@
+dup_line_frac: 0.862
+dup_n_grams:
+- - 5
+  - 0.581
+- - 6
+  - 0.58
+- - 7
+  - 0.58
+- - 8
+  - 0.581
+- - 9
+  - 0.581
+- - 10
+  - 0.58
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- "ka\u014B"
+- ga
+- a
+- nda
+- ka
+- ra
+- se
+- war
+- i
+- ma
+- nga
+- ay
+- tee
+- kul
+- nee
+- ir
+- irkoy
+- na
+- boro
+- woo
+- goo
+top_n_grams:
+- - 2
+  - 1.353
+- - 3
+  - 2.123
+- - 4
+  - 2.891

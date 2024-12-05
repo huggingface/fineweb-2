@@ -1,0 +1,51 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.387
+- - 6
+  - 0.386
+- - 7
+  - 0.342
+- - 8
+  - 0.336
+- - 9
+  - 0.333
+- - 10
+  - 0.322
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- u
+- na
+- mu
+- vyono
+- mulungu
+- ne
+- 'no'
+- ku
+- si
+- nha
+- mono
+- yo
+- i
+- wo
+- wono
+- yesu
+- ninga
+- wanhu
+- nayo
+- hamba
+- ho
+- we
+- wose
+- munhu
+top_n_grams:
+- - 2
+  - 0.136
+- - 3
+  - 0.163
+- - 4
+  - 0.254

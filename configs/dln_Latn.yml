@@ -1,0 +1,46 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.405
+- - 6
+  - 0.427
+- - 7
+  - 0.525
+- - 8
+  - 0.551
+- - 9
+  - 0.406
+- - 10
+  - 0.307
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- chu
+- an
+- chun
+- ti
+- ki
+- nih
+- ni
+- achang
+- tia
+- lalpa
+- hong
+- nin
+- achun
+- chang
+- hnianga
+- ta
+- om
+- ani
+top_n_grams:
+- - 2
+  - 0.466
+- - 3
+  - 0.425
+- - 4
+  - 0.47

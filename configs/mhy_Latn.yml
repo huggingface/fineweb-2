@@ -1,0 +1,49 @@
+dup_line_frac: 0.967
+dup_n_grams:
+- - 5
+  - 0.722
+- - 6
+  - 0.714
+- - 7
+  - 0.696
+- - 8
+  - 0.679
+- - 9
+  - 0.666
+- - 10
+  - 0.696
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- sa
+- yiru
+- ulun
+- ma
+- kawan
+- hanye
+- naun
+- hang
+- here
+- puang
+- nelang
+- alatalla
+- aku
+- daya
+- anri
+- yesus
+- teka
+- hi
+- haut
+- balalu
+- sagar
+- kude
+top_n_grams:
+- - 2
+  - 0.553
+- - 3
+  - 0.898
+- - 4
+  - 0.777

@@ -1,0 +1,42 @@
+dup_line_frac: 0.747
+dup_n_grams:
+- - 5
+  - 0.422
+- - 6
+  - 0.391
+- - 7
+  - 0.379
+- - 8
+  - 0.36
+- - 9
+  - 0.341
+- - 10
+  - 0.317
+line_punct_thr: 0.062
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 2
+new_line_ratio: 0.386
+stopwords:
+- la
+- l'
+- d'
+- "d\xE9"
+- et
+- de
+- les
+- est
+- "anna\xE9es"
+- en
+- "\xE0"
+- du
+- des
+- eune
+- le
+top_n_grams:
+- - 2
+  - 0.216
+- - 3
+  - 0.251
+- - 4
+  - 0.268

@@ -1,0 +1,44 @@
+dup_line_frac: 0.769
+dup_n_grams:
+- - 5
+  - 0.601
+- - 6
+  - 0.578
+- - 7
+  - 0.563
+- - 8
+  - 0.585
+- - 9
+  - 0.531
+- - 10
+  - 0.534
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.731
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- na
+- la
+- ba
+- da
+- i
+- ka
+- pa
+- hi
+- ma
+- "d\xE0ngu"
+- tau
+- nda
+- ja
+- "t\xE0ka"
+- nu
+- lai
+- nja
+top_n_grams:
+- - 2
+  - 0.737
+- - 3
+  - 1.081
+- - 4
+  - 1.125

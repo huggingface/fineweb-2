@@ -1,0 +1,43 @@
+dup_line_frac: 0.24
+dup_n_grams:
+- - 5
+  - 0.109
+- - 6
+  - 0.071
+- - 7
+  - 0.046
+- - 8
+  - 0.029
+- - 9
+  - 0.01
+- - 10
+  - 0.002
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.702
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- na
+- ma
+- ni
+- ai
+- do
+- bani
+- anjaha
+- sidea
+- si
+- halak
+- ia
+- nasiam
+- i
+- dob
+- hu
+- seng
+top_n_grams:
+- - 2
+  - 0.219
+- - 3
+  - 0.204
+- - 4
+  - 0.234

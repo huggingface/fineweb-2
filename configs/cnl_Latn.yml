@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.153
+- - 6
+  - 0.157
+- - 7
+  - 0.096
+- - 8
+  - 0.047
+- - 9
+  - 0.039
+- - 10
+  - 0.035
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 5
+new_line_ratio: 0.062
+stopwords:
+- "e\xB3"
+- "dsa\xB3"
+- "i\xB3"
+- "quie'\xB2\xB3"
+- "la\xB2\xB3"
+- dios
+- "jo\u0331\xB3"
+- "a\xB2\xB3jia'\xB3"
+- "j\xFAu\xB2"
+- "bi\xB2\xB3"
+- "qui\xB2"
+- "jes\xFAs"
+- "quiee'\xB3\xB2"
+- "je\xB2"
+- "quia\u0331'\xB2"
+- "ca\xB2\xB3jua'\xB3"
+- "la'\xB3"
+top_n_grams:
+- - 2
+  - 0.189
+- - 3
+  - 0.168
+- - 4
+  - 0.205

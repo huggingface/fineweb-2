@@ -1,0 +1,44 @@
+dup_line_frac: 0.99
+dup_n_grams:
+- - 5
+  - 0.678
+- - 6
+  - 0.677
+- - 7
+  - 0.677
+- - 8
+  - 0.682
+- - 9
+  - 0.682
+- - 10
+  - 0.668
+line_punct_thr: 0.0
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 1
+new_line_ratio: 0.5
+stopwords:
+- al
+- "n\xF9mer"
+- dal
+- ed
+- la
+- a
+- l
+- in
+- e
+- da
+- d
+- "s\xE9col"
+- i
+- un
+- "\xE8"
+- an
+- di
+top_n_grams:
+- - 2
+  - 0.828
+- - 3
+  - 1.097
+- - 4
+  - 1.782

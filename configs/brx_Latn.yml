@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.0
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 6
+new_line_ratio: 0.125
+stopwords:
+- arw
+- mwnse
+- thakhai
+- dong
+- be
+- jayw
+- bithanga
+- unao
+- jai
+- gwbang
+- maithaiyao
+- eba
+- jadwngmwn
+- gaoni
+- bithangni
+- sase
+- mohorwi
+- gubun
+- gejerao
+- nathai
+- jerao
+- baidi
+- thanai
+top_n_grams:
+- - 2
+  - 0.165
+- - 3
+  - 0.089
+- - 4
+  - 0.093

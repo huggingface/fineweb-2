@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.045
+- - 6
+  - 0.022
+- - 7
+  - 0.021
+- - 8
+  - 0.02
+- - 9
+  - 0.022
+- - 10
+  - 0.024
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- "n\u025B"
+- "k\u0129"
+- "ki\u0303"
+- ye
+- "kam\u025B"
+- ade
+- "m\u0254"
+- baguma
+- "ak\u0169"
+- be
+- mi
+- "l\u025Bm\u025B"
+- ni
+- boe
+- bati
+- "ny\u025B"
+- a.
+- yesu
+- odi
+top_n_grams:
+- - 2
+  - 0.48
+- - 3
+  - 0.204
+- - 4
+  - 0.26

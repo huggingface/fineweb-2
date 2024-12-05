@@ -1,0 +1,42 @@
+dup_line_frac: 0.958
+dup_n_grams:
+- - 5
+  - 0.761
+- - 6
+  - 0.732
+- - 7
+  - 0.761
+- - 8
+  - 0.753
+- - 9
+  - 0.728
+- - 10
+  - 0.714
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- te
+- am
+- arop
+- maok
+- kar
+- fek
+- mek
+- "n\u0268n\u0268k"
+- kare
+- yumo
+- "t\xE1"
+- ono
+- mao
+- yak
+- kor
+top_n_grams:
+- - 2
+  - 0.54
+- - 3
+  - 0.925
+- - 4
+  - 1.057

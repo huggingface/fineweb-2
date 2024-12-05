@@ -1,0 +1,43 @@
+dup_line_frac: 0.697
+dup_n_grams:
+- - 5
+  - 0.741
+- - 6
+  - 0.748
+- - 7
+  - 0.731
+- - 8
+  - 0.693
+- - 9
+  - 0.724
+- - 10
+  - 0.693
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- zha
+- kuu
+- ne
+- re
+- lo
+- goo
+- lee
+- diox
+- tsa
+- "jes\xFAs"
+- tak
+- nak
+- thib
+- nzhab
+- men
+- chaan
+top_n_grams:
+- - 2
+  - 0.886
+- - 3
+  - 1.089
+- - 4
+  - 1.829

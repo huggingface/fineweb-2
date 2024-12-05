@@ -1,0 +1,53 @@
+dup_line_frac: 0.975
+dup_n_grams:
+- - 5
+  - 0.75
+- - 6
+  - 0.751
+- - 7
+  - 0.747
+- - 8
+  - 0.746
+- - 9
+  - 0.746
+- - 10
+  - 0.744
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- ne
+- vbe
+- gha
+- na
+- ya
+- "\u1ECD"
+- ima
+- "n\u1ECD"
+- iran
+- "\u1EB9re"
+- "w\u1EB9\u1EB9"
+- e
+- ma
+- emwi
+- ru
+- ghi
+- "mw\u1EB9"
+- "\u1ECDghe"
+- emwa
+- jehova
+- ye
+- keghi
+- ni
+- i
+- khian
+- rre
+top_n_grams:
+- - 2
+  - 0.48
+- - 3
+  - 0.714
+- - 4
+  - 0.823

@@ -1,0 +1,49 @@
+dup_line_frac: 0.958
+dup_n_grams:
+- - 5
+  - 0.695
+- - 6
+  - 0.707
+- - 7
+  - 0.675
+- - 8
+  - 0.691
+- - 9
+  - 0.675
+- - 10
+  - 0.643
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- a
+- o
+- ke
+- 'no'
+- na
+- roog
+- kaa
+- we
+- ta
+- fo
+- fee
+- too
+- ne
+- nu
+- wiin
+- den
+- xan
+- yexowa
+- i
+- yee
+- boo
+- fa
+top_n_grams:
+- - 2
+  - 0.54
+- - 3
+  - 0.926
+- - 4
+  - 1.331

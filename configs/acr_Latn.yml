@@ -1,0 +1,43 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.379
+- - 6
+  - 0.376
+- - 7
+  - 0.372
+- - 8
+  - 0.369
+- - 9
+  - 0.366
+- - 10
+  - 0.363
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- ri
+- i
+- che
+- e
+- na
+- y
+- dios
+- chi
+- re
+- u
+- ta
+- wa
+- pa
+- ma
+- jun
+- yey
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.112
+- - 4
+  - 0.132

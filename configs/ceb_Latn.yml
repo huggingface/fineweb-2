@@ -1,0 +1,44 @@
+dup_line_frac: 0.13
+dup_n_grams:
+- - 5
+  - 0.098
+- - 6
+  - 0.081
+- - 7
+  - 0.06
+- - 8
+  - 0.046
+- - 9
+  - 0.039
+- - 10
+  - 0.035
+line_punct_thr: 0.125
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.222
+stopwords:
+- sa
+- ang
+- nga
+- mga
+- ug
+- ni
+- c
+- "\xB0"
+- niini
+- palibot
+- nasod
+- km
+- milimetro
+- gi
+- basihan
+- kasarangang
+- bulan
+top_n_grams:
+- - 2
+  - 0.357
+- - 3
+  - 0.459
+- - 4
+  - 0.552

@@ -1,0 +1,51 @@
+dup_line_frac: 0.518
+dup_n_grams:
+- - 5
+  - 0.56
+- - 6
+  - 0.538
+- - 7
+  - 0.508
+- - 8
+  - 0.463
+- - 9
+  - 0.413
+- - 10
+  - 0.372
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- e
+- y
+- que
+- tama
+- era
+- tua
+- war
+- xe
+- tunor
+- dios
+- lo
+- che
+- inte
+- taca
+- tamar
+- cay
+- cocha
+- ayan
+- conda
+- pero
+- "jes\xFAs"
+- machi
+- tin
+- "tua\uA78C"
+top_n_grams:
+- - 2
+  - 0.438
+- - 3
+  - 0.5
+- - 4
+  - 0.664

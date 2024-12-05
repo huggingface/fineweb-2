@@ -1,0 +1,38 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.109
+- - 6
+  - 0.045
+- - 7
+  - 0.036
+- - 8
+  - 0.033
+- - 9
+  - 0.025
+- - 10
+  - 0.018
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- "c\u0289\u0303"
+- "niw\u0129"
+- tojo
+- "ni\xEE"
+- na
+- "toh\xF4"
+- "ni\xEEw\u0129"
+- "k\u0268\u0303\u0268\u0302"
+- "\xF5'ac\u0289\u0303"
+- "m\u0289s\xE3"
+- "niw\xE3"
+top_n_grams:
+- - 2
+  - 0.091
+- - 3
+  - 0.123
+- - 4
+  - 0.146

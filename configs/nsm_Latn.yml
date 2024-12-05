@@ -1,0 +1,38 @@
+dup_line_frac: 0.714
+dup_n_grams:
+- - 5
+  - 0.595
+- - 6
+  - 0.607
+- - 7
+  - 0.589
+- - 8
+  - 0.564
+- - 9
+  - 0.548
+- - 10
+  - 0.536
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- eno
+- 'no'
+- pa
+- nani
+- lono
+- pano
+- ampeu
+- ino
+- nongu
+- alhou
+- timi
+top_n_grams:
+- - 2
+  - 0.444
+- - 3
+  - 0.626
+- - 4
+  - 0.745

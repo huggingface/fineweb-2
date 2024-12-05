@@ -1,0 +1,37 @@
+dup_line_frac: 0.571
+dup_n_grams:
+- - 5
+  - 0.347
+- - 6
+  - 0.321
+- - 7
+  - 0.302
+- - 8
+  - 0.298
+- - 9
+  - 0.271
+- - 10
+  - 0.237
+line_punct_thr: 0.0
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.849
+min_avg_word_length: 0
+new_line_ratio: 0.195
+stopwords:
+- ku
+- "n\xEB"
+- de
+- "\xEB"
+- ke
+- ye
+- ee
+- "k\u0254c"
+- "c\xEF"
+- yen
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 0.643
+- - 4
+  - 0.726

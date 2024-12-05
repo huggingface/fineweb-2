@@ -1,0 +1,41 @@
+dup_line_frac: 0.669
+dup_n_grams:
+- - 5
+  - 0.449
+- - 6
+  - 0.473
+- - 7
+  - 0.433
+- - 8
+  - 0.089
+- - 9
+  - 0.076
+- - 10
+  - 0.077
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.694
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- na
+- jon
+- juu
+- ndo
+- nn'an
+- yo
+- ntyja
+- nquii
+- "j\xF1'oon"
+- tyo'ts'on
+- nnon
+- "jnd\xEB"
+- vaa
+- naan
+top_n_grams:
+- - 2
+  - 0.22
+- - 3
+  - 0.316
+- - 4
+  - 0.407

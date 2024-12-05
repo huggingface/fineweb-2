@@ -1,0 +1,54 @@
+dup_line_frac: 0.548
+dup_n_grams:
+- - 5
+  - 0.42
+- - 6
+  - 0.409
+- - 7
+  - 0.392
+- - 8
+  - 0.373
+- - 9
+  - 0.359
+- - 10
+  - 0.364
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- ra
+- chha
+- thiyo
+- gare
+- pani
+- chhan
+- yo
+- laagi
+- san
+- ani
+- dherai
+- ho
+- ek
+- unle
+- ma
+- garna
+- thie
+- bhaeko
+- unko
+- rupma
+- tara
+- garne
+- ko
+- garieko
+- maa
+- prayog
+- aaphno
+top_n_grams:
+- - 2
+  - 0.316
+- - 3
+  - 0.347
+- - 4
+  - 0.365

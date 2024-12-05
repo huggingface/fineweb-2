@@ -1,0 +1,51 @@
+dup_line_frac: 0.077
+dup_n_grams:
+- - 5
+  - 0.413
+- - 6
+  - 0.341
+- - 7
+  - 0.325
+- - 8
+  - 0.308
+- - 9
+  - 0.269
+- - 10
+  - 0.246
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "na\u014Bgi"
+- di
+- a
+- tamo
+- na
+- aqa
+- "ni\u014Bgi"
+- qotei
+- e
+- anjam
+- deqa
+- qaji
+- yesus
+- iga
+- qa
+- ti
+- "na\u014Bgo"
+- bei
+- bole
+- segi
+- ni
+- kumbra
+- koba
+- kalil
+top_n_grams:
+- - 2
+  - 0.268
+- - 3
+  - 0.339
+- - 4
+  - 0.329

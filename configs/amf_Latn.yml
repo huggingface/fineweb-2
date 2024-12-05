@@ -1,0 +1,84 @@
+dup_line_frac: 0.611
+dup_n_grams:
+- - 5
+  - 0.469
+- - 6
+  - 0.431
+- - 7
+  - 0.428
+- - 8
+  - 0.406
+- - 9
+  - 0.39
+- - 10
+  - 0.383
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.805
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- ki
+- ko
+- ke
+- kinin
+- hamade
+- hamayse
+- kiam
+- kina
+- kena
+- kenin
+- eedi
+- barjosa
+- yisa
+- yesus
+- barjo
+- inin
+- kisa
+- eena
+- konin
+- yenin
+- wul
+- inta
+- kinka
+- yena
+- yin
+- yer
+- woylamin
+- yinin
+- ida
+- ta
+- isa
+- yedi
+- ogo
+- dahade
+- koda
+- keam
+- wodanka
+- i
+- dahaannaar
+- kida
+- peen
+- imbaa
+- yesa
+- ea
+- barjodar
+- wonin
+- pir
+- harrna
+- iam
+- giyade
+- yeam
+- dohon
+- hambhidianna
+- hanna
+- kesa
+- ogonante
+- kalaa
+top_n_grams:
+- - 2
+  - 0.394
+- - 3
+  - 0.512
+- - 4
+  - 0.482

@@ -1,0 +1,48 @@
+dup_line_frac: 0.972
+dup_n_grams:
+- - 5
+  - 0.877
+- - 6
+  - 0.791
+- - 7
+  - 0.877
+- - 8
+  - 0.802
+- - 9
+  - 0.759
+- - 10
+  - 0.752
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.795
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- e
+- deli
+- baisa
+- matauna
+- paila
+- gala
+- wala
+- matausina
+- guyau
+- la
+- bogwa
+- yaubada
+- makawala
+- tuta
+- mitaga
+- avaka
+- kala
+- kidamwa
+- metoya
+- mina
+- goli
+top_n_grams:
+- - 2
+  - 1.852
+- - 3
+  - 2.747
+- - 4
+  - 3.585

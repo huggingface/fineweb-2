@@ -1,0 +1,35 @@
+dup_line_frac: 0.963
+dup_n_grams:
+- - 5
+  - 0.477
+- - 6
+  - 0.498
+- - 7
+  - 0.46
+- - 8
+  - 0.361
+- - 9
+  - 0.381
+- - 10
+  - 0.378
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 6
+new_line_ratio: 0.143
+stopwords:
+- tayta
+- mana
+- manami
+- chay
+- dios
+- chayno
+- "\xBF"
+- niran
+top_n_grams:
+- - 2
+  - 0.877
+- - 3
+  - 1.385
+- - 4
+  - 1.881

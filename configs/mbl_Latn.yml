@@ -1,0 +1,57 @@
+dup_line_frac: 0.831
+dup_n_grams:
+- - 5
+  - 0.512
+- - 6
+  - 0.502
+- - 7
+  - 0.502
+- - 8
+  - 0.493
+- - 9
+  - 0.45
+- - 10
+  - 0.472
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.634
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- tu
+- te
+- ha
+- topa
+- "y\xF5g"
+- xop
+- "y\xE3"
+- "tikm\u0169'\u0169n"
+- pu
+- "kax\u0129y"
+- "n\u0169y"
+- "h\xE3"
+- yeyox
+- "h\xE3m'\xE3ktux"
+- "n\xF5m"
+- xohix
+- "y\xE3y"
+- putup
+- hok
+- kuxa
+- xexka
+- pa
+- max
+- "ohn\xE3g"
+- "m\xF5g"
+- xix
+- "\xE3xop"
+- tup
+- "\xE3te"
+- hu
+top_n_grams:
+- - 2
+  - 0.641
+- - 3
+  - 0.966
+- - 4
+  - 1.255

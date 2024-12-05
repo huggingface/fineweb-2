@@ -1,0 +1,55 @@
+dup_line_frac: 0.278
+dup_n_grams:
+- - 5
+  - 0.57
+- - 6
+  - 0.56
+- - 7
+  - 0.545
+- - 8
+  - 0.549
+- - 9
+  - 0.547
+- - 10
+  - 0.558
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- ra
+- que
+- dios
+- je
+- mbia
+- "\u0268"
+- mose
+- "jes\xFAs"
+- nda
+- "\xF1ee"
+- "\u0169qu\u0268\u0303"
+- "tuch\u0268"
+- cote
+- ae
+- "ngui\xE3"
+- quia
+- mbae
+- "ch\xF5"
+- ngue
+- 'no'
+- abe
+- "tur\xE3"
+- "e\xE3"
+- ja
+- ee
+- re
+- "s\u0268"
+- "\u0268cu\xE3"
+top_n_grams:
+- - 2
+  - 0.682
+- - 3
+  - 0.818
+- - 4
+  - 0.818

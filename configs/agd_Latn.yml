@@ -1,0 +1,42 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.398
+- - 6
+  - 0.396
+- - 7
+  - 0.395
+- - 8
+  - 0.394
+- - 9
+  - 0.393
+- - 10
+  - 0.39
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.898
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ma
+- mai
+- ano
+- mino
+- "\xEDda"
+- banta
+- "v\xE1"
+- van
+- kayo
+- "m\xE1an"
+- mi
+- "m\xE1a"
+- ankan
+- nanin
+- "m\xE1"
+top_n_grams:
+- - 2
+  - 0.099
+- - 3
+  - 0.126
+- - 4
+  - 0.157

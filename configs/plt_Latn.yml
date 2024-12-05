@@ -1,0 +1,39 @@
+dup_line_frac: 0.328
+dup_n_grams:
+- - 5
+  - 0.111
+- - 6
+  - 0.089
+- - 7
+  - 0.071
+- - 8
+  - 0.067
+- - 9
+  - 0.058
+- - 10
+  - 0.043
+line_punct_thr: 0.0
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.367
+stopwords:
+- ny
+- dia
+- amin'ny
+- ao
+- ary
+- i
+- taona
+- "tan\xE0na"
+- kaominina
+- ara
+- koa
+- tamin'ny
+top_n_grams:
+- - 2
+  - 0.067
+- - 3
+  - 0.089
+- - 4
+  - 0.113

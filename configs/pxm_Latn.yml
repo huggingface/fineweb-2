@@ -1,0 +1,45 @@
+dup_line_frac: 0.591
+dup_n_grams:
+- - 5
+  - 0.347
+- - 6
+  - 0.313
+- - 7
+  - 0.355
+- - 8
+  - 0.278
+- - 9
+  - 0.313
+- - 10
+  - 0.347
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- ja
+- ets
+- "y\xEB"
+- "m\xEBti'ip\xEB"
+- ko
+- ma
+- ojts
+- "t\xEB"
+- jam
+- ka'ap
+- "j\xEBtu'un"
+- "\xEBn\xE4ty"
+- "y\xEB'\xEB"
+- tios
+- "m\xEB\xEBt"
+- "wints\xEBn"
+- ja'ay
+- "j\xE4'\xE4"
+top_n_grams:
+- - 2
+  - 0.541
+- - 3
+  - 0.758
+- - 4
+  - 0.892

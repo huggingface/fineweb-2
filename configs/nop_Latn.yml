@@ -1,0 +1,42 @@
+dup_line_frac: 0.975
+dup_n_grams:
+- - 5
+  - 0.797
+- - 6
+  - 0.803
+- - 7
+  - 0.78
+- - 8
+  - 0.774
+- - 9
+  - 0.803
+- - 10
+  - 0.767
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- adi
+- "ti\u014Ba"
+- u
+- "undu\u014B"
+- "ka\u014B"
+- mede
+- me
+- mu
+- "e\u014B"
+- hinek
+- "dokti\u014Ba"
+- "indi\u014B"
+- nu
+- metam
+- "folo\u014B"
+top_n_grams:
+- - 2
+  - 0.648
+- - 3
+  - 0.943
+- - 4
+  - 1.493

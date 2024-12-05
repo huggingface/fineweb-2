@@ -1,0 +1,50 @@
+dup_line_frac: 0.815
+dup_n_grams:
+- - 5
+  - 0.538
+- - 6
+  - 0.526
+- - 7
+  - 0.503
+- - 8
+  - 0.502
+- - 9
+  - 0.478
+- - 10
+  - 0.486
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 3
+new_line_ratio: 0.091
+stopwords:
+- u
+- a
+- i
+- sha
+- la
+- ve
+- "y\xF4"
+- se
+- lu
+- er
+- kwagh
+- ken
+- mba
+- ka
+- ne
+- ga
+- "\xE9r"
+- na
+- nahan
+- man
+- nan
+- kpa
+- yange
+top_n_grams:
+- - 2
+  - 0.647
+- - 3
+  - 0.796
+- - 4
+  - 1.0

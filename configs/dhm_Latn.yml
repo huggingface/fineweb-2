@@ -1,0 +1,41 @@
+dup_line_frac: 0.738
+dup_n_grams:
+- - 5
+  - 0.552
+- - 6
+  - 0.513
+- - 7
+  - 0.474
+- - 8
+  - 0.458
+- - 9
+  - 0.443
+- - 10
+  - 0.439
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- iya
+- mu
+- li
+- wa
+- ve
+- tyaa
+- ha
+- na
+- va
+- okutya
+- we
+- ka
+- jesus
+- mena
+top_n_grams:
+- - 2
+  - 0.333
+- - 3
+  - 0.698
+- - 4
+  - 0.493

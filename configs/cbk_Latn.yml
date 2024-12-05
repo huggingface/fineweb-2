@@ -1,0 +1,42 @@
+dup_line_frac: 0.555
+dup_n_grams:
+- - 5
+  - 0.413
+- - 6
+  - 0.403
+- - 7
+  - 0.379
+- - 8
+  - 0.361
+- - 9
+  - 0.351
+- - 10
+  - 0.338
+line_punct_thr: 0.064
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 3
+new_line_ratio: 0.456
+stopwords:
+- de
+- el
+- del
+- y
+- na
+- maga
+- este
+- tiene
+- la
+- en
+- los
+- es
+- un
+- con
+- provincia
+top_n_grams:
+- - 2
+  - 0.26
+- - 3
+  - 0.329
+- - 4
+  - 0.366

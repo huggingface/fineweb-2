@@ -1,0 +1,43 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.373
+- - 6
+  - 0.362
+- - 7
+  - 0.299
+- - 8
+  - 0.286
+- - 9
+  - 0.285
+- - 10
+  - 0.275
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.794
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- in
+- uan
+- tlen
+- amo
+- ica
+- itich
+- naquin
+- dios
+- ohcon
+- non
+- yeh
+- ihcuac
+- se
+- "jes\xFAs"
+- nic
+- nochi
+top_n_grams:
+- - 2
+  - 0.375
+- - 3
+  - 0.354
+- - 4
+  - 0.313

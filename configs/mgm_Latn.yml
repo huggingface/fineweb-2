@@ -1,0 +1,56 @@
+dup_line_frac: 0.979
+dup_n_grams:
+- - 5
+  - 0.78
+- - 6
+  - 0.778
+- - 7
+  - 0.783
+- - 8
+  - 0.784
+- - 9
+  - 0.783
+- - 10
+  - 0.773
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.798
+min_avg_word_length: 3
+new_line_ratio: 0.167
+stopwords:
+- la
+- ni
+- it
+- au
+- pe
+- maromak
+- hi
+- nor
+- ua
+- sapa
+- pun
+- ura
+- id
+- "b\xEDblia"
+- dlo
+- ba
+- ka
+- mori
+- seir
+- o
+- bel
+- atub
+- her
+- ma
+- tan
+- leb
+- karak
+- ro
+- kida
+top_n_grams:
+- - 2
+  - 0.547
+- - 3
+  - 1.0
+- - 4
+  - 1.0

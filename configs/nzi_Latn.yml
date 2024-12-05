@@ -1,0 +1,47 @@
+dup_line_frac: 0.75
+dup_n_grams:
+- - 5
+  - 0.55
+- - 6
+  - 0.53
+- - 7
+  - 0.502
+- - 8
+  - 0.468
+- - 9
+  - 0.448
+- - 10
+  - 0.418
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- ne
+- "m\u0254\u0254"
+- la
+- "k\u025B"
+- "w\u0254"
+- a
+- ye
+- na
+- "b\u025B"
+- "y\u025B"
+- nu
+- nee
+- nwo
+- "m\u0254"
+- anu
+- "\u0254"
+- anwo
+- gyihova
+- bie
+- zo
+top_n_grams:
+- - 2
+  - 0.789
+- - 3
+  - 1.0
+- - 4
+  - 1.0

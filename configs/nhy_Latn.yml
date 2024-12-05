@@ -1,0 +1,47 @@
+dup_line_frac: 0.755
+dup_n_grams:
+- - 5
+  - 0.634
+- - 6
+  - 0.611
+- - 7
+  - 0.587
+- - 8
+  - 0.561
+- - 9
+  - 0.537
+- - 10
+  - 0.504
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- iwan
+- in
+- katlej
+- de
+- mach
+- dios
+- ma
+- tlan
+- se
+- para
+- itech
+- porke
+- amo
+- kuale
+- ika
+- nijkuak
+- "jes\xFAs"
+- "ijk\xF3n"
+- pero
+- yen
+top_n_grams:
+- - 2
+  - 0.442
+- - 3
+  - 0.571
+- - 4
+  - 0.77

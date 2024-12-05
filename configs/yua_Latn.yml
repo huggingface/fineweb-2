@@ -1,0 +1,43 @@
+dup_line_frac: 0.636
+dup_n_grams:
+- - 5
+  - 0.447
+- - 6
+  - 0.459
+- - 7
+  - 0.424
+- - 8
+  - 0.358
+- - 9
+  - 0.376
+- - 10
+  - 0.386
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- u
+- le
+- tu
+- ku
+- "y\xE9etel"
+- "ti\u02BC"
+- k
+- "ba\u02BCax"
+- "ma\u02BC"
+- ka
+- a
+- yaan
+- wa
+- "utia\u02BCal"
+- tumen
+- in
+top_n_grams:
+- - 2
+  - 0.548
+- - 3
+  - 0.7
+- - 4
+  - 0.821

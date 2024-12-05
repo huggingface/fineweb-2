@@ -1,0 +1,45 @@
+dup_line_frac: 0.99
+dup_n_grams:
+- - 5
+  - 0.8
+- - 6
+  - 0.797
+- - 7
+  - 0.797
+- - 8
+  - 0.801
+- - 9
+  - 0.805
+- - 10
+  - 0.785
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ko
+- nga
+- nir
+- renge
+- jinibb
+- tevi
+- kami
+- se
+- sete
+- atua
+- suri
+- ni
+- ngok
+- san
+- kele
+- ne
+- nanu
+- re
+top_n_grams:
+- - 2
+  - 0.689
+- - 3
+  - 0.94
+- - 4
+  - 1.3

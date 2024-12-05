@@ -1,0 +1,46 @@
+dup_line_frac: 0.62
+dup_n_grams:
+- - 5
+  - 0.388
+- - 6
+  - 0.364
+- - 7
+  - 0.339
+- - 8
+  - 0.317
+- - 9
+  - 0.307
+- - 10
+  - 0.293
+line_punct_thr: 0.0
+max_avg_word_length: 23
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 1
+stopwords:
+- hem
+- bir
+- da
+- dili
+- "t\xFCrkiye"
+- bu
+- gagauz
+- o
+- kasabalar
+- "t\xFCrk"
+- bak
+- listasi
+- "b\xFC\xFCk"
+- laf
+- "d\u0131\u015F"
+- "baalant\u0131lar"
+- "i\xE7in"
+- ay
+- ve
+top_n_grams:
+- - 2
+  - 0.384
+- - 3
+  - 0.374
+- - 4
+  - 0.342

@@ -1,0 +1,43 @@
+dup_line_frac: 0.594
+dup_n_grams:
+- - 5
+  - 0.471
+- - 6
+  - 0.441
+- - 7
+  - 0.441
+- - 8
+  - 0.421
+- - 9
+  - 0.403
+- - 10
+  - 0.392
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- "t\xE4"
+- wet
+- "h\xE4p"
+- chik
+- lhamel
+- "lh\xE4y'e"
+- ihi
+- dios
+- m'ak
+- wichi
+- t'at
+- mat
+- yok
+- elh
+- lhawuk
+- "h\xE4pe"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.65
+- - 4
+  - 0.85

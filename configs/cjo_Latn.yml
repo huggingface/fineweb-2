@@ -1,0 +1,48 @@
+dup_line_frac: 0.635
+dup_n_grams:
+- - 5
+  - 0.856
+- - 6
+  - 0.862
+- - 7
+  - 0.843
+- - 8
+  - 0.853
+- - 9
+  - 0.836
+- - 10
+  - 0.829
+line_punct_thr: -1
+max_avg_word_length: 23
+max_non_alpha_words_ratio: 0.696
+min_avg_word_length: 8
+new_line_ratio: 0.1
+stopwords:
+- eejatzi
+- tajorentsi
+- riraga
+- maawaeni
+- tee
+- omaanta
+- eero
+- roojatzi
+- rootaki
+- jesoshi
+- kaari
+- tema
+- ari
+- janta
+- "iro\xF1aaka"
+- atziri
+- aririka
+- osheki
+- rirori
+- "\xBF"
+- iroka
+top_n_grams:
+- - 2
+  - 1.834
+- - 3
+  - 2.717
+- - 4
+  - 3.554

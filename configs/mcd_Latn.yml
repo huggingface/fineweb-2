@@ -1,0 +1,47 @@
+dup_line_frac: 0.92
+dup_n_grams:
+- - 5
+  - 0.536
+- - 6
+  - 0.502
+- - 7
+  - 0.509
+- - 8
+  - 0.505
+- - 9
+  - 0.434
+- - 10
+  - 0.453
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- un
+- man
+- ato
+- non
+- nan
+- ahuun
+- diosin
+- cuscan
+- mato
+- ishon
+- "jes\xFAs"
+- noco
+- ua
+- nocon
+- chaca
+- min
+- upa
+- icoinra
+- yoini
+- ascan
+top_n_grams:
+- - 2
+  - 0.8
+- - 3
+  - 1.0
+- - 4
+  - 1.118

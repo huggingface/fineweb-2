@@ -1,0 +1,47 @@
+dup_line_frac: 0.777
+dup_n_grams:
+- - 5
+  - 0.579
+- - 6
+  - 0.553
+- - 7
+  - 0.558
+- - 8
+  - 0.545
+- - 9
+  - 0.532
+- - 10
+  - 0.518
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- me
+- ni
+- ban
+- min
+- "al\xE1emit"
+- bi
+- yay
+- "\u1D7Dan"
+- bugan
+- bare
+- gagu
+- an
+- "y\xE9su"
+- "\xF1er"
+- "\u1D7De"
+- mamu
+- 'no'
+- bugagu
+- wo
+- o
+top_n_grams:
+- - 2
+  - 0.795
+- - 3
+  - 1.098
+- - 4
+  - 1.353

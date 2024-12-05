@@ -1,0 +1,41 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.032
+- - 6
+  - 0.018
+- - 7
+  - 0.011
+- - 8
+  - 0.005
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- ja
+- es
+- ko
+- "di'ib\u0289"
+- "ma\u0331"
+- "m\u0289t"
+- dios
+- kyaj
+- "t\u0289"
+- "y\u0289"
+- "d\u0289'\u0289n"
+- "jes\xFAs"
+- net
+- "di\uA78Cib\u0289"
+top_n_grams:
+- - 2
+  - 0.099
+- - 3
+  - 0.171
+- - 4
+  - 0.169

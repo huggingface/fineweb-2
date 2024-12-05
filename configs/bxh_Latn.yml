@@ -1,0 +1,44 @@
+dup_line_frac: 0.121
+dup_n_grams:
+- - 5
+  - 0.075
+- - 6
+  - 0.048
+- - 7
+  - 0.041
+- - 8
+  - 0.033
+- - 9
+  - 0.036
+- - 10
+  - 0.022
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- ya
+- sa
+- yai
+- yo
+- be
+- na
+- haba
+- lau
+- mate
+- e
+- ena
+- tau
+- guyau
+- iyen
+- yaubada
+- hige
+- edi
+top_n_grams:
+- - 2
+  - 0.062
+- - 3
+  - 0.078
+- - 4
+  - 0.1

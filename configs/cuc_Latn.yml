@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.014
+- - 6
+  - 0.008
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 6
+new_line_ratio: 0.091
+stopwords:
+- "jian\xB3"
+- "jon\xB3"
+- "i\xB2"
+- "quie\xB9"
+- "quieh\xB9"
+- "hnei\xB3"
+- "jon\u2074dai\xB9"
+- "chie\xB3"
+- "tionh\xB2"
+- "liah\u2074"
+- "jau\xB2\xB3"
+- "i\xB2con\xB2\xB3"
+- "nei\xB2"
+- "tionh\xB2\u02C9\xB3"
+- "jes\xFAs"
+- "jnie\xB3\xB2"
+- "a\xB3hain\u2074"
+top_n_grams:
+- - 2
+  - 0.059
+- - 3
+  - 0.099
+- - 4
+  - 0.134

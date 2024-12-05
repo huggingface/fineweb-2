@@ -1,0 +1,47 @@
+dup_line_frac: 0.972
+dup_n_grams:
+- - 5
+  - 0.607
+- - 6
+  - 0.607
+- - 7
+  - 0.605
+- - 8
+  - 0.584
+- - 9
+  - 0.583
+- - 10
+  - 0.582
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "c\u0289"
+- na
+- to
+- "y\u0289"
+- bairo
+- dio
+- "m\u0289ja"
+- bairi
+- mani
+- quena
+- maca
+- mena
+- "ca\u0129"
+- "j\xE3"
+- jesu
+- "\u0129"
+- "\xE3"
+- caroaro
+- "m\u0289"
+- bairona
+top_n_grams:
+- - 2
+  - 0.219
+- - 3
+  - 0.582
+- - 4
+  - 0.101

@@ -1,0 +1,51 @@
+dup_line_frac: 0.895
+dup_n_grams:
+- - 5
+  - 0.753
+- - 6
+  - 0.621
+- - 7
+  - 0.711
+- - 8
+  - 0.804
+- - 9
+  - 0.468
+- - 10
+  - 0.52
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- "d\u0269"
+- die
+- a
+- ta
+- ba
+- "n\u0269"
+- wa
+- "\u014Bm\u0269\u014B"
+- "\u028A"
+- n
+- "a\u014Ba\u014B"
+- ka
+- "t\u0269"
+- yi
+- ma
+- "\u028B"
+- wo
+- mana
+- nan
+- "w\u0269a"
+- "m\u0269\u014B"
+- "ke\u014B"
+- ama
+- yisa
+top_n_grams:
+- - 2
+  - 1.747
+- - 3
+  - 2.484
+- - 4
+  - 3.116

@@ -1,0 +1,45 @@
+dup_line_frac: 0.2
+dup_n_grams:
+- - 5
+  - 0.327
+- - 6
+  - 0.305
+- - 7
+  - 0.287
+- - 8
+  - 0.267
+- - 9
+  - 0.236
+- - 10
+  - 0.226
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- na
+- "n\u0129"
+- jehova
+- bibiria
+- bwa
+- ya
+- "\u0169r\u0129a"
+- "m\u0169rungu"
+- "ant\u0169"
+- "k\u0129r\u0129"
+- "n\u0129at\u0129a"
+- "jes\u0169"
+- "mant\u0169"
+- "r\u0129r\u0129a"
+- kinya
+- kana
+- ja
+- "jar\u0129a"
+top_n_grams:
+- - 2
+  - 0.471
+- - 3
+  - 0.541
+- - 4
+  - 0.627

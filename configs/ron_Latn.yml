@@ -1,0 +1,41 @@
+dup_line_frac: 0.318
+dup_n_grams:
+- - 5
+  - 0.175
+- - 6
+  - 0.156
+- - 7
+  - 0.141
+- - 8
+  - 0.129
+- - 9
+  - 0.119
+- - 10
+  - 0.108
+line_punct_thr: 0.167
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.779
+min_avg_word_length: 2
+new_line_ratio: 0.267
+stopwords:
+- de
+- "\xEEn"
+- a
+- "\u0219i"
+- din
+- la
+- o
+- cu
+- este
+- un
+- pe
+- fost
+- care
+- al
+top_n_grams:
+- - 2
+  - 0.081
+- - 3
+  - 0.1
+- - 4
+  - 0.118

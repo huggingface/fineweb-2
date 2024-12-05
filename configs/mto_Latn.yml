@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.082
+- - 6
+  - 0.057
+- - 7
+  - 0.039
+- - 8
+  - 0.038
+- - 9
+  - 0.03
+- - 10
+  - 0.03
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- "je\u0331"
+- ve'e
+- "ve\uA78Ce"
+- tse'e
+- "tse\uA78Ce"
+- "je\u0331ts"
+- "pa\u0331n"
+- ax
+- "je\u0331'e\u0331"
+- juu
+- jayu
+- "je\u0331\uA78Ce\u0331"
+- "juu\uA78C"
+- "je\u0331tse'e"
+- ku
+- "je\u0331m"
+- xa
+- "je\u0331tse\uA78Ce"
+- "a\u0331tse'e"
+- "a\u0331ts"
+top_n_grams:
+- - 2
+  - 0.086
+- - 3
+  - 0.114
+- - 4
+  - 0.124

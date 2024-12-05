@@ -1,0 +1,53 @@
+dup_line_frac: 0.64
+dup_n_grams:
+- - 5
+  - 0.533
+- - 6
+  - 0.513
+- - 7
+  - 0.495
+- - 8
+  - 0.479
+- - 9
+  - 0.449
+- - 10
+  - 0.42
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.9
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- de
+- fa
+- an
+- wa
+- e
+- dey
+- dat
+- a
+- oona
+- dem
+- da
+- ain
+- god
+- gwine
+- um
+- people
+- we
+- ta
+- een
+- been
+- ob
+- all
+- ya
+- jedus
+- tell
+- do
+top_n_grams:
+- - 2
+  - 0.571
+- - 3
+  - 0.723
+- - 4
+  - 0.864

@@ -1,0 +1,45 @@
+dup_line_frac: 0.8
+dup_n_grams:
+- - 5
+  - 0.47
+- - 6
+  - 0.478
+- - 7
+  - 0.455
+- - 8
+  - 0.411
+- - 9
+  - 0.376
+- - 10
+  - 0.386
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.791
+min_avg_word_length: 5
+new_line_ratio: 0.062
+stopwords:
+- quea
+- cuana
+- nee
+- jama
+- esohui
+- oya
+- jesosa
+- ca
+- "\xA1"
+- nei
+- jamajjeya
+- pea
+- "ojja\xF1a"
+- eya
+- poani
+- epeejji
+- ma
+- nijje
+top_n_grams:
+- - 2
+  - 0.613
+- - 3
+  - 0.799
+- - 4
+  - 0.922

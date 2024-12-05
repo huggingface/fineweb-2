@@ -1,0 +1,52 @@
+dup_line_frac: 0.479
+dup_n_grams:
+- - 5
+  - 0.333
+- - 6
+  - 0.311
+- - 7
+  - 0.243
+- - 8
+  - 0.279
+- - 9
+  - 0.156
+- - 10
+  - 0.17
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.864
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- a
+- te
+- u
+- lawng
+- oen
+- kah
+- tih
+- he
+- ah
+- ka
+- awm
+- na
+- tah
+- aka
+- thlaang
+- nawh
+- la
+- thli
+- ham
+- pathen
+- khaw
+- nangmi
+- thui
+- ai
+- ni
+top_n_grams:
+- - 2
+  - 0.071
+- - 3
+  - 0.109
+- - 4
+  - 0.158

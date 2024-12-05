@@ -1,0 +1,50 @@
+dup_line_frac: 0.182
+dup_n_grams:
+- - 5
+  - 0.314
+- - 6
+  - 0.306
+- - 7
+  - 0.302
+- - 8
+  - 0.314
+- - 9
+  - 0.282
+- - 10
+  - 0.314
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- nna
+- le
+- ca
+- "c\u0105"
+- qui
+- nu
+- qui'ni
+- enne
+- para
+- "n\xE1"
+- lani
+- ri'u
+- ttu
+- chi
+- dios
+- de
+- tata
+- bi
+- "lab\xED"
+- lo
+- cabi
+- lu
+- "\u0105'hua"
+top_n_grams:
+- - 2
+  - 0.494
+- - 3
+  - 0.784
+- - 4
+  - 1.098

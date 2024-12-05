@@ -1,0 +1,46 @@
+dup_line_frac: 0.077
+dup_n_grams:
+- - 5
+  - 0.044
+- - 6
+  - 0.036
+- - 7
+  - 0.016
+- - 8
+  - 0.003
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.25
+stopwords:
+- ul
+- sin
+- da
+- min
+- "h\xE4m"
+- bu
+- "d\xE4"
+- ber
+- bik
+- "bel\xE4n"
+- ide
+- dip
+- "\xF6\xE7en"
+- sine
+- minem
+- tom
+- bar
+- bez
+- "\u015Ful"
+top_n_grams:
+- - 2
+  - 0.061
+- - 3
+  - 0.071
+- - 4
+  - 0.094

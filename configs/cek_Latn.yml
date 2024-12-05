@@ -1,0 +1,51 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.479
+- - 6
+  - 0.491
+- - 7
+  - 0.462
+- - 8
+  - 0.494
+- - 9
+  - 0.417
+- - 10
+  - 0.426
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.853
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- "l\xE4"
+- to
+- na
+- vi
+- te
+- ah
+- ai
+- "\xFCng"
+- ih
+- loe
+- tea
+- saite
+- o
+- ce
+- mah
+- nang
+- kai
+- hai
+- hoi
+- ma
+- "\xF6"
+- khimi
+- "\xE4ni"
+top_n_grams:
+- - 2
+  - 0.426
+- - 3
+  - 0.381
+- - 4
+  - 0.463

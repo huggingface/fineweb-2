@@ -1,0 +1,43 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.366
+- - 6
+  - 0.303
+- - 7
+  - 0.295
+- - 8
+  - 0.133
+- - 9
+  - 0.117
+- - 10
+  - 0.088
+line_punct_thr: -1
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.758
+min_avg_word_length: 8
+new_line_ratio: 0.083
+stopwords:
+- dioso
+- nexata
+- apo
+- "jes\xFAs"
+- ata
+- baja
+- itsa
+- pacuenia
+- bajarapamonae
+- jumaitsi
+- jai
+- itsiata
+- bitso
+- yabara
+- daxita
+- jivi
+top_n_grams:
+- - 2
+  - 0.183
+- - 3
+  - 0.245
+- - 4
+  - 0.269

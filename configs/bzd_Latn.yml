@@ -1,0 +1,54 @@
+dup_line_frac: 0.164
+dup_n_grams:
+- - 5
+  - 0.129
+- - 6
+  - 0.087
+- - 7
+  - 0.067
+- - 8
+  - 0.053
+- - 9
+  - 0.033
+- - 10
+  - 0.022
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.698
+min_avg_word_length: 3
+new_line_ratio: 0.25
+stopwords:
+- e
+- "t\xF6"
+- a
+- ie
+- "a\u0331"
+- ye
+- "ta\u0331"
+- "k\xEB\u0300"
+- "d\xF6r"
+- ie'pa
+- "sk\xEBk\xF6l"
+- es
+- se
+- wa
+- "\xEC"
+- tso
+- "bua\xEB"
+- mik
+- be
+- "we\u0331s"
+- "er\xEB"
+- i
+- "ki\u0331"
+- "eta\u0331"
+- "tai\u0331\xEB"
+- "jes\xFAs"
+- "e\u0331"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

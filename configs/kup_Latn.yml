@@ -1,0 +1,44 @@
+dup_line_frac: 0.85
+dup_n_grams:
+- - 5
+  - 0.63
+- - 6
+  - 0.631
+- - 7
+  - 0.634
+- - 8
+  - 0.587
+- - 9
+  - 0.579
+- - 10
+  - 0.582
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- met
+- pot
+- aban
+- ari
+- tin
+- pi
+- paru
+- pim
+- ne
+- "o\xF1"
+- epat
+- hez
+- tat
+- ravat
+- povoz
+- "a\xF1arab"
+- het
+top_n_grams:
+- - 2
+  - 0.417
+- - 3
+  - 0.59
+- - 4
+  - 0.713

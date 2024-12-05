@@ -1,0 +1,37 @@
+dup_line_frac: 0.513
+dup_n_grams:
+- - 5
+  - 0.414
+- - 6
+  - 0.385
+- - 7
+  - 0.349
+- - 8
+  - 0.318
+- - 9
+  - 0.295
+- - 10
+  - 0.278
+line_punct_thr: 0.0
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.858
+min_avg_word_length: 2
+new_line_ratio: 0.273
+stopwords:
+- le
+- de
+- in
+- un
+- del
+- e
+- es
+- que
+- se
+- provincia
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 0.63
+- - 4
+  - 0.667

@@ -1,0 +1,46 @@
+dup_line_frac: 0.282
+dup_n_grams:
+- - 5
+  - 0.44
+- - 6
+  - 0.455
+- - 7
+  - 0.392
+- - 8
+  - 0.397
+- - 9
+  - 0.322
+- - 10
+  - 0.322
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ono
+- iya
+- "b\u1EE5"
+- ndu
+- mu
+- iphe
+- a
+- "\u1ECD"
+- unu
+- "l\u1EB9"
+- "b\u1EB9"
+- onye
+- "ph\u1EB9"
+- bya
+- chileke
+- "\u1EB9phe"
+- e
+- ya
+- "d\u1EE5"
+top_n_grams:
+- - 2
+  - 0.608
+- - 3
+  - 0.906
+- - 4
+  - 0.75

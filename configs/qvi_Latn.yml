@@ -1,0 +1,35 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.342
+- - 6
+  - 0.326
+- - 7
+  - 0.301
+- - 8
+  - 0.254
+- - 9
+  - 0.207
+- - 10
+  - 0.179
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 6
+new_line_ratio: 0.143
+stopwords:
+- na
+- "jehov\xE1"
+- chai
+- "\xBF"
+- shuj
+- ali
+- taita
+- cai
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

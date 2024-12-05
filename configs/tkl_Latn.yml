@@ -1,0 +1,51 @@
+dup_line_frac: 0.37
+dup_n_grams:
+- - 5
+  - 0.11
+- - 6
+  - 0.115
+- - 7
+  - 0.121
+- - 8
+  - 0.108
+- - 9
+  - 0.052
+- - 10
+  - 0.058
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.875
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- te
+- e
+- ki
+- ko
+- o
+- na
+- i
+- "n\u0101"
+- ke
+- ma
+- atua
+- a
+- ai
+- he
+- tuhi
+- mai
+- latou
+- tino
+- atu
+- tatou
+- ieova
+- paia
+- koe
+- ni
+top_n_grams:
+- - 2
+  - 0.108
+- - 3
+  - 0.148
+- - 4
+  - 0.158

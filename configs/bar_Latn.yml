@@ -1,0 +1,37 @@
+dup_line_frac: 0.655
+dup_n_grams:
+- - 5
+  - 0.491
+- - 6
+  - 0.459
+- - 7
+  - 0.43
+- - 8
+  - 0.415
+- - 9
+  - 0.396
+- - 10
+  - 0.379
+line_punct_thr: 0.111
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.772
+min_avg_word_length: 3
+new_line_ratio: 0.333
+stopwords:
+- da
+- de
+- und
+- in
+- vo
+- a
+- is
+- im
+- des
+- hod
+top_n_grams:
+- - 2
+  - 0.356
+- - 3
+  - 0.467
+- - 4
+  - 0.496

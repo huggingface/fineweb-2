@@ -1,0 +1,43 @@
+dup_line_frac: 0.809
+dup_n_grams:
+- - 5
+  - 0.434
+- - 6
+  - 0.409
+- - 7
+  - 0.383
+- - 8
+  - 0.365
+- - 9
+  - 0.351
+- - 10
+  - 0.334
+line_punct_thr: 0.286
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.939
+min_avg_word_length: 3
+new_line_ratio: 0.167
+stopwords:
+- for
+- di
+- wey
+- e
+- dey
+- of
+- an
+- na
+- dem
+- to
+- in
+- bi
+- go
+- am
+- im
+- and
+top_n_grams:
+- - 2
+  - 0.217
+- - 3
+  - 0.278
+- - 4
+  - 0.332

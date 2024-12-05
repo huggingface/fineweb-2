@@ -1,0 +1,40 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.098
+- - 6
+  - 0.118
+- - 7
+  - 0.102
+- - 8
+  - 0.078
+- - 9
+  - 0.064
+- - 10
+  - 0.031
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 7
+new_line_ratio: 0.091
+stopwords:
+- chay
+- mana
+- nir
+- chaymi
+- chaynu
+- chaqa
+- piru
+- tukuy
+- chaynulla
+- ima
+- uk
+- kusa
+- kusala
+top_n_grams:
+- - 2
+  - 0.105
+- - 3
+  - 0.145
+- - 4
+  - 0.182

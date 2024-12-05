@@ -1,0 +1,38 @@
+dup_line_frac: 0.583
+dup_n_grams:
+- - 5
+  - 0.438
+- - 6
+  - 0.378
+- - 7
+  - 0.362
+- - 8
+  - 0.316
+- - 9
+  - 0.331
+- - 10
+  - 0.305
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.679
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- '''s'
+- yu
+- dyus
+- "ty\xE3a"
+- "ty\xE3'w\u1EBD"
+- sa
+- atsa
+- wala
+- naa
+- yacj
+- nava
+top_n_grams:
+- - 2
+  - 0.508
+- - 3
+  - 0.739
+- - 4
+  - 0.76

@@ -1,0 +1,47 @@
+dup_line_frac: 0.474
+dup_n_grams:
+- - 5
+  - 0.519
+- - 6
+  - 0.542
+- - 7
+  - 0.606
+- - 8
+  - 0.617
+- - 9
+  - 0.48
+- - 10
+  - 0.44
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 5
+new_line_ratio: 0.059
+stopwords:
+- ma
+- nu
+- li
+- too
+- siopu
+- i
+- lauje
+- da
+- pa
+- sanu
+- yesuse
+- injopa
+- jimo
+- liio
+- li'eme
+- lijimo
+- lia'e
+- lelenye
+- la'e
+- bui
+top_n_grams:
+- - 2
+  - 0.718
+- - 3
+  - 0.987
+- - 4
+  - 1.198

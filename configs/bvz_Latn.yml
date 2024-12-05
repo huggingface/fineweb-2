@@ -1,0 +1,50 @@
+dup_line_frac: 0.2
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.397
+- - 7
+  - 0.354
+- - 8
+  - 0.347
+- - 9
+  - 0.348
+- - 10
+  - 0.343
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 4
+new_line_ratio: 0.04
+stopwords:
+- bak
+- im
+- dam
+- lam
+- labe
+- ame
+- labi
+- laba
+- gi
+- fa
+- am
+- bake
+- lahame
+- vou
+- meedam
+- ab
+- vi
+- ba
+- alat
+- aho
+- eho
+- iho
+- di
+top_n_grams:
+- - 2
+  - 0.273
+- - 3
+  - 0.315
+- - 4
+  - 0.298

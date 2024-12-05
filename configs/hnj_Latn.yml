@@ -1,0 +1,55 @@
+dup_line_frac: 0.891
+dup_n_grams:
+- - 5
+  - 0.491
+- - 6
+  - 0.48
+- - 7
+  - 0.469
+- - 8
+  - 0.46
+- - 9
+  - 0.444
+- - 10
+  - 0.436
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.875
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- kws
+- tug
+- rua
+- hab
+- ua
+- lub
+- nwg
+- le
+- cov
+- kuv
+- yog
+- tej
+- yuav
+- has
+- puab
+- lug
+- mej
+- koj
+- huv
+- moog
+- tas
+- ib
+- muaj
+- tuabneeg
+- tau
+- ntawd
+- vaajtswv
+- muab
+top_n_grams:
+- - 2
+  - 0.373
+- - 3
+  - 0.454
+- - 4
+  - 0.42

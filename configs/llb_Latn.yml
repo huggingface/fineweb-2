@@ -1,0 +1,41 @@
+dup_line_frac: 0.451
+dup_n_grams:
+- - 5
+  - 0.653
+- - 6
+  - 0.425
+- - 7
+  - 0.423
+- - 8
+  - 0.403
+- - 9
+  - 0.401
+- - 10
+  - 0.403
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ira
+- a
+- na
+- yohova
+- i
+- thitho
+- liye
+- "n\u2019nga"
+- wa
+- atu
+- ya
+- yo
+- vyongo
+- edha
+top_n_grams:
+- - 2
+  - 0.432
+- - 3
+  - 0.552
+- - 4
+  - 0.692

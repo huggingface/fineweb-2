@@ -1,0 +1,42 @@
+dup_line_frac: 0.062
+dup_n_grams:
+- - 5
+  - 0.057
+- - 6
+  - 0.025
+- - 7
+  - 0.013
+- - 8
+  - 0.01
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- kala
+- eina
+- chi
+- ina
+- awui
+- vang
+- ana
+- "h\u0101nga"
+- chiwui
+- kha
+- kaja
+- da
+- khavai
+- chili
+- hi
+top_n_grams:
+- - 2
+  - 0.911
+- - 3
+  - 1.0
+- - 4
+  - 0.867

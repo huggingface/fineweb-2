@@ -1,0 +1,43 @@
+dup_line_frac: 0.81
+dup_n_grams:
+- - 5
+  - 0.547
+- - 6
+  - 0.588
+- - 7
+  - 0.487
+- - 8
+  - 0.557
+- - 9
+  - 0.457
+- - 10
+  - 0.453
+line_punct_thr: 0.0
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.731
+min_avg_word_length: 2
+new_line_ratio: 0.309
+stopwords:
+- "t\xEE"
+- na
+- ayeke
+- "n\xEE"
+- lo
+- "\xE2zo"
+- yeke
+- wuhngo
+- "s\xEAse"
+- "s\xF4"
+- "k\xF6d\xF6r\xF6"
+- "mb\xEAn\xEE"
+- zo
+- "k\xF6t\xE4"
+- "la\xE2"
+- ti
+top_n_grams:
+- - 2
+  - 0.698
+- - 3
+  - 0.778
+- - 4
+  - 1.037

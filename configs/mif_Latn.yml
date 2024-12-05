@@ -1,0 +1,55 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.371
+- - 6
+  - 0.369
+- - 7
+  - 0.319
+- - 8
+  - 0.31
+- - 9
+  - 0.308
+- - 10
+  - 0.3
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.796
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- a
+- "\u014Bga"
+- ta
+- da
+- na
+- ma
+- hay
+- fa
+- "nd\u0259hay"
+- daa
+- masa
+- gazlavay
+- ba
+- mey
+- "a\u014Bga"
+- ray
+- ndaw
+- ya
+- cek
+- akwar
+- ka
+- la
+- yesu
+- ata
+- anda
+- aa
+- "ke\u0257e"
+- maaya
+top_n_grams:
+- - 2
+  - 0.114
+- - 3
+  - 0.22
+- - 4
+  - 0.241

@@ -1,0 +1,44 @@
+dup_line_frac: 0.353
+dup_n_grams:
+- - 5
+  - 0.314
+- - 6
+  - 0.291
+- - 7
+  - 0.285
+- - 8
+  - 0.254
+- - 9
+  - 0.229
+- - 10
+  - 0.216
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- kha
+- khe
+- o
+- tei
+- bai
+- hwnwi
+- hai
+- bo
+- di
+- ang
+- ya
+- sa
+- bini
+- hakhe
+- bagwi
+- "b\xF3rok"
+- se
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.781
+- - 4
+  - 0.818

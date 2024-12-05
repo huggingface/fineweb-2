@@ -1,0 +1,55 @@
+dup_line_frac: 0.048
+dup_n_grams:
+- - 5
+  - 0.11
+- - 6
+  - 0.079
+- - 7
+  - 0.054
+- - 8
+  - 0.039
+- - 9
+  - 0.03
+- - 10
+  - 0.025
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.048
+stopwords:
+- nga
+- ma
+- e
+- na
+- ngaia
+- gila
+- fana
+- ka
+- lo'oo
+- i
+- ta'a
+- la
+- mola
+- ola
+- wane
+- no'o
+- god
+- ni
+- nau
+- suria
+- mai
+- ilo'oo
+- la'u
+- alata
+- ku
+- moru
+- ame
+- jisas
+top_n_grams:
+- - 2
+  - 0.031
+- - 3
+  - 0.042
+- - 4
+  - 0.044

@@ -1,0 +1,47 @@
+dup_line_frac: 0.518
+dup_n_grams:
+- - 5
+  - 0.396
+- - 6
+  - 0.386
+- - 7
+  - 0.375
+- - 8
+  - 0.367
+- - 9
+  - 0.345
+- - 10
+  - 0.342
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- ta
+- di
+- ki
+- na
+- pa
+- nu
+- i
+- el
+- un
+- kel
+- ku
+- ka
+- "\xE9"
+- kes
+- "jeov\xE1"
+- es
+- bu
+- ma
+- faze
+- algen
+top_n_grams:
+- - 2
+  - 0.36
+- - 3
+  - 0.533
+- - 4
+  - 0.581

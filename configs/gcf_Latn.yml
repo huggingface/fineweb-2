@@ -1,0 +1,53 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.236
+- - 6
+  - 0.221
+- - 7
+  - 0.201
+- - 8
+  - 0.189
+- - 9
+  - 0.177
+- - 10
+  - 0.17
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- ka
+- nou
+- a
+- la
+- ki
+- yo
+- "\xE9"
+- "s\xE9"
+- "t\xE9"
+- an
+- i
+- 'on'
+- pou
+- sa
+- "f\xE8"
+- y
+- ni
+- "k\xE8"
+- "j\xE9ova"
+- pa
+- "p\xE9"
+- ou
+- moun
+- "k\xE9"
+- adan
+- "\xE8v\xE8"
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 0.7
+- - 4
+  - 0.16

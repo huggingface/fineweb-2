@@ -1,0 +1,43 @@
+dup_line_frac: 0.447
+dup_n_grams:
+- - 5
+  - 0.357
+- - 6
+  - 0.374
+- - 7
+  - 0.34
+- - 8
+  - 0.302
+- - 9
+  - 0.131
+- - 10
+  - 0.141
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.767
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- masike
+- "malal\xEB"
+- kan
+- "t\xEFkai"
+- "kat\xEFp"
+- jeisu
+- "hel\xEB"
+- man
+- "p\xEBk"
+- lome
+- ejahe
+- pona
+- kaliponotom
+- maa
+- emna
+- huwa
+top_n_grams:
+- - 2
+  - 0.193
+- - 3
+  - 0.234
+- - 4
+  - 0.238

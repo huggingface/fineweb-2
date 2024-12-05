@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.033
+- - 6
+  - 0.006
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- kinim
+- kale
+- uyo
+- so
+- got
+- be
+- weng
+- kal
+- aka
+- bom
+- aket
+- "b\xE1"
+- ayo
+- mak
+- kala
+- kata
+- yak
+- ami
+- wanang
+- yesus
+- banim
+- ika
+- naka
+top_n_grams:
+- - 2
+  - 0.174
+- - 3
+  - 0.201
+- - 4
+  - 0.217

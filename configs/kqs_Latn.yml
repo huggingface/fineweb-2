@@ -1,0 +1,52 @@
+dup_line_frac: 0.9
+dup_n_grams:
+- - 5
+  - 0.765
+- - 6
+  - 0.782
+- - 7
+  - 0.794
+- - 8
+  - 0.766
+- - 9
+  - 0.773
+- - 10
+  - 0.756
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- o
+- le
+- a
+- co
+- ndu
+- ni
+- va
+- "m\xED"
+- nda
+- niaa
+- la
+- kon
+- vanaa
+- nin
+- n
+- te
+- aa
+- ya
+- vana
+- "m\xF3"
+- naa
+- maa
+- "m\xEC"
+- hala
+- "k\u025B"
+top_n_grams:
+- - 2
+  - 1.691
+- - 3
+  - 2.52
+- - 4
+  - 3.293

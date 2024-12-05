@@ -1,0 +1,48 @@
+dup_line_frac: 0.762
+dup_n_grams:
+- - 5
+  - 0.837
+- - 6
+  - 0.833
+- - 7
+  - 0.843
+- - 8
+  - 0.833
+- - 9
+  - 0.832
+- - 10
+  - 0.824
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- su
+- nu
+- nga
+- "megbebaya\uA78C"
+- di
+- getaw
+- "pu\uA78C"
+- niu
+- si
+- "muka\uA78C"
+- nilan
+- tu
+- "sa\uA78C"
+- dun
+- naa
+- isus
+- ni
+- ilan
+- dayun
+- ta
+- laak
+top_n_grams:
+- - 2
+  - 1.242
+- - 3
+  - 1.646
+- - 4
+  - 2.051

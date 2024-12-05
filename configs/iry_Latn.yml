@@ -1,0 +1,50 @@
+dup_line_frac: 0.833
+dup_n_grams:
+- - 5
+  - 0.755
+- - 6
+  - 0.73
+- - 7
+  - 0.71
+- - 8
+  - 0.691
+- - 9
+  - 0.689
+- - 10
+  - 0.71
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- da
+- sa
+- ba
+- mga
+- koyo
+- konin
+- kora
+- ka
+- laki
+- nawed
+- amba
+- batay
+- iya
+- diyos
+- naay
+- ngani
+- para
+- naba
+- gidte
+- panawen
+- 'no'
+- pag
+- hisos
+top_n_grams:
+- - 2
+  - 0.772
+- - 3
+  - 1.004
+- - 4
+  - 1.355

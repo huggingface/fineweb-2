@@ -1,0 +1,41 @@
+dup_line_frac: 0.834
+dup_n_grams:
+- - 5
+  - 0.429
+- - 6
+  - 0.416
+- - 7
+  - 0.401
+- - 8
+  - 0.396
+- - 9
+  - 0.388
+- - 10
+  - 0.37
+line_punct_thr: 0.2
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 3
+new_line_ratio: 0.16
+stopwords:
+- na
+- nke
+- "nd\u1ECB"
+- "\u1ECD"
+- ya
+- ihe
+- "d\u1ECB"
+- a
+- onye
+- "b\u1EE5"
+- ka
+- "\u1ECDr\u1EE5"
+- "ah\u1EE5"
+- ma
+top_n_grams:
+- - 2
+  - 0.538
+- - 3
+  - 0.609
+- - 4
+  - 0.727

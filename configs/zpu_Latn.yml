@@ -1,0 +1,44 @@
+dup_line_frac: 0.555
+dup_n_grams:
+- - 5
+  - 0.347
+- - 6
+  - 0.363
+- - 7
+  - 0.297
+- - 8
+  - 0.286
+- - 9
+  - 0.264
+- - 10
+  - 0.253
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.619
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- na
+- ka
+- be'nn
+- da
+- ake
+- ke
+- bi
+- "na\uA78C"
+- ba
+- diosen
+- to
+- le
+- "be\uA78Cnn"
+- dan
+- nench
+- re
+- nak
+top_n_grams:
+- - 2
+  - 0.218
+- - 3
+  - 0.26
+- - 4
+  - 0.373

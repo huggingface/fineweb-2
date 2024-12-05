@@ -1,0 +1,40 @@
+dup_line_frac: 0.667
+dup_n_grams:
+- - 5
+  - 0.574
+- - 6
+  - 0.39
+- - 7
+  - 0.506
+- - 8
+  - 0.415
+- - 9
+  - 0.513
+- - 10
+  - 0.554
+line_punct_thr: 0.0
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 2
+new_line_ratio: 0.429
+stopwords:
+- ye
+- ka
+- a
+- ni
+- la
+- "b\u025B"
+- na
+- min
+- ani
+- o
+- kan
+- san
+- dugu
+top_n_grams:
+- - 2
+  - 0.507
+- - 3
+  - 0.618
+- - 4
+  - 0.718

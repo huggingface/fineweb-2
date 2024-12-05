@@ -1,0 +1,59 @@
+dup_line_frac: 0.425
+dup_n_grams:
+- - 5
+  - 0.237
+- - 6
+  - 0.217
+- - 7
+  - 0.193
+- - 8
+  - 0.18
+- - 9
+  - 0.156
+- - 10
+  - 0.139
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- omu
+- ngu
+- aha
+- kandi
+- yehova
+- ruhanga
+- yesu
+- ku
+- kwonka
+- eki
+- na
+- abantu
+- baibuli
+- ebi
+- obu
+- nari
+- ki
+- ati
+- akaba
+- kuba
+- ahari
+- omuri
+- oku
+- ni
+- twine
+- munonga
+- ba
+- omuntu
+- kukora
+- kugira
+- gye
+- "ahabw\u2019enki"
+top_n_grams:
+- - 2
+  - 0.682
+- - 3
+  - 1.154
+- - 4
+  - 0.955

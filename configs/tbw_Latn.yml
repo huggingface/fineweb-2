@@ -1,0 +1,48 @@
+dup_line_frac: 0.275
+dup_n_grams:
+- - 5
+  - 0.328
+- - 6
+  - 0.28
+- - 7
+  - 0.249
+- - 8
+  - 0.242
+- - 9
+  - 0.232
+- - 10
+  - 0.257
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- it
+- nga
+- i
+- mga
+- ya
+- baw
+- ega
+- na
+- kat
+- ku
+- diyus
+- ka
+- "ampu\uA78Cang"
+- mi
+- kanya
+- in
+- "du\uA78Cun"
+- nira
+- ngaytu
+- ta
+- ngayti
+top_n_grams:
+- - 2
+  - 0.444
+- - 3
+  - 0.525
+- - 4
+  - 0.546

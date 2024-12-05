@@ -1,0 +1,56 @@
+dup_line_frac: 0.508
+dup_n_grams:
+- - 5
+  - 0.34
+- - 6
+  - 0.316
+- - 7
+  - 0.296
+- - 8
+  - 0.289
+- - 9
+  - 0.278
+- - 10
+  - 0.263
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.962
+min_avg_word_length: 2
+new_line_ratio: 0.056
+stopwords:
+- "\u0E1B\u0E40\u0E23\u0E35\u0E22\u0E2E"
+- "\u0E19\u0E47\u0E2D\u0E3A\u0E07"
+- "\u0E22"
+- "\u0E2D\u0E2D"
+- "\u0E25"
+- "\u0E41\u0E14"
+- "\u0E2E"
+- "\u0E1A\u0E32\u0E19"
+- "\u0E42\u0E1E\u0E07"
+- "\u0E17\u0E32"
+- "\u0E01\u0E47"
+- "\u0E01\u0E3A\u0E35"
+- "\u0E40\u0E19\u0E35\u0E22\u0E30"
+- "\u0E19"
+- "\u0E19\u0E38"
+- "\u0E21\u0E31\u0E19"
+- "\u0E2D"
+- "\u0E0D"
+- "\u0E04"
+- "\u0E3A\u0E07"
+- "\u0E40\u0E17"
+- "\u0E22\u0E3A\u0E37\u0E07"
+- "\u0E40\u0E04"
+- "\u0E42\u0E21"
+- "\u0E3A\u0E34\u0E19\u0E47"
+- "\u0E1B"
+- "\u0E40\u0E21\u0E35\u0E22"
+- "\u0E23"
+- "\u0E40\u0E15\u0E34\u0E27\u0E47"
+top_n_grams:
+- - 2
+  - 0.141
+- - 3
+  - 0.172
+- - 4
+  - 0.175

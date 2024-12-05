@@ -1,0 +1,37 @@
+dup_line_frac: 0.967
+dup_n_grams:
+- - 5
+  - 0.736
+- - 6
+  - 0.722
+- - 7
+  - 0.749
+- - 8
+  - 0.749
+- - 9
+  - 0.722
+- - 10
+  - 0.669
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- kwa
+- asi
+- va
+- ga
+- ntani
+- tu
+- kara
+- eyi
+- po
+- nye
+top_n_grams:
+- - 2
+  - 0.903
+- - 3
+  - 1.358
+- - 4
+  - 1.843

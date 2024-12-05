@@ -1,0 +1,53 @@
+dup_line_frac: 0.905
+dup_n_grams:
+- - 5
+  - 0.727
+- - 6
+  - 0.709
+- - 7
+  - 0.699
+- - 8
+  - 0.69
+- - 9
+  - 0.673
+- - 10
+  - 0.67
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 3
+new_line_ratio: 0.091
+stopwords:
+- a
+- xa
+- na
+- ra
+- e
+- wo
+- ma
+- naxa
+- n
+- ala
+- mu
+- nan
+- naxan
+- "b\u025B"
+- nu
+- i
+- nun
+- mixi
+- bara
+- kui
+- fe
+- "n\u025B"
+- birin
+- isa
+- to
+- won
+top_n_grams:
+- - 2
+  - 0.662
+- - 3
+  - 0.902
+- - 4
+  - 1.312

@@ -1,0 +1,46 @@
+dup_line_frac: 0.565
+dup_n_grams:
+- - 5
+  - 0.497
+- - 6
+  - 0.44
+- - 7
+  - 0.449
+- - 8
+  - 0.438
+- - 9
+  - 0.416
+- - 10
+  - 0.407
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- ta
+- arama
+- deus
+- kua
+- "ma\xE3"
+- asui
+- "res\xE9"
+- "ku\xE1"
+- "jeov\xE1"
+- jesus
+- "asu\xED"
+- "b\xEDblia"
+- "may\xE9"
+- "a\xE9"
+- "up\xE9"
+- kuaita
+- umbeu
+- "yep\xE9"
+- ti
+top_n_grams:
+- - 2
+  - 0.746
+- - 3
+  - 0.947
+- - 4
+  - 1.0

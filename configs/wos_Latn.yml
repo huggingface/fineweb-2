@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.116
+- - 6
+  - 0.096
+- - 7
+  - 0.08
+- - 8
+  - 0.06
+- - 9
+  - 0.052
+- - 10
+  - 0.044
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "d\xE9"
+- du
+- di
+- hundi
+- wungi
+- guni
+- wun
+- wa
+- wuni
+- "j\xE9mba"
+- "d\xE9ka"
+- takwa
+- mawuli
+- yikafre
+- nani
+- haraki
+- god
+- maki
+- nak
+- akwi
+- "n\xE9ma"
+- godna
+- yata
+top_n_grams:
+- - 2
+  - 0.04
+- - 3
+  - 0.049
+- - 4
+  - 0.047

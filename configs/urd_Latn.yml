@@ -1,0 +1,42 @@
+dup_line_frac: 0.444
+dup_n_grams:
+- - 5
+  - 0.333
+- - 6
+  - 0.32
+- - 7
+  - 0.307
+- - 8
+  - 0.296
+- - 9
+  - 0.282
+- - 10
+  - 0.271
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- ke
+- aur
+- se
+- hai
+- "k\u012B"
+- ne
+- ko
+- us
+- wuh
+- "me\u1E45"
+- kar
+- "k\u0101"
+- ki
+- par
+- jo
+top_n_grams:
+- - 2
+  - 0.144
+- - 3
+  - 0.158
+- - 4
+  - 0.168

@@ -1,0 +1,44 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.506
+- - 6
+  - 0.442
+- - 7
+  - 0.512
+- - 8
+  - 0.473
+- - 9
+  - 0.482
+- - 10
+  - 0.345
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- na
+- "d\u0259"
+- "\u0253a"
+- "m\u0259s"
+- "ma\u014Bg\u0259lva"
+- "\u0257ii"
+- vi
+- an
+- amma
+- "g\u0259n"
+- "\u0257\u0259f"
+- nan
+- zezu
+- va
+- "z\u0259ga"
+- pak
+- net
+top_n_grams:
+- - 2
+  - 0.429
+- - 3
+  - 0.527
+- - 4
+  - 0.613

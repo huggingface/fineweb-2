@@ -1,0 +1,41 @@
+dup_line_frac: 0.036
+dup_n_grams:
+- - 5
+  - 0.545
+- - 6
+  - 0.655
+- - 7
+  - 0.382
+- - 8
+  - 0.436
+- - 9
+  - 0.491
+- - 10
+  - 0.545
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "p\xEBl"
+- "om\xEBn"
+- "p\xF6t"
+- pim
+- "ng\xF6n"
+- pi
+- "ep\xEBl"
+- "k\xF6n"
+- "\xEBak"
+- "\xF6k"
+- ar
+- "w\xEB"
+- "\xEB\xEBn"
+- ne
+top_n_grams:
+- - 2
+  - 1.024
+- - 3
+  - 1.389
+- - 4
+  - 1.701

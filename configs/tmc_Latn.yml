@@ -1,0 +1,51 @@
+dup_line_frac: 0.733
+dup_n_grams:
+- - 5
+  - 0.492
+- - 6
+  - 0.476
+- - 7
+  - 0.451
+- - 8
+  - 0.442
+- - 9
+  - 0.421
+- - 10
+  - 0.404
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.706
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- "\u0257\u1D7B"
+- "y\u1D7B"
+- "-\u0257\u1D7B"
+- -u
+- a
+- kan-
+- "k\u1D7B"
+- dag
+- du
+- "\u0257i"
+- "n\u1D7Bm"
+- aa
+- "\u0257an"
+- g
+- bi
+- -ne
+- "\u1D7By"
+- "b\u1D7Blan"
+- "b\u1D7Br"
+- gun
+- "n\u1D7B"
+- ka
+- "dag\u1D7Bl"
+- "\u1D7Bnyn\u1D7B"
+top_n_grams:
+- - 2
+  - 0.343
+- - 3
+  - 0.406
+- - 4
+  - 0.458

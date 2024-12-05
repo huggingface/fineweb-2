@@ -1,0 +1,46 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.654
+- - 6
+  - 0.621
+- - 7
+  - 0.575
+- - 8
+  - 0.621
+- - 9
+  - 0.542
+- - 10
+  - 0.528
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- ip
+- deus
+- io'e
+- ma
+- "g\u0303u"
+- be
+- jesus
+- kay
+- soat
+- dak
+- i
+- o'e
+- pe
+- ixe
+- cuy
+- am
+- "\xF5n"
+- juy
+- "ekaw\u1EBDn"
+top_n_grams:
+- - 2
+  - 0.766
+- - 3
+  - 0.923
+- - 4
+  - 1.045

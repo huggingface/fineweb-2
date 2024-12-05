@@ -1,0 +1,50 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.319
+- - 6
+  - 0.285
+- - 7
+  - 0.251
+- - 8
+  - 0.234
+- - 9
+  - 0.154
+- - 10
+  - 0.142
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- la
+- i
+- bann
+- ke
+- pou
+- in
+- "\xE9"
+- le
+- "l\xE9"
+- nou
+- li
+- ou
+- "f\xE9"
+- zot
+- "j\xE9ova"
+- bondieu
+- a
+- pa
+- su
+- bib
+- sak
+- dan
+- son
+top_n_grams:
+- - 2
+  - 0.204
+- - 3
+  - 0.291
+- - 4
+  - 0.336

@@ -1,0 +1,46 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.059
+- - 6
+  - 0.032
+- - 7
+  - 0.019
+- - 8
+  - 0.016
+- - 9
+  - 0.012
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- "m\u028B"
+- bulu
+- "a\u0301n\u0269\u0301"
+- "a\u0301m\u028B"
+- "m\u028B\u0301"
+- "am\u028B\u0301"
+- "ml\u0269"
+- "am\u028B"
+- "a\u0301"
+- "m\u0269\u0301"
+- "an\u0269"
+- "\u0254b\u025B\u0301\u025B"
+- "s\u028B"
+- "as\u028B\u0301n"
+- "aha\u0301"
+- yesu
+- "\u0269w\u0269"
+- "n\u0269\u0301"
+- "ta\u0301m\u025B"
+top_n_grams:
+- - 2
+  - 0.026
+- - 3
+  - 0.035
+- - 4
+  - 0.027

@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.056
+- - 6
+  - 0.041
+- - 7
+  - 0.033
+- - 8
+  - 0.029
+- - 9
+  - 0.026
+- - 10
+  - 0.019
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- "t\u0268mbi"
+- "w\u0268n"
+- "end\u0268"
+- ama
+- "n\u0268m"
+- "t\u0268"
+- "nand\u0268"
+- nak
+- manda
+- ba
+- 'no'
+- "yesul\u0268"
+- "w\u0268nd\u0268\xF1"
+- "\xF1\u0268nd\u0268\xF1"
+- "s\u0268nd\u0268"
+- en
+top_n_grams:
+- - 2
+  - 0.016
+- - 3
+  - 0.015
+- - 4
+  - 0.016

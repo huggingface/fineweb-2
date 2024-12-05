@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.1
+- - 6
+  - 0.077
+- - 7
+  - 0.057
+- - 8
+  - 0.048
+- - 9
+  - 0.032
+- - 10
+  - 0.024
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.79
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- nu
+- de
+- yu
+- dey
+- mbecy
+- ni
+- orze
+- der
+- mi
+- lo
+- ze
+- na
+- la
+- "\xF1gyoozh"
+- tub
+- nunu
+- ru
+- coz
+- nac
+- gun
+- gyicy
+top_n_grams:
+- - 2
+  - 0.083
+- - 3
+  - 0.146
+- - 4
+  - 0.133

@@ -1,0 +1,50 @@
+dup_line_frac: 0.842
+dup_n_grams:
+- - 5
+  - 0.556
+- - 6
+  - 0.695
+- - 7
+  - 0.433
+- - 8
+  - 0.426
+- - 9
+  - 0.422
+- - 10
+  - 0.427
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.647
+min_avg_word_length: 6
+new_line_ratio: 0.077
+stopwords:
+- "l\u0101"
+- huan
+- "t\u016B"
+- dios
+- "a'nt\u016B"
+- nac
+- que
+- "a'nt\u012B"
+- chuntza
+- a'xni'ca
+- xlaca'n
+- hui'xina'n
+- xla
+- quit
+- "jes\xFAs"
+- lej
+- "a'nt\u012Bn"
+- palh
+- "n\u0101"
+- para
+- "hu\u0101'm\u0101"
+- "\u016B'tza"
+- na
+top_n_grams:
+- - 2
+  - 0.897
+- - 3
+  - 1.149
+- - 4
+  - 1.516

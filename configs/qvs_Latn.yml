@@ -1,0 +1,42 @@
+dup_line_frac: 0.955
+dup_n_grams:
+- - 5
+  - 0.772
+- - 6
+  - 0.763
+- - 7
+  - 0.749
+- - 8
+  - 0.745
+- - 9
+  - 0.743
+- - 10
+  - 0.745
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 7
+new_line_ratio: 0.1
+stopwords:
+- tata
+- mana
+- chay
+- tukuy
+- allita
+- dios
+- runakuna
+- sukaman
+- chashna
+- suk
+- chaymanta
+- diospa
+- alli
+- chaypina
+- runakunata
+top_n_grams:
+- - 2
+  - 0.963
+- - 3
+  - 1.322
+- - 4
+  - 1.866

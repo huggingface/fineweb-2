@@ -1,0 +1,52 @@
+dup_line_frac: 0.396
+dup_n_grams:
+- - 5
+  - 0.389
+- - 6
+  - 0.398
+- - 7
+  - 0.349
+- - 8
+  - 0.272
+- - 9
+  - 0.221
+- - 10
+  - 0.191
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- te
+- a
+- to
+- na
+- ma
+- tana
+- iny
+- ya
+- kat
+- tan
+- ana
+- non
+- gov
+- tsue
+- vainy
+- ayei
+- fo
+- mes
+- ri
+- ka
+- ten
+- e
+- fi
+- naa
+- kaa
+top_n_grams:
+- - 2
+  - 0.353
+- - 3
+  - 0.471
+- - 4
+  - 0.526

@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.088
+- - 6
+  - 0.042
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: 0.083
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 3
+new_line_ratio: 0.282
+stopwords:
+- d'
+- in
+- est
+- "\xE0"
+- pi
+- l'
+- ch'
+- et
+- de
+- "ch\xE9s"
+- dins
+- ch
+- un
+- du
+- ed
+- d
+- o
+- "\xE9d"
+- l
+- des
+top_n_grams:
+- - 2
+  - 0.137
+- - 3
+  - 0.162
+- - 4
+  - 0.146

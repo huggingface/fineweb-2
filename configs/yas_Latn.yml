@@ -1,0 +1,50 @@
+dup_line_frac: 0.875
+dup_n_grams:
+- - 5
+  - 0.589
+- - 6
+  - 0.566
+- - 7
+  - 0.626
+- - 8
+  - 0.537
+- - 9
+  - 0.515
+- - 10
+  - 0.471
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- go
+- a
+- "b\xE1"
+- "na\xE1"
+- na
+- "d\u025B"
+- "g\xE1"
+- "b\xF3"
+- "l\u025B\u0301"
+- "am\u0254\u0301"
+- "asa\u014Ba"
+- 'no'
+- "mba\xE1"
+- "l\u0254\u0301m\u0254\u0301"
+- "go\u014Ba\xE1"
+- mo
+- ya
+- o
+- "a\u014Ba"
+- "b\xE1\xE1"
+- "kan\u025B\u0301"
+- "bat\u0254"
+- ba
+top_n_grams:
+- - 2
+  - 1.374
+- - 3
+  - 1.932
+- - 4
+  - 2.505

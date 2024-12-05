@@ -1,0 +1,47 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.338
+- - 6
+  - 0.313
+- - 7
+  - 0.289
+- - 8
+  - 0.275
+- - 9
+  - 0.257
+- - 10
+  - 0.235
+line_punct_thr: 0.25
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.225
+stopwords:
+- a
+- "\xEBd"
+- l'
+- "d\xEBl"
+- na
+- "\xE9"
+- e
+- "\xEBl"
+- la
+- ant
+- comun
+- con
+- dipartiment
+- "km\xB2"
+- an
+- lenghe
+- abitant
+- "p\xEBr"
+- dla
+- region
+top_n_grams:
+- - 2
+  - 0.136
+- - 3
+  - 0.169
+- - 4
+  - 0.26

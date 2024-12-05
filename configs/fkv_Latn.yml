@@ -1,0 +1,44 @@
+dup_line_frac: 0.714
+dup_n_grams:
+- - 5
+  - 0.595
+- - 6
+  - 0.593
+- - 7
+  - 0.638
+- - 8
+  - 0.578
+- - 9
+  - 0.571
+- - 10
+  - 0.559
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.25
+stopwords:
+- ja
+- oon
+- se
+- ette
+- ko
+- oli
+- kainun
+- mie
+- ei
+- met
+- kans
+- "h\xE4n"
+- "kv\xE4\xE4nin"
+- niin
+- kielen
+- mutta
+- sen
+top_n_grams:
+- - 2
+  - 0.847
+- - 3
+  - 0.922
+- - 4
+  - 1.052

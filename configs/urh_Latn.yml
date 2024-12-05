@@ -1,0 +1,46 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.809
+- - 6
+  - 0.811
+- - 7
+  - 0.812
+- - 8
+  - 0.811
+- - 9
+  - 0.809
+- - 10
+  - 0.809
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- "r\u1EB9"
+- na
+- vwo
+- "vw\u1EB9"
+- "n\u1EB9"
+- "vw\u1ECD"
+- avwanre
+- "k\u1EB9"
+- re
+- "\u1ECD"
+- ayen
+- da
+- ri
+- ihwo
+- yen
+- jihova
+- "v\u1EB9"
+- "r\u1ECD"
+- se
+top_n_grams:
+- - 2
+  - 0.659
+- - 3
+  - 0.895
+- - 4
+  - 1.287

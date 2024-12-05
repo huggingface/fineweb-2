@@ -1,0 +1,36 @@
+dup_line_frac: 0.712
+dup_n_grams:
+- - 5
+  - 0.496
+- - 6
+  - 0.469
+- - 7
+  - 0.432
+- - 8
+  - 0.394
+- - 9
+  - 0.372
+- - 10
+  - 0.355
+line_punct_thr: 0.0
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 4
+new_line_ratio: 1
+stopwords:
+- "\u0432"
+- "\u0438"
+- "\u0441\u044F"
+- "\u043D\u0430"
+- "\u0437"
+- "\u0456"
+- "\u0440\u043E\u043A\u0443"
+- "\u0434\u043E"
+- "\u0454"
+top_n_grams:
+- - 2
+  - 0.47
+- - 3
+  - 0.459
+- - 4
+  - 0.544

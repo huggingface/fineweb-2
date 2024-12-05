@@ -1,0 +1,45 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.367
+- - 6
+  - 0.313
+- - 7
+  - 0.267
+- - 8
+  - 0.204
+- - 9
+  - 0.197
+- - 10
+  - 0.161
+line_punct_thr: 0.0
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.903
+min_avg_word_length: 1
+new_line_ratio: 0.446
+stopwords:
+- cu
+- zoi
+- .i
+- de'i
+- lo
+- la'o
+- noi
+- ke'a
+- la
+- jbena
+- ke
+- merko
+- gasnu
+- xeldraci
+- mrobi'o
+- le
+- to
+- toi
+top_n_grams:
+- - 2
+  - 0.124
+- - 3
+  - 0.144
+- - 4
+  - 0.165

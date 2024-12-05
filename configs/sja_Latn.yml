@@ -1,0 +1,46 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.055
+- - 6
+  - 0.037
+- - 7
+  - 0.026
+- - 8
+  - 0.021
+- - 9
+  - 0.015
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.781
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- tachi
+- "b\u0268"
+- ma
+- e
+- iru
+- "m\xE3ik'aapa"
+- "m\xE3ga"
+- "ak'\xF5re"
+- "per\xE3"
+- "m\u0268"
+- ome
+- "ak'\xF5repa"
+- ne
+- "m\u0268a"
+- inaa
+- "par\xE3"
+- k'inia
+- jara
+- "mam\u0129da"
+top_n_grams:
+- - 2
+  - 0.101
+- - 3
+  - 0.16
+- - 4
+  - 0.165

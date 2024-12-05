@@ -1,0 +1,46 @@
+dup_line_frac: 0.9
+dup_n_grams:
+- - 5
+  - 0.654
+- - 6
+  - 0.64
+- - 7
+  - 0.615
+- - 8
+  - 0.588
+- - 9
+  - 0.571
+- - 10
+  - 0.586
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.86
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ke
+- hai
+- aur
+- se
+- oe
+- tab
+- me
+- na
+- kie
+- parmeswar
+- raha
+- ham
+- aapan
+- log
+- ek
+- kare
+- djab
+- okar
+- bakie
+top_n_grams:
+- - 2
+  - 0.743
+- - 3
+  - 1.0
+- - 4
+  - 1.153

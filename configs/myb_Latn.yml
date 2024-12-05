@@ -1,0 +1,49 @@
+dup_line_frac: 0.842
+dup_n_grams:
+- - 5
+  - 0.644
+- - 6
+  - 0.656
+- - 7
+  - 0.624
+- - 8
+  - 0.617
+- - 9
+  - 0.592
+- - 10
+  - 0.596
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- "k\xEF"
+- i
+- a
+- na
+- lo
+- kad
+- al
+- "nd\xEF"
+- luwah
+- kam
+- ne
+- ta
+- ye
+- "d\xF8"
+- deg
+- "\xF0a"
+- ad
+- lon
+- jeju
+- la
+- non
+- an
+top_n_grams:
+- - 2
+  - 0.712
+- - 3
+  - 0.81
+- - 4
+  - 0.839

@@ -1,0 +1,54 @@
+dup_line_frac: 0.6
+dup_n_grams:
+- - 5
+  - 0.377
+- - 6
+  - 0.36
+- - 7
+  - 0.351
+- - 8
+  - 0.342
+- - 9
+  - 0.338
+- - 10
+  - 0.334
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.864
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- ra
+- chi
+- cua
+- ta
+- cha
+- ndo
+- ni
+- cuu
+- "\xF1i"
+- "\xF1ivi"
+- cati
+- "\xF1a"
+- ndioo
+- ti
+- iyo
+- vati
+- cuhva
+- can
+- yo
+- tacan
+- yu
+- vaha
+- tuhun
+- ini
+- tahan
+- xaan
+- nu
+top_n_grams:
+- - 2
+  - 0.51
+- - 3
+  - 0.676
+- - 4
+  - 0.771

@@ -1,0 +1,48 @@
+dup_line_frac: 0.457
+dup_n_grams:
+- - 5
+  - 0.349
+- - 6
+  - 0.333
+- - 7
+  - 0.319
+- - 8
+  - 0.308
+- - 9
+  - 0.313
+- - 10
+  - 0.285
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- ba
+- nin
+- "ra\uA78C"
+- loh
+- ra
+- bwiinn
+- tu
+- ya
+- dxiohs
+- ayi
+- "la\uA78Ch"
+- "\xF1i\uA78Ch"
+- naa
+- chi
+- cun
+- tuhbi
+- tin
+- ziga
+- nee
+- la'h
+- "\xF1i'h"
+top_n_grams:
+- - 2
+  - 0.173
+- - 3
+  - 0.197
+- - 4
+  - 0.153

@@ -1,0 +1,51 @@
+dup_line_frac: 0.558
+dup_n_grams:
+- - 5
+  - 0.461
+- - 6
+  - 0.466
+- - 7
+  - 0.531
+- - 8
+  - 0.576
+- - 9
+  - 0.365
+- - 10
+  - 0.379
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- n
+- "\u0253a"
+- zhin
+- yi
+- wo
+- wa
+- nu
+- mi
+- fye
+- ge
+- lo
+- "\u0253ei"
+- "\u0253o"
+- a
+- shekwoyi
+- to
+- na
+- ye
+- nyi
+- nya
+- kwo
+- yesu
+- gna
+- ga
+top_n_grams:
+- - 2
+  - 0.455
+- - 3
+  - 0.628
+- - 4
+  - 0.799

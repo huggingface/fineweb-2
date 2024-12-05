@@ -1,0 +1,47 @@
+dup_line_frac: 0.939
+dup_n_grams:
+- - 5
+  - 0.814
+- - 6
+  - 0.814
+- - 7
+  - 0.759
+- - 8
+  - 0.651
+- - 9
+  - 0.732
+- - 10
+  - 0.814
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- te
+- se
+- aw
+- dan
+- din
+- otaw
+- timanem
+- "diy\xE0"
+- menge
+- ko
+- si
+- so
+- niyo
+- meneng
+- sikandin
+- kaw
+- yan
+- heman
+- doen
+- kedita
+top_n_grams:
+- - 2
+  - 1.786
+- - 3
+  - 2.644
+- - 4
+  - 3.441

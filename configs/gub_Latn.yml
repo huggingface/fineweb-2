@@ -1,0 +1,51 @@
+dup_line_frac: 0.167
+dup_n_grams:
+- - 5
+  - 0.093
+- - 6
+  - 0.06
+- - 7
+  - 0.043
+- - 8
+  - 0.032
+- - 9
+  - 0.019
+- - 10
+  - 0.017
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- a'e
+- "w\xE0"
+- nehe
+- ma'e
+- pe
+- rehe
+- putar
+- "tup\xE0n"
+- haw
+- kwaw
+- 'no'
+- har
+- mehe
+- kar
+- kury
+- romo
+- "p\xE0"
+- i'i
+- ihe
+- amo
+- wanupe
+- rupi
+- teko
+- wiko
+top_n_grams:
+- - 2
+  - 0.647
+- - 3
+  - 1.0
+- - 4
+  - 0.826

@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.075
+- - 6
+  - 0.047
+- - 7
+  - 0.033
+- - 8
+  - 0.023
+- - 9
+  - 0.017
+- - 10
+  - 0.013
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- al
+- po
+- "bele\u014B"
+- goyen
+- "kuru\u014B"
+- "ye\u014B"
+- "te\u014B"
+- irde
+- ma
+- wor
+- "ni\u014B"
+- gobe
+- kura
+- go
+- "he\u014B"
+- mata
+- mar
+- nurde
+- mere
+- yesu
+- be
+- "ha\u014B"
+top_n_grams:
+- - 2
+  - 0.038
+- - 3
+  - 0.034
+- - 4
+  - 0.026

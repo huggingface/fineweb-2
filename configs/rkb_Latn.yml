@@ -1,0 +1,45 @@
+dup_line_frac: 0.8
+dup_n_grams:
+- - 5
+  - 0.707
+- - 6
+  - 0.703
+- - 7
+  - 0.67
+- - 8
+  - 0.655
+- - 9
+  - 0.655
+- - 10
+  - 0.674
+line_punct_thr: -1
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.776
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- deus
+- bo
+- humo
+- batu
+- sesus
+- niy
+- kytsa
+- ty
+- iwaze
+- hi
+- my
+- harere
+- zuba
+- zeka
+- iwa
+- o
+- ana
+- iwatsahi
+top_n_grams:
+- - 2
+  - 0.79
+- - 3
+  - 1.088
+- - 4
+  - 1.423

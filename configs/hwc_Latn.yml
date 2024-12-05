@@ -1,0 +1,52 @@
+dup_line_frac: 0.978
+dup_n_grams:
+- - 5
+  - 0.71
+- - 6
+  - 0.705
+- - 7
+  - 0.692
+- - 8
+  - 0.692
+- - 9
+  - 0.668
+- - 10
+  - 0.68
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- da
+- wen
+- an
+- you
+- fo
+- dat
+- guys
+- he
+- dey
+- stay
+- 'no'
+- i
+- god
+- goin
+- one
+- kine
+- peopo
+- come
+- all
+- get
+- do
+- tell
+- make
+- guy
+- go
+top_n_grams:
+- - 2
+  - 0.467
+- - 3
+  - 0.645
+- - 4
+  - 0.893

@@ -1,0 +1,40 @@
+dup_line_frac: 0.258
+dup_n_grams:
+- - 5
+  - 0.097
+- - 6
+  - 0.096
+- - 7
+  - 0.039
+- - 8
+  - 0.016
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: 0.143
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 2
+new_line_ratio: 0.8
+stopwords:
+- in
+- "\u012Bpan"
+- "c\u0113"
+- xihuitl
+- "\u012Bt\u014Dc\u0101"
+- ipan
+- miquiztli
+- "m\u0101cu\u012Blp\u014Dhualxihuitl"
+- "tl\u0101catiliztli"
+- de
+- "moch\u012Bhualiztli"
+- "mahtl\u0101cxihuitl"
+- ce
+top_n_grams:
+- - 2
+  - 0.774
+- - 3
+  - 0.486
+- - 4
+  - 0.248

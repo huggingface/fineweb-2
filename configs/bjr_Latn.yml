@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.035
+- - 6
+  - 0.024
+- - 7
+  - 0.015
+- - 8
+  - 0.009
+- - 9
+  - 0.007
+- - 10
+  - 0.005
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.876
+min_avg_word_length: 6
+new_line_ratio: 0.083
+stopwords:
+- faqa
+- "s\xEDa"
+- mi
+- ufa
+- "min\xE1"
+- "mis\xE1"
+- "nar\xED"
+- "qin\xE9e"
+- "\xEDnnee"
+- "maas\xE1"
+- kai
+- "faiq\xED"
+- "\xE1nutuna"
+- "m\xE1ridanoo"
+- "qin\xED"
+- fee
+- "q\xEDmasee"
+top_n_grams:
+- - 2
+  - 0.039
+- - 3
+  - 0.044
+- - 4
+  - 0.038

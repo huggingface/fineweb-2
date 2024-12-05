@@ -1,0 +1,48 @@
+dup_line_frac: 0.824
+dup_n_grams:
+- - 5
+  - 0.661
+- - 6
+  - 0.673
+- - 7
+  - 0.635
+- - 8
+  - 0.613
+- - 9
+  - 0.595
+- - 10
+  - 0.623
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- nu
+- mu
+- egi
+- yesu
+- athu
+- ya
+- ha
+- wa
+- a
+- ndaga
+- nzambi
+- dia
+- udi
+- luholo
+- uvi
+- gu
+- muthu
+- akhalele
+- muene
+- tangua
+- mukunda
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.187
+- - 4
+  - 1.588

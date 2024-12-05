@@ -1,0 +1,36 @@
+dup_line_frac: 0.881
+dup_n_grams:
+- - 5
+  - 0.654
+- - 6
+  - 0.607
+- - 7
+  - 0.584
+- - 8
+  - 0.6
+- - 9
+  - 0.623
+- - 10
+  - 0.618
+line_punct_thr: 0.111
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.689
+min_avg_word_length: 2
+new_line_ratio: 0.387
+stopwords:
+- w
+- je
+- i
+- na
+- to
+- z
+- "s\xE3"
+- do
+- rok
+top_n_grams:
+- - 2
+  - 0.491
+- - 3
+  - 0.608
+- - 4
+  - 0.713

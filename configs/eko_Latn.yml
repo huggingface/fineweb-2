@@ -1,0 +1,43 @@
+dup_line_frac: 0.542
+dup_n_grams:
+- - 5
+  - 0.444
+- - 6
+  - 0.459
+- - 7
+  - 0.396
+- - 8
+  - 0.376
+- - 9
+  - 0.417
+- - 10
+  - 0.241
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.775
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- na
+- wa
+- yoori
+- aari
+- ya
+- nnyizinku
+- ye
+- a
+- atthu
+- yinsa
+- khusala
+- apale
+- ila
+- ti
+- za
+- mwaana
+top_n_grams:
+- - 2
+  - 0.621
+- - 3
+  - 0.731
+- - 4
+  - 0.717

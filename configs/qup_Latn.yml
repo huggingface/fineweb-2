@@ -1,0 +1,36 @@
+dup_line_frac: 0.373
+dup_n_grams:
+- - 5
+  - 0.264
+- - 6
+  - 0.267
+- - 7
+  - 0.241
+- - 8
+  - 0.239
+- - 9
+  - 0.237
+- - 10
+  - 0.236
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.837
+min_avg_word_length: 7
+new_line_ratio: 0.091
+stopwords:
+- yaya
+- chay
+- mana
+- chasna
+- tukuy
+- shuk
+- diospa
+- nishpa
+- alita
+top_n_grams:
+- - 2
+  - 0.198
+- - 3
+  - 0.212
+- - 4
+  - 0.199

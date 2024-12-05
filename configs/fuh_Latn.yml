@@ -1,0 +1,44 @@
+dup_line_frac: 0.429
+dup_n_grams:
+- - 5
+  - 0.479
+- - 6
+  - 0.461
+- - 7
+  - 0.462
+- - 8
+  - 0.425
+- - 9
+  - 0.425
+- - 10
+  - 0.408
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- e
+- "\u0253e"
+- o
+- fuu
+- ko
+- mo
+- 'on'
+- oon
+- "\u0257um"
+- faa
+- "laam\u0257o"
+- 'no'
+- ina
+- mi
+- wo
+- "\u0253een"
+- wi'i
+top_n_grams:
+- - 2
+  - 0.473
+- - 3
+  - 0.609
+- - 4
+  - 0.483

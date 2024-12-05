@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.061
+- - 6
+  - 0.037
+- - 7
+  - 0.021
+- - 8
+  - 0.016
+- - 9
+  - 0.016
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- "k\u0268"
+- in
+- "kad\u0268"
+- "\u0259"
+- el
+- kin
+- "luw\u0259"
+- "ning\u0259"
+- "l\u0259"
+- a
+- ta
+- "de\u2019g\u0268"
+- nya
+- me
+- de
+- nan
+- "d\u0254"
+- "t\u0254"
+- ra
+- "tad\u0254"
+- "ad\u0268"
+- jeju
+- to
+- nje
+top_n_grams:
+- - 2
+  - 0.133
+- - 3
+  - 0.239
+- - 4
+  - 0.336

@@ -1,0 +1,49 @@
+dup_line_frac: 0.186
+dup_n_grams:
+- - 5
+  - 0.063
+- - 6
+  - 0.043
+- - 7
+  - 0.028
+- - 8
+  - 0.017
+- - 9
+  - 0.006
+- - 10
+  - 0.0
+line_punct_thr: 0.167
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.252
+stopwords:
+- mu
+- nga
+- ku
+- ne
+- era
+- uganda
+- ya
+- oba
+- of
+- wa
+- okuva
+- nti
+- kya
+- the
+- "\u2022"
+- ye
+- gwa
+- bwe
+- kino
+- buli
+- yali
+- abantu
+top_n_grams:
+- - 2
+  - 0.778
+- - 3
+  - 1.0
+- - 4
+  - 1.105

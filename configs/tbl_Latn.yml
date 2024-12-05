@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.162
+- - 6
+  - 0.134
+- - 7
+  - 0.109
+- - 8
+  - 0.1
+- - 9
+  - 0.089
+- - 10
+  - 0.077
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.837
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- "y\xF3m"
+- "y\xF3"
+- "b\xE8"
+- le
+- du
+- ne
+- kem
+- tau
+- ye
+- se
+- dwata
+- ke
+- deng
+- "l\xE0"
+- gel
+- tekuy
+- wen
+- hol
+- ni
+- "m\xF2"
+- jisas
+- "t\xF3d\xF4"
+- tey
+top_n_grams:
+- - 2
+  - 0.227
+- - 3
+  - 0.166
+- - 4
+  - 0.174

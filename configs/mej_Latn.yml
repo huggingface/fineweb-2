@@ -1,0 +1,56 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.07
+- - 6
+  - 0.046
+- - 7
+  - 0.028
+- - 8
+  - 0.017
+- - 9
+  - 0.011
+- - 10
+  - 0.009
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.881
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- ongga
+- rot
+- koma
+- mar
+- erek
+- ofa
+- rusnok
+- bera
+- beda
+- gij
+- gu
+- noba
+- rua
+- jeska
+- insa
+- iwa
+- didif
+- fob
+- tein
+- oida
+- allah
+- efen
+- guru
+- egens
+- yesus
+- ojgomu
+- tina
+- jeskaseda
+- mona
+top_n_grams:
+- - 2
+  - 0.08
+- - 3
+  - 0.104
+- - 4
+  - 0.124

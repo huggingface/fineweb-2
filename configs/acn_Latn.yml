@@ -1,0 +1,53 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.357
+- - 6
+  - 0.349
+- - 7
+  - 0.323
+- - 8
+  - 0.316
+- - 9
+  - 0.31
+- - 10
+  - 0.302
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.879
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- lyis
+- gas
+- dah
+- zis
+- mas
+- nghuot
+- las
+- das
+- ma
+- yah
+- eq
+- nyang
+- ge
+- namoq
+- cho
+- ngos
+- taiq
+- nyeis
+- hauh
+- nyamoq
+- bang
+- mangso
+- soeu
+- lhyi
+- los
+- jens
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.136
+- - 4
+  - 0.163

@@ -1,0 +1,47 @@
+dup_line_frac: 0.125
+dup_n_grams:
+- - 5
+  - 0.043
+- - 6
+  - 0.014
+- - 7
+  - 0.009
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 6
+new_line_ratio: 0.25
+stopwords:
+- "\xF1e\xF1t\u0303"
+- "e'\xF1e"
+- o'ch
+- "\xF1e\xF1th"
+- "atet\u0303"
+- ama
+- yompor
+- ateth
+- "\xF1amha"
+- "\xF1am\u0303a"
+- o
+- ama't
+- atarr
+- "a\xF1"
+- "\xF1erra'm"
+- all
+- amach
+- "\xBF"
+- "e\u02BC\xF1e"
+- allempo
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.059
+- - 4
+  - 1.0

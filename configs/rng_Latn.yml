@@ -1,0 +1,45 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.396
+- - 6
+  - 0.342
+- - 7
+  - 0.319
+- - 8
+  - 0.313
+- - 9
+  - 0.285
+- - 10
+  - 0.282
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- a
+- ku
+- hi
+- va
+- ni
+- nga
+- swi
+- ka
+- ya
+- wa
+- leswaku
+- yehovha
+- leswi
+- na
+- ha
+- u
+- ta
+- loko
+top_n_grams:
+- - 2
+  - 0.931
+- - 3
+  - 1.0
+- - 4
+  - 1.203

@@ -1,0 +1,50 @@
+dup_line_frac: 0.471
+dup_n_grams:
+- - 5
+  - 0.474
+- - 6
+  - 0.505
+- - 7
+  - 0.414
+- - 8
+  - 0.381
+- - 9
+  - 0.402
+- - 10
+  - 0.408
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- adi
+- ka
+- di
+- i
+- ngara
+- "ay\u016Dh"
+- daya
+- "d\u016Dh"
+- ngga
+- "mb\u016Dh"
+- aku
+- "ang\u0101n"
+- "an\u016D"
+- tapa
+- so
+- re
+- dog
+- nang
+- kayuh
+- bara
+- pak
+- jesus
+- "dar\u016Dm"
+top_n_grams:
+- - 2
+  - 0.69
+- - 3
+  - 0.654
+- - 4
+  - 0.846

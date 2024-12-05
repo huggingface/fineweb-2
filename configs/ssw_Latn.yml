@@ -1,0 +1,55 @@
+dup_line_frac: 0.951
+dup_n_grams:
+- - 5
+  - 0.695
+- - 6
+  - 0.674
+- - 7
+  - 0.653
+- - 8
+  - 0.637
+- - 9
+  - 0.653
+- - 10
+  - 0.596
+line_punct_thr: 0.333
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 4
+new_line_ratio: 0.421
+stopwords:
+- kanye
+- afrika
+- i
+- bantfu
+- kutsi
+- futsi
+- e
+- ne
+- a
+- kantsi
+- of
+- ngemnyaka
+- ningizimu
+- we
+- ngemuva
+- linani
+- km2
+- khona
+- le
+- wa
+- ngekutsi
+- 'no'
+- kusukela
+- lapho
+- the
+- wase
+- ngesikhatsi
+- "k\xFAf\xFAna"
+top_n_grams:
+- - 2
+  - 0.919
+- - 3
+  - 1.0
+- - 4
+  - 1.059

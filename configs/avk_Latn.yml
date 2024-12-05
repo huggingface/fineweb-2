@@ -1,0 +1,37 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.462
+- - 6
+  - 0.432
+- - 7
+  - 0.415
+- - 8
+  - 0.404
+- - 9
+  - 0.395
+- - 10
+  - 0.394
+line_punct_thr: 0.04
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.606
+min_avg_word_length: 3
+new_line_ratio: 1.0
+stopwords:
+- vuest-
+- en
+- ke
+- of
+- tir
+- is
+- va
+- katca
+- bak
+- koe
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.521
+- - 4
+  - 2.055

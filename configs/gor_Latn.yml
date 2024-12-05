@@ -1,0 +1,41 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.386
+- - 6
+  - 0.379
+- - 7
+  - 0.324
+- - 8
+  - 0.322
+- - 9
+  - 0.304
+- - 10
+  - 0.299
+line_punct_thr: 0.5
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 5
+new_line_ratio: 0.133
+stopwords:
+- to
+- lo
+- kabupaten
+- indonesia
+- kecamatan
+- yito
+- desa
+- provinsi
+- tuwawu
+- tala
+- sulawesi
+- jawa
+- tengah
+- timur
+top_n_grams:
+- - 2
+  - 0.128
+- - 3
+  - 0.147
+- - 4
+  - 0.17

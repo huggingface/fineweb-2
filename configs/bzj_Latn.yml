@@ -1,0 +1,43 @@
+dup_line_frac: 0.45
+dup_n_grams:
+- - 5
+  - 0.382
+- - 6
+  - 0.345
+- - 7
+  - 0.318
+- - 8
+  - 0.304
+- - 9
+  - 0.282
+- - 10
+  - 0.266
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 1.0
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- di
+- fi
+- dehn
+- weh
+- ahn
+- mi
+- wahn
+- wi
+- ih
+- da
+- dat
+- a
+- eena
+- yu
+- tu
+- noh
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.765
+- - 4
+  - 0.86

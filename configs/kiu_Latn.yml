@@ -1,0 +1,38 @@
+dup_line_frac: 0.593
+dup_n_grams:
+- - 5
+  - 0.402
+- - 6
+  - 0.375
+- - 7
+  - 0.354
+- - 8
+  - 0.331
+- - 9
+  - 0.307
+- - 10
+  - 0.288
+line_punct_thr: -1
+max_avg_word_length: 88
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- de
+- "\xFB"
+- ke
+- "y\xEA"
+- ma
+- bi
+- ra
+- xo
+- "z\xEE"
+- ya
+- "\xEA"
+top_n_grams:
+- - 2
+  - 0.233
+- - 3
+  - 0.257
+- - 4
+  - 0.294

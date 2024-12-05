@@ -1,0 +1,46 @@
+dup_line_frac: 0.128
+dup_n_grams:
+- - 5
+  - 0.138
+- - 6
+  - 0.101
+- - 7
+  - 0.082
+- - 8
+  - 0.065
+- - 9
+  - 0.053
+- - 10
+  - 0.044
+line_punct_thr: -1
+max_avg_word_length: 142
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- la
+- d'
+- et
+- l'
+- est
+- de
+- en
+- les
+- "\xE0"
+- des
+- eune
+- du
+- le
+- "d\xE9"
+- i
+- dans
+- s
+- un
+- qui
+top_n_grams:
+- - 2
+  - 0.189
+- - 3
+  - 0.207
+- - 4
+  - 0.225

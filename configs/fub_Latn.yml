@@ -1,0 +1,46 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.54
+- - 6
+  - 0.534
+- - 7
+  - 0.533
+- - 8
+  - 0.529
+- - 9
+  - 0.526
+- - 10
+  - 0.533
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- "\u0253e"
+- o
+- haa
+- e
+- ngam
+- bee
+- mi
+- mo
+- "\u0257on"
+- 'on'
+- fuu
+- nder
+- allah
+- jawmiraawo
+- maako
+- boo
+- ammaa
+- am
+- ma
+top_n_grams:
+- - 2
+  - 1.212
+- - 3
+  - 1.877
+- - 4
+  - 2.54

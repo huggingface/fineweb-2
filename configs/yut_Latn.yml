@@ -1,0 +1,46 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.06
+- - 6
+  - 0.041
+- - 7
+  - 0.027
+- - 8
+  - 0.018
+- - 9
+  - 0.016
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- da
+- "u\u014Bun"
+- "am\u0268n"
+- do
+- "ya\u014B"
+- dakon
+- ae
+- "d\u0268ma"
+- gen
+- "pi\u014Bkop"
+- "k\u0268nda"
+- nak
+- gat
+- ji
+- "a\u014Bek"
+- "nanda\u014B"
+- mani
+- yo
+- yesu
+top_n_grams:
+- - 2
+  - 0.033
+- - 3
+  - 0.032
+- - 4
+  - 0.026

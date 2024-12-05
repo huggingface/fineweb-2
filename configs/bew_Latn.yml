@@ -1,0 +1,39 @@
+dup_line_frac: 0.571
+dup_n_grams:
+- - 5
+  - 0.4
+- - 6
+  - 0.384
+- - 7
+  - 0.37
+- - 8
+  - 0.356
+- - 9
+  - 0.344
+- - 10
+  - 0.336
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- nyang
+- di
+- yang
+- aye
+- dan
+- kagak
+- orang
+- kalo
+- buat
+- kite
+- dari
+- ntu
+top_n_grams:
+- - 2
+  - 0.186
+- - 3
+  - 0.215
+- - 4
+  - 0.224

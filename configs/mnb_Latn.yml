@@ -1,0 +1,43 @@
+dup_line_frac: 0.773
+dup_n_grams:
+- - 5
+  - 0.619
+- - 6
+  - 0.597
+- - 7
+  - 0.56
+- - 8
+  - 0.547
+- - 9
+  - 0.526
+- - 10
+  - 0.516
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- ne
+- bhe
+- mie
+- lahata'ala
+- dua
+- yesus
+- tamaka
+- ini
+- so
+- maka
+- we
+- weo
+- miina
+- na'a
+- ambano
+- ingka
+top_n_grams:
+- - 2
+  - 0.63
+- - 3
+  - 0.744
+- - 4
+  - 1.0

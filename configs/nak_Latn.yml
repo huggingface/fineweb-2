@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.391
+- - 7
+  - 0.389
+- - 8
+  - 0.386
+- - 9
+  - 0.385
+- - 10
+  - 0.382
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- la
+- ge
+- eia
+- te
+- ale
+- e
+- egite
+- veia
+- mai
+- moli
+- uru
+- tahalo
+- me
+- goio
+- eau
+- amuto
+- egiteu
+- ele
+- kama
+- eala
+- valalua
+- tomi
+- sesele
+top_n_grams:
+- - 2
+  - 0.101
+- - 3
+  - 0.122
+- - 4
+  - 0.142

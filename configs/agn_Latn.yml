@@ -1,0 +1,43 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.383
+- - 6
+  - 0.379
+- - 7
+  - 0.328
+- - 8
+  - 0.332
+- - 9
+  - 0.318
+- - 10
+  - 0.315
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- ang
+- ong
+- tang
+- mga
+- ig
+- na
+- ta
+- nira
+- si
+- dios
+- ni
+- taw
+- indi
+- mi
+- ka
+- tenged
+top_n_grams:
+- - 2
+  - 0.16
+- - 3
+  - 0.158
+- - 4
+  - 0.167

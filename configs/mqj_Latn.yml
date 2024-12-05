@@ -1,0 +1,44 @@
+dup_line_frac: 0.923
+dup_n_grams:
+- - 5
+  - 0.732
+- - 6
+  - 0.722
+- - 7
+  - 0.724
+- - 8
+  - 0.702
+- - 9
+  - 0.697
+- - 10
+  - 0.674
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.724
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- anna
+- la
+- to
+- puang
+- lako
+- allata'alla
+- tau
+- inde
+- annu
+- sapo
+- yesus
+- tae
+- dengan
+- nakua
+- dio
+- illalan
+- angganna
+top_n_grams:
+- - 2
+  - 0.936
+- - 3
+  - 1.258
+- - 4
+  - 1.766

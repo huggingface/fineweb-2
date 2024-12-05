@@ -1,0 +1,46 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.096
+- - 6
+  - 0.061
+- - 7
+  - 0.026
+- - 8
+  - 0.019
+- - 9
+  - 0.012
+- - 10
+  - 0.005
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.048
+stopwords:
+- "\xE9"
+- "l\xE9"
+- gi
+- nghut
+- ri
+- "m\xE1"
+- "ha\xFB"
+- "r\xE2"
+- a
+- "lh\xEA"
+- le
+- "m\xF9"
+- eq
+- "hky\xF4"
+- yhang
+- "p\xE9"
+- nungmoq
+- "lu\xEE"
+- "w\xF3"
+top_n_grams:
+- - 2
+  - 0.075
+- - 3
+  - 0.065
+- - 4
+  - 0.073

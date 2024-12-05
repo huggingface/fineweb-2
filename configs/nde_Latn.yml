@@ -1,0 +1,65 @@
+dup_line_frac: 0.316
+dup_n_grams:
+- - 5
+  - 0.323
+- - 6
+  - 0.218
+- - 7
+  - 0.145
+- - 8
+  - 0.154
+- - 9
+  - 0.095
+- - 10
+  - 0.07
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 6
+new_line_ratio: 0.143
+stopwords:
+- ukuthi
+- njalo
+- nxa
+- kodwa
+- ujehova
+- abantu
+- futhi
+- ukuze
+- ujesu
+- unkulunkulu
+- wathi
+- kakhulu
+- kanye
+- ngoba
+- lokhu
+- kumele
+- njani
+- loba
+- yini
+- abanye
+- u
+- lapho
+- lo
+- lokuthi
+- izinto
+- umuntu
+- labo
+- kumbe
+- ngakho
+- khona
+- yikho
+- ibhayibhili
+- lanxa
+- ukuba
+- israyeli
+- yakhe
+- ngayo
+- lokho
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.706
+- - 4
+  - 0.615

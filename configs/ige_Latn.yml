@@ -1,0 +1,47 @@
+dup_line_frac: 0.536
+dup_n_grams:
+- - 5
+  - 0.695
+- - 6
+  - 0.689
+- - 7
+  - 0.69
+- - 8
+  - 0.69
+- - 9
+  - 0.69
+- - 10
+  - 0.687
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- nya
+- ka
+- "\u1ECD"
+- "k\xE1"
+- "\u1ECDl\u1EB9"
+- "\u1EB9la"
+- bala
+- la
+- ri
+- ya
+- ang
+- "h\u1ECD"
+- "k\u1ECD"
+- kaa
+- "ny\u1ECDka"
+- "l\u1EB9"
+- "k\u1ECB"
+- "\u1EE5ka"
+- ijihova
+- ohe
+top_n_grams:
+- - 2
+  - 1.582
+- - 3
+  - 2.483
+- - 4
+  - 3.384

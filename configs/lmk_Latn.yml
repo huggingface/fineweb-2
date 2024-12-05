@@ -1,0 +1,44 @@
+dup_line_frac: 0.491
+dup_n_grams:
+- - 5
+  - 0.466
+- - 6
+  - 0.41
+- - 7
+  - 0.393
+- - 8
+  - 0.374
+- - 9
+  - 0.37
+- - 10
+  - 0.363
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ngi
+- ava
+- ungta
+- mma
+- rek
+- avah
+- ki
+- nih
+- lamda
+- khat
+- mii
+- thung
+- naan
+- chaak
+- pdainu
+- in
+- isowr
+top_n_grams:
+- - 2
+  - 0.357
+- - 3
+  - 0.471
+- - 4
+  - 0.481

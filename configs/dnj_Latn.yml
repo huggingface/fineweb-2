@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.162
+- - 6
+  - 0.119
+- - 7
+  - 0.093
+- - 8
+  - 0.068
+- - 9
+  - 0.052
+- - 10
+  - 0.039
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 3
+new_line_ratio: 0.038
+stopwords:
+- "\xF6"
+- ka
+- "\u2011nu"
+- "g\xFC"
+- "\u2011bha"
+- wo
+- "k\xF6"
+- "m\u025B"
+- "y\xF6"
+- "\u2011a"
+- "k\xEB"
+- bha
+- "bh\xEB"
+- "\u2011y\xF6"
+- "\uA78Adh\u025B"
+- "p\xF6"
+- "\u2011dh\u025B"
+- -a
+- "bha\u2011"
+- "dh\xF6"
+- n
+- dho
+- "\u2011s\xFC"
+- -nu
+- "\u2011k\xEB"
+top_n_grams:
+- - 2
+  - 0.076
+- - 3
+  - 0.094
+- - 4
+  - 0.113

@@ -1,0 +1,39 @@
+dup_line_frac: 0.957
+dup_n_grams:
+- - 5
+  - 0.821
+- - 6
+  - 0.793
+- - 7
+  - 0.787
+- - 8
+  - 0.795
+- - 9
+  - 0.777
+- - 10
+  - 0.783
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- na
+- nnungu
+- yesu
+- vanu
+- kwa
+- kuva
+- kenga
+- munu
+- mwenu
+- wa
+- mwaa
+- nangu
+top_n_grams:
+- - 2
+  - 1.732
+- - 3
+  - 2.538
+- - 4
+  - 3.273

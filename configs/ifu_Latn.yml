@@ -1,0 +1,49 @@
+dup_line_frac: 0.582
+dup_n_grams:
+- - 5
+  - 0.679
+- - 6
+  - 0.639
+- - 7
+  - 0.65
+- - 8
+  - 0.634
+- - 9
+  - 0.642
+- - 10
+  - 0.627
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- an
+- ja
+- ay
+- hi
+- cha
+- na
+- ta
+- chi
+- apo
+- hana
+- hini
+- chin
+- jos
+- ju
+- ni
+- ti
+- un
+- hay
+- khun
+- o
+- achi
+- ma
+top_n_grams:
+- - 2
+  - 0.543
+- - 3
+  - 0.817
+- - 4
+  - 0.856

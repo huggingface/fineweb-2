@@ -1,0 +1,45 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.395
+- - 6
+  - 0.392
+- - 7
+  - 0.352
+- - 8
+  - 0.349
+- - 9
+  - 0.348
+- - 10
+  - 0.338
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- "\u0129g\u0289"
+- "er\xE3"
+- "m\u0289a"
+- eropa
+- "go\xE3m\u0289"
+- mera
+- ta
+- "ar\u0129"
+- "eropir\xE3"
+- mari
+- "eropig\u0289"
+- jesu
+- "y\u0289"
+- dopa
+- "\xF5aro"
+- masa
+- "\u0129g\u0289re"
+- "m\u0289are"
+top_n_grams:
+- - 2
+  - 0.116
+- - 3
+  - 0.201
+- - 4
+  - 0.22

@@ -1,0 +1,60 @@
+dup_line_frac: 0.946
+dup_n_grams:
+- - 5
+  - 0.698
+- - 6
+  - 0.716
+- - 7
+  - 0.712
+- - 8
+  - 0.64
+- - 9
+  - 0.63
+- - 10
+  - 0.698
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- nya
+- "\u014Bk\u025B"
+- ta
+- ma
+- ya
+- "h\u025B"
+- ke
+- ne
+- nyi
+- mbeli
+- shala
+- kwa
+- te
+- nda
+- le
+- nza
+- "y\u025B"
+- ghena
+- ka
+- nahe
+- ba'a
+- "sh\u025B"
+- nde
+- pa
+- geva
+- va
+- "w\u0259nd\u0259"
+- mbe
+- "\u014Bay\u025B"
+- "y\u025Bs\u0259"
+- "\u014Bkwa"
+- we
+- "\u0257a"
+top_n_grams:
+- - 2
+  - 1.49
+- - 3
+  - 2.167
+- - 4
+  - 2.749

@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.085
+- - 6
+  - 0.067
+- - 7
+  - 0.047
+- - 8
+  - 0.037
+- - 9
+  - 0.026
+- - 10
+  - 0.02
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.719
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- men
+- i
+- na
+- ka
+- mian
+- ia
+- iya'a
+- a
+- raaya'a
+- kuu
+- alaata'ala
+- yaku
+- bo
+- yesus
+- sian
+- kasee
+- se
+- koi
+- upa
+- gause
+- tia
+top_n_grams:
+- - 2
+  - 0.082
+- - 3
+  - 0.109
+- - 4
+  - 0.138

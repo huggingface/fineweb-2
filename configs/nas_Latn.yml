@@ -1,0 +1,40 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.386
+- - 7
+  - 0.33
+- - 8
+  - 0.325
+- - 9
+  - 0.316
+- - 10
+  - 0.308
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.684
+min_avg_word_length: 6
+new_line_ratio: 0.083
+stopwords:
+- tee
+- koo
+- "ee\uA78Cnoko"
+- teing
+- ee'noko
+- kumponing
+- teka
+- bakaang
+- ning
+- teie
+- ninka
+- ookara
+- naning
+top_n_grams:
+- - 2
+  - 0.083
+- - 3
+  - 0.118
+- - 4
+  - 0.153

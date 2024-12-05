@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.397
+- - 6
+  - 0.396
+- - 7
+  - 0.394
+- - 8
+  - 0.393
+- - 9
+  - 0.391
+- - 10
+  - 0.39
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- esi
+- kai
+- rebe
+- kena
+- tamata
+- imi
+- mere
+- au
+- eni
+- alla
+- be
+- bei
+- mo
+- loko
+- ete
+- hoko
+- yesuse
+- le
+- eleki
+- po
+- ite
+- leke
+- me
+top_n_grams:
+- - 2
+  - 0.135
+- - 3
+  - 0.164
+- - 4
+  - 0.186

@@ -1,0 +1,49 @@
+dup_line_frac: 0.826
+dup_n_grams:
+- - 5
+  - 0.605
+- - 6
+  - 0.572
+- - 7
+  - 0.57
+- - 8
+  - 0.543
+- - 9
+  - 0.591
+- - 10
+  - 0.543
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- kame
+- kede
+- i
+- me
+- di
+- be
+- en
+- jo
+- gi
+- do
+- oko
+- oudo
+- pi
+- ka
+- ne
+- likame
+- tie
+- rubanga
+- eko
+- ango
+- yesu
+- wu
+top_n_grams:
+- - 2
+  - 0.808
+- - 3
+  - 0.973
+- - 4
+  - 1.481

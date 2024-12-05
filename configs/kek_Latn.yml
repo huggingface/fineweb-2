@@ -1,0 +1,36 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.2
+- - 6
+  - 0.159
+- - 7
+  - 0.159
+- - 8
+  - 0.184
+- - 9
+  - 0.106
+- - 10
+  - 0.104
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.771
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- li
+- ut
+- naq
+- laj
+- chi
+- re
+- sa
+- "sa\u02BC"
+- nak
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.632
+- - 4
+  - 0.735

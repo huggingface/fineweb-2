@@ -1,0 +1,44 @@
+dup_line_frac: 0.904
+dup_n_grams:
+- - 5
+  - 0.766
+- - 6
+  - 0.767
+- - 7
+  - 0.769
+- - 8
+  - 0.756
+- - 9
+  - 0.751
+- - 10
+  - 0.749
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.698
+min_avg_word_length: 6
+new_line_ratio: 0.077
+stopwords:
+- kari
+- nyulu
+- jana
+- ngayu
+- bama
+- yurra
+- kuku
+- yamba
+- yala
+- buyun
+- baja
+- wawu
+- yinya
+- yalaman
+- godungku
+- yundu
+- ngana
+top_n_grams:
+- - 2
+  - 0.6
+- - 3
+  - 0.927
+- - 4
+  - 1.282

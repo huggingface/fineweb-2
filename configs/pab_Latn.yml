@@ -1,0 +1,41 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.019
+- - 6
+  - 0.011
+- - 7
+  - 0.006
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 6
+new_line_ratio: 0.091
+stopwords:
+- hoka
+- atyo
+- enore
+- maisa
+- hatyo
+- jesus
+- nexa
+- kakoa
+- hiyeta
+- exahe
+- maheta
+- hatyaoseta
+- waiyexe
+- nali
+top_n_grams:
+- - 2
+  - 0.102
+- - 3
+  - 0.17
+- - 4
+  - 0.195

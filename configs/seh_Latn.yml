@@ -1,0 +1,43 @@
+dup_line_frac: 0.966
+dup_n_grams:
+- - 5
+  - 0.738
+- - 6
+  - 0.727
+- - 7
+  - 0.729
+- - 8
+  - 0.712
+- - 9
+  - 0.712
+- - 10
+  - 0.698
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- na
+- ya
+- kuti
+- toera
+- iye
+- wa
+- thangwi
+- a
+- yahova
+- mu
+- ndi
+- mulungu
+- pa
+- anthu
+- pontho
+- iwo
+top_n_grams:
+- - 2
+  - 1.715
+- - 3
+  - 2.643
+- - 4
+  - 3.547

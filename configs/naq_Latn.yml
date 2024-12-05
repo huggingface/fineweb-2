@@ -1,0 +1,43 @@
+dup_line_frac: 0.533
+dup_n_grams:
+- - 5
+  - 0.218
+- - 6
+  - 0.199
+- - 7
+  - 0.188
+- - 8
+  - 0.112
+- - 9
+  - 0.083
+- - 10
+  - 0.038
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- ge
+- "ts\xEE"
+- ra
+- i
+- da
+- "h\xE2"
+- "\u01C3n\xE2"
+- di
+- "n\xEE"
+- a
+- e
+- "\u01C1\xEEb"
+- tama
+- ga
+- o
+- du
+top_n_grams:
+- - 2
+  - 0.73
+- - 3
+  - 1.0
+- - 4
+  - 1.0

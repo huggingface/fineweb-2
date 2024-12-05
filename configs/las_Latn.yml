@@ -1,0 +1,51 @@
+dup_line_frac: 0.971
+dup_n_grams:
+- - 5
+  - 0.529
+- - 6
+  - 0.538
+- - 7
+  - 0.524
+- - 8
+  - 0.514
+- - 9
+  - 0.498
+- - 10
+  - 0.494
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.761
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- na
+- wa
+- "\u0269"
+- ka
+- "s\u025B"
+- taa
+- me
+- "r\u025B\u025B"
+- "as\u025B"
+- te
+- wonte
+- "m\u0269"
+- "n'\u0269"
+- n
+- "w\u025B"
+- "\xF1\u0269"
+- ten
+- "n\u0269"
+- "\u0269\u0269"
+- ra
+- "la\u028B"
+- yera
+- yeesu
+- "s'\u0269"
+top_n_grams:
+- - 2
+  - 1.137
+- - 3
+  - 1.76
+- - 4
+  - 2.356

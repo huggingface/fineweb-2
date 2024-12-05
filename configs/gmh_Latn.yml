@@ -1,0 +1,47 @@
+dup_line_frac: 0.366
+dup_n_grams:
+- - 5
+  - 0.402
+- - 6
+  - 0.368
+- - 7
+  - 0.333
+- - 8
+  - 0.302
+- - 9
+  - 0.273
+- - 10
+  - 0.244
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- der
+- ich
+- und
+- in
+- die
+- daz
+- ir
+- ist
+- ein
+- das
+- den
+- des
+- er
+- von
+- mir
+- si
+- an
+- dem
+- mit
+- "s\xF4"
+top_n_grams:
+- - 2
+  - 0.328
+- - 3
+  - 0.355
+- - 4
+  - 0.349

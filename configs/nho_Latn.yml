@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.093
+- - 6
+  - 0.09
+- - 7
+  - 0.085
+- - 8
+  - 0.032
+- - 9
+  - 0.027
+- - 10
+  - 0.02
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.879
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- naa
+- te
+- ki
+- e
+- i
+- ni
+- tama
+- raa
+- ma
+- kootou
+- mee
+- aa
+- laatou
+- ia
+- maa
+- 'no'
+- nau
+- see
+- teatua
+- taratara
+- teenaa
+- nei
+- ku
+- ake
+- ko
+top_n_grams:
+- - 2
+  - 0.096
+- - 3
+  - 0.079
+- - 4
+  - 0.115

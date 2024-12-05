@@ -1,0 +1,41 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.702
+- - 6
+  - 0.675
+- - 7
+  - 0.665
+- - 8
+  - 0.664
+- - 9
+  - 0.635
+- - 10
+  - 0.626
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.905
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- agali
+- howa
+- ani
+- bialu
+- lalu
+- wali
+- mo
+- ibu
+- halu
+- bi
+- ibugua
+- anduane
+- hene
+- mini
+top_n_grams:
+- - 2
+  - 0.765
+- - 3
+  - 0.95
+- - 4
+  - 1.089

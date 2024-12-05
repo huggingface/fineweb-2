@@ -1,0 +1,52 @@
+dup_line_frac: 0.433
+dup_n_grams:
+- - 5
+  - 0.767
+- - 6
+  - 0.758
+- - 7
+  - 0.78
+- - 8
+  - 0.759
+- - 9
+  - 0.752
+- - 10
+  - 0.731
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.729
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- va'e
+- vy
+- he'i
+- xe
+- "nhandej\xE1ry"
+- rehe
+- ramo
+- pe
+- "kw\xE9ry"
+- py
+- katu
+- "\xEDxupe"
+- ma
+- ha
+- voi
+- hesu
+- "hagw\xE3"
+- gwi
+- ave
+- "nhe'\u1EBD"
+- va'ekwe
+- "va'er\xE3"
+- upe
+- "por\xE3"
+- nhande
+top_n_grams:
+- - 2
+  - 0.508
+- - 3
+  - 0.889
+- - 4
+  - 1.288

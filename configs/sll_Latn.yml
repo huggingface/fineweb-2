@@ -1,0 +1,49 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.877
+- - 6
+  - 0.878
+- - 7
+  - 0.877
+- - 8
+  - 0.875
+- - 9
+  - 0.875
+- - 10
+  - 0.875
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- i
+- na
+- di
+- ha
+- ni
+- god
+- ol
+- yal
+- dire
+- hobi
+- ta
+- si
+- ari
+- yu
+- yisas
+- wai
+- tal
+- te
+- pire
+- bani
+- pir
+- tere
+top_n_grams:
+- - 2
+  - 1.866
+- - 3
+  - 2.853
+- - 4
+  - 3.839

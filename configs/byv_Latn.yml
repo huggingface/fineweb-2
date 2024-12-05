@@ -1,0 +1,57 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.449
+- - 6
+  - 0.437
+- - 7
+  - 0.418
+- - 8
+  - 0.382
+- - 9
+  - 0.359
+- - 10
+  - 0.37
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- nsi
+- num
+- "l\xE0"
+- bo
+- be
+- a
+- ke
+- "\xE0"
+- mba
+- o
+- mbe
+- "nt\xF9m"
+- nke
+- "\xF1wa\u02BCni"
+- ze
+- "mb\xE8n"
+- tse
+- "tshw\xE8t"
+- "gh\xF9"
+- "bennt\xF9n"
+- yaweh
+- ntshob
+- ju
+- ben
+- "na\u02BC"
+- lo
+- yen
+- i
+- "b\u02BCa"
+- "mf\xE0"
+top_n_grams:
+- - 2
+  - 0.577
+- - 3
+  - 0.804
+- - 4
+  - 0.697

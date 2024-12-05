@@ -1,0 +1,41 @@
+dup_line_frac: 0.25
+dup_n_grams:
+- - 5
+  - 0.13
+- - 6
+  - 0.101
+- - 7
+  - 0.078
+- - 8
+  - 0.063
+- - 9
+  - 0.051
+- - 10
+  - 0.053
+line_punct_thr: 0.429
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.452
+stopwords:
+- ku
+- hi
+- na
+- ya
+- wa
+- a
+- va
+- ka
+- eka
+- ra
+- ta
+- e
+- u
+- nga
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

@@ -1,0 +1,39 @@
+dup_line_frac: 0.607
+dup_n_grams:
+- - 5
+  - 0.561
+- - 6
+  - 0.546
+- - 7
+  - 0.553
+- - 8
+  - 0.497
+- - 9
+  - 0.518
+- - 10
+  - 0.577
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 6
+new_line_ratio: 0.125
+stopwords:
+- tayta
+- mana
+- y
+- chay
+- manam
+- chaynuy
+- diosninchi
+- niran
+- runacuna
+- "jes\xFAs"
+- ali
+- ichanga
+top_n_grams:
+- - 2
+  - 0.76
+- - 3
+  - 0.996
+- - 4
+  - 1.0

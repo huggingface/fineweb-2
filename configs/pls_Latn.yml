@@ -1,0 +1,51 @@
+dup_line_frac: 0.47
+dup_n_grams:
+- - 5
+  - 0.513
+- - 6
+  - 0.5
+- - 7
+  - 0.453
+- - 8
+  - 0.477
+- - 9
+  - 0.441
+- - 10
+  - 0.39
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ra
+- ko
+- na
+- ixin
+- ngain
+- que
+- co
+- thi
+- tti
+- "na\u0331"
+- "n\xE1"
+- chojni
+- ndo
+- jehe
+- de
+- chujni
+- ni
+- "jes\xFAs"
+- xa
+- are
+- "m\xE9"
+- dios
+- para
+- janha
+top_n_grams:
+- - 2
+  - 0.466
+- - 3
+  - 0.556
+- - 4
+  - 0.543

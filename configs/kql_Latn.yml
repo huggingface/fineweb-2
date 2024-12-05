@@ -1,0 +1,50 @@
+dup_line_frac: 0.994
+dup_n_grams:
+- - 5
+  - 0.64
+- - 6
+  - 0.639
+- - 7
+  - 0.638
+- - 8
+  - 0.639
+- - 9
+  - 0.638
+- - 10
+  - 0.639
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.741
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- de
+- wulu
+- wun
+- kavik
+- "kat\u0268k"
+- wokok
+- valan
+- "jisas\u0268l\u0268n"
+- kape
+- yila
+- ga
+- galaveve
+- "yet\u0268k"
+- "kav\u0268la"
+- "siv\u0268leve"
+- gasak
+- "bala\xF1jun"
+- ben
+- "bala\xF1ju"
+- "gotk\u0268k"
+- "d\u0268n"
+- "\u014B\u0268n"
+- wunu
+top_n_grams:
+- - 2
+  - 0.8
+- - 3
+  - 1.38
+- - 4
+  - 1.759

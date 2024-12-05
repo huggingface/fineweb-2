@@ -1,0 +1,45 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.399
+- - 6
+  - 0.395
+- - 7
+  - 0.325
+- - 8
+  - 0.314
+- - 9
+  - 0.32
+- - 10
+  - 0.311
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- "ma\u028C\u0303"
+- "b\u0336\u028Ca"
+- idji
+- carea
+- dji
+- "b\u1EBDr\xE3"
+- "\xE3c\xF5r\u1EBDba"
+- bia
+- "\xE3c\xF5r\u1EBD"
+- "m\u028C\u0303a"
+- "qu\u0129r\xE3ca"
+- "j\u0169ma"
+- "barib\u028Cr\u028C"
+- "idjab\u0336a"
+- ume
+- ne
+- "pan\u028Ca"
+- "m\xE3w\xE3"
+top_n_grams:
+- - 2
+  - 0.113
+- - 3
+  - 0.172
+- - 4
+  - 0.159

@@ -1,0 +1,36 @@
+dup_line_frac: 0.222
+dup_n_grams:
+- - 5
+  - 0.136
+- - 6
+  - 0.142
+- - 7
+  - 0.103
+- - 8
+  - 0.105
+- - 9
+  - 0.087
+- - 10
+  - 0.044
+line_punct_thr: -1
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 5
+new_line_ratio: 0.2
+stopwords:
+- ja
+- le
+- "s\xE1me"
+- li
+- la
+- "g\xE5"
+- mij
+- aj
+- birra
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 1.0
+- - 4
+  - 0.268

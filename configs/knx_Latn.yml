@@ -1,0 +1,56 @@
+dup_line_frac: 0.8
+dup_n_grams:
+- - 5
+  - 0.671
+- - 6
+  - 0.668
+- - 7
+  - 0.629
+- - 8
+  - 0.534
+- - 9
+  - 0.602
+- - 10
+  - 0.451
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- nang
+- "ka\u02BC"
+- allah
+- urakng
+- man
+- ia
+- alkitab
+- "diri\u02BC"
+- yesus
+- koa
+- "untu\u02BC"
+- bisa
+- ada
+- yehuwa
+- "mao\u02BC"
+- dunia
+- "kita\u02BC"
+- ahe
+- samua
+- "kade\u02BC"
+- dari
+- dah
+- "nana\u02BC"
+- nian
+- "ina\u02BC"
+- jadi
+- manyak
+- mati
+- manusia
+top_n_grams:
+- - 2
+  - 0.667
+- - 3
+  - 0.742
+- - 4
+  - 0.795

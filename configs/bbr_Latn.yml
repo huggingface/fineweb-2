@@ -1,0 +1,53 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.402
+- - 6
+  - 0.4
+- - 7
+  - 0.399
+- - 8
+  - 0.394
+- - 9
+  - 0.388
+- - 10
+  - 0.39
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- kiro
+- ak
+- ko
+- anut
+- wa
+- "\xE4m\xE4n"
+- roasiret
+- nukan
+- akan
+- is
+- kon
+- roat
+- onok
+- nukas
+- ro
+- pak
+- opok
+- orip
+- jisas
+- ik
+- aru
+- akas
+- karauk
+- epar
+- kar
+- eposek
+top_n_grams:
+- - 2
+  - 0.109
+- - 3
+  - 0.128
+- - 4
+  - 0.157

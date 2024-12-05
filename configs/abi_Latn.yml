@@ -1,0 +1,46 @@
+dup_line_frac: 0.558
+dup_n_grams:
+- - 5
+  - 0.359
+- - 6
+  - 0.371
+- - 7
+  - 0.354
+- - 8
+  - 0.362
+- - 9
+  - 0.371
+- - 10
+  - 0.313
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- "\u03ADn\u0269"
+- "\u025Bn\u025B\u025B"
+- "l\u0254\u0302"
+- "b\u025B"
+- "m\u028B"
+- "\u0254n\u028B"
+- "\u025Bt\u0269"
+- "nyat\u0269"
+- "f\u025B\u0269n"
+- kpan
+- woju
+- akpan
+- "l\u0269"
+- "obu\u025B"
+- "\u025B"
+- heni
+- mu
+- "l\u025B\u025B"
+- jesi
+top_n_grams:
+- - 2
+  - 0.516
+- - 3
+  - 0.189
+- - 4
+  - 0.168

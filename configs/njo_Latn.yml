@@ -1,0 +1,45 @@
+dup_line_frac: 0.867
+dup_n_grams:
+- - 5
+  - 0.594
+- - 6
+  - 0.569
+- - 7
+  - 0.58
+- - 8
+  - 0.569
+- - 9
+  - 0.529
+- - 10
+  - 0.594
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- aser
+- nung
+- pa
+- ni
+- dang
+- parnok
+- pai
+- nungi
+- "k\xFC"
+- nenok
+- ne
+- lir
+- saka
+- ka
+- asoshi
+- agi
+- kibuba
+- parnoki
+top_n_grams:
+- - 2
+  - 0.8
+- - 3
+  - 1.0
+- - 4
+  - 1.159

@@ -1,0 +1,42 @@
+dup_line_frac: 0.111
+dup_n_grams:
+- - 5
+  - 0.094
+- - 6
+  - 0.062
+- - 7
+  - 0.046
+- - 8
+  - 0.032
+- - 9
+  - 0.024
+- - 10
+  - 0.017
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.796
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- e
+- "dsea\u02CB"
+- "jo\u0331"
+- "i\u0331"
+- do
+- "f\u0268\u02CA"
+- "jo\u0331gu\u0268"
+- "qui\xE1'\u02C9"
+- "ja\u02CB"
+- "j\xFAu\u02C6"
+- "fidi\xE9e\u02C7"
+- "m\u0268\u02DC"
+- "jal\xE9ng'\u02CB"
+- "c\xF3\u0331o\u0331'\u02DC"
+- "jo\u0331ba"
+top_n_grams:
+- - 2
+  - 0.042
+- - 3
+  - 0.04
+- - 4
+  - 0.039

@@ -1,0 +1,51 @@
+dup_line_frac: 0.532
+dup_n_grams:
+- - 5
+  - 0.516
+- - 6
+  - 0.474
+- - 7
+  - 0.454
+- - 8
+  - 0.425
+- - 9
+  - 0.409
+- - 10
+  - 0.382
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- bi
+- di
+- ma
+- amiye
+- mina
+- vene
+- ini
+- rofu
+- yaku
+- ya
+- sei
+- de
+- ago
+- moi
+- ina
+- resi
+- idu
+- na
+- niyo
+- vegu
+- ye
+- yokoi
+- tau
+- dudu
+top_n_grams:
+- - 2
+  - 0.397
+- - 3
+  - 0.564
+- - 4
+  - 0.591

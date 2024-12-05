@@ -1,0 +1,56 @@
+dup_line_frac: 0.467
+dup_n_grams:
+- - 5
+  - 0.387
+- - 6
+  - 0.371
+- - 7
+  - 0.375
+- - 8
+  - 0.343
+- - 9
+  - 0.36
+- - 10
+  - 0.343
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- ma
+- atahori
+- naa
+- fo
+- au
+- ana
+- sa
+- mana
+- ra
+- nda
+- sia
+- neu
+- tao
+- na
+- te
+- a
+- basa
+- boe
+- ia
+- lamatualain
+- ara
+- nara
+- de
+- hei
+- nae
+- 'no'
+- yesus
+- huu
+- ena
+top_n_grams:
+- - 2
+  - 0.469
+- - 3
+  - 0.5
+- - 4
+  - 0.541

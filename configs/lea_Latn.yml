@@ -1,0 +1,51 @@
+dup_line_frac: 0.962
+dup_n_grams:
+- - 5
+  - 0.822
+- - 6
+  - 0.832
+- - 7
+  - 0.815
+- - 8
+  - 0.818
+- - 9
+  - 0.828
+- - 10
+  - 0.812
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- nu
+- na
+- buno
+- mu
+- ku
+- kalaga
+- yehowa
+- yesu
+- bantu
+- buni
+- ka
+- kwa
+- kabamba
+- biblia
+- u
+- ndi
+- wa
+- za
+- bwa
+- ma
+- kya
+- aba
+- tondo
+- kalamo
+top_n_grams:
+- - 2
+  - 1.327
+- - 3
+  - 1.974
+- - 4
+  - 2.69

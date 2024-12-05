@@ -1,0 +1,40 @@
+dup_line_frac: 0.936
+dup_n_grams:
+- - 5
+  - 0.996
+- - 6
+  - 0.996
+- - 7
+  - 0.995
+- - 8
+  - 0.995
+- - 9
+  - 0.994
+- - 10
+  - 0.993
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.758
+min_avg_word_length: 7
+new_line_ratio: 0.083
+stopwords:
+- wali
+- palu
+- parla
+- nyanartijangka
+- pa
+- marni
+- ngajirta
+- manya
+- manyanangu
+- nyanarti
+- ngarpungu
+- yangka
+- ngarpu
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.849
+- - 4
+  - 1.161

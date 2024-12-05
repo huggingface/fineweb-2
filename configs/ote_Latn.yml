@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.068
+- - 6
+  - 0.051
+- - 7
+  - 0.034
+- - 8
+  - 0.023
+- - 9
+  - 0.013
+- - 10
+  - 0.01
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- "r\xE4"
+- bi
+- ra
+- "y\xE4"
+- pa
+- de
+- ma
+- ne
+- "d\xE4"
+- ya
+- da
+- mi
+- ja
+- "\uA78Cne"
+- ha
+- "nu\uA78Cu\u0331"
+- "g\xE4"
+- "r\xE1"
+- "n\xE4\uA78C\xE4"
+- te
+- di
+top_n_grams:
+- - 2
+  - 0.096
+- - 3
+  - 0.164
+- - 4
+  - 0.135

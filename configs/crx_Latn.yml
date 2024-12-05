@@ -1,0 +1,47 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.964
+- - 6
+  - 0.963
+- - 7
+  - 0.964
+- - 8
+  - 0.963
+- - 9
+  - 0.963
+- - 10
+  - 0.964
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.629
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- et
+- ink'ez
+- i
+- un
+- la
+- whe
+- be
+- yak'usda
+- cha
+- en
+- aw
+- de
+- dune
+- ndi
+- un'a
+- huwa
+- enne
+- whuz
+- hoonts'i
+- sizi
+top_n_grams:
+- - 2
+  - 1.282
+- - 3
+  - 2.244
+- - 4
+  - 2.884

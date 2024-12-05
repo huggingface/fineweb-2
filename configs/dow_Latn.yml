@@ -1,0 +1,47 @@
+dup_line_frac: 0.434
+dup_n_grams:
+- - 5
+  - 0.352
+- - 6
+  - 0.319
+- - 7
+  - 0.311
+- - 8
+  - 0.318
+- - 9
+  - 0.311
+- - 10
+  - 0.323
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- hi
+- a
+- gi
+- an
+- "n\u025B"
+- "b\u0254"
+- "w\u0254"
+- "y\u0254"
+- be
+- "b\u025Bt"
+- "w\u025B\u025B"
+- du
+- "g\u025B"
+- dood
+- mi
+- yeesu
+- "g\u0254"
+- "s\u025Bw"
+- "w\u025B"
+- "m\u0254"
+top_n_grams:
+- - 2
+  - 0.571
+- - 3
+  - 1.0
+- - 4
+  - 1.0

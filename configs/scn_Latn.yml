@@ -1,0 +1,42 @@
+dup_line_frac: 0.66
+dup_n_grams:
+- - 5
+  - 0.318
+- - 6
+  - 0.295
+- - 7
+  - 0.254
+- - 8
+  - 0.235
+- - 9
+  - 0.209
+- - 10
+  - 0.172
+line_punct_thr: 0.048
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.529
+stopwords:
+- di
+- e
+- lu
+- a
+- la
+- l'
+- "d\xE2"
+- "\xE8"
+- li
+- ca
+- na
+- "d\xFB"
+- nu
+- n
+- pruvincia
+top_n_grams:
+- - 2
+  - 0.21
+- - 3
+  - 0.25
+- - 4
+  - 0.275

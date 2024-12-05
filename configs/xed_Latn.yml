@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.064
+- - 6
+  - 0.049
+- - 7
+  - 0.033
+- - 8
+  - 0.03
+- - 9
+  - 0.017
+- - 10
+  - 0.014
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ta
+- ka
+- nda
+- ya
+- ma
+- tsa
+- "\u014Ba"
+- "h\u0259\u014B"
+- lazglafta
+- tsi
+- da
+- "dza\u02BCa"
+- skwi
+- mndu
+- yu
+- na
+- gwal
+- a
+- "gh\u0259\u014Ba"
+- wa
+- yesu
+- "na\u0301"
+top_n_grams:
+- - 2
+  - 0.083
+- - 3
+  - 0.044
+- - 4
+  - 0.058

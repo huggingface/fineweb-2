@@ -1,0 +1,55 @@
+dup_line_frac: 0.231
+dup_n_grams:
+- - 5
+  - 0.112
+- - 6
+  - 0.099
+- - 7
+  - 0.085
+- - 8
+  - 0.078
+- - 9
+  - 0.065
+- - 10
+  - 0.06
+line_punct_thr: 0.333
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.886
+min_avg_word_length: 3
+new_line_ratio: 0.235
+stopwords:
+- de
+- na
+- ie
+- la
+- tl
+- te
+- n
+- geografia
+- storia
+- l
+- populazion
+- dl
+- ovel
+- "km\xB2"
+- spersa
+- sun
+- y
+- luech
+- chemun
+- l'
+- contea
+- stat
+- metri
+- da
+- federel
+- i
+- "cr\xEBps"
+- "cr\xEBp"
+top_n_grams:
+- - 2
+  - 0.091
+- - 3
+  - 0.109
+- - 4
+  - 0.124

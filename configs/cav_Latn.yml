@@ -1,0 +1,51 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.418
+- - 6
+  - 0.414
+- - 7
+  - 0.414
+- - 8
+  - 0.407
+- - 9
+  - 0.403
+- - 10
+  - 0.4
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- jadya
+- ama
+- ecuana
+- micuana
+- cuanaque
+- tuna
+- bucha
+- cuana
+- tuque
+- ishu
+- tsehue
+- yusu
+- eque
+- ique
+- eje
+- queja
+- "jes\xFAs"
+- ni
+- inime
+- acuare
+- dyaque
+- quisarati
+- jucuare
+- juya
+top_n_grams:
+- - 2
+  - 0.127
+- - 3
+  - 0.164
+- - 4
+  - 0.202

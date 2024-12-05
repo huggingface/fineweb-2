@@ -1,0 +1,37 @@
+dup_line_frac: 0.308
+dup_n_grams:
+- - 5
+  - 0.19
+- - 6
+  - 0.2
+- - 7
+  - 0.215
+- - 8
+  - 0.171
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: 0.167
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.823
+min_avg_word_length: 1
+new_line_ratio: 0.373
+stopwords:
+- "n\u025B"
+- taa
+- "y\u0254"
+- se
+- "l\u025B"
+- "k\u025B"
+- "y\u0254\u0254"
+- "\u025Bja\u0256\u025B"
+- "p\u0269na\u0263"
+- "\u025B"
+top_n_grams:
+- - 2
+  - 0.559
+- - 3
+  - 0.794
+- - 4
+  - 1.0

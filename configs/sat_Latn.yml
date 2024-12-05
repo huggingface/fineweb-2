@@ -1,0 +1,39 @@
+dup_line_frac: 0.595
+dup_n_grams:
+- - 5
+  - 0.487
+- - 6
+  - 0.48
+- - 7
+  - 0.446
+- - 8
+  - 0.422
+- - 9
+  - 0.399
+- - 10
+  - 0.374
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.841
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- do
+- ar
+- uni
+- ona
+- "h\xF5"
+- onko
+- "i\u0144"
+- kana
+- "tah\u1EBDkana"
+- menkhan
+- okoe
+- ape
+top_n_grams:
+- - 2
+  - 0.533
+- - 3
+  - 0.678
+- - 4
+  - 0.638

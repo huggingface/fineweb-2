@@ -1,0 +1,41 @@
+dup_line_frac: 0.821
+dup_n_grams:
+- - 5
+  - 0.587
+- - 6
+  - 0.518
+- - 7
+  - 0.506
+- - 8
+  - 0.476
+- - 9
+  - 0.456
+- - 10
+  - 0.447
+line_punct_thr: 0.333
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.243
+stopwords:
+- di
+- nang
+- wan
+- adalah
+- kacamatan
+- indunisia
+- kampung
+- prupinsi
+- kabupatin
+- kalimantan
+- lawan
+- matan
+- dalam
+- sabuah
+top_n_grams:
+- - 2
+  - 0.417
+- - 3
+  - 0.54
+- - 4
+  - 0.609

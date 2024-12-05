@@ -1,0 +1,49 @@
+dup_line_frac: 0.25
+dup_n_grams:
+- - 5
+  - 0.165
+- - 6
+  - 0.139
+- - 7
+  - 0.12
+- - 8
+  - 0.108
+- - 9
+  - 0.105
+- - 10
+  - 0.109
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 2
+new_line_ratio: 0.091
+stopwords:
+- "n\u025B"
+- "\u0254"
+- a
+- e
+- "k\u025B"
+- "ng\u025B"
+- he
+- mi
+- wa
+- kaa
+- "n\u0254"
+- ma
+- maa
+- o
+- ha
+- ke
+- "n\xED"
+- ko
+- "ny\u025B"
+- je
+- pee
+- se
+top_n_grams:
+- - 2
+  - 0.226
+- - 3
+  - 0.171
+- - 4
+  - 0.205

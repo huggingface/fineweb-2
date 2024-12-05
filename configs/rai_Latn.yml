@@ -1,0 +1,48 @@
+dup_line_frac: 0.92
+dup_n_grams:
+- - 5
+  - 0.682
+- - 6
+  - 0.647
+- - 7
+  - 0.637
+- - 8
+  - 0.6
+- - 9
+  - 0.569
+- - 10
+  - 0.541
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- a
+- ma
+- ra
+- i
+- diat
+- baa
+- kum
+- u
+- muaat
+- na
+- in
+- pa
+- iaau
+- naa
+- taara
+- god
+- maa
+- karom
+- kupi
+- ia
+- waan
+top_n_grams:
+- - 2
+  - 1.557
+- - 3
+  - 2.264
+- - 4
+  - 3.113

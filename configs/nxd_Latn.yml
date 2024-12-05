@@ -1,0 +1,41 @@
+dup_line_frac: 0.96
+dup_n_grams:
+- - 5
+  - 0.779
+- - 6
+  - 0.77
+- - 7
+  - 0.759
+- - 8
+  - 0.771
+- - 9
+  - 0.753
+- - 10
+  - 0.729
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.774
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- ko
+- ena
+- la
+- nko
+- yakomba
+- lacina
+- koko
+- ate
+- bona
+- yoi
+- lina
+- yesu
+- eneyali
+- bana
+top_n_grams:
+- - 2
+  - 1.655
+- - 3
+  - 2.397
+- - 4
+  - 3.293

@@ -1,0 +1,48 @@
+dup_line_frac: 0.368
+dup_n_grams:
+- - 5
+  - 0.039
+- - 6
+  - 0.025
+- - 7
+  - 0.017
+- - 8
+  - 0.011
+- - 9
+  - 0.01
+- - 10
+  - 0.008
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.816
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- yo
+- na
+- koina
+- ana
+- mena
+- kabo
+- nige
+- yaubada
+- kaiwena
+- tomo
+- besiele
+- yeisu
+- tem
+- bwaite
+- kani
+- iya
+- yabo
+- kolili
+- ali
+- siya
+- kana
+top_n_grams:
+- - 2
+  - 0.051
+- - 3
+  - 0.065
+- - 4
+  - 0.107

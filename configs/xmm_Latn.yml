@@ -1,0 +1,55 @@
+dup_line_frac: 0.643
+dup_n_grams:
+- - 5
+  - 0.558
+- - 6
+  - 0.549
+- - 7
+  - 0.513
+- - 8
+  - 0.53
+- - 9
+  - 0.513
+- - 10
+  - 0.489
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- tu
+- pa
+- pe
+- orang
+- itu
+- yang
+- dia
+- deng
+- ngoni
+- kita
+- da
+- mo
+- dorang
+- kong
+- tuhan
+- di
+- so
+- torang
+- nyanda
+- lei
+- yesus
+- beking
+- dari
+- ada
+- kalu
+- for
+- allah
+- se
+top_n_grams:
+- - 2
+  - 0.402
+- - 3
+  - 0.541
+- - 4
+  - 0.56

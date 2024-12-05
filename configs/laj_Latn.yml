@@ -1,0 +1,49 @@
+dup_line_frac: 0.727
+dup_n_grams:
+- - 5
+  - 0.664
+- - 6
+  - 0.671
+- - 7
+  - 0.656
+- - 8
+  - 0.654
+- - 9
+  - 0.641
+- - 10
+  - 0.63
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- i
+- ame
+- a
+- me
+- kede
+- ni
+- jo
+- en
+- mom
+- gin
+- te
+- wunu
+- "oba\u014Ba"
+- ka
+- tye
+- rik
+- "do\u014B"
+- pi
+- "da\u014B"
+- oko
+- kop
+- pien
+top_n_grams:
+- - 2
+  - 0.841
+- - 3
+  - 0.947
+- - 4
+  - 1.167

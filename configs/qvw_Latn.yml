@@ -1,0 +1,40 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.003
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 7
+new_line_ratio: 0.125
+stopwords:
+- mana
+- chay
+- cay
+- nil
+- "\xF1atac"
+- "\xBF"
+- "sum\xE4"
+- lluy
+- diospa
+- tayta
+- juc
+- allin
+- manam
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.181
+- - 4
+  - 0.214

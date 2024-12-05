@@ -1,0 +1,44 @@
+dup_line_frac: 0.038
+dup_n_grams:
+- - 5
+  - 0.06
+- - 6
+  - 0.046
+- - 7
+  - 0.03
+- - 8
+  - 0.02
+- - 9
+  - 0.013
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- ya
+- an
+- nan
+- di
+- hi
+- ta
+- ay
+- at
+- hinan
+- dios
+- apo
+- ti
+- goh
+- din
+- mu
+- un
+- hay
+top_n_grams:
+- - 2
+  - 0.16
+- - 3
+  - 0.168
+- - 4
+  - 0.145

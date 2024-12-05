@@ -1,0 +1,41 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.44
+- - 6
+  - 0.439
+- - 7
+  - 0.44
+- - 8
+  - 0.428
+- - 9
+  - 0.437
+- - 10
+  - 0.419
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 6
+new_line_ratio: 0.125
+stopwords:
+- ale
+- nasgi
+- hia
+- gesv
+- gesvi
+- vra
+- unelanvhi
+- cisa
+- nasqo
+- yvwi
+- gesesdi
+- gilo
+- nigesvna
+- cigi
+top_n_grams:
+- - 2
+  - 0.388
+- - 3
+  - 0.488
+- - 4
+  - 0.519

@@ -1,0 +1,41 @@
+dup_line_frac: 0.521
+dup_n_grams:
+- - 5
+  - 0.371
+- - 6
+  - 0.374
+- - 7
+  - 0.333
+- - 8
+  - 0.331
+- - 9
+  - 0.317
+- - 10
+  - 0.243
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- aporo
+- soko
+- kotimo
+- makata
+- arirakano
+- someraka
+- repo
+- ipi
+- "a\xEDyaka"
+- "no\u0304mo"
+- "ayi\xE1ka"
+- some
+- ano
+- hinamo
+top_n_grams:
+- - 2
+  - 0.952
+- - 3
+  - 0.714
+- - 4
+  - 0.978

@@ -1,0 +1,40 @@
+dup_line_frac: 0.429
+dup_n_grams:
+- - 5
+  - 0.161
+- - 6
+  - 0.078
+- - 7
+  - 0.039
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- oku
+- va
+- wa
+- okuti
+- tu
+- ka
+- a
+- yehova
+- kuenda
+- o
+- ci
+- eci
+- via
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.789
+- - 4
+  - 0.926

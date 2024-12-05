@@ -1,0 +1,46 @@
+dup_line_frac: 0.488
+dup_n_grams:
+- - 5
+  - 0.574
+- - 6
+  - 0.561
+- - 7
+  - 0.479
+- - 8
+  - 0.366
+- - 9
+  - 0.365
+- - 10
+  - 0.365
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.73
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ra
+- ru
+- am
+- ondo
+- 'no'
+- ulun
+- ri
+- i
+- io
+- koson
+- kalo
+- noyo
+- nano
+- intor
+- ilo
+- aki
+- kapuuno
+- tuhan
+- aku
+top_n_grams:
+- - 2
+  - 0.452
+- - 3
+  - 0.543
+- - 4
+  - 0.592

@@ -1,0 +1,52 @@
+dup_line_frac: 0.667
+dup_n_grams:
+- - 5
+  - 0.822
+- - 6
+  - 0.829
+- - 7
+  - 0.808
+- - 8
+  - 0.815
+- - 9
+  - 0.8
+- - 10
+  - 0.792
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- la
+- "dj\u025B"
+- "l\xE1"
+- yehova
+- "w\u0254"
+- nde
+- "k\u025B"
+- poolo
+- "w\u025B"
+- wopo
+- "win\xE1"
+- edjinge
+- "m\xE1"
+- efula
+- "w\u0254l\u0254"
+- "k\u025Bn\u025B"
+- iso
+- ante
+- wa
+- nkoka
+- "w\u0254k\u0254nge"
+- anto
+- nangha
+- nkambo
+- "wanany\u0254"
+top_n_grams:
+- - 2
+  - 1.691
+- - 3
+  - 2.411
+- - 4
+  - 3.041

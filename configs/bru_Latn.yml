@@ -1,0 +1,53 @@
+dup_line_frac: 0.571
+dup_n_grams:
+- - 5
+  - 0.505
+- - 6
+  - 0.5
+- - 7
+  - 0.502
+- - 8
+  - 0.508
+- - 9
+  - 0.5
+- - 10
+  - 0.482
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- "\xE1n"
+- ki
+- "c\u0169ai"
+- anhia
+- "c\u1EDBp"
+- "al\u1EDBi"
+- "b\u1EEFn"
+- "c\u1EE9q"
+- "t\u1EC5"
+- "\u2011"
+- "t\u1EE1"
+- "y\u1ED7n"
+- "t\xE1q"
+- yiang
+- "l\u1EE9q"
+- "t\xE2ng"
+- "surs\u0129"
+- la
+- su
+- ca
+- "y\xEA\u2011"
+- "ch\u01A1"
+- "m\xE1h"
+- "at\u1EE1ng"
+- "to\xE2q"
+- "n\xE2i"
+top_n_grams:
+- - 2
+  - 0.352
+- - 3
+  - 0.295
+- - 4
+  - 0.281

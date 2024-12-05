@@ -1,0 +1,67 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.103
+- - 6
+  - 0.077
+- - 7
+  - 0.054
+- - 8
+  - 0.043
+- - 9
+  - 0.039
+- - 10
+  - 0.032
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- "\xEDma"
+- "s\xE9na"
+- "\xEDsu"
+- "\xE1\xE1n\xFAtu"
+- kwaasi
+- "s\xE9sa"
+- aimba
+- "um\xE1i"
+- "kwen\xE1"
+- "s\xE1w\xED"
+- "\xE1\xE1n\xFAtun"
+- "im\xE1y\xE1a"
+- "kwa\xE1si"
+- "mir\xE1"
+- iye
+- "mo\xF3r\xE1"
+- "kawe'\xE1"
+- aai
+- "sir\xE1iye"
+- "\xE1\xE1n\xFAtuna"
+- "\xEDmo"
+- "kw\xE1\xE1s\xED"
+- "\xE9na"
+- "\xE9sa"
+- "kes\xED"
+- "an\xF3n"
+- "s\xE9'a"
+- "\xFAwoi"
+- "min\xE1\xEDmb\xE1"
+- "s\xFAwana"
+- umai
+- "p\xF3na"
+- "\xE1w\xED'a"
+- "s\xE1w\xED'a"
+- "\xE1raire"
+- "y\xFAtaa"
+- "\xE9'a"
+- "mo\xF3r\xE1wai"
+- "\xE1\xEDmb\xE1"
+- "kem\xE1"
+top_n_grams:
+- - 2
+  - 0.123
+- - 3
+  - 0.121
+- - 4
+  - 0.173

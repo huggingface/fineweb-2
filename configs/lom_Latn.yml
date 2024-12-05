@@ -1,0 +1,46 @@
+dup_line_frac: 0.391
+dup_n_grams:
+- - 5
+  - 0.331
+- - 6
+  - 0.282
+- - 7
+  - 0.286
+- - 8
+  - 0.282
+- - 9
+  - 0.263
+- - 10
+  - 0.287
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ga
+- te
+- "\xE9"
+- na
+- ma
+- "\u0263\u025B"
+- "\u0263a"
+- ta
+- wo
+- zu
+- "l\u025B"
+- nii
+- gala
+- va
+- nu
+- "\u028Baa"
+- "\xE8"
+- "\u0263\u025Bni"
+- la
+top_n_grams:
+- - 2
+  - 0.362
+- - 3
+  - 0.529
+- - 4
+  - 0.559

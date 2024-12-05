@@ -1,0 +1,45 @@
+dup_line_frac: 0.927
+dup_n_grams:
+- - 5
+  - 0.672
+- - 6
+  - 0.704
+- - 7
+  - 0.672
+- - 8
+  - 0.627
+- - 9
+  - 0.704
+- - 10
+  - 0.588
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- mai
+- dai
+- ati
+- deoso
+- ai
+- yama
+- ene
+- yeso
+- "ati\u2011ya"
+- oda
+- "mai\u2011ya"
+- na
+- toha
+- "i\u2011di"
+- "deoso\u2011ka"
+- owa
+- "dai\u2011ya"
+- ihi
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.217
+- - 4
+  - 1.826

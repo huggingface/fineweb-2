@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.18
+- - 6
+  - 0.138
+- - 7
+  - 0.135
+- - 8
+  - 0.095
+- - 9
+  - 0.099
+- - 10
+  - 0.082
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.905
+min_avg_word_length: 3
+new_line_ratio: 0.091
+stopwords:
+- ve
+- "aw\u02EC"
+- hui
+- "te\u02C7"
+- "yaw\u02C7"
+- leh
+- "yo\u02EC."
+- "nga\u02EC"
+- "hta\uA788"
+- "tu\u02EC"
+- "ma\u02C7"
+- te
+- chaw
+- "leh\u02EC"
+- "hta\u2038"
+- "pi\u02C7"
+- "naw\u02EC"
+- nyi
+- lo
+- "g\u02BCa"
+- chi
+- "la\u02C7"
+top_n_grams:
+- - 2
+  - 0.112
+- - 3
+  - 0.189
+- - 4
+  - 0.131

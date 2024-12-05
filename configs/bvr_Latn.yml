@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.427
+- - 6
+  - 0.423
+- - 7
+  - 0.42
+- - 8
+  - 0.417
+- - 9
+  - 0.414
+- - 10
+  - 0.41
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 4
+new_line_ratio: 0.04
+stopwords:
+- gun
+- a
+- aburr
+- gu
+- an
+- minypa
+- gata
+- rrapa
+- nipa
+- barra
+- ana
+- wurra
+- nula
+- nyiburr
+- ni
+- lika
+- wangarr
+- gala
+- burr
+- ngu
+- workiya
+- ngaypa
+- mu
+top_n_grams:
+- - 2
+  - 0.137
+- - 3
+  - 0.124
+- - 4
+  - 0.141

@@ -1,0 +1,56 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.386
+- - 7
+  - 0.372
+- - 8
+  - 0.386
+- - 9
+  - 0.357
+- - 10
+  - 0.393
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.59
+min_avg_word_length: 3
+new_line_ratio: 0.037
+stopwords:
+- "\u025B"
+- mu
+- "bh\u025B"
+- ke
+- la
+- "\u2011o"
+- ka
+- yi
+- ma
+- "bh\u025B\u025B\u2011"
+- ni
+- "m\u025B\u025B"
+- le
+- a
+- ta
+- -o
+- "\u014B"
+- do
+- "d\u0254\u0254"
+- "\u2011a"
+- "bh\u025B\u025B-"
+- mi
+- ba
+- nu
+- zi
+- zesu
+- pegee
+- "\u2011waanbhaa"
+- zan
+top_n_grams:
+- - 2
+  - 0.061
+- - 3
+  - 0.075
+- - 4
+  - 0.087

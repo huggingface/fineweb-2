@@ -1,0 +1,52 @@
+dup_line_frac: 0.208
+dup_n_grams:
+- - 5
+  - 0.467
+- - 6
+  - 0.442
+- - 7
+  - 0.423
+- - 8
+  - 0.37
+- - 9
+  - 0.402
+- - 10
+  - 0.386
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.871
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- te
+- ni
+- "je\u0113"
+- de
+- i
+- "r\xF3"
+- chi
+- "nu\u016B"
+- "n\xED"
+- ya
+- "r\u014D"
+- "ji\xEDn"
+- "c\xFAu"
+- na
+- "ya\u0101"
+- "y\u0101"
+- "j\xED\xEDn"
+- "s\xE1ha"
+- "\xF1ayuu"
+- "r\u012B"
+- "\u0268\u0268n"
+- dios
+- "j\xE9\u0113"
+- "n\xFAu"
+- "jn\u016Bhun"
+top_n_grams:
+- - 2
+  - 0.326
+- - 3
+  - 0.57
+- - 4
+  - 0.619

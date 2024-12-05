@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.061
+- - 6
+  - 0.044
+- - 7
+  - 0.032
+- - 8
+  - 0.022
+- - 9
+  - 0.017
+- - 10
+  - 0.015
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- na
+- ni
+- "l\u025Bl\u0254"
+- ka
+- "kat\u0254ti"
+- "\u0254ni"
+- ku
+- nwu
+- kemo
+- bekyuli
+- "\u0192ui"
+- "\u0254di"
+- yesu
+- ma
+- "l\u025Bni"
+- ukyuli
+- ala
+top_n_grams:
+- - 2
+  - 0.08
+- - 3
+  - 0.103
+- - 4
+  - 0.126

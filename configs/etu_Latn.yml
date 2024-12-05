@@ -1,0 +1,50 @@
+dup_line_frac: 0.708
+dup_n_grams:
+- - 5
+  - 0.385
+- - 6
+  - 0.359
+- - 7
+  - 0.345
+- - 8
+  - 0.327
+- - 9
+  - 0.316
+- - 10
+  - 0.31
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- a
+- "\xE1"
+- ka
+- na
+- "\xEAn"
+- "\xE9"
+- obhasi
+- ane
+- "k\xED"
+- nji
+- "y\xEA"
+- "\xF3"
+- se
+- nne
+- "s\xEA"
+- ri
+- jisos
+- kpe
+- nnyo
+- "\xE1bho"
+- "k\u0259n"
+- "\xED"
+- "\u1E3Fb\u0259\u0301\u014B\xE9"
+top_n_grams:
+- - 2
+  - 0.185
+- - 3
+  - 0.222
+- - 4
+  - 0.333

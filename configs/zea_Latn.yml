@@ -1,0 +1,37 @@
+dup_line_frac: 0.576
+dup_n_grams:
+- - 5
+  - 0.4
+- - 6
+  - 0.37
+- - 7
+  - 0.351
+- - 8
+  - 0.339
+- - 9
+  - 0.318
+- - 10
+  - 0.304
+line_punct_thr: 0.167
+max_avg_word_length: 35
+max_non_alpha_words_ratio: 0.696
+min_avg_word_length: 3
+new_line_ratio: 0.256
+stopwords:
+- de
+- in
+- van
+- '''t'
+- en
+- is
+- '''n'
+- een
+- op
+- frankriek
+top_n_grams:
+- - 2
+  - 0.434
+- - 3
+  - 0.484
+- - 4
+  - 0.458

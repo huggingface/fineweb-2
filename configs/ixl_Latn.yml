@@ -1,0 +1,48 @@
+dup_line_frac: 0.972
+dup_n_grams:
+- - 5
+  - 0.886
+- - 6
+  - 0.787
+- - 7
+  - 0.886
+- - 8
+  - 0.81
+- - 9
+  - 0.769
+- - 10
+  - 0.761
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.73
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- u
+- as
+- "inq\u02BCa"
+- tul
+- tan
+- uva
+- "uva\u02BC"
+- tu
+- ech
+- unq'a
+- s
+- ve't
+- la
+- "ti\u02BC"
+- ti
+- nik
+- tal
+- "la\u02BC"
+- jesuus
+- vet
+- "qub\u02BCaal"
+top_n_grams:
+- - 2
+  - 1.861
+- - 3
+  - 2.754
+- - 4
+  - 3.592

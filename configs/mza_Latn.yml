@@ -1,0 +1,49 @@
+dup_line_frac: 0.818
+dup_n_grams:
+- - 5
+  - 0.45
+- - 6
+  - 0.444
+- - 7
+  - 0.42
+- - 8
+  - 0.36
+- - 9
+  - 0.381
+- - 10
+  - 0.4
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.854
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- ma
+- ra
+- "\xF1a"
+- ta
+- na
+- ndo
+- yi
+- nuu
+- chi'in
+- "k\xF9u"
+- ndra
+- ndioo
+- yo
+- "\xECyo"
+- ni
+- ndian
+- va
+- ikan
+- "\xF1ivi"
+- tu'un
+- jesuu
+- ora
+top_n_grams:
+- - 2
+  - 0.261
+- - 3
+  - 0.331
+- - 4
+  - 0.253

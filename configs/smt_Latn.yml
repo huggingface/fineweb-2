@@ -1,0 +1,47 @@
+dup_line_frac: 0.591
+dup_n_grams:
+- - 5
+  - 0.507
+- - 6
+  - 0.486
+- - 7
+  - 0.444
+- - 8
+  - 0.415
+- - 9
+  - 0.411
+- - 10
+  - 0.382
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- hi
+- in
+- chu
+- ka
+- na
+- diing
+- huleh
+- leh
+- ahi
+- uh
+- va
+- hung
+- uhi
+- sih
+- ah
+- ahung
+- um
+- pathian
+- amah
+top_n_grams:
+- - 2
+  - 0.665
+- - 3
+  - 0.861
+- - 4
+  - 0.8

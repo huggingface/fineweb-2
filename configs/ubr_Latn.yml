@@ -1,0 +1,47 @@
+dup_line_frac: 0.464
+dup_n_grams:
+- - 5
+  - 0.446
+- - 6
+  - 0.383
+- - 7
+  - 0.348
+- - 8
+  - 0.357
+- - 9
+  - 0.393
+- - 10
+  - 0.446
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- 'on'
+- ato
+- an
+- men
+- sabu
+- osi
+- yau
+- omi
+- dura
+- god
+- mes
+- a
+- nan
+- aurin
+- orot
+- bobo
+- arimon
+- engon
+- baise
+- iesu
+top_n_grams:
+- - 2
+  - 0.643
+- - 3
+  - 0.804
+- - 4
+  - 1.042

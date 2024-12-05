@@ -1,0 +1,49 @@
+dup_line_frac: 0.909
+dup_n_grams:
+- - 5
+  - 0.231
+- - 6
+  - 0.203
+- - 7
+  - 0.148
+- - 8
+  - 0.148
+- - 9
+  - 0.143
+- - 10
+  - 0.106
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.863
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- a
+- u
+- na
+- n
+- i
+- "\u0257a"
+- "ta\u0331"
+- "a\u0331"
+- ka
+- tsu
+- ili
+- "ka\u0331shile"
+- adama
+- ni
+- ba
+- o
+- e
+- le
+- yi
+- uma
+- wi
+- ci
+top_n_grams:
+- - 2
+  - 0.143
+- - 3
+  - 0.208
+- - 4
+  - 0.255

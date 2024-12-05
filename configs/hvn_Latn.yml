@@ -1,0 +1,48 @@
+dup_line_frac: 0.634
+dup_n_grams:
+- - 5
+  - 0.503
+- - 6
+  - 0.494
+- - 7
+  - 0.479
+- - 8
+  - 0.45
+- - 9
+  - 0.44
+- - 10
+  - 0.42
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- do
+- ne
+- ta
+- ke
+- nga
+- ri
+- pa
+- 'no'
+- ddau
+- he
+- mu
+- ya
+- ro
+- dhara
+- jhe
+- deo
+- lua
+- hari
+- la
+- yesus
+- we
+top_n_grams:
+- - 2
+  - 0.575
+- - 3
+  - 0.616
+- - 4
+  - 0.643

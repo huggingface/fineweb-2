@@ -1,0 +1,45 @@
+dup_line_frac: 0.987
+dup_n_grams:
+- - 5
+  - 0.842
+- - 6
+  - 0.847
+- - 7
+  - 0.836
+- - 8
+  - 0.825
+- - 9
+  - 0.831
+- - 10
+  - 0.814
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- vi
+- ti
+- vika
+- vira
+- kia
+- te
+- vaiinti
+- vo
+- viva
+- ne
+- uva
+- kotiva
+- are
+- tiro
+- nai
+- kotira
+- kaiqa
+- tiva
+top_n_grams:
+- - 2
+  - 0.931
+- - 3
+  - 1.412
+- - 4
+  - 1.906

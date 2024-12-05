@@ -1,0 +1,42 @@
+dup_line_frac: 0.944
+dup_n_grams:
+- - 5
+  - 0.723
+- - 6
+  - 0.722
+- - 7
+  - 0.716
+- - 8
+  - 0.71
+- - 9
+  - 0.714
+- - 10
+  - 0.702
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- ku
+- ki
+- ka
+- la
+- si
+- kai
+- lri
+- kwini
+- swa
+- umawmase
+- ikai
+- twaumase
+- tamatama
+- kikai
+- numi
+top_n_grams:
+- - 2
+  - 0.743
+- - 3
+  - 0.932
+- - 4
+  - 1.244

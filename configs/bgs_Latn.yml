@@ -1,0 +1,48 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.399
+- - 6
+  - 0.396
+- - 7
+  - 0.394
+- - 8
+  - 0.393
+- - 9
+  - 0.392
+- - 10
+  - 0.389
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "t\xF4"
+- na
+- ka
+- "kat\xF4"
+- mga
+- ta
+- tun
+- asta
+- din
+- dan
+- manama
+- si
+- "manub\xF9"
+- ku
+- sikandin
+- su
+- yu
+- asal
+- "\xE1nd\xE0"
+- "k\xF3"
+- ki
+top_n_grams:
+- - 2
+  - 0.116
+- - 3
+  - 0.146
+- - 4
+  - 0.168

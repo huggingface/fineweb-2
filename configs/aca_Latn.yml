@@ -1,0 +1,37 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.418
+- - 6
+  - 0.416
+- - 7
+  - 0.415
+- - 8
+  - 0.411
+- - 9
+  - 0.41
+- - 10
+  - 0.412
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- "li\xE1'a"
+- ya
+- "n\xE1a'a"
+- ne
+- dios
+- "jes\xFAs"
+- "quin\xEDnama"
+- "n\xE9enee"
+- "nal\xED"
+- "j\xE1iwa"
+top_n_grams:
+- - 2
+  - 0.126
+- - 3
+  - 0.171
+- - 4
+  - 0.215

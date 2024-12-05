@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.076
+- - 6
+  - 0.047
+- - 7
+  - 0.037
+- - 8
+  - 0.029
+- - 9
+  - 0.021
+- - 10
+  - 0.019
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- uje
+- hn
+- "\xF5r"
+- ich
+- erze
+- ye
+- porrosht
+- par
+- olak
+- "\u0268r"
+- ese
+- "sh\u0268"
+- oso
+- "\u0268re"
+- "w\u0268r"
+- shuu
+- yok
+- "jes\xFAs"
+- "tat\u0268m"
+- "w\u0268ch\u0268"
+- heke
+- pork
+top_n_grams:
+- - 2
+  - 0.042
+- - 3
+  - 0.04
+- - 4
+  - 0.038

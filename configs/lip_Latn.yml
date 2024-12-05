@@ -1,0 +1,43 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.352
+- - 6
+  - 0.328
+- - 7
+  - 0.311
+- - 8
+  - 0.293
+- - 9
+  - 0.275
+- - 10
+  - 0.243
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- "l\u01DD"
+- eto
+- "w\u01DD"
+- nya
+- "\u01DDsu\u01DD"
+- onanto
+- ku
+- "m\u01DD"
+- "b\u01DD"
+- mi
+- "nk\u01DD"
+- "n\u01DD"
+- betidi
+- nnya
+- ni
+- yesu
+top_n_grams:
+- - 2
+  - 0.26
+- - 3
+  - 0.357
+- - 4
+  - 0.428

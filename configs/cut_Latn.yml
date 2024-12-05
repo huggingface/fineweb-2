@@ -1,0 +1,48 @@
+dup_line_frac: 0.029
+dup_n_grams:
+- - 5
+  - 0.111
+- - 6
+  - 0.088
+- - 7
+  - 0.069
+- - 8
+  - 0.051
+- - 9
+  - 0.044
+- - 10
+  - 0.038
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- che
+- ne
+- ye
+- ihyan
+- yahn
+- "ma\u0331n"
+- vo
+- se
+- "a\u0331ma"
+- te
+- dendiohs
+- hua
+- a
+- nchuhn
+- dihvo
+- min
+- "na\u0331n"
+- nduco
+- "sa\u0331hn"
+- chahn
+- ro
+top_n_grams:
+- - 2
+  - 0.044
+- - 3
+  - 0.065
+- - 4
+  - 0.044

@@ -1,0 +1,53 @@
+dup_line_frac: 0.804
+dup_n_grams:
+- - 5
+  - 0.6
+- - 6
+  - 0.6
+- - 7
+  - 0.596
+- - 8
+  - 0.602
+- - 9
+  - 0.593
+- - 10
+  - 0.6
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- a
+- ka
+- wo
+- ye
+- la
+- n
+- ko
+- i
+- ri
+- ni
+- ma
+- "r\u0254"
+- "m\u025Bn"
+- alu
+- ai
+- na
+- "y\u025B"
+- le
+- "k\u025B"
+- di
+- "b\u025B\u025B"
+- kan
+- wa
+- an
+- alla
+- "f\u0254"
+top_n_grams:
+- - 2
+  - 1.285
+- - 3
+  - 1.905
+- - 4
+  - 2.526

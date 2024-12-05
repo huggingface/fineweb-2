@@ -1,0 +1,43 @@
+dup_line_frac: 0.007
+dup_n_grams:
+- - 5
+  - 0.512
+- - 6
+  - 0.62
+- - 7
+  - 0.357
+- - 8
+  - 0.403
+- - 9
+  - 0.465
+- - 10
+  - 0.512
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.791
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- a
+- sino
+- si
+- e
+- dios
+- se
+- ino
+- nu
+- i
+- ki
+- udde
+- jesus
+- gafu
+- anna
+- sikwana
+- ammena
+top_n_grams:
+- - 2
+  - 0.504
+- - 3
+  - 0.853
+- - 4
+  - 0.899

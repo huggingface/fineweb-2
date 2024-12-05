@@ -1,0 +1,42 @@
+dup_line_frac: 0.905
+dup_n_grams:
+- - 5
+  - 0.733
+- - 6
+  - 0.764
+- - 7
+  - 0.733
+- - 8
+  - 0.679
+- - 9
+  - 0.764
+- - 10
+  - 0.636
+line_punct_thr: 0.071
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.799
+min_avg_word_length: 2
+new_line_ratio: 0.429
+stopwords:
+- ring
+- punika
+- "san\xE9"
+- inggih
+- miwah
+- kecamatan
+- "d\xE9sa"
+- bali
+- puniki
+- silih
+- tunggil
+- "indon\xE9sia"
+- "kabupat\xE9n"
+- aksara
+- saking
+top_n_grams:
+- - 2
+  - 0.909
+- - 3
+  - 1.152
+- - 4
+  - 1.649

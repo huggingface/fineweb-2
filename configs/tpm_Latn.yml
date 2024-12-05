@@ -1,0 +1,55 @@
+dup_line_frac: 0.027
+dup_n_grams:
+- - 5
+  - 0.564
+- - 6
+  - 0.517
+- - 7
+  - 0.525
+- - 8
+  - 0.51
+- - 9
+  - 0.541
+- - 10
+  - 0.494
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.88
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- a
+- o
+- ba
+- ni
+- ya
+- wa
+- fun
+- ti
+- chen
+- ma
+- "fun\u025B"
+- mu
+- naa
+- di
+- zi
+- koosa
+- ta
+- "ny\u025B"
+- la
+- ka
+- awa
+- maga
+- kaa
+- kpa
+- i
+- "\u014B\u0254"
+- un
+- tum
+top_n_grams:
+- - 2
+  - 1.243
+- - 3
+  - 1.784
+- - 4
+  - 2.201

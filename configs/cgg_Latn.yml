@@ -1,0 +1,42 @@
+dup_line_frac: 0.964
+dup_n_grams:
+- - 5
+  - 0.776
+- - 6
+  - 0.772
+- - 7
+  - 0.765
+- - 8
+  - 0.765
+- - 9
+  - 0.765
+- - 10
+  - 0.753
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- omu
+- yehova
+- ni
+- ku
+- ngu
+- kandi
+- ari
+- aha
+- turi
+- kubasa
+- na
+- ruhanga
+- oku
+- ori
+- yesu
+top_n_grams:
+- - 2
+  - 1.344
+- - 3
+  - 2.02
+- - 4
+  - 2.602

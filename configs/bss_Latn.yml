@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.144
+- - 6
+  - 0.044
+- - 7
+  - 0.03
+- - 8
+  - 0.023
+- - 9
+  - 0.018
+- - 10
+  - 0.018
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "\xE1"
+- bad
+- ne
+- "bo\u014B"
+- "m\u0254\u0301"
+- "dy\u01D2b"
+- "n\u025B\u0301n"
+- e
+- mod
+- "b\xE1n"
+- "b\u0254\u0301"
+- "\xE1de"
+- "\xE1be"
+- "a\xE1"
+- "yesu\u025B"
+- "a\u0301"
+- "aw\u011B"
+top_n_grams:
+- - 2
+  - 0.131
+- - 3
+  - 0.239
+- - 4
+  - 0.259

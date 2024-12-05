@@ -1,0 +1,48 @@
+dup_line_frac: 0.963
+dup_n_grams:
+- - 5
+  - 0.757
+- - 6
+  - 0.759
+- - 7
+  - 0.759
+- - 8
+  - 0.749
+- - 9
+  - 0.746
+- - 10
+  - 0.748
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- "n\xFA"
+- nu
+- bee
+- bene
+- enu
+- lu
+- diose
+- neca
+- la
+- tucu
+- cuna
+- beella
+- para
+- chenu
+- equie
+- ze'e
+- xne
+- jesucristo
+- pero
+- "lun\xFA"
+- beei
+top_n_grams:
+- - 2
+  - 1.699
+- - 3
+  - 2.633
+- - 4
+  - 3.563

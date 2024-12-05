@@ -1,0 +1,54 @@
+dup_line_frac: 0.238
+dup_n_grams:
+- - 5
+  - 0.051
+- - 6
+  - 0.034
+- - 7
+  - 0.025
+- - 8
+  - 0.018
+- - 9
+  - 0.015
+- - 10
+  - 0.014
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.864
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- ma
+- ba
+- "an\xEA\u014B"
+- ek
+- "\xEA\u014B"
+- "ab\xF4"
+- "av\xF4mal\xF4"
+- nena
+- yani
+- "mi\u014B"
+- "m\xF4l\xF4"
+- ami
+- "any\xF4"
+- "wap\xF4mb\xEA\u014B"
+- "l\xF4k"
+- tem
+- "b\xEA\u014B"
+- hathak
+- atu
+- "\u014B\xEA"
+- "had\xEA\u014B"
+- "hana\u014B"
+- intu
+- takatu
+- yisu
+- "th\xEAl\xF4"
+- "hat\xF4m"
+top_n_grams:
+- - 2
+  - 0.076
+- - 3
+  - 0.078
+- - 4
+  - 0.09

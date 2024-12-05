@@ -1,0 +1,42 @@
+dup_line_frac: 0.731
+dup_n_grams:
+- - 5
+  - 0.429
+- - 6
+  - 0.421
+- - 7
+  - 0.391
+- - 8
+  - 0.383
+- - 9
+  - 0.373
+- - 10
+  - 0.356
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.711
+min_avg_word_length: 7
+new_line_ratio: 0.111
+stopwords:
+- tayta
+- mana
+- diosninchi
+- diosninchipa
+- alli
+- nir
+- ichanga
+- sumaj
+- niran
+- shiminta
+- chaymi
+- "jes\xFAs"
+- runa
+- llapan
+- ama
+top_n_grams:
+- - 2
+  - 0.424
+- - 3
+  - 0.546
+- - 4
+  - 0.667

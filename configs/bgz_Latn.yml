@@ -1,0 +1,52 @@
+dup_line_frac: 0.461
+dup_n_grams:
+- - 5
+  - 0.432
+- - 6
+  - 0.428
+- - 7
+  - 0.424
+- - 8
+  - 0.423
+- - 9
+  - 0.423
+- - 10
+  - 0.424
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- doi
+- tukon
+- mo
+- mian
+- yana
+- bisa
+- yanila
+- yaku
+- komuyu
+- yesus
+- komian
+- aki
+- kona
+- doiya
+- do
+- ko
+- maka
+- koidan
+- bai
+- sabab
+- daano
+- komo
+- sulano
+- naikon
+- sasaibino
+top_n_grams:
+- - 2
+  - 0.691
+- - 3
+  - 0.606
+- - 4
+  - 0.722

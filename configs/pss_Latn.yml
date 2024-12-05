@@ -1,0 +1,54 @@
+dup_line_frac: 0.787
+dup_n_grams:
+- - 5
+  - 0.521
+- - 6
+  - 0.523
+- - 7
+  - 0.452
+- - 8
+  - 0.412
+- - 9
+  - 0.443
+- - 10
+  - 0.512
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.875
+min_avg_word_length: 3
+new_line_ratio: 0.048
+stopwords:
+- men
+- tin
+- po
+- ta
+- ma
+- ku
+- yang
+- epo
+- si
+- wom
+- li
+- e
+- wo
+- wungin
+- mi
+- tumen
+- kut
+- taku
+- a
+- hi
+- u
+- ko
+- wa
+- to
+- sun
+- ngo
+- epon
+top_n_grams:
+- - 2
+  - 0.435
+- - 3
+  - 0.609
+- - 4
+  - 0.75

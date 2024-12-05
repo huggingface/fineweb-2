@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.045
+- - 6
+  - 0.031
+- - 7
+  - 0.021
+- - 8
+  - 0.014
+- - 9
+  - 0.012
+- - 10
+  - 0.007
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- a
+- i
+- ti
+- ngi
+- ma
+- na
+- "y\u025B"
+- wu
+- "ngew\u0254"
+- hu
+- "k\u025B\u025B"
+- "k\u025B"
+- "l\u0254"
+- mu
+- gbi
+- ji
+- ta
+- nya
+- bi
+- yesu
+top_n_grams:
+- - 2
+  - 0.087
+- - 3
+  - 0.12
+- - 4
+  - 0.147

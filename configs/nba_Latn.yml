@@ -1,0 +1,40 @@
+dup_line_frac: 0.905
+dup_n_grams:
+- - 5
+  - 0.707
+- - 6
+  - 0.722
+- - 7
+  - 0.72
+- - 8
+  - 0.706
+- - 9
+  - 0.7
+- - 10
+  - 0.67
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- ku
+- na
+- mu
+- va
+- ua
+- ka
+- ca
+- tu
+- via
+- ya
+- a
+- kaha
+- yehova
+top_n_grams:
+- - 2
+  - 0.959
+- - 3
+  - 1.21
+- - 4
+  - 1.719

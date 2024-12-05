@@ -1,0 +1,48 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.404
+- - 6
+  - 0.386
+- - 7
+  - 0.381
+- - 8
+  - 0.372
+- - 9
+  - 0.365
+- - 10
+  - 0.358
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- ku
+- ig
+- igkis
+- uhokri
+- ka
+- adahan
+- pariye
+- nah
+- hiyeg
+- ini
+- yis
+- awna
+- ta
+- kiyapwiye
+- samah
+- jesus
+- in
+- akak
+- madikte
+- ayge
+- wixwiy
+top_n_grams:
+- - 2
+  - 0.76
+- - 3
+  - 0.857
+- - 4
+  - 0.659

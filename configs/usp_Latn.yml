@@ -1,0 +1,51 @@
+dup_line_frac: 0.091
+dup_n_grams:
+- - 5
+  - 0.141
+- - 6
+  - 0.097
+- - 7
+  - 0.075
+- - 8
+  - 0.06
+- - 9
+  - 0.043
+- - 10
+  - 0.036
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ri
+- kakaj
+- y
+- chi
+- re
+- dios
+- rechak
+- mak
+- jun
+- cristian
+- yak
+- li
+- man
+- jesucristo
+- laj
+- ta
+- chirij
+- jwi'l
+- wi
+- juntir
+- cuando
+- "jes\xFAs"
+- nen
+- pire
+top_n_grams:
+- - 2
+  - 0.102
+- - 3
+  - 0.109
+- - 4
+  - 0.18

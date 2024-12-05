@@ -1,0 +1,43 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.303
+- - 6
+  - 0.285
+- - 7
+  - 0.27
+- - 8
+  - 0.258
+- - 9
+  - 0.243
+- - 10
+  - 0.231
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- aur
+- ke
+- se
+- haai
+- men
+- ne
+- ko
+- kee
+- ki
+- ka
+- us
+- par
+- jo
+- vah
+- maain
+- n
+top_n_grams:
+- - 2
+  - 0.923
+- - 3
+  - 1.154
+- - 4
+  - 0.144

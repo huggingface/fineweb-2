@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.052
+- - 6
+  - 0.036
+- - 7
+  - 0.026
+- - 8
+  - 0.021
+- - 9
+  - 0.013
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- ma
+- ta
+- weyahina
+- wete
+- yehoba
+- geya
+- yesu
+- ina
+- bewa
+- oina
+- oinega
+- hesi
+- "\uA78Cina"
+- coinega
+- tauna
+- "\uA78Coina"
+top_n_grams:
+- - 2
+  - 0.032
+- - 3
+  - 0.029
+- - 4
+  - 0.027

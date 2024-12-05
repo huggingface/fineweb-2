@@ -1,0 +1,52 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.128
+- - 6
+  - 0.096
+- - 7
+  - 0.076
+- - 8
+  - 0.064
+- - 9
+  - 0.055
+- - 10
+  - 0.053
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.82
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- i
+- di
+- ibal
+- na
+- kobe
+- ka
+- ta
+- iru
+- ere
+- te
+- yal
+- main
+- dire
+- god
+- pire
+- ena
+- dungwa
+- si
+- kal
+- tongwa
+- yalini
+- para
+- yesu
+- mere
+- milungwa
+top_n_grams:
+- - 2
+  - 0.07
+- - 3
+  - 0.071
+- - 4
+  - 0.091

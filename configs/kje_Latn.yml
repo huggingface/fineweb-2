@@ -1,0 +1,49 @@
+dup_line_frac: 0.879
+dup_n_grams:
+- - 5
+  - 0.755
+- - 6
+  - 0.755
+- - 7
+  - 0.756
+- - 8
+  - 0.754
+- - 9
+  - 0.753
+- - 10
+  - 0.739
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.837
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- man
+- ri
+- onne
+- ma
+- makromod
+- ai
+- lalap
+- la
+- mi
+- nin
+- yesus
+- lolo
+- leke
+- hi'i
+- hi
+- ka
+- me'e
+- eni
+- noro
+- ya'u
+- maa
+- lere
+top_n_grams:
+- - 2
+  - 0.851
+- - 3
+  - 1.287
+- - 4
+  - 1.712

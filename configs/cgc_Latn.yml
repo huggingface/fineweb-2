@@ -1,0 +1,44 @@
+dup_line_frac: 0.604
+dup_n_grams:
+- - 5
+  - 0.515
+- - 6
+  - 0.479
+- - 7
+  - 0.463
+- - 8
+  - 0.436
+- - 9
+  - 0.429
+- - 10
+  - 0.418
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- na
+- ta
+- mga
+- daw
+- ki
+- an
+- naan
+- danen
+- kanen
+- dyos
+- man
+- ittaw
+- din
+- dili
+- ula
+- iya
+- gid
+top_n_grams:
+- - 2
+  - 0.476
+- - 3
+  - 0.549
+- - 4
+  - 0.84

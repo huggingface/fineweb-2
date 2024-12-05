@@ -1,0 +1,46 @@
+dup_line_frac: 0.028
+dup_n_grams:
+- - 5
+  - 0.0
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- "m\xE0l\xE0"
+- uya
+- pe
+- kon
+- molopai
+- "yam\xF9k"
+- tok
+- "p\xE0k"
+- yau
+- "kaat\xF9"
+- ya
+- jesus
+- "t\xF9se"
+- "p\xF9la"
+- pen
+- "s\xE0l\xE0"
+- "tepp\xF9"
+- kappon
+- wechi
+top_n_grams:
+- - 2
+  - 0.162
+- - 3
+  - 0.195
+- - 4
+  - 0.197

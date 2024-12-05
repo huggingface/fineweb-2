@@ -1,0 +1,49 @@
+dup_line_frac: 0.614
+dup_n_grams:
+- - 5
+  - 0.704
+- - 6
+  - 0.697
+- - 7
+  - 0.693
+- - 8
+  - 0.672
+- - 9
+  - 0.672
+- - 10
+  - 0.66
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- lo
+- mi
+- "\u0253a"
+- "n\u025B"
+- ma
+- mu
+- "\u0253\u025B\u025B"
+- li
+- ho
+- wa
+- na
+- un
+- bun
+- yi
+- we
+- han
+- "dee\u0253enu"
+- o
+- waa
+- wo
+- biyo
+top_n_grams:
+- - 2
+  - 0.84
+- - 3
+  - 1.0
+- - 4
+  - 1.254

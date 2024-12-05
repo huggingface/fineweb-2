@@ -1,0 +1,38 @@
+dup_line_frac: 0.429
+dup_n_grams:
+- - 5
+  - 0.367
+- - 6
+  - 0.355
+- - 7
+  - 0.338
+- - 8
+  - 0.324
+- - 9
+  - 0.326
+- - 10
+  - 0.323
+line_punct_thr: 0.167
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.62
+min_avg_word_length: 3
+new_line_ratio: 0.25
+stopwords:
+- in
+- e
+- "m\xF6"
+- zifs
+- binon
+- "km\xB2"
+- "\xB0"
+- a
+- zif
+- u
+- "\xE4binon"
+top_n_grams:
+- - 2
+  - 0.167
+- - 3
+  - 0.212
+- - 4
+  - 0.232

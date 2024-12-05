@@ -1,0 +1,44 @@
+dup_line_frac: 0.476
+dup_n_grams:
+- - 5
+  - 0.384
+- - 6
+  - 0.384
+- - 7
+  - 0.374
+- - 8
+  - 0.37
+- - 9
+  - 0.367
+- - 10
+  - 0.381
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- ma
+- i
+- ki
+- me
+- ni
+- ka
+- pe
+- pa
+- en
+- jo
+- gin
+- pi
+- lok
+- dok
+- tye
+- ducu
+- dano
+top_n_grams:
+- - 2
+  - 0.629
+- - 3
+  - 0.298
+- - 4
+  - 0.315

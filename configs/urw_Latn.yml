@@ -1,0 +1,50 @@
+dup_line_frac: 0.25
+dup_n_grams:
+- - 5
+  - 0.454
+- - 6
+  - 0.454
+- - 7
+  - 0.426
+- - 8
+  - 0.425
+- - 9
+  - 0.423
+- - 10
+  - 0.425
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- baba
+- gam
+- fere
+- bangar
+- daba
+- nu
+- tugu
+- "men\xFCm"
+- nini
+- dora
+- "g\xFCre"
+- ye
+- jisas
+- "bang\xFCdi"
+- na
+- ferefinabur
+- bangeagako
+- bana
+- fib
+- "g\xFCrenakuti"
+- nama
+- nugeab
+- nono
+top_n_grams:
+- - 2
+  - 0.947
+- - 3
+  - 0.644
+- - 4
+  - 0.657

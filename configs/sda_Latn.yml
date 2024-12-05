@@ -1,0 +1,46 @@
+dup_line_frac: 0.86
+dup_n_grams:
+- - 5
+  - 0.681
+- - 6
+  - 0.677
+- - 7
+  - 0.669
+- - 8
+  - 0.641
+- - 9
+  - 0.636
+- - 10
+  - 0.615
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- tu
+- sia
+- to
+- lako
+- la
+- dio
+- tau
+- puang
+- apa
+- belanna
+- mai
+- iatu
+- lan
+- anna
+- tae
+- matua
+- kumua
+- mintu
+- yesu
+top_n_grams:
+- - 2
+  - 0.594
+- - 3
+  - 0.836
+- - 4
+  - 0.972

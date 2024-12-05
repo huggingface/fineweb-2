@@ -1,0 +1,54 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.084
+- - 6
+  - 0.063
+- - 7
+  - 0.05
+- - 8
+  - 0.033
+- - 9
+  - 0.021
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.632
+min_avg_word_length: 3
+new_line_ratio: 0.043
+stopwords:
+- e
+- -a
+- "n\u025Bn"
+- "b\u025B"
+- o
+- "w\u0269"
+- nan
+- "\u025Bn"
+- ka
+- bali
+- a
+- da
+- min
+- man
+- an
+- "z\u0269\u025B"
+- "d\u0269"
+- yi
+- le
+- te
+- "dr\u025B"
+- zozi
+- "l\u025B"
+- minnun
+- -e
+- ya
+- "b\u0254"
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.119
+- - 4
+  - 0.143

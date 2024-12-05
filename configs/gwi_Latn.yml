@@ -1,0 +1,47 @@
+dup_line_frac: 0.419
+dup_n_grams:
+- - 5
+  - 0.188
+- - 6
+  - 0.159
+- - 7
+  - 0.118
+- - 8
+  - 0.098
+- - 9
+  - 0.081
+- - 10
+  - 0.061
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.72
+min_avg_word_length: 6
+new_line_ratio: 0.083
+stopwords:
+- "ts'\u0105"
+- "n\u0105\u012F\u012F"
+- "\u0105\u012F\u012F"
+- kwaa
+- "vit'eegwijy\u0105hchy'aa"
+- dinjii
+- haa
+- datthak
+- gaa
+- chan
+- jesus
+- juu
+- geenjit
+- jii
+- jyaa
+- ji
+- zhit
+- t'ee
+- "d\u0105\u012F"
+- eenjit
+top_n_grams:
+- - 2
+  - 0.088
+- - 3
+  - 0.119
+- - 4
+  - 0.133

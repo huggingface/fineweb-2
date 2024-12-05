@@ -1,0 +1,40 @@
+dup_line_frac: 0.167
+dup_n_grams:
+- - 5
+  - 0.1
+- - 6
+  - 0.052
+- - 7
+  - 0.033
+- - 8
+  - 0.019
+- - 9
+  - 0.007
+- - 10
+  - 0.0
+line_punct_thr: 0.364
+max_avg_word_length: 18
+max_non_alpha_words_ratio: 0.895
+min_avg_word_length: 3
+new_line_ratio: 0.312
+stopwords:
+- na
+- ya
+- wa
+- cia
+- city
+- "n\u0129"
+- china
+- ta
+- nene
+- "ir\u0129a"
+- "c\u0129t\u0129"
+- kana
+- "m\u0169no"
+top_n_grams:
+- - 2
+  - 0.909
+- - 3
+  - 0.862
+- - 4
+  - 0.812

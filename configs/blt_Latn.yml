@@ -1,0 +1,56 @@
+dup_line_frac: 0.467
+dup_n_grams:
+- - 5
+  - 0.522
+- - 6
+  - 0.507
+- - 7
+  - 0.506
+- - 8
+  - 0.494
+- - 9
+  - 0.486
+- - 10
+  - 0.471
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.586
+min_avg_word_length: 3
+new_line_ratio: 0.048
+stopwords:
+- "ch\u1EA3u"
+- "ph\u1EE7"
+- "h\u1EA3\u01B0"
+- "c\u1ECD"
+- "\u0111\u1EA3y"
+- "c\u1ED1n"
+- "p\xEAn"
+- "n\u1EB7n"
+- tan
+- "ch\xED"
+- "p\u1EE9ng"
+- "m\xED"
+- pua
+- "m\xE1"
+- "gi\xEA\u2011'su"
+- "ph\u1EA1"
+- "h\xE1u"
+- "n\u1ECDng"
+- "ch\u1EAFng"
+- "s\u01B0\u1EDBng"
+- "kh\u1ECFi"
+- pay
+- "l\u1EB9o"
+- "qu\xE1m"
+- au
+- "d\xFA"
+- sau
+- "cha\u01B0"
+- "d\u1EC7t"
+top_n_grams:
+- - 2
+  - 0.489
+- - 3
+  - 0.814
+- - 4
+  - 0.526

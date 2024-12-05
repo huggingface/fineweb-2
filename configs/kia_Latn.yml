@@ -1,0 +1,48 @@
+dup_line_frac: 0.379
+dup_n_grams:
+- - 5
+  - 0.423
+- - 6
+  - 0.368
+- - 7
+  - 0.357
+- - 8
+  - 0.33
+- - 9
+  - 0.326
+- - 10
+  - 0.322
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ne
+- ge
+- ma
+- go
+- na
+- mbi
+- a
+- mbo
+- ya
+- to
+- pe
+- mo
+- nama
+- "a\u014B"
+- 'no'
+- zi
+- mbe
+- naa
+- ta
+- ka
+- "ka\u014B"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.077
+- - 4
+  - 1.514

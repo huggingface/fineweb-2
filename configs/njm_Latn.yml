@@ -1,0 +1,44 @@
+dup_line_frac: 0.39
+dup_n_grams:
+- - 5
+  - 0.424
+- - 6
+  - 0.412
+- - 7
+  - 0.391
+- - 8
+  - 0.36
+- - 9
+  - 0.344
+- - 10
+  - 0.328
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.815
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- puo
+- mu
+- a
+- di
+- nu
+- ki
+- la
+- uko
+- u
+- n
+- bu
+- rei
+- nie
+- pie
+- "ch\xFC"
+- zo
+- sidi
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 0.971

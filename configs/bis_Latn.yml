@@ -1,0 +1,45 @@
+dup_line_frac: 0.417
+dup_n_grams:
+- - 5
+  - 0.773
+- - 6
+  - 0.772
+- - 7
+  - 0.769
+- - 8
+  - 0.769
+- - 9
+  - 0.768
+- - 10
+  - 0.766
+line_punct_thr: 0.333
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 3
+new_line_ratio: 0.333
+stopwords:
+- blong
+- i
+- long
+- ol
+- hem
+- wan
+- stet
+- mo
+- yunaeted
+- em
+- bin
+- pipol
+- stap
+- man
+- akta
+- amerika
+- we
+- singsing
+top_n_grams:
+- - 2
+  - 1.174
+- - 3
+  - 1.789
+- - 4
+  - 2.508

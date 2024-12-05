@@ -1,0 +1,38 @@
+dup_line_frac: 0.538
+dup_n_grams:
+- - 5
+  - 0.416
+- - 6
+  - 0.379
+- - 7
+  - 0.375
+- - 8
+  - 0.378
+- - 9
+  - 0.353
+- - 10
+  - 0.336
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 7
+new_line_ratio: 0.111
+stopwords:
+- tayta
+- sayno
+- mana
+- say
+- manami
+- y
+- diosninsi
+- saymi
+- runacuna
+- "jes\xFAs"
+- nergan
+top_n_grams:
+- - 2
+  - 0.569
+- - 3
+  - 0.568
+- - 4
+  - 0.586

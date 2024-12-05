@@ -1,0 +1,50 @@
+dup_line_frac: 0.143
+dup_n_grams:
+- - 5
+  - 0.174
+- - 6
+  - 0.133
+- - 7
+  - 0.086
+- - 8
+  - 0.057
+- - 9
+  - 0.036
+- - 10
+  - 0.025
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- "\xF1i"
+- ta
+- pu
+- "ta\xF1i"
+- ka
+- mew
+- mu
+- tati
+- dungu
+- "tai\xF1"
+- ti
+- fey
+- che
+- "\xBF"
+- rume
+- "eng\xFCn"
+- chem
+- jewba
+- "ki\xF1e"
+- "ng\xFCnechen"
+- femngechi
+- "k\xFCme"
+- tami
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 0.765

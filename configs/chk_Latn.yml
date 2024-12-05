@@ -1,0 +1,48 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.676
+- - 6
+  - 0.66
+- - 7
+  - 0.641
+- - 8
+  - 0.635
+- - 9
+  - 0.613
+- - 10
+  - 0.604
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- a
+- ewe
+- mi
+- me
+- pwe
+- ngeni
+- ra
+- epwe
+- ekkewe
+- nge
+- lon
+- an
+- ren
+- kot
+- aramas
+- seni
+- jiowa
+- pwal
+- usun
+- repwe
+- chon
+top_n_grams:
+- - 2
+  - 0.903
+- - 3
+  - 0.711
+- - 4
+  - 0.808

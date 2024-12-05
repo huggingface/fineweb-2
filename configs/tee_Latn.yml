@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.139
+- - 6
+  - 0.071
+- - 7
+  - 0.046
+- - 8
+  - 0.034
+- - 9
+  - 0.029
+- - 10
+  - 0.021
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.872
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- ju
+- chai
+- ni
+- pus
+- jantu
+- va
+- dios
+- yuchi
+- tachi
+- acsni
+- "jes\xFAs"
+- na
+- para
+- chunch
+- lapanacni
+- lai
+top_n_grams:
+- - 2
+  - 0.103
+- - 3
+  - 0.173
+- - 4
+  - 0.167

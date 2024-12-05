@@ -1,0 +1,51 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.406
+- - 6
+  - 0.404
+- - 7
+  - 0.403
+- - 8
+  - 0.399
+- - 9
+  - 0.398
+- - 10
+  - 0.396
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- ye
+- se
+- na
+- unai
+- wa
+- kabo
+- yo
+- meta
+- yona
+- ede
+- nige
+- wane
+- ta
+- kwa
+- ya
+- yesu
+- tamowai
+- iya
+- udiyedi
+- hesau
+- ne
+- yaubada
+- bena
+- ku
+top_n_grams:
+- - 2
+  - 0.11
+- - 3
+  - 0.143
+- - 4
+  - 0.178

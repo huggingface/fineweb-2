@@ -1,0 +1,55 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.403
+- - 6
+  - 0.4
+- - 7
+  - 0.398
+- - 8
+  - 0.396
+- - 9
+  - 0.395
+- - 10
+  - 0.393
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.761
+min_avg_word_length: 3
+new_line_ratio: 0.048
+stopwords:
+- me
+- ma
+- mon
+- so
+- hiykwe
+- senkin
+- homkwe
+- se
+- uwr
+- non
+- o
+- hiy
+- god
+- ok
+- lwak
+- sawk
+- seyr
+- sa
+- mo
+- kokwe
+- ey
+- kow
+- hokwe
+- aw
+- uwrsa
+- ko
+- yor
+- ar
+top_n_grams:
+- - 2
+  - 0.098
+- - 3
+  - 0.129
+- - 4
+  - 0.157

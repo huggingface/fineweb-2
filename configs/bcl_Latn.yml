@@ -1,0 +1,37 @@
+dup_line_frac: 0.285
+dup_n_grams:
+- - 5
+  - 0.239
+- - 6
+  - 0.185
+- - 7
+  - 0.148
+- - 8
+  - 0.075
+- - 9
+  - 0.051
+- - 10
+  - 0.035
+line_punct_thr: 0.2
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 3
+new_line_ratio: 1
+stopwords:
+- sa
+- na
+- an
+- kan
+- mga
+- nin
+- asin
+- sarong
+- si
+- iyo
+top_n_grams:
+- - 2
+  - 0.414
+- - 3
+  - 0.529
+- - 4
+  - 0.625

@@ -1,0 +1,57 @@
+dup_line_frac: 0.636
+dup_n_grams:
+- - 5
+  - 0.497
+- - 6
+  - 0.475
+- - 7
+  - 0.475
+- - 8
+  - 0.452
+- - 9
+  - 0.422
+- - 10
+  - 0.418
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- ne
+- mo
+- ka
+- ah
+- mai
+- "\u0253\u01DD"
+- "t\u01DD"
+- mor
+- we
+- za
+- "\u0253o"
+- me
+- "\u0253e"
+- nyi
+- a
+- faa
+- ge
+- ga
+- "mas\u01DD\u014B"
+- so
+- "jo\u014B"
+- ya
+- "da\u014B"
+- ma
+- fan
+- ko
+- "d\u01DD\u0253"
+- cok
+- amma
+- "p\u01DD"
+top_n_grams:
+- - 2
+  - 0.476
+- - 3
+  - 0.642
+- - 4
+  - 0.86

@@ -1,0 +1,44 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.455
+- - 6
+  - 0.453
+- - 7
+  - 0.448
+- - 8
+  - 0.442
+- - 9
+  - 0.439
+- - 10
+  - 0.431
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.774
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- ma
+- nako
+- e'di
+- ini
+- ka
+- ba
+- bama
+- iye
+- nowo
+- ami
+- be'di
+- inako
+- dinu
+- ala
+- tunduru
+- e'dumbe
+- nowora
+top_n_grams:
+- - 2
+  - 0.98
+- - 3
+  - 1.567
+- - 4
+  - 2.142

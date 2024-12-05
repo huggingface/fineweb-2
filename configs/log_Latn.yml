@@ -1,0 +1,46 @@
+dup_line_frac: 0.324
+dup_n_grams:
+- - 5
+  - 0.41
+- - 6
+  - 0.492
+- - 7
+  - 0.574
+- - 8
+  - 0.656
+- - 9
+  - 0.738
+- - 10
+  - 0.129
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.852
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- "dh\u0268"
+- "n\u0268"
+- "k\u0268"
+- "dr\xE9"
+- nda
+- "\u0268"
+- ko
+- "t\xE0"
+- "\u0268\u0300"
+- "dre\u0301"
+- "d\u0268"
+- "ta\u0300"
+- "m\u0268\u0300"
+- be
+- "s\xE8"
+- na
+- "t\xE1"
+- "adr\xE9"
+- "\xE0y\u0268"
+top_n_grams:
+- - 2
+  - 1.549
+- - 3
+  - 2.098
+- - 4
+  - 2.467

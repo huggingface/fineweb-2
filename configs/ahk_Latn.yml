@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.131
+- - 6
+  - 0.102
+- - 7
+  - 0.077
+- - 8
+  - 0.062
+- - 9
+  - 0.049
+- - 10
+  - 0.038
+line_punct_thr: -1
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.852
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- "a\u02EC"
+- meh
+- "ma\u02EC"
+- neh
+- ma
+- "je\u02EC"
+- "ga\u02C7"
+- "k\u02BCoe\u02C7"
+- eu
+- "na\u02C7"
+- yaw
+- "leh\u02C7"
+- "tsaw\u02C7"
+- "eh\u02C7"
+- "deu\u02EC"
+- dui
+- "yaw\uA788"
+- "mi\u02C7"
+- ni
+- "ti\u02EC"
+- "ha\u02EC"
+- "g\u02BCa\u02EC"
+top_n_grams:
+- - 2
+  - 0.062
+- - 3
+  - 0.158
+- - 4
+  - 0.102

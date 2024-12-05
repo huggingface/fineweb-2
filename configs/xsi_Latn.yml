@@ -1,0 +1,55 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.092
+- - 6
+  - 0.068
+- - 7
+  - 0.051
+- - 8
+  - 0.039
+- - 9
+  - 0.032
+- - 10
+  - 0.028
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- "tam\xE2ta"
+- ma
+- "l\xE2"
+- "\u014Binde"
+- tu
+- "\u014Bana"
+- aku
+- mine
+- ne
+- "na\u014Ba"
+- i
+- "\u014Bgua"
+- kinzi
+- nde
+- maro
+- kindeni
+- ande
+- pa
+- "n\xE2"
+- miki
+- kala
+- "k\xE2"
+- ku
+- tia
+- noko
+- "to\u014Bge"
+- ara
+- ilo
+top_n_grams:
+- - 2
+  - 0.043
+- - 3
+  - 0.027
+- - 4
+  - 0.024

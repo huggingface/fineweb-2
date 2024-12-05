@@ -1,0 +1,52 @@
+dup_line_frac: 0.905
+dup_n_grams:
+- - 5
+  - 0.668
+- - 6
+  - 0.662
+- - 7
+  - 0.673
+- - 8
+  - 0.674
+- - 9
+  - 0.661
+- - 10
+  - 0.635
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- to
+- 'no'
+- ka
+- mgo
+- woy
+- 'on'
+- sikan
+- din
+- magboboot
+- ian
+- otow
+- ko
+- dio
+- su
+- ku
+- hisus
+- dan
+- si
+- ta
+- kono
+- ni
+- now
+- duon
+- di
+- ki
+top_n_grams:
+- - 2
+  - 0.805
+- - 3
+  - 0.932
+- - 4
+  - 1.18

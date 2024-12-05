@@ -1,0 +1,53 @@
+dup_line_frac: 0.84
+dup_n_grams:
+- - 5
+  - 0.352
+- - 6
+  - 0.322
+- - 7
+  - 0.31
+- - 8
+  - 0.28
+- - 9
+  - 0.263
+- - 10
+  - 0.246
+line_punct_thr: 0.1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.5
+stopwords:
+- ya
+- na
+- o
+- "mp\xE9"
+- "ezal\xED"
+- ba
+- de
+- "kong\xF3"
+- mpe
+- "kins\xE1s\xE1"
+- oyo
+- la
+- "t\u01D2"
+- wa
+- ezali
+- bato
+- mwa
+- te
+- lya
+- yango
+- et
+- ma
+- engumba
+- mpo
+- du
+- mingi
+top_n_grams:
+- - 2
+  - 0.353
+- - 3
+  - 0.515
+- - 4
+  - 0.607

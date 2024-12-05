@@ -1,0 +1,54 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.654
+- - 6
+  - 0.674
+- - 7
+  - 0.654
+- - 8
+  - 0.657
+- - 9
+  - 0.647
+- - 10
+  - 0.654
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.042
+stopwords:
+- en
+- len
+- kaba
+- yen
+- sug
+- dou
+- doba
+- naugb
+- dau
+- dan
+- gin
+- dara
+- dag
+- toua
+- se
+- an
+- allah
+- anai
+- men
+- areg
+- hom
+- gini
+- maman
+- augwan
+- namcir
+- lusud
+- dangga
+top_n_grams:
+- - 2
+  - 1.341
+- - 3
+  - 2.041
+- - 4
+  - 2.72

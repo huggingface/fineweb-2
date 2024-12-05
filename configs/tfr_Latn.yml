@@ -1,0 +1,46 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.381
+- - 6
+  - 0.375
+- - 7
+  - 0.326
+- - 8
+  - 0.317
+- - 9
+  - 0.317
+- - 10
+  - 0.304
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ga
+- kong
+- ba
+- e
+- "l\u0308i"
+- go
+- eni
+- "sb\xF6"
+- "pj\xE3y"
+- "\u0161i"
+- "l\u0308\xF6ng"
+- ara
+- ber
+- eshko
+- kjok
+- "sh\xE4ng"
+- tja
+- tjok
+- bakoe
+top_n_grams:
+- - 2
+  - 0.129
+- - 3
+  - 0.239
+- - 4
+  - 0.257

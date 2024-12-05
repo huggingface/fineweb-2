@@ -1,0 +1,48 @@
+dup_line_frac: 0.424
+dup_n_grams:
+- - 5
+  - 0.212
+- - 6
+  - 0.165
+- - 7
+  - 0.13
+- - 8
+  - 0.101
+- - 9
+  - 0.087
+- - 10
+  - 0.069
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.091
+stopwords:
+- ai
+- hpe
+- a
+- na
+- ni
+- gaw
+- nga
+- nna
+- hte
+- wa
+- n
+- dai
+- rai
+- hta
+- shi
+- lam
+- mung
+- ga
+- lu
+- ngai
+- e
+top_n_grams:
+- - 2
+  - 0.467
+- - 3
+  - 0.45
+- - 4
+  - 0.381

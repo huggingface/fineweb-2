@@ -1,0 +1,52 @@
+dup_line_frac: 0.903
+dup_n_grams:
+- - 5
+  - 0.721
+- - 6
+  - 0.712
+- - 7
+  - 0.677
+- - 8
+  - 0.71
+- - 9
+  - 0.664
+- - 10
+  - 0.659
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "ur\xFCn"
+- "\u0253\xEBr"
+- "\u0253\xEBle"
+- ar
+- le
+- gon
+- "\xEBng"
+- "o\u0257"
+- e
+- "\u015D\xE9s\xFC"
+- "la\u014B"
+- gang
+- "o\u014B"
+- ale
+- han
+- "ng\xEBr"
+- "\xEBr"
+- "\u0253al"
+- ce
+- "\u0253awo"
+- gungum
+- "\u0257ana\u014B"
+- kono
+- iyi
+- "e\u014B"
+top_n_grams:
+- - 2
+  - 0.932
+- - 3
+  - 1.283
+- - 4
+  - 1.86

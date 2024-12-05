@@ -1,0 +1,47 @@
+dup_line_frac: 0.188
+dup_n_grams:
+- - 5
+  - 0.845
+- - 6
+  - 0.832
+- - 7
+  - 0.849
+- - 8
+  - 0.832
+- - 9
+  - 0.819
+- - 10
+  - 0.823
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.804
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- edo
+- awa
+- embo
+- da
+- ainda
+- ango
+- yai
+- ge
+- mi
+- yesu
+- god
+- ae
+- sisina
+- imo
+- de
+- ari
+- ata
+- ami
+- iji
+- na
+top_n_grams:
+- - 2
+  - 0.929
+- - 3
+  - 1.415
+- - 4
+  - 1.91

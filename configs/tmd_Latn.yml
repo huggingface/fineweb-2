@@ -1,0 +1,49 @@
+dup_line_frac: 0.276
+dup_n_grams:
+- - 5
+  - 0.102
+- - 6
+  - 0.076
+- - 7
+  - 0.059
+- - 8
+  - 0.051
+- - 9
+  - 0.041
+- - 10
+  - 0.033
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.794
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- "n\xF6b\xF6"
+- aku
+- "m\xF6"
+- "m\xF6n\xF6"
+- god
+- "nu\u014B"
+- "\xF1\u0268\u014B"
+- "\xF1\u0268g\xF6"
+- mag
+- ap
+- "n\u0268"
+- "r\xF6n"
+- "akuy\xF6b\xF6"
+- bla
+- makwam
+- jisas
+- yad
+- nugwo
+- "w\xE4"
+- piaku
+- "p\xF6n"
+- "nugw\xF6n"
+top_n_grams:
+- - 2
+  - 0.309
+- - 3
+  - 0.471
+- - 4
+  - 0.735

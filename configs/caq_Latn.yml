@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.389
+- - 7
+  - 0.386
+- - 8
+  - 0.388
+- - 9
+  - 0.379
+- - 10
+  - 0.384
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.822
+min_avg_word_length: 3
+new_line_ratio: 0.083
+stopwords:
+- "n\xF6"
+- ngaich
+- "t\xF6"
+- ngam
+- "inr\u0113"
+- "\xF2"
+- i
+- min
+- in
+- "\u1E59\xF4"
+- chu
+- cha
+- meh
+- "a\u1E45"
+- yip
+- "\xF6k"
+- "t\u0113v"
+- tarik
+- yik
+- nup
+- "\xF6t"
+- "y\u012B\xF6"
+- "ng\xF6"
+top_n_grams:
+- - 2
+  - 0.359
+- - 3
+  - 0.615
+- - 4
+  - 0.795

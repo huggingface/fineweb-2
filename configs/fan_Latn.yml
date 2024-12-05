@@ -1,0 +1,49 @@
+dup_line_frac: 0.562
+dup_n_grams:
+- - 5
+  - 0.51
+- - 6
+  - 0.492
+- - 7
+  - 0.473
+- - 8
+  - 0.442
+- - 9
+  - 0.454
+- - 10
+  - 0.415
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- a
+- "\xE9"
+- naa
+- ye
+- nga
+- be
+- ne
+- ki
+- ya
+- bia
+- bo
+- ve
+- nge
+- "jeh\xF4va"
+- bi
+- ba
+- aval
+- mbe
+- "\xE9yong"
+- wa
+- "\xF4"
+- da
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.042

@@ -1,0 +1,48 @@
+dup_line_frac: 0.875
+dup_n_grams:
+- - 5
+  - 0.726
+- - 6
+  - 0.727
+- - 7
+  - 0.706
+- - 8
+  - 0.699
+- - 9
+  - 0.699
+- - 10
+  - 0.697
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- aru
+- ne
+- "\u0289\u0303i"
+- que
+- "y\xF3pe"
+- baru
+- "m\xE1re"
+- ina
+- boje
+- "j\u0289"
+- ji
+- "m\u0289je"
+- "\u0169\u0336i"
+- "m\u0289ja"
+- "jes\xFAs"
+- "\xF1ai"
+- "y\u0289"
+- "\u0289benita"
+- "m\u0289jare"
+- "n\xE1re"
+- "j\u0289\u0303menijic\u0289i"
+top_n_grams:
+- - 2
+  - 0.582
+- - 3
+  - 0.948
+- - 4
+  - 1.019

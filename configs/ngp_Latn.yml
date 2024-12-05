@@ -1,0 +1,42 @@
+dup_line_frac: 0.761
+dup_n_grams:
+- - 5
+  - 0.639
+- - 6
+  - 0.646
+- - 7
+  - 0.619
+- - 8
+  - 0.63
+- - 9
+  - 0.614
+- - 10
+  - 0.608
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- na
+- niyo
+- mnungu
+- kwa
+- naho
+- wa
+- mwe
+- want'hu
+- mna
+- ni
+- yesu
+- ya
+- kwaviya
+- 'no'
+- kugamba
+top_n_grams:
+- - 2
+  - 0.889
+- - 3
+  - 1.089
+- - 4
+  - 1.555

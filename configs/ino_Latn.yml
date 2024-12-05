@@ -1,0 +1,41 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.049
+- - 6
+  - 0.033
+- - 7
+  - 0.023
+- - 8
+  - 0.018
+- - 9
+  - 0.012
+- - 10
+  - 0.008
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- ani
+- ke
+- kava
+- anumaya
+- huno
+- yafe
+- mako
+- hu'a
+- inake
+- vaya'moki
+- mi'ko
+- alino
+- koti'a
+- ve'ka
+top_n_grams:
+- - 2
+  - 0.028
+- - 3
+  - 0.036
+- - 4
+  - 0.038

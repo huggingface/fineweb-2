@@ -1,0 +1,47 @@
+dup_line_frac: 0.865
+dup_n_grams:
+- - 5
+  - 0.508
+- - 6
+  - 0.488
+- - 7
+  - 0.477
+- - 8
+  - 0.468
+- - 9
+  - 0.452
+- - 10
+  - 0.44
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- e
+- vino
+- ukuti
+- pa
+- yehova
+- nu
+- na
+- mu
+- kwe
+- wa
+- kuti
+- o
+- nga
+- ku
+- swinya
+- pano
+- ya
+- ni
+- leza
+- yesu
+top_n_grams:
+- - 2
+  - 1.03
+- - 3
+  - 1.142
+- - 4
+  - 1.47

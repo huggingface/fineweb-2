@@ -1,0 +1,51 @@
+dup_line_frac: 0.429
+dup_n_grams:
+- - 5
+  - 0.28
+- - 6
+  - 0.266
+- - 7
+  - 0.249
+- - 8
+  - 0.242
+- - 9
+  - 0.163
+- - 10
+  - 0.17
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- i
+- na
+- "\u1ECD"
+- o
+- aye
+- ha
+- jehova
+- vwo
+- "\u1ECDwan"
+- "uvu\u1EB9n"
+- "r\u1EB9n"
+- "n\u1ECD"
+- ne
+- sabu
+- kpahen
+- taghene
+- "\u1ECDke"
+- "obor\u1EB9"
+- "\u1ECDrh\u1EB9"
+- ri
+- ihworho
+- ji
+- a
+- "r\u1ECD"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.933
+- - 4
+  - 0.889

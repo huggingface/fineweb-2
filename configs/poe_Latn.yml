@@ -1,0 +1,51 @@
+dup_line_frac: 0.688
+dup_n_grams:
+- - 5
+  - 0.543
+- - 6
+  - 0.547
+- - 7
+  - 0.496
+- - 8
+  - 0.547
+- - 9
+  - 0.447
+- - 10
+  - 0.459
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- la
+- ti
+- "t\xED"
+- "s\xEDn"
+- sin
+- "nt\xE1"
+- "k\xEDxin"
+- "m\xE9"
+- ko
+- "ch\uA78C\xE1n"
+- nkehe
+- kixin
+- "ch\uA78Can"
+- chojni
+- "ch'\xE1n"
+- "ka\xEDn"
+- "a\u0331"
+- "d\xEDos"
+- dios
+- nkexro
+- "xi\u0331kaha"
+- "\xF3"
+- ijnko
+- "j\xEDna"
+top_n_grams:
+- - 2
+  - 0.403
+- - 3
+  - 0.729
+- - 4
+  - 0.771

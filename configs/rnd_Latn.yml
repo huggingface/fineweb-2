@@ -1,0 +1,44 @@
+dup_line_frac: 0.879
+dup_n_grams:
+- - 5
+  - 0.647
+- - 6
+  - 0.636
+- - 7
+  - 0.608
+- - 8
+  - 0.606
+- - 9
+  - 0.596
+- - 10
+  - 0.587
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ni
+- wa
+- anch
+- mu
+- mulong
+- yehova
+- pa
+- antu
+- yom
+- ik
+- ku
+- mutapu
+- cha
+- ya
+- nzamb
+- ap
+- nich
+top_n_grams:
+- - 2
+  - 0.639
+- - 3
+  - 0.862
+- - 4
+  - 1.0

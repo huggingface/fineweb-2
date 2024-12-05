@@ -1,0 +1,44 @@
+dup_line_frac: 0.25
+dup_n_grams:
+- - 5
+  - 0.119
+- - 6
+  - 0.091
+- - 7
+  - 0.084
+- - 8
+  - 0.03
+- - 9
+  - 0.01
+- - 10
+  - 0.007
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- ta'n
+- na
+- aq
+- gjinisgam
+- mo
+- ugjit
+- tujiw
+- goqwei
+- gis
+- gatu
+- tel
+- mimajuinu'g
+- ula
+- teli
+- wen
+- se'sus
+- muta
+top_n_grams:
+- - 2
+  - 0.356
+- - 3
+  - 0.556
+- - 4
+  - 0.756

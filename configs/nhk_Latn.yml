@@ -1,0 +1,49 @@
+dup_line_frac: 0.833
+dup_n_grams:
+- - 5
+  - 0.687
+- - 6
+  - 0.606
+- - 7
+  - 0.567
+- - 8
+  - 0.682
+- - 9
+  - 0.606
+- - 10
+  - 0.637
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- iga
+- yej
+- wan
+- pan
+- de
+- dios
+- "jehov\xE1"
+- la
+- biblia
+- "te\u0331"
+- "in\xED\u0331n"
+- "k\xE9n"
+- "kua\u0331"
+- "se\u0331"
+- wel
+- ken
+- nochi
+- "ma\u0331j"
+- kijtowa
+- "\xBF"
+- "tejt\xE9\u0331"
+- yawi
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 0.7
+- - 4
+  - 0.969

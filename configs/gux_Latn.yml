@@ -1,0 +1,52 @@
+dup_line_frac: 0.519
+dup_n_grams:
+- - 5
+  - 0.651
+- - 6
+  - 0.642
+- - 7
+  - 0.635
+- - 8
+  - 0.63
+- - 9
+  - 0.624
+- - 10
+  - 0.615
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.86
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- ki
+- n
+- o
+- den
+- ke
+- bi
+- yaa
+- li
+- baa
+- leni
+- tie
+- u
+- po
+- nni
+- ti
+- yi
+- yeni
+- kuli
+- tienu
+- a
+- ya
+- yua
+- yedi
+- ba
+- mi
+top_n_grams:
+- - 2
+  - 1.724
+- - 3
+  - 2.794
+- - 4
+  - 3.805

@@ -1,0 +1,50 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.383
+- - 6
+  - 0.396
+- - 7
+  - 0.352
+- - 8
+  - 0.341
+- - 9
+  - 0.305
+- - 10
+  - 0.341
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.836
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- a
+- ba
+- da
+- laki
+- "\u014B\u0259\u0301"
+- "ak\u0259"
+- "\u014Ba"
+- "nd\xE1"
+- "men\u0259"
+- "\xE0"
+- "d\u0259"
+- "m\u0259nd\u0259"
+- sa
+- "a\u0300"
+- "z\u0259t\u0259"
+- la
+- "t\xE1"
+- "m\u0259na"
+- "ndek\u0259"
+- "gwa\u0257i"
+- nda
+- "m\u0259ta"
+- ku
+top_n_grams:
+- - 2
+  - 0.12
+- - 3
+  - 0.222
+- - 4
+  - 0.145

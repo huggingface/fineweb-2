@@ -1,0 +1,46 @@
+dup_line_frac: 0.841
+dup_n_grams:
+- - 5
+  - 0.583
+- - 6
+  - 0.568
+- - 7
+  - 0.538
+- - 8
+  - 0.522
+- - 9
+  - 0.498
+- - 10
+  - 0.475
+line_punct_thr: -1
+max_avg_word_length: 26
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.2
+stopwords:
+- ja
+- oon
+- ette
+- 'on'
+- se
+- ko
+- ei
+- niin
+- mie
+- met
+- joka
+- kans
+- "ett\xE4"
+- eli
+- sen
+- mutta
+- jos
+- sie
+- oli
+top_n_grams:
+- - 2
+  - 0.49
+- - 3
+  - 0.605
+- - 4
+  - 0.705

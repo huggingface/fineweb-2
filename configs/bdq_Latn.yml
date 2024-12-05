@@ -1,0 +1,51 @@
+dup_line_frac: 0.662
+dup_n_grams:
+- - 5
+  - 0.54
+- - 6
+  - 0.532
+- - 7
+  - 0.517
+- - 8
+  - 0.516
+- - 9
+  - 0.512
+- - 10
+  - 0.509
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.753
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- "\u0306"
+- "k\u01A1"
+- "s\u01B0"
+- lu
+- "b\u01A1ngai"
+- n
+- "t\u01A1drong"
+- ng
+- inh
+- "b\u01A1"
+- "i\u0115m"
+- noh
+- bok kei
+- dei
+- "m\u0103"
+- "w\u0103"
+- na
+- "\u01B0h"
+- "t\u01A1"
+- thoi
+- khan
+- "p\u01A1m"
+- m
+- "p\u0103ng"
+top_n_grams:
+- - 2
+  - 0.327
+- - 3
+  - 0.401
+- - 4
+  - 0.453

@@ -1,0 +1,45 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.403
+- - 6
+  - 0.4
+- - 7
+  - 0.399
+- - 8
+  - 0.393
+- - 9
+  - 0.392
+- - 10
+  - 0.384
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.774
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- "s\xEC\u0131"
+- ha
+- "d\u01EB"
+- "h\u01EBt'e"
+- "t'\xE0"
+- "ey\u0131ts'\u01EB"
+- le
+- "n\xF2\u0328hts\u0131\u0328"
+- "ey\u0131"
+- "ts'\xF2\u0328"
+- "zez\xEC"
+- "haz\u01EB\xF2\u0328"
+- "n\u0131\u0328d\xE8"
+- "han\xECk\xF2"
+- "d\u0131\u0131"
+- "t'as\xEC\u0131"
+- "had\u0131"
+- "x\xE8"
+top_n_grams:
+- - 2
+  - 0.124
+- - 3
+  - 0.16
+- - 4
+  - 0.2

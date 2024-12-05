@@ -1,0 +1,38 @@
+dup_line_frac: 0.562
+dup_n_grams:
+- - 5
+  - 0.447
+- - 6
+  - 0.443
+- - 7
+  - 0.396
+- - 8
+  - 0.398
+- - 9
+  - 0.388
+- - 10
+  - 0.369
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.759
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- omu
+- na
+- aha
+- yesu
+- yehova
+- ruhanga
+- okwo
+- ati
+- ya
+- abantu
+- wa
+top_n_grams:
+- - 2
+  - 0.196
+- - 3
+  - 0.322
+- - 4
+  - 0.45

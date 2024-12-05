@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.154
+- - 6
+  - 0.056
+- - 7
+  - 0.043
+- - 8
+  - 0.031
+- - 9
+  - 0.029
+- - 10
+  - 0.032
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.804
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- "n\u0259"
+- "t\u0259"
+- "\u028B"
+- "k\u028B"
+- "b\u0251"
+- "d\u0259"
+- "y\u0269\u0269"
+- "s\u0259"
+- "y\u0269"
+- ba
+- "w\u0251"
+- "\u0251\u0301"
+- "m\u028B\u0300"
+- "\u0251\u0300"
+- "w\u0251\u0301"
+- "\xE1"
+- "sw\u0269\u0300n"
+- n
+- con
+- zwezi
+- yuu
+top_n_grams:
+- - 2
+  - 0.142
+- - 3
+  - 0.272
+- - 4
+  - 0.296

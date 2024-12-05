@@ -1,0 +1,43 @@
+dup_line_frac: 0.505
+dup_n_grams:
+- - 5
+  - 0.413
+- - 6
+  - 0.411
+- - 7
+  - 0.411
+- - 8
+  - 0.412
+- - 9
+  - 0.41
+- - 10
+  - 0.41
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.838
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- a
+- ah
+- in
+- chu
+- la
+- ka
+- chun
+- leh
+- ding
+- hi
+- un
+- ahi
+- zia
+- hun
+- kiang
+- um
+top_n_grams:
+- - 2
+  - 0.707
+- - 3
+  - 0.35
+- - 4
+  - 0.186

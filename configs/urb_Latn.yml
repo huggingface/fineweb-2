@@ -1,0 +1,50 @@
+dup_line_frac: 0.24
+dup_n_grams:
+- - 5
+  - 0.746
+- - 6
+  - 0.747
+- - 7
+  - 0.746
+- - 8
+  - 0.745
+- - 9
+  - 0.747
+- - 10
+  - 0.745
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- ta
+- ke
+- aja
+- katu
+- "ame'\u1EBD"
+- pe
+- rehe
+- "t\u0129"
+- "ih\u1EBD"
+- ym
+- "rah\xE3"
+- pandu
+- "tup\xE3"
+- a'e
+- te
+- "am\xF5"
+- "peh\u1EBD"
+- a'erehe
+- riki
+- jesu
+- har
+- nde
+- ma'e
+top_n_grams:
+- - 2
+  - 1.745
+- - 3
+  - 2.741
+- - 4
+  - 3.736

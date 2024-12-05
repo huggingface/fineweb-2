@@ -1,0 +1,58 @@
+dup_line_frac: 0.898
+dup_n_grams:
+- - 5
+  - 0.684
+- - 6
+  - 0.685
+- - 7
+  - 0.669
+- - 8
+  - 0.672
+- - 9
+  - 0.623
+- - 10
+  - 0.662
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- ka
+- na
+- ke
+- ne
+- o
+- inuni
+- ana
+- woi
+- hoi
+- ni
+- wau
+- iga
+- make
+- rao
+- ko
+- god
+- rai
+- kaa
+- mai
+- ia
+- mina
+- ki
+- i
+- marefa
+- iana
+- mwa
+- mwane
+- kena
+- mataina
+- nga
+- manga
+top_n_grams:
+- - 2
+  - 0.845
+- - 3
+  - 1.176
+- - 4
+  - 1.595

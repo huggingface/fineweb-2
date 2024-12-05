@@ -1,0 +1,57 @@
+dup_line_frac: 0.972
+dup_n_grams:
+- - 5
+  - 0.867
+- - 6
+  - 0.866
+- - 7
+  - 0.867
+- - 8
+  - 0.866
+- - 9
+  - 0.867
+- - 10
+  - 0.866
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.143
+stopwords:
+- le
+- pe
+- me
+- ghap
+- "s\xEA"
+- gheuh
+- a
+- pye
+- 'no'
+- wo
+- zou
+- joova
+- ngo
+- yi
+- "\u0259\u0301"
+- "y\xE8so"
+- wouo
+- bible
+- meou
+- tche
+- paghe
+- te
+- "d\xE9s\xE9"
+- ndou
+- "t\xE9"
+- tchi
+- tcho
+- "\u014Bou"
+- "\xE9"
+- mi
+top_n_grams:
+- - 2
+  - 1.841
+- - 3
+  - 2.816
+- - 4
+  - 3.789

@@ -1,0 +1,53 @@
+dup_line_frac: 0.969
+dup_n_grams:
+- - 5
+  - 0.835
+- - 6
+  - 0.833
+- - 7
+  - 0.833
+- - 8
+  - 0.832
+- - 9
+  - 0.832
+- - 10
+  - 0.831
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.684
+min_avg_word_length: 2
+new_line_ratio: 0.032
+stopwords:
+- "\u0302"
+- "\u0306"
+- ng
+- n
+- ma
+- ta
+- pa
+- i
+- nau
+- p
+- h
+- kha
+- t
+- na
+- brah
+- m
+- y
+- je
+- ko
+- may
+- ranh
+- k
+- a
+- le
+- ga
+- geh
+top_n_grams:
+- - 2
+  - 0.899
+- - 3
+  - 1.602
+- - 4
+  - 1.858

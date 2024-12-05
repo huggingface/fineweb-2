@@ -1,0 +1,42 @@
+dup_line_frac: 0.979
+dup_n_grams:
+- - 5
+  - 0.843
+- - 6
+  - 0.842
+- - 7
+  - 0.838
+- - 8
+  - 0.832
+- - 9
+  - 0.823
+- - 10
+  - 0.816
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- xi
+- je
+- nga
+- "k\u02BCoa"
+- "xi\xB3"
+- "jeob\xE1"
+- "nca\xB3"
+- chjota
+- ya
+- "k\u02BCianga"
+- "nin\xE1"
+- kui
+- "je\xB2"
+- "n\u02BCio"
+- kao
+top_n_grams:
+- - 2
+  - 1.003
+- - 3
+  - 1.84
+- - 4
+  - 2.086

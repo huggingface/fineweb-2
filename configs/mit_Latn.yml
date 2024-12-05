@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.104
+- - 6
+  - 0.12
+- - 7
+  - 0.18
+- - 8
+  - 0.215
+- - 9
+  - 0.007
+- - 10
+  - 0.005
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "n\xEC"
+- te
+- "n\xE8hiv\xEC"
+- "m\xE0"
+- dandu
+- "v\xE0chi"
+- "x\xEC"
+- iin
+- "stn\xE1"
+- doco
+- "n\xE8cu\xE0ch\xEC"
+- "n\xF9\xF9"
+- dios
+- na
+- "\xF1\xE0y\xF9c\xE0nd\xF9\xE1"
+- ni
+- "s\xE0h\xE0"
+top_n_grams:
+- - 2
+  - 0.08
+- - 3
+  - 0.161
+- - 4
+  - 0.129

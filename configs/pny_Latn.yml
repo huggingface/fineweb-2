@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.036
+- - 6
+  - 0.017
+- - 7
+  - 0.012
+- - 8
+  - 0.006
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.889
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- a
+- "n\u0268"
+- "l\u0259\u0300"
+- "\xE0"
+- lo
+- "pob\u0259"
+- la
+- e
+- "p\u0259"
+- "p\u0268"
+- ambo
+- "n\u1E85\xF9\u0259\u0300"
+- ka
+- "n\u0268\u0300"
+- "amwu\u0259"
+- "a\u014Bun\u0259"
+- "p\xE0n\u0259\u0300"
+top_n_grams:
+- - 2
+  - 0.48
+- - 3
+  - 0.655
+- - 4
+  - 1.0

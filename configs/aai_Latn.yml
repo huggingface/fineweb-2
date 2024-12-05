@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.406
+- - 6
+  - 0.403
+- - 7
+  - 0.401
+- - 8
+  - 0.4
+- - 9
+  - 0.394
+- - 10
+  - 0.391
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- i
+- ana
+- naatu
+- boro
+- men
+- sabuw
+- orot
+- isan
+- god
+- ayu
+- baise
+- iti
+- tur
+- etei
+- jesu
+- kwa
+- hai
+- ta
+- eo
+- "na\u2019atube"
+- anayabin
+- o
+- nati
+top_n_grams:
+- - 2
+  - 0.108
+- - 3
+  - 0.139
+- - 4
+  - 0.176

@@ -1,0 +1,43 @@
+dup_line_frac: 0.786
+dup_n_grams:
+- - 5
+  - 0.428
+- - 6
+  - 0.506
+- - 7
+  - 0.45
+- - 8
+  - 0.5
+- - 9
+  - 0.406
+- - 10
+  - 0.412
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- nd
+- bro
+- kfo
+- nhai
+- be
+- tfit
+- wom
+- inji
+- bi
+- yimam
+- yima
+- na
+- to
+- nkifrar
+- yak
+- mrokfom
+top_n_grams:
+- - 2
+  - 0.387
+- - 3
+  - 0.453
+- - 4
+  - 0.5

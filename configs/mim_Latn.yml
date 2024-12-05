@@ -1,0 +1,50 @@
+dup_line_frac: 0.238
+dup_n_grams:
+- - 5
+  - 0.104
+- - 6
+  - 0.082
+- - 7
+  - 0.059
+- - 8
+  - 0.048
+- - 9
+  - 0.031
+- - 10
+  - 0.021
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.873
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- ta
+- na
+- "\xF1a"
+- ra
+- "x\xED'in"
+- "sa\xE1"
+- "nd\xF3"
+- "no\u0331o\u0331"
+- "ni\u0331vi"
+- ndios
+- "o\u0331n"
+- "i\u0331"
+- "k\xFAu"
+- "y\xF3'o"
+- "y\xF3"
+- ini
+- "xa\u0331'a\u0331"
+- "\xF1ii"
+- "n\xED"
+- ndi'i
+- chi
+- "to\u0331'on"
+- "y\xF3o"
+top_n_grams:
+- - 2
+  - 0.038
+- - 3
+  - 0.03
+- - 4
+  - 0.04

@@ -1,0 +1,50 @@
+dup_line_frac: 0.053
+dup_n_grams:
+- - 5
+  - 0.403
+- - 6
+  - 0.383
+- - 7
+  - 0.378
+- - 8
+  - 0.35
+- - 9
+  - 0.31
+- - 10
+  - 0.305
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.735
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- et
+- dut
+- na
+- menge
+- ye
+- ne
+- neng
+- dye
+- ku
+- beke
+- empu
+- sabab
+- myu
+- eset
+- si
+- jesus
+- i
+- ating
+- diki
+- taaw
+- ya
+- kaya
+- gasi
+top_n_grams:
+- - 2
+  - 0.697
+- - 3
+  - 0.925
+- - 4
+  - 1.125

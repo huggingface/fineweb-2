@@ -1,0 +1,49 @@
+dup_line_frac: 0.46
+dup_n_grams:
+- - 5
+  - 0.373
+- - 6
+  - 0.365
+- - 7
+  - 0.355
+- - 8
+  - 0.359
+- - 9
+  - 0.361
+- - 10
+  - 0.368
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 4
+new_line_ratio: 0.05
+stopwords:
+- "te\u0331"
+- "\xF1a\u0331"
+- "ni\u0331"
+- "a\u0331"
+- ndii
+- "ra\u0331"
+- "ne\u0331"
+- "ja\u0331a\u0331n\uA78C"
+- "i\u0331"
+- "xiin\uA78C"
+- "ni\u0331a\u0331"
+- "ndios\xED"
+- "ndo\u0331\uA78C"
+- "i\u0331i\u0331n"
+- "ja\u0331a\u0331n"
+- "tu\u0331"
+- "nuu\u0331\uA78C"
+- xiin
+- "xa\uA78Ca\u0331\uA78C"
+- "sa\u0331kan\uA78C"
+- "nde\u0331e\u0331"
+- "e\u0331\uA78C"
+top_n_grams:
+- - 2
+  - 0.09
+- - 3
+  - 0.158
+- - 4
+  - 0.208

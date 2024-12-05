@@ -1,0 +1,45 @@
+dup_line_frac: 0.818
+dup_n_grams:
+- - 5
+  - 0.67
+- - 6
+  - 0.67
+- - 7
+  - 0.651
+- - 8
+  - 0.622
+- - 9
+  - 0.612
+- - 10
+  - 0.649
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- ne
+- "b\u0254"
+- "ky\u025B"
+- "\u0254"
+- "ye\u025B"
+- "w\u0254"
+- ye
+- nu
+- na
+- yehowa
+- so
+- a
+- "y\u025B"
+- "n\xE9"
+- nwo
+- "s\u025B"
+- bible
+- "nyame\u025Bpiri"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.286
+- - 4
+  - 1.647

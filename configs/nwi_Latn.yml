@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.065
+- - 6
+  - 0.047
+- - 7
+  - 0.037
+- - 8
+  - 0.027
+- - 9
+  - 0.022
+- - 10
+  - 0.02
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.78
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "k\u0268ni"
+- ye
+- "m\u0259"
+- "m\u0268n\u0259"
+- in
+- "k\u0268n"
+- yame
+- kape
+- "p\u0259n"
+- kughen
+- "m\u0268ne"
+- tuk
+- "narmam\u0259"
+- "m\u0259r\u0268g"
+- e
+- "k\u0268rik"
+- yesu
+- "n\u0268p\u0268g"
+- a
+- "k\u0268mi"
+- "\u0259m\u0259"
+- kafan
+top_n_grams:
+- - 2
+  - 0.025
+- - 3
+  - 0.024
+- - 4
+  - 0.026

@@ -1,0 +1,42 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.068
+- - 6
+  - 0.048
+- - 7
+  - 0.034
+- - 8
+  - 0.024
+- - 9
+  - 0.016
+- - 10
+  - 0.013
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 5
+new_line_ratio: 0.062
+stopwords:
+- "r\xFC"
+- i
+- ga
+- na
+- "n\xFCx\xFC\u0303"
+- "ng\u1EBDma"
+- ya
+- "nix\u0129"
+- yema
+- tama
+- "t\xE1"
+- "\xF1anag\xFCr\xFC"
+- "nat\xFCr\xFC"
+- tupana
+- "du\xFC\u0303x\xFC\u0303g\xFC"
+top_n_grams:
+- - 2
+  - 0.088
+- - 3
+  - 0.147
+- - 4
+  - 0.139

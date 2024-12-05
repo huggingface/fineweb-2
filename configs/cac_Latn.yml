@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.133
+- - 6
+  - 0.093
+- - 7
+  - 0.071
+- - 8
+  - 0.059
+- - 9
+  - 0.043
+- - 10
+  - 0.033
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.688
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- eb
+- a
+- ix
+- d'a
+- chi
+- jun
+- "vin\u0308"
+- yuj
+- tic
+- in
+- ol
+- dios
+- yic
+- icha
+- tas
+- ay
+- "vin\u0308aj"
+- cha
+- yed
+- e
+top_n_grams:
+- - 2
+  - 0.098
+- - 3
+  - 0.124
+- - 4
+  - 0.144

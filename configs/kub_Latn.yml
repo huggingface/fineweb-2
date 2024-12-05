@@ -1,0 +1,56 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.514
+- - 6
+  - 0.505
+- - 7
+  - 0.523
+- - 8
+  - 0.523
+- - 9
+  - 0.505
+- - 10
+  - 0.467
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- "t\u012B"
+- ti
+- "w\u016B"
+- "k\xFA"
+- "\xFA"
+- ande
+- rimam
+- si
+- "aw\u016B"
+- uwae
+- "t\xED"
+- "n\u012B"
+- "b\u0101"
+- na
+- "b\u0101a"
+- ame
+- "b\u0113"
+- unde
+- "y\u012B"
+- "r\u016B"
+- "\u0101"
+- "ir\xE1"
+- "r\u012B"
+- "t\xE9"
+- nde
+- a
+- m
+- "n\u0101"
+- yesu
+top_n_grams:
+- - 2
+  - 1.221
+- - 3
+  - 1.885
+- - 4
+  - 2.523

@@ -1,0 +1,51 @@
+dup_line_frac: 0.95
+dup_n_grams:
+- - 5
+  - 0.737
+- - 6
+  - 0.764
+- - 7
+  - 0.737
+- - 8
+  - 0.68
+- - 9
+  - 0.764
+- - 10
+  - 0.637
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- yi
+- na
+- e
+- "\u025B"
+- xa
+- n
+- ma
+- ra
+- naxan
+- nun
+- mi
+- i
+- nan
+- ala
+- naxa
+- "n\u025Bn"
+- fala
+- birin
+- yesu
+- bata
+- en
+- koni
+- tan
+top_n_grams:
+- - 2
+  - 0.927
+- - 3
+  - 1.247
+- - 4
+  - 1.834

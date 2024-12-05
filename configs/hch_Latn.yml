@@ -1,0 +1,40 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.0
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 5
+new_line_ratio: 0.2
+stopwords:
+- que
+- "m\xFCpa\xFC"
+- "caca\xFCyari"
+- "m\xFCc\xFC"
+- tita
+- "m\xFCme"
+- mieme
+- "aix\xFCa"
+- "m\xFC'ane"
+- "x\xFCca"
+- "hic\xFC"
+- meta
+- yuri
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.13
+- - 4
+  - 1.0

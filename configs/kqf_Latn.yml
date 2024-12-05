@@ -1,0 +1,46 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.713
+- - 6
+  - 0.685
+- - 7
+  - 0.707
+- - 8
+  - 0.714
+- - 9
+  - 0.636
+- - 10
+  - 0.607
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.837
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- bi
+- i
+- a
+- te
+- ena
+- ba
+- mote
+- gado
+- lava
+- ya
+- sa
+- tana
+- bada
+- yesu
+- maimaituwa
+- niga
+- ko
+- wai
+- kwa
+top_n_grams:
+- - 2
+  - 1.636
+- - 3
+  - 2.227
+- - 4
+  - 3.021

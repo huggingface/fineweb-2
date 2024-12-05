@@ -1,0 +1,49 @@
+dup_line_frac: 0.944
+dup_n_grams:
+- - 5
+  - 0.776
+- - 6
+  - 0.779
+- - 7
+  - 0.774
+- - 8
+  - 0.772
+- - 9
+  - 0.774
+- - 10
+  - 0.767
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- na
+- yang
+- nang
+- sang
+- manga
+- dios
+- aw
+- yaan
+- kay
+- naan
+- otaw
+- kamo
+- si
+- da
+- silan
+- ni
+- ko
+- kanaan
+- jesus
+- mayo
+- nilan
+- kayan
+top_n_grams:
+- - 2
+  - 0.679
+- - 3
+  - 0.903
+- - 4
+  - 1.085

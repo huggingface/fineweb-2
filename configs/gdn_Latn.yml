@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.076
+- - 6
+  - 0.065
+- - 7
+  - 0.056
+- - 8
+  - 0.048
+- - 9
+  - 0.034
+- - 10
+  - 0.03
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.871
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- ki
+- e
+- ka
+- mu
+- wi
+- nau
+- nu
+- ko
+- ade
+- mena
+- eba
+- iyapana
+- god
+- mamanuga
+- mete
+- ragidai
+- manako
+- wagubu
+- da
+- kawaya
+- kau
+- iyesu
+- inako
+- ke
+top_n_grams:
+- - 2
+  - 0.043
+- - 3
+  - 0.036
+- - 4
+  - 0.026

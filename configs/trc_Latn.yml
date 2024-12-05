@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.086
+- - 6
+  - 0.069
+- - 7
+  - 0.042
+- - 8
+  - 0.033
+- - 9
+  - 0.024
+- - 10
+  - 0.021
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.752
+min_avg_word_length: 4
+new_line_ratio: 0.042
+stopwords:
+- "ne\u0331"
+- nij
+- se
+- so
+- rihaan
+- me
+- "s\xED\xED"
+- soj
+- vaa
+- man
+- "diose\u0331"
+- "so\uA78C"
+- "r\xE1"
+- dan
+- a
+- "ga\u0331a"
+- "yuvii\u0331"
+- "jesucrist\xF3"
+- "che'\xE9"
+- "nana\u0331"
+top_n_grams:
+- - 2
+  - 0.06
+- - 3
+  - 0.102
+- - 4
+  - 0.13

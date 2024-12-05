@@ -1,0 +1,42 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.394
+- - 6
+  - 0.394
+- - 7
+  - 0.39
+- - 8
+  - 0.389
+- - 9
+  - 0.386
+- - 10
+  - 0.383
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "n\u025B"
+- "b\u025B"
+- "mand\u025Bm"
+- yi
+- "an\u025B"
+- bo
+- mmu
+- "k\u025B"
+- yesu
+- "ndu\u030C"
+- chi
+- "abh\u025Bn"
+- nyaka
+- "\u025Bn\u025B"
+- "mb\u0254"
+top_n_grams:
+- - 2
+  - 0.119
+- - 3
+  - 0.154
+- - 4
+  - 0.194

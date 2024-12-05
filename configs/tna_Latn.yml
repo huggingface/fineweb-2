@@ -1,0 +1,50 @@
+dup_line_frac: 0.974
+dup_n_grams:
+- - 5
+  - 0.828
+- - 6
+  - 0.826
+- - 7
+  - 0.823
+- - 8
+  - 0.826
+- - 9
+  - 0.819
+- - 10
+  - 0.814
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- su
+- cuana
+- da
+- ja
+- sa
+- puji
+- diusu
+- huecuana
+- putsu
+- mahue
+- beju
+- tueda
+- ema
+- ai
+- daja
+- neje
+- saida
+- "jes\xFAs"
+- peje
+- aimue
+- micuana
+- pamapa
+- micuaneda
+top_n_grams:
+- - 2
+  - 0.667
+- - 3
+  - 0.907
+- - 4
+  - 1.002

@@ -1,0 +1,41 @@
+dup_line_frac: 0.139
+dup_n_grams:
+- - 5
+  - 0.052
+- - 6
+  - 0.036
+- - 7
+  - 0.028
+- - 8
+  - 0.023
+- - 9
+  - 0.015
+- - 10
+  - 0.01
+line_punct_thr: 0.133
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.883
+min_avg_word_length: 3
+new_line_ratio: 0.583
+stopwords:
+- "\u062F\u06D2"
+- "\u060C"
+- "\u0648\u0686"
+- "\u062A\u06D2"
+- "\u062F\u200F\u200F\u06CC"
+- "\u062F\u0627"
+- "\u0627\u06D2"
+- "\u0646\u06D2"
+- "\u062A\u0648\u200F\u06BA"
+- "\u0627\u0633"
+- "\u0646\u0648\u200F\u200F\u06BA"
+- "\u0633\u06CC"
+- "\u0627\u06A9"
+- "\u0627\u064F\u062A\u06D2"
+top_n_grams:
+- - 2
+  - 0.114
+- - 3
+  - 0.102
+- - 4
+  - 0.125

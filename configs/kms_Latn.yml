@@ -1,0 +1,52 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.376
+- - 6
+  - 0.373
+- - 7
+  - 0.364
+- - 8
+  - 0.354
+- - 9
+  - 0.339
+- - 10
+  - 0.344
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.87
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- ni
+- kin
+- te
+- di
+- ningg
+- wute
+- ye
+- nge
+- nungoqi
+- god
+- segi
+- pe
+- wand
+- yumbo
+- pugri
+- nei
+- beghi
+- nde
+- puq
+- ei
+- jisas
+- wuti
+- muq
+- yumbui
+- nganye
+top_n_grams:
+- - 2
+  - 0.089
+- - 3
+  - 0.099
+- - 4
+  - 0.12

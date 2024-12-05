@@ -1,0 +1,64 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.059
+- - 6
+  - 0.042
+- - 7
+  - 0.034
+- - 8
+  - 0.026
+- - 9
+  - 0.02
+- - 10
+  - 0.016
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- "\xEDmba"
+- "s\xE9na"
+- "\xEDsu"
+- "man\xEDk\xF3"
+- aai
+- "s\xE9sa"
+- waasi
+- "s\xE1w\xED"
+- "man\xEDk\xF3n"
+- "wen\xED"
+- "\xFAmai"
+- "man\xEDk\xF3n\xED"
+- "\xEDmbo"
+- "wa\xE1si"
+- "k\xEDsau"
+- iye
+- "miy\xE1"
+- "siy\xE1iye"
+- "\xE9sa"
+- "mo\xF3r\xE1"
+- "\xE9na"
+- "im\xE1y\xE1a"
+- "kawe\uA78C"
+- "tuw\xEDmbai"
+- "\xE9\uA78Ca"
+- kwaasi
+- "kes\xED"
+- "s\xFAwana"
+- "\xFAwoi"
+- "y\xFAndaa"
+- "min\xE1\xE1\xED"
+- "p\xF3na"
+- "\xF3raa\uA78C"
+- "s\xE9\uA78Ca"
+- "s\xFAne"
+- "miw\xED"
+- aaimo
+top_n_grams:
+- - 2
+  - 0.033
+- - 3
+  - 0.028
+- - 4
+  - 0.035

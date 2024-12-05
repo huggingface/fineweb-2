@@ -1,0 +1,47 @@
+dup_line_frac: 0.449
+dup_n_grams:
+- - 5
+  - 0.113
+- - 6
+  - 0.088
+- - 7
+  - 0.066
+- - 8
+  - 0.041
+- - 9
+  - 0.045
+- - 10
+  - 0.034
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- ako
+- en
+- at
+- o
+- yiluk
+- it
+- dugwit
+- andi
+- ap
+- menda
+- vaga
+- inim
+- ala
+- wene
+- yi
+- yesus
+- ambi
+- erogo
+- dek
+- an
+top_n_grams:
+- - 2
+  - 0.372
+- - 3
+  - 0.667
+- - 4
+  - 0.081

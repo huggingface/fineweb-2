@@ -1,0 +1,40 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.382
+- - 7
+  - 0.347
+- - 8
+  - 0.337
+- - 9
+  - 0.329
+- - 10
+  - 0.336
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 5
+new_line_ratio: 0.056
+stopwords:
+- "t\u0268"
+- "\u0268\u0301"
+- pu
+- "\u0268"
+- mej
+- ajta
+- "ay\xE9n"
+- jetze
+- "a'\u0268\u0301"
+- dios
+- jemi
+- "j\u0268\u0301n"
+- majta
+top_n_grams:
+- - 2
+  - 0.102
+- - 3
+  - 0.15
+- - 4
+  - 0.188

@@ -1,0 +1,52 @@
+dup_line_frac: 0.518
+dup_n_grams:
+- - 5
+  - 0.418
+- - 6
+  - 0.415
+- - 7
+  - 0.416
+- - 8
+  - 0.411
+- - 9
+  - 0.401
+- - 10
+  - 0.386
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.854
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- ri
+- hima
+- ti
+- wu
+- ki
+- ya
+- o
+- hinga
+- ni
+- gotri
+- sumbu
+- mwanji
+- ku
+- rini
+- ani
+- naha
+- ete
+- ele
+- wunu
+- kunu
+- a
+- nu
+- wowani
+- ai
+- kipe
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.144
+- - 4
+  - 0.147

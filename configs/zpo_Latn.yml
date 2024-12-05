@@ -1,0 +1,47 @@
+dup_line_frac: 0.462
+dup_n_grams:
+- - 5
+  - 0.44
+- - 6
+  - 0.358
+- - 7
+  - 0.394
+- - 8
+  - 0.336
+- - 9
+  - 0.329
+- - 10
+  - 0.333
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- xaa
+- nu
+- lo
+- re
+- kwaan
+- na
+- gu
+- lee
+- dios
+- zee
+- be
+- tub
+- cheen
+- nak
+- lu
+- nel
+- ne
+- "jes\xFAs"
+- "nzh\xE9"
+- mod
+top_n_grams:
+- - 2
+  - 0.665
+- - 3
+  - 0.788
+- - 4
+  - 0.957

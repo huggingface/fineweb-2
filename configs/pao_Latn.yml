@@ -1,0 +1,47 @@
+dup_line_frac: 0.875
+dup_n_grams:
+- - 5
+  - 0.697
+- - 6
+  - 0.678
+- - 7
+  - 0.666
+- - 8
+  - 0.668
+- - 9
+  - 0.651
+- - 10
+  - 0.602
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.775
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ka
+- mu
+- te
+- soo
+- gi
+- oo
+- naa
+- numu
+- yise
+- nu
+- umu
+- tamme
+- mee
+- besa
+- pabe'e
+- e
+- sakwa
+- u
+- meeoo
+- tooe
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.326
+- - 4
+  - 1.583

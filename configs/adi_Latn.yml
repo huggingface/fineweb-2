@@ -1,0 +1,37 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.561
+- - 6
+  - 0.477
+- - 7
+  - 0.436
+- - 8
+  - 0.42
+- - 9
+  - 0.411
+- - 10
+  - 0.381
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- "b\xED"
+- delokke
+- delo
+- ngo
+- ruutum
+- ami
+- bulu
+- emla
+- "k\xEDd\xEDem"
+- "b\xEDkke"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 0.977

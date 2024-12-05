@@ -1,0 +1,40 @@
+dup_line_frac: 0.015
+dup_n_grams:
+- - 5
+  - 0.059
+- - 6
+  - 0.046
+- - 7
+  - 0.039
+- - 8
+  - 0.035
+- - 9
+  - 0.02
+- - 10
+  - 0.014
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 6
+new_line_ratio: 0.067
+stopwords:
+- "y\xEB'\xEB"
+- ja'nca
+- riusu
+- "bagu\xEB"
+- ai
+- bain
+- te'e
+- yua
+- "m\xEBsacua"
+- si'a
+- bacua
+- beoye
+- coca
+top_n_grams:
+- - 2
+  - 0.089
+- - 3
+  - 0.14
+- - 4
+  - 0.097

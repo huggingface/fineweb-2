@@ -1,0 +1,55 @@
+dup_line_frac: 0.472
+dup_n_grams:
+- - 5
+  - 0.7
+- - 6
+  - 0.711
+- - 7
+  - 0.679
+- - 8
+  - 0.669
+- - 9
+  - 0.655
+- - 10
+  - 0.636
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.606
+min_avg_word_length: 3
+new_line_ratio: 0.037
+stopwords:
+- da
+- ri
+- gi
+- moo
+- nyid
+- nghoid
+- yo
+- we
+- wa
+- mo
+- khyoo
+- nyang
+- yi
+- lo
+- boem
+- nanu
+- shid
+- loo
+- hau
+- tid
+- yu
+- ga
+- lho
+- nya
+- bye
+- zi
+- ngoo
+- re
+top_n_grams:
+- - 2
+  - 0.45
+- - 3
+  - 0.578
+- - 4
+  - 0.851

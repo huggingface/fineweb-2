@@ -1,0 +1,57 @@
+dup_line_frac: 0.942
+dup_n_grams:
+- - 5
+  - 0.77
+- - 6
+  - 0.76
+- - 7
+  - 0.76
+- - 8
+  - 0.772
+- - 9
+  - 0.76
+- - 10
+  - 0.767
+line_punct_thr: -1
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 3
+new_line_ratio: 0.333
+stopwords:
+- i
+- xe
+- nde
+- "su\xED"
+- "pup\xE9"
+- "sup\xE9"
+- "tup\xE3"
+- tom
+- "ab\xE1"
+- "oik\xF3"
+- "as\xE9"
+- "res\xE9"
+- "or\xE9"
+- "kunh\xE3"
+- nhe'enga
+- "per\xF3"
+- "\xE3"
+- o
+- porang
+- maria
+- "k\xF3"
+- a'e
+- "p\xF3"
+- "nhyr\xF5"
+- onhe'eng
+- iakupema
+- osem
+- pe
+- senemby
+- "ir\u0169namo"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.726
+- - 4
+  - 1.89

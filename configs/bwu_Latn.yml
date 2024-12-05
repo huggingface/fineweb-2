@@ -1,0 +1,52 @@
+dup_line_frac: 0.962
+dup_n_grams:
+- - 5
+  - 0.718
+- - 6
+  - 0.72
+- - 7
+  - 0.705
+- - 8
+  - 0.701
+- - 9
+  - 0.701
+- - 10
+  - 0.686
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.884
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- a
+- ale
+- wa
+- la
+- ba
+- ate
+- ayen
+- ka
+- ni
+- jam
+- yaa
+- naawen
+- kama
+- po
+- ti
+- dii
+- weeni
+- mi
+- ta
+- m
+- de
+- meena
+- te
+- le
+- kan
+top_n_grams:
+- - 2
+  - 0.617
+- - 3
+  - 0.925
+- - 4
+  - 1.195

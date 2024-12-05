@@ -1,0 +1,52 @@
+dup_line_frac: 0.667
+dup_n_grams:
+- - 5
+  - 0.821
+- - 6
+  - 0.816
+- - 7
+  - 0.82
+- - 8
+  - 0.82
+- - 9
+  - 0.816
+- - 10
+  - 0.809
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 6
+new_line_ratio: 0.167
+stopwords:
+- lhiehe
+- watsa
+- dio
+- nhaaha
+- nhaakaha
+- jeowa
+- "\xF1ame"
+- nheette
+- newiki
+- nako
+- lhieka
+- tsakha
+- phiome
+- hiipai
+- jesu
+- whaa
+- nalhio
+- neemaka
+- iako
+- liko
+- "no\xE9"
+- "ad\xE3o"
+- metsa
+- matsia
+- koaka
+top_n_grams:
+- - 2
+  - 1.821
+- - 3
+  - 2.799
+- - 4
+  - 3.758

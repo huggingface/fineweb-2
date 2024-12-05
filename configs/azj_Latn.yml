@@ -1,0 +1,49 @@
+dup_line_frac: 0.857
+dup_n_grams:
+- - 5
+  - 0.364
+- - 6
+  - 0.329
+- - 7
+  - 0.32
+- - 8
+  - 0.284
+- - 9
+  - 0.261
+- - 10
+  - 0.24
+line_punct_thr: 0.333
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.725
+min_avg_word_length: 3
+new_line_ratio: 0.25
+stopwords:
+- "v\u0259"
+- "il\u0259"
+- "ild\u0259"
+- bir
+- bu
+- "az\u0259rbaycan"
+- olan
+- "\xFC\xE7\xFCn"
+- sonra
+- "d\u0259"
+- kimi
+- il
+- "is\u0259"
+- o
+- "g\xF6r\u0259"
+- da
+- "t\u0259r\u0259find\u0259n"
+- "\xE7ox"
+- ki
+- onun
+- edir
+- idi
+top_n_grams:
+- - 2
+  - 0.275
+- - 3
+  - 0.324
+- - 4
+  - 0.334

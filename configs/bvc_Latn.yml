@@ -1,0 +1,56 @@
+dup_line_frac: 0.826
+dup_n_grams:
+- - 5
+  - 0.637
+- - 6
+  - 0.615
+- - 7
+  - 0.654
+- - 8
+  - 0.615
+- - 9
+  - 0.615
+- - 10
+  - 0.595
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.755
+min_avg_word_length: 3
+new_line_ratio: 0.045
+stopwords:
+- ka
+- ma
+- na
+- e
+- ki
+- si
+- tha
+- da
+- ana
+- ne
+- nia
+- i
+- ngwane
+- sulia
+- imole
+- god
+- naa
+- doo
+- neri
+- molu
+- sui
+- nau
+- ta
+- bae
+- langi
+- jisas
+- manga
+- ku
+- urii
+top_n_grams:
+- - 2
+  - 0.488
+- - 3
+  - 0.57
+- - 4
+  - 0.727

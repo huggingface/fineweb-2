@@ -1,0 +1,52 @@
+dup_line_frac: 0.429
+dup_n_grams:
+- - 5
+  - 0.556
+- - 6
+  - 0.543
+- - 7
+  - 0.554
+- - 8
+  - 0.543
+- - 9
+  - 0.531
+- - 10
+  - 0.504
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.882
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- a
+- na
+- hi
+- yi
+- ha
+- "gha\u0300n"
+- "a\u0300"
+- mu
+- "wu\u0300"
+- "k\u0259"
+- "mo\u0302"
+- "gh\u0268"
+- ma
+- "gh\u0268na"
+- "ni\u0300"
+- wu
+- ni
+- gha
+- "gh\u0268t"
+- te
+- "hi\u0300"
+- "wu\u0302n"
+- "wu\u0300t"
+- "mo\u0300"
+- "na\u0302"
+top_n_grams:
+- - 2
+  - 0.28
+- - 3
+  - 0.394
+- - 4
+  - 0.485

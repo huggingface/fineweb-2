@@ -1,0 +1,35 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.244
+- - 6
+  - 0.225
+- - 7
+  - 0.212
+- - 8
+  - 0.201
+- - 9
+  - 0.192
+- - 10
+  - 0.183
+line_punct_thr: 0.25
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 3
+new_line_ratio: 0.25
+stopwords:
+- dan
+- di
+- yang
+- pada
+- dalam
+- dengan
+- untuk
+- ini
+top_n_grams:
+- - 2
+  - 0.087
+- - 3
+  - 0.104
+- - 4
+  - 0.115

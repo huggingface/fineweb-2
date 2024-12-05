@@ -1,0 +1,48 @@
+dup_line_frac: 0.714
+dup_n_grams:
+- - 5
+  - 0.508
+- - 6
+  - 0.497
+- - 7
+  - 0.477
+- - 8
+  - 0.447
+- - 9
+  - 0.47
+- - 10
+  - 0.463
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- g
+- wo
+- am
+- ab
+- i
+- hab
+- e
+- pi
+- ha
+- ch
+- k
+- s
+- t
+- d
+- jiosh
+- si
+- mo
+- mat
+- hu
+- ni
+- heg
+top_n_grams:
+- - 2
+  - 0.442
+- - 3
+  - 0.591
+- - 4
+  - 0.728

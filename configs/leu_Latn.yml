@@ -1,0 +1,54 @@
+dup_line_frac: 0.967
+dup_n_grams:
+- - 5
+  - 0.441
+- - 6
+  - 0.442
+- - 7
+  - 0.432
+- - 8
+  - 0.432
+- - 9
+  - 0.436
+- - 10
+  - 0.433
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- e
+- ri
+- taa
+- mu
+- pana
+- sina
+- aava
+- la
+- na
+- sena
+- piran
+- i
+- ne
+- ina
+- nane
+- mi
+- rabuna
+- pife
+- o
+- xe
+- fo
+- mo
+- taxa
+- maana
+- mataa
+- nari
+top_n_grams:
+- - 2
+  - 0.487
+- - 3
+  - 0.758
+- - 4
+  - 1.011

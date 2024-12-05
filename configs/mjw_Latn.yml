@@ -1,0 +1,45 @@
+dup_line_frac: 0.145
+dup_n_grams:
+- - 5
+  - 0.197
+- - 6
+  - 0.157
+- - 7
+  - 0.118
+- - 8
+  - 0.076
+- - 9
+  - 0.062
+- - 10
+  - 0.047
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- aphan
+- lapen
+- atum
+- pen
+- ke
+- nanglitum
+- alangli
+- arnam
+- neli
+- halatum
+- lo
+- abang
+- alam
+- bonta
+- pulo
+- hei
+- jisu
+- labangso
+top_n_grams:
+- - 2
+  - 0.378
+- - 3
+  - 0.466
+- - 4
+  - 0.403

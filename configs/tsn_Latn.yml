@@ -1,0 +1,47 @@
+dup_line_frac: 0.544
+dup_n_grams:
+- - 5
+  - 0.403
+- - 6
+  - 0.393
+- - 7
+  - 0.353
+- - 8
+  - 0.337
+- - 9
+  - 0.324
+- - 10
+  - 0.336
+line_punct_thr: 0.36
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.863
+min_avg_word_length: 3
+new_line_ratio: 0.133
+stopwords:
+- e
+- ya
+- ke
+- borwa
+- aforika
+- toropo
+- gauteng
+- mamelodi
+- le
+- a
+- go
+- ka
+- ba
+- mo
+- o
+- wa
+- di
+- ne
+- tsa
+- kwa
+top_n_grams:
+- - 2
+  - 0.629
+- - 3
+  - 0.8
+- - 4
+  - 0.772

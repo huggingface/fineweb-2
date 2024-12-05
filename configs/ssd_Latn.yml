@@ -1,0 +1,47 @@
+dup_line_frac: 0.6
+dup_n_grams:
+- - 5
+  - 0.55
+- - 6
+  - 0.531
+- - 7
+  - 0.528
+- - 8
+  - 0.486
+- - 9
+  - 0.507
+- - 10
+  - 0.506
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.886
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- nu
+- tuku
+- ta
+- le
+- nane
+- ye
+- tane
+- "ta\u014Bgo"
+- pasa
+- mbal
+- "mbol\u014Bge"
+- kuate
+- ne
+- sine
+- te
+- "su\u014Bgo"
+- ande
+- "nu\u014Be"
+- "\u014Bga"
+- kile
+top_n_grams:
+- - 2
+  - 0.686
+- - 3
+  - 0.966
+- - 4
+  - 0.978

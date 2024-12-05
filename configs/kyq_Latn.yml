@@ -1,0 +1,51 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.368
+- - 6
+  - 0.368
+- - 7
+  - 0.316
+- - 8
+  - 0.307
+- - 9
+  - 0.302
+- - 10
+  - 0.295
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- se
+- "\u0254\u0254"
+- "k\u025Bn"
+- ki
+- "naan\u0330"
+- raa
+- "\u0253o"
+- ute
+- taa
+- jaay
+- "naa\u0257e"
+- do
+- jee
+- eyo
+- maam
+- taar
+- "g\u0254tn"
+- num
+- "maak\u014B"
+- isa
+- naase
+- jeege
+- "g\u025Bn"
+- debm
+top_n_grams:
+- - 2
+  - 0.127
+- - 3
+  - 0.237
+- - 4
+  - 0.128

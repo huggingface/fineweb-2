@@ -1,0 +1,53 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.514
+- - 6
+  - 0.088
+- - 7
+  - 0.071
+- - 8
+  - 0.065
+- - 9
+  - 0.051
+- - 10
+  - 0.039
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ma
+- gebe
+- "e\u014B"
+- "na\u014B"
+- "ta\u014B"
+- "a\xEA"
+- lau
+- "g\xEAd\xEA\u014B"
+- atom
+- to
+- "\xEAs\xEAac"
+- "bi\u014B"
+- tau
+- sa
+- "te\u014B"
+- oc
+- "tona\u014B"
+- amac
+- "a\xF4m"
+- tec
+- "\u014Bac"
+- amboac
+- "a\u014Bga"
+- "g\xEA\u014B"
+- "\xEAnd\xEA\u014B"
+- go
+top_n_grams:
+- - 2
+  - 0.452
+- - 3
+  - 0.583
+- - 4
+  - 0.596

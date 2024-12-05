@@ -1,0 +1,44 @@
+dup_line_frac: 0.78
+dup_n_grams:
+- - 5
+  - 0.629
+- - 6
+  - 0.593
+- - 7
+  - 0.558
+- - 8
+  - 0.558
+- - 9
+  - 0.571
+- - 10
+  - 0.496
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ni
+- ha
+- mu
+- wa
+- yehova
+- ku
+- hanga
+- te
+- kuli
+- nawa
+- yize
+- a
+- ya
+- zambi
+- atu
+- cha
+- ngwo
+top_n_grams:
+- - 2
+  - 0.59
+- - 3
+  - 0.801
+- - 4
+  - 0.944

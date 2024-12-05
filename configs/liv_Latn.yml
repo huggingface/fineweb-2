@@ -1,0 +1,49 @@
+dup_line_frac: 0.423
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.394
+- - 7
+  - 0.369
+- - 8
+  - 0.373
+- - 9
+  - 0.35
+- - 10
+  - 0.37
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.175
+stopwords:
+- ja
+- um
+- ku
+- saeima
+- vald
+- "v\u022F\u013C"
+- ka
+- ta
+- "a\u0308b"
+- mis
+- prezident
+- se
+- "il\u0327"
+- "az\u030C"
+- "a\u0304t"
+- "pierr\xF5"
+- set
+- "pier\u0101st"
+- "i\u013C"
+- "o\u0303igizt"
+- "li\u0304vo\u0303"
+- "aga\u0304"
+top_n_grams:
+- - 2
+  - 0.423
+- - 3
+  - 0.636
+- - 4
+  - 0.689

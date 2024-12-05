@@ -1,0 +1,36 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.061
+- - 6
+  - 0.038
+- - 7
+  - 0.019
+- - 8
+  - 0.016
+- - 9
+  - 0.018
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 7
+new_line_ratio: 0.111
+stopwords:
+- diosa
+- konig
+- diosen
+- "kenpa\u02BCti"
+- kenda
+- diostaj
+- ken
+- huairi
+- "dakhuea\u02BC"
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.113
+- - 4
+  - 0.054

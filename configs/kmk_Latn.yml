@@ -1,0 +1,45 @@
+dup_line_frac: 0.208
+dup_n_grams:
+- - 5
+  - 0.256
+- - 6
+  - 0.081
+- - 7
+  - 0.038
+- - 8
+  - 0.014
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- un
+- kan
+- dit
+- da
+- si
+- ot
+- na
+- apudyus
+- dat
+- nu
+- yu
+- ta
+- jesus
+- yoong
+- di
+- utdit
+- sit
+- tagu
+top_n_grams:
+- - 2
+  - 0.499
+- - 3
+  - 0.536
+- - 4
+  - 0.463

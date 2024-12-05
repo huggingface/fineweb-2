@@ -1,0 +1,47 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.474
+- - 6
+  - 0.464
+- - 7
+  - 0.459
+- - 8
+  - 0.423
+- - 9
+  - 0.401
+- - 10
+  - 0.38
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.827
+min_avg_word_length: 4
+new_line_ratio: 0.056
+stopwords:
+- te
+- tama
+- bidi
+- po
+- me
+- dabe
+- aga
+- dao
+- eno
+- da
+- agai
+- augwaligo
+- wali
+- yai
+- augwali
+- mu
+- genuai
+- homu
+- we
+- dali
+top_n_grams:
+- - 2
+  - 1.111
+- - 3
+  - 1.063
+- - 4
+  - 1.451

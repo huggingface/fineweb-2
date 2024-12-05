@@ -1,0 +1,47 @@
+dup_line_frac: 0.636
+dup_n_grams:
+- - 5
+  - 0.434
+- - 6
+  - 0.453
+- - 7
+  - 0.445
+- - 8
+  - 0.426
+- - 9
+  - 0.424
+- - 10
+  - 0.426
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.63
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- da
+- da'me
+- so
+- qana'chi
+- qataxa
+- me
+- ga
+- sa
+- dios
+- ami
+- jo'ne
+- ga'me
+- na
+- "\u1EF9\xE1taqta"
+- uo
+- qomle
+- jeso'me
+- "q\xE1'a"
+- jen'me
+- "\xF1i"
+top_n_grams:
+- - 2
+  - 0.663
+- - 3
+  - 0.942
+- - 4
+  - 0.923

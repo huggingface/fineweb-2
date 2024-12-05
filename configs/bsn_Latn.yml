@@ -1,0 +1,47 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.412
+- - 6
+  - 0.409
+- - 7
+  - 0.407
+- - 8
+  - 0.404
+- - 9
+  - 0.401
+- - 10
+  - 0.397
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.724
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- to
+- bajiro
+- "\u0129"
+- "\u0129na"
+- dios
+- "i\u0303"
+- "y\u0289"
+- mani
+- rojose
+- "i\u0303na"
+- "m\u0289a"
+- ado
+- "\u0129re"
+- ti
+- "\xF1aja"
+- "jes\xFAs"
+- "\u0129nare"
+- bajiri
+- masa
+- "mu\u0336a"
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.141
+- - 4
+  - 0.173

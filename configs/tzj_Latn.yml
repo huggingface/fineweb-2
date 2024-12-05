@@ -1,0 +1,43 @@
+dup_line_frac: 0.711
+dup_n_grams:
+- - 5
+  - 0.413
+- - 6
+  - 0.396
+- - 7
+  - 0.348
+- - 8
+  - 0.344
+- - 9
+  - 0.343
+- - 10
+  - 0.335
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ja
+- ta
+- dios
+- jun
+- y
+- tak
+- je
+- chi
+- in
+- chic
+- rmal
+- che
+- c'a
+- e
+- wi
+- tzra
+top_n_grams:
+- - 2
+  - 0.381
+- - 3
+  - 0.53
+- - 4
+  - 0.451

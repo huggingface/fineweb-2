@@ -1,0 +1,48 @@
+dup_line_frac: 0.476
+dup_n_grams:
+- - 5
+  - 0.139
+- - 6
+  - 0.069
+- - 7
+  - 0.052
+- - 8
+  - 0.033
+- - 9
+  - 0.008
+- - 10
+  - 0.0
+line_punct_thr: 0.226
+max_avg_word_length: 3141
+max_non_alpha_words_ratio: 0.775
+min_avg_word_length: 1
+new_line_ratio: 0.286
+stopwords:
+- i
+- kunye
+- okanye
+- kwaye
+- ukuba
+- ke
+- afrika
+- xa
+- kwi
+- le
+- abantu
+- the
+- of
+- ngokuba
+- ii
+- emva
+- kodwa
+- apho
+- kakhulu
+- yi
+- kuba
+top_n_grams:
+- - 2
+  - 0.886
+- - 3
+  - 0.817
+- - 4
+  - 0.869

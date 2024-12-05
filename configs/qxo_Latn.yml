@@ -1,0 +1,39 @@
+dup_line_frac: 0.419
+dup_n_grams:
+- - 5
+  - 0.399
+- - 6
+  - 0.364
+- - 7
+  - 0.376
+- - 8
+  - 0.35
+- - 9
+  - 0.338
+- - 10
+  - 0.289
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 7
+new_line_ratio: 0.111
+stopwords:
+- tayta
+- "tsayn\xF6"
+- mana
+- tsay
+- dios
+- manam
+- y
+- nir
+- runacuna
+- diospa
+- jesus
+- nirgan
+top_n_grams:
+- - 2
+  - 0.741
+- - 3
+  - 0.881
+- - 4
+  - 1.034

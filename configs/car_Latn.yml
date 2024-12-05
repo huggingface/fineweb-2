@@ -1,0 +1,47 @@
+dup_line_frac: 0.399
+dup_n_grams:
+- - 5
+  - 0.362
+- - 6
+  - 0.355
+- - 7
+  - 0.322
+- - 8
+  - 0.32
+- - 9
+  - 0.319
+- - 10
+  - 0.318
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.771
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- moro
+- wa
+- man
+- mo'ko
+- me
+- tamusi
+- mo'karon
+- irombo
+- ro
+- te
+- enapa
+- amy
+- kari'na
+- ta
+- poko
+- wara
+- i'wa
+- pa'poro
+- jesus
+- oty
+top_n_grams:
+- - 2
+  - 0.3
+- - 3
+  - 0.337
+- - 4
+  - 0.407

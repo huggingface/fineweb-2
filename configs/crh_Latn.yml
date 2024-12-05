@@ -1,0 +1,47 @@
+dup_line_frac: 0.766
+dup_n_grams:
+- - 5
+  - 0.432
+- - 6
+  - 0.411
+- - 7
+  - 0.394
+- - 8
+  - 0.373
+- - 9
+  - 0.356
+- - 10
+  - 0.344
+line_punct_thr: 0.219
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.679
+min_avg_word_length: 4
+new_line_ratio: 0.692
+stopwords:
+- bir
+- "ki\u015Fi"
+- "say\u0131s\u0131"
+- "ealisini\xF1"
+- "rayon\u0131nda"
+- "vil\xE2yetinde"
+- "mesk\xFCn"
+- "vil\xE2yetindeki"
+- yerler
+- "k\xF6y"
+- "rusiyeni\xF1"
+- senesi
+- "\u015Feer"
+- ve
+- "ukrainan\u0131\xF1"
+- "cumhuriyetini\xF1"
+- "k\xF6ydir"
+- rusiyede
+- "ba\u015Fq\u0131rtistan"
+- "ba\u015Fq\u0131rtistandaki"
+top_n_grams:
+- - 2
+  - 0.353
+- - 3
+  - 0.425
+- - 4
+  - 0.455

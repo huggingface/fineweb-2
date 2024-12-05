@@ -1,0 +1,41 @@
+dup_line_frac: 0.451
+dup_n_grams:
+- - 5
+  - 0.245
+- - 6
+  - 0.215
+- - 7
+  - 0.196
+- - 8
+  - 0.176
+- - 9
+  - 0.161
+- - 10
+  - 0.151
+line_punct_thr: 0.043
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 2
+new_line_ratio: 1
+stopwords:
+- "\xED"
+- og
+- er
+- at
+- "\xE1"
+- sum
+- "vi\xF0"
+- av
+- til
+- f.
+- kr
+- var
+- hann
+- ein
+top_n_grams:
+- - 2
+  - 0.137
+- - 3
+  - 0.159
+- - 4
+  - 0.181

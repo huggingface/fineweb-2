@@ -1,0 +1,38 @@
+dup_line_frac: 0.001
+dup_n_grams:
+- - 5
+  - 0.323
+- - 6
+  - 0.126
+- - 7
+  - 0.085
+- - 8
+  - 0.013
+- - 9
+  - 0.003
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- tuwng
+- to
+- tuthal
+- hin
+- ki
+- hinto
+- thung
+- "pu\u0331ruwng"
+- ru
+- ama
+- "asapav\u0101n"
+top_n_grams:
+- - 2
+  - 0.64
+- - 3
+  - 1.0
+- - 4
+  - 0.933

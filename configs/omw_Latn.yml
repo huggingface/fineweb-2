@@ -1,0 +1,46 @@
+dup_line_frac: 0.263
+dup_n_grams:
+- - 5
+  - 0.037
+- - 6
+  - 0.023
+- - 7
+  - 0.02
+- - 8
+  - 0.021
+- - 9
+  - 0.013
+- - 10
+  - 0.01
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- mwi
+- hia
+- mwia
+- mwihua
+- nte
+- timwa
+- qua
+- kyero
+- nkye
+- mwiva
+- mwitaa
+- mpo
+- tiro
+- kotiva
+- kotira
+- ni
+- quara
+- nraakye
+- iesusiva
+top_n_grams:
+- - 2
+  - 0.075
+- - 3
+  - 0.054
+- - 4
+  - 0.064

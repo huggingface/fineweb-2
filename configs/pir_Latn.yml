@@ -1,0 +1,47 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.375
+- - 6
+  - 0.372
+- - 7
+  - 0.312
+- - 8
+  - 0.305
+- - 9
+  - 0.303
+- - 10
+  - 0.28
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.809
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- sa
+- tiquiro
+- tiquina
+- "m\u0289sa"
+- "coh\xE3cj\u0289\u0303"
+- mehna
+- "y\u0289h\u0289"
+- ni
+- ye
+- saha
+- yero
+- mari
+- jesu
+- pehe
+- masa
+- ijire
+- ti
+- quehnoano
+- "m\u0289sare"
+- tiquirore
+top_n_grams:
+- - 2
+  - 0.115
+- - 3
+  - 0.199
+- - 4
+  - 0.22

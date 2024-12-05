@@ -1,0 +1,45 @@
+dup_line_frac: 0.72
+dup_n_grams:
+- - 5
+  - 0.77
+- - 6
+  - 0.759
+- - 7
+  - 0.755
+- - 8
+  - 0.744
+- - 9
+  - 0.738
+- - 10
+  - 0.725
+line_punct_thr: -1
+max_avg_word_length: 25
+max_non_alpha_words_ratio: 0.682
+min_avg_word_length: 7
+new_line_ratio: 0.125
+stopwords:
+- ari
+- pawa
+- tema
+- eejatzi
+- te
+- iro
+- "jes\xFAs"
+- eero
+- "\xBF"
+- ikanta
+- naaka
+- iri
+- jiroka
+- irirori
+- arika
+- okaatzi
+- maawoini
+- pairani
+top_n_grams:
+- - 2
+  - 1.559
+- - 3
+  - 1.78
+- - 4
+  - 1.881

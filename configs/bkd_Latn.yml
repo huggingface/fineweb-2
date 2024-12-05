@@ -1,0 +1,52 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.393
+- - 6
+  - 0.372
+- - 7
+  - 0.378
+- - 8
+  - 0.366
+- - 9
+  - 0.389
+- - 10
+  - 0.366
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.88
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- ha
+- hu
+- sa
+- daw
+- ta
+- mga
+- ku
+- din
+- duun
+- en
+- dios
+- gayed
+- ba
+- iyan
+- su
+- nuy
+- si
+- daan
+- "har\xEC"
+- dan
+- "diy\xE0"
+- etaw
+- haena
+- sidan
+- hi
+top_n_grams:
+- - 2
+  - 0.578
+- - 3
+  - 0.84
+- - 4
+  - 1.0

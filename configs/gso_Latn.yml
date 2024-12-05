@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.075
+- - 6
+  - 0.053
+- - 7
+  - 0.041
+- - 8
+  - 0.03
+- - 9
+  - 0.027
+- - 10
+  - 0.02
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ha
+- "n\u025B"
+- ka
+- hio
+- "\u025Bn\u025B"
+- mbwa
+- wi
+- mi
+- nde
+- "p\u025B"
+- "m\u025B"
+- "m\u0254"
+- ma
+- "s\u0254"
+- "w\u025Bn\u025B"
+- "t\u025B"
+- na
+- "\u0254"
+- hazu
+- yo
+- wan
+- "f\u025Bt"
+- a
+- wen
+- "n\u025B\u0302"
+top_n_grams:
+- - 2
+  - 0.034
+- - 3
+  - 0.037
+- - 4
+  - 0.033

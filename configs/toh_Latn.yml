@@ -1,0 +1,41 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.149
+- - 6
+  - 0.088
+- - 7
+  - 0.063
+- - 8
+  - 0.055
+- - 9
+  - 0.043
+- - 10
+  - 0.028
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- gu
+- nya
+- a
+- khu
+- va
+- ni
+- hi
+- nga
+- na
+- si
+- di
+- jehovha
+- nyo
+- ngu
+top_n_grams:
+- - 2
+  - 0.38
+- - 3
+  - 0.429
+- - 4
+  - 0.356

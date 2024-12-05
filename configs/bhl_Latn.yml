@@ -1,0 +1,53 @@
+dup_line_frac: 0.053
+dup_n_grams:
+- - 5
+  - 0.707
+- - 6
+  - 0.704
+- - 7
+  - 0.711
+- - 8
+  - 0.7
+- - 9
+  - 0.699
+- - 10
+  - 0.696
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.758
+min_avg_word_length: 4
+new_line_ratio: 0.048
+stopwords:
+- e
+- te
+- em
+- kunum
+- so
+- be
+- dim
+- weng
+- kale
+- mak
+- alik
+- sunbin
+- fian
+- got
+- ibolow
+- kawtiw
+- i
+- elo
+- kuw
+- beem
+- ding
+- kasike
+- yu
+- keko
+- waneng
+- im
+top_n_grams:
+- - 2
+  - 0.555
+- - 3
+  - 0.833
+- - 4
+  - 1.233

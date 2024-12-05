@@ -1,0 +1,40 @@
+dup_line_frac: 0.685
+dup_n_grams:
+- - 5
+  - 0.433
+- - 6
+  - 0.395
+- - 7
+  - 0.371
+- - 8
+  - 0.369
+- - 9
+  - 0.365
+- - 10
+  - 0.358
+line_punct_thr: 0.25
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.82
+min_avg_word_length: 4
+new_line_ratio: 0.201
+stopwords:
+- "t\xFC"
+- de
+- wayuu
+- la
+- otta
+- y
+- en
+- "s\xFCp\xFCla"
+- el
+- "s\xFCnain"
+- shia
+- wane
+- wanee
+top_n_grams:
+- - 2
+  - 0.629
+- - 3
+  - 1.0
+- - 4
+  - 0.811

@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.059
+- - 6
+  - 0.04
+- - 7
+  - 0.022
+- - 8
+  - 0.012
+- - 9
+  - 0.005
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.816
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- c'o
+- o
+- "c'\xFC"
+- na
+- ra
+- e
+- dya
+- "r\xED"
+- ma
+- mi
+- cja
+- mizhocjimi
+- "o\u0331"
+- a
+- c'ua
+- nu
+- yo
+- ngue
+- c'e
+- ja
+- "r\xE1"
+- me
+- xo
+top_n_grams:
+- - 2
+  - 0.097
+- - 3
+  - 0.164
+- - 4
+  - 0.141

@@ -1,0 +1,54 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.334
+- - 6
+  - 0.337
+- - 7
+  - 0.318
+- - 8
+  - 0.317
+- - 9
+  - 0.315
+- - 10
+  - 0.313
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- hen
+- chun
+- chu
+- an
+- tla
+- mi
+- nih
+- le
+- ka
+- ah
+- ti
+- asi
+- nan
+- lo
+- na
+- ding
+- sinah
+- leh
+- hawng
+- um
+- rawh
+- hi
+- pathian
+- lai
+- kan
+- thu
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.117
+- - 4
+  - 0.139

@@ -1,0 +1,46 @@
+dup_line_frac: 0.042
+dup_n_grams:
+- - 5
+  - 0.131
+- - 6
+  - 0.115
+- - 7
+  - 0.127
+- - 8
+  - 0.113
+- - 9
+  - 0.097
+- - 10
+  - 0.082
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- awa
+- meni
+- ago
+- ema
+- ge
+- nu
+- amira
+- ego
+- na
+- nana
+- zo
+- nuso
+- are
+- wero
+- nikare
+- ami
+- nukare
+- ata
+- senua
+top_n_grams:
+- - 2
+  - 0.162
+- - 3
+  - 0.177
+- - 4
+  - 0.218

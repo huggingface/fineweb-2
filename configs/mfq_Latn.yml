@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.157
+- - 6
+  - 0.124
+- - 7
+  - 0.083
+- - 8
+  - 0.083
+- - 9
+  - 0.078
+- - 10
+  - 0.064
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.852
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- k
+- g
+- n
+- u
+- "n\u0251"
+- "nb\u0251"
+- i
+- l
+- b
+- tie
+- "n\u0251n"
+- "\u0251"
+- ni
+- e
+- din
+- yennu
+- kul
+- po
+- "s\u0251\u0251"
+- nba
+top_n_grams:
+- - 2
+  - 0.124
+- - 3
+  - 0.219
+- - 4
+  - 0.241

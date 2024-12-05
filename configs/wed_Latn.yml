@@ -1,0 +1,44 @@
+dup_line_frac: 0.81
+dup_n_grams:
+- - 5
+  - 0.595
+- - 6
+  - 0.58
+- - 7
+  - 0.571
+- - 8
+  - 0.573
+- - 9
+  - 0.566
+- - 10
+  - 0.504
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.794
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ma
+- i
+- au
+- da
+- ana
+- ina
+- rava
+- "e\u1E21a"
+- tauna
+- e
+- ai
+- god
+- ita
+- taui
+- ona
+- bada
+- hi
+top_n_grams:
+- - 2
+  - 0.736
+- - 3
+  - 0.919
+- - 4
+  - 1.0

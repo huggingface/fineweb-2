@@ -1,0 +1,48 @@
+dup_line_frac: 0.44
+dup_n_grams:
+- - 5
+  - 0.182
+- - 6
+  - 0.199
+- - 7
+  - 0.134
+- - 8
+  - 0.153
+- - 9
+  - 0.147
+- - 10
+  - 0.148
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.889
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- "n\u025B"
+- be
+- na
+- e
+- n
+- so
+- to
+- a
+- nna
+- b
+- bumo
+- mo
+- "fan\u025B"
+- fo
+- "eb\u0254r\u025B"
+- ma
+- baa
+- "kik\u025B"
+- "ka\u014B\u025B"
+- m
+- sa
+top_n_grams:
+- - 2
+  - 0.296
+- - 3
+  - 0.322
+- - 4
+  - 0.236

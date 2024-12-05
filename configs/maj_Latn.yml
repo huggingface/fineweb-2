@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.293
+- - 6
+  - 0.228
+- - 7
+  - 0.058
+- - 8
+  - 0.071
+- - 9
+  - 0.016
+- - 10
+  - 0.01
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- xi
+- nga
+- "ko\u0331"
+- najmi
+- ni
+- "nti\u0331a\u0331n\xE1"
+- "xu\u0331ta\u0331"
+- "b'a\u0331"
+- kui
+- "tu\u0331"
+- "ts'\xEDn"
+- "nda\u0331"
+- "ta\u0331"
+- "ra\u0331"
+- "j\xE1"
+- tsa
+- "a\u0331t'aha\u0331"
+- nk'ie
+- nku
+- jesu
+- "nk\xFA"
+top_n_grams:
+- - 2
+  - 0.223
+- - 3
+  - 0.209
+- - 4
+  - 0.181

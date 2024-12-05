@@ -1,0 +1,49 @@
+dup_line_frac: 0.75
+dup_n_grams:
+- - 5
+  - 0.629
+- - 6
+  - 0.581
+- - 7
+  - 0.588
+- - 8
+  - 0.527
+- - 9
+  - 0.527
+- - 10
+  - 0.513
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- a
+- "d\u1ED1"
+- "n\xE1"
+- "v\u01CE"
+- "r\xF2"
+- ki
+- "th\u01D0"
+- "\xE8th\u01D0"
+- "c\xF2\u0301marya"
+- "p\xE8\u0324"
+- tahe
+- "kay\u01CE"
+- "\u01D4"
+- "p\u01CE"
+- to
+- "l\u01D4"
+- o
+- "nu\xF4"
+- "h\xF2\u0301."
+- "p\xE9\u0324"
+- "h\xE9"
+- "lahy\u01CE"
+top_n_grams:
+- - 2
+  - 0.63
+- - 3
+  - 0.895
+- - 4
+  - 0.952

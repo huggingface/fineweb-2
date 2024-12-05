@@ -1,0 +1,57 @@
+dup_line_frac: 0.478
+dup_n_grams:
+- - 5
+  - 0.622
+- - 6
+  - 0.627
+- - 7
+  - 0.545
+- - 8
+  - 0.554
+- - 9
+  - 0.586
+- - 10
+  - 0.518
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- noga
+- rot
+- mar
+- era
+- jig
+- eda
+- ofa
+- esha
+- dokun
+- isnok
+- kak
+- eri
+- yuwa
+- gug
+- nomisi
+- nomi
+- tin
+- jog
+- dif
+- ohot
+- allah
+- ofon
+- ni
+- erges
+- yesus
+- gijga
+- fen
+- tina
+- mif
+- mona
+top_n_grams:
+- - 2
+  - 0.318
+- - 3
+  - 0.437
+- - 4
+  - 0.31

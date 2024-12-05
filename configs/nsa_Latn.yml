@@ -1,0 +1,46 @@
+dup_line_frac: 0.846
+dup_n_grams:
+- - 5
+  - 0.729
+- - 6
+  - 0.713
+- - 7
+  - 0.697
+- - 8
+  - 0.669
+- - 9
+  - 0.674
+- - 10
+  - 0.627
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 4
+new_line_ratio: 0.111
+stopwords:
+- ko
+- "ts\xFC"
+- abi
+- la
+- te
+- "n\xFChr\xFC"
+- "ar\xFCh"
+- i
+- ta
+- "abin\xFC"
+- nengdang
+- "ihn\xFC"
+- tsingrangba
+- "h\xFCts\xFC"
+- "kh\xFCdu"
+- yocho
+- chah
+- "ar\xFChn\xFC"
+- ih
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.266

@@ -1,0 +1,37 @@
+dup_line_frac: 0.562
+dup_n_grams:
+- - 5
+  - 0.524
+- - 6
+  - 0.503
+- - 7
+  - 0.47
+- - 8
+  - 0.433
+- - 9
+  - 0.347
+- - 10
+  - 0.346
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- na
+- nnoongo
+- bandu
+- nambu
+- kwa
+- yesu
+- mundu
+- nu
+- ja
+- magambu
+top_n_grams:
+- - 2
+  - 0.64
+- - 3
+  - 0.839
+- - 4
+  - 1.0

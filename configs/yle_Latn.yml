@@ -1,0 +1,48 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.361
+- - 6
+  - 0.354
+- - 7
+  - 0.345
+- - 8
+  - 0.341
+- - 9
+  - 0.334
+- - 10
+  - 0.329
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- u
+- "ng\xEA"
+- yi
+- a
+- "k\xF3pu"
+- kwo
+- "l\xE9mi"
+- pi
+- "ch\xF3\xF3"
+- "yep\xEA"
+- "kn\xEE"
+- yesu
+- "nm\xEE"
+- yoo
+- pini
+- ka
+- ghi
+- ye
+- "n\uA789ii"
+- dmi
+- "ngm\xEA"
+top_n_grams:
+- - 2
+  - 0.065
+- - 3
+  - 0.086
+- - 4
+  - 0.107

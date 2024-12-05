@@ -1,0 +1,43 @@
+dup_line_frac: 0.083
+dup_n_grams:
+- - 5
+  - 0.077
+- - 6
+  - 0.059
+- - 7
+  - 0.045
+- - 8
+  - 0.036
+- - 9
+  - 0.029
+- - 10
+  - 0.023
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- in
+- an
+- ih
+- cu
+- si
+- ka
+- pawl
+- le
+- lo
+- ding
+- ah
+- mi
+- na
+- ti
+- nan
+top_n_grams:
+- - 2
+  - 0.083
+- - 3
+  - 0.087
+- - 4
+  - 0.087

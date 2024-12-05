@@ -1,0 +1,45 @@
+dup_line_frac: 0.409
+dup_n_grams:
+- - 5
+  - 0.314
+- - 6
+  - 0.303
+- - 7
+  - 0.297
+- - 8
+  - 0.291
+- - 9
+  - 0.285
+- - 10
+  - 0.277
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "n\xF8"
+- svng
+- we
+- ang
+- "g\xF8"
+- taq
+- "ng\xE0"
+- "\xEDe"
+- nvng
+- a
+- namaq
+- "k\xE8n\xED"
+- angmaq
+- "ng\xED"
+- "r\xEC"
+- wa
+- vsvng
+- "\xED"
+top_n_grams:
+- - 2
+  - 0.088
+- - 3
+  - 0.086
+- - 4
+  - 0.093

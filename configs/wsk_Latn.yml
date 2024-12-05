@@ -1,0 +1,46 @@
+dup_line_frac: 0.864
+dup_n_grams:
+- - 5
+  - 0.645
+- - 6
+  - 0.635
+- - 7
+  - 0.604
+- - 8
+  - 0.629
+- - 9
+  - 0.6
+- - 10
+  - 0.584
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- mu
+- se
+- ko
+- te
+- ale
+- nunga
+- kari
+- nu
+- ani
+- me
+- la
+- ningi
+- bo
+- kariimet
+- bare
+- biya
+- den
+- kaem
+- umu
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.979
+- - 4
+  - 1.244

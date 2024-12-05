@@ -1,0 +1,46 @@
+dup_line_frac: 0.951
+dup_n_grams:
+- - 5
+  - 0.818
+- - 6
+  - 0.8
+- - 7
+  - 0.778
+- - 8
+  - 0.762
+- - 9
+  - 0.8
+- - 10
+  - 0.736
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.838
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- tei
+- sateichii
+- mah
+- kito
+- inii
+- takle
+- karam
+- jangpii
+- kalei
+- ai
+- mpounii
+- mpou
+- nlenii
+- teinii
+- ninado
+- dakii
+- tang
+- tam
+- hang
+top_n_grams:
+- - 2
+  - 0.769
+- - 3
+  - 1.0
+- - 4
+  - 1.297

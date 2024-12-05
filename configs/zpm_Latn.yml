@@ -1,0 +1,47 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.555
+- - 6
+  - 0.531
+- - 7
+  - 0.523
+- - 8
+  - 0.522
+- - 9
+  - 0.515
+- - 10
+  - 0.501
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- ne
+- zho
+- me
+- lo
+- to
+- zha
+- naa
+- laa
+- co
+- "gr\xEB"
+- nac
+- 'no'
+- dios
+- ga
+- ni
+- tib
+- miech
+- "zee\u1E49e"
+- luu
+- "me\u1E49"
+top_n_grams:
+- - 2
+  - 0.461
+- - 3
+  - 0.569
+- - 4
+  - 0.618

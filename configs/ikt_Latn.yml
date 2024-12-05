@@ -1,0 +1,47 @@
+dup_line_frac: 0.133
+dup_n_grams:
+- - 5
+  - 0.063
+- - 6
+  - 0.051
+- - 7
+  - 0.043
+- - 8
+  - 0.031
+- - 9
+  - 0.022
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.696
+min_avg_word_length: 8
+new_line_ratio: 0.167
+stopwords:
+- tamna
+- talva
+- tapkua
+- jesus
+- inuit
+- godim
+- ilaa
+- jesusim
+- uvanga
+- tapfuma
+- paul
+- aahin
+- inuk
+- atanek
+- jewmiut
+- taima
+- ukallautiyaa
+- ilipfi
+- tamangmik
+- kihimi
+top_n_grams:
+- - 2
+  - 0.108
+- - 3
+  - 0.12
+- - 4
+  - 0.125

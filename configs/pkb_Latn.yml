@@ -1,0 +1,43 @@
+dup_line_frac: 0.9
+dup_n_grams:
+- - 5
+  - 0.684
+- - 6
+  - 0.736
+- - 7
+  - 0.684
+- - 8
+  - 0.654
+- - 9
+  - 0.736
+- - 10
+  - 0.684
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- na
+- ya
+- kwa
+- kwamba
+- muungu
+- ni
+- wantu
+- yesu
+- wa
+- ela
+- huyu
+- hawa
+- haya
+- jwa
+- muntu
+- dza
+top_n_grams:
+- - 2
+  - 0.755
+- - 3
+  - 0.935
+- - 4
+  - 1.055

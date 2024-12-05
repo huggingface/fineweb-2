@@ -1,0 +1,41 @@
+dup_line_frac: 0.688
+dup_n_grams:
+- - 5
+  - 0.427
+- - 6
+  - 0.362
+- - 7
+  - 0.382
+- - 8
+  - 0.362
+- - 9
+  - 0.318
+- - 10
+  - 0.303
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.744
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- da
+- so
+- nache
+- qataq
+- na
+- ca
+- qaq
+- maye
+- "\xF1im"
+- ye
+- qome
+- "a\u1EF9em"
+- saishet
+- "\u1EF9ataqta"
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.882
+- - 4
+  - 1.0

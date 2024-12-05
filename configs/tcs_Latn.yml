@@ -1,0 +1,51 @@
+dup_line_frac: 0.928
+dup_n_grams:
+- - 5
+  - 0.641
+- - 6
+  - 0.565
+- - 7
+  - 0.531
+- - 8
+  - 0.533
+- - 9
+  - 0.499
+- - 10
+  - 0.495
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.909
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- i
+- bin
+- po
+- blo
+- ane
+- em
+- da
+- wea
+- go
+- dem
+- yupla
+- ol
+- dempla
+- god
+- ai
+- meke
+- 'no'
+- spik
+- uda
+- prom
+- prapa
+- pipol
+- lo
+- yu
+top_n_grams:
+- - 2
+  - 0.455
+- - 3
+  - 0.653
+- - 4
+  - 0.755

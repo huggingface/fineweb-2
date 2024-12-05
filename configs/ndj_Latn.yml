@@ -1,0 +1,42 @@
+dup_line_frac: 0.73
+dup_n_grams:
+- - 5
+  - 0.723
+- - 6
+  - 0.72
+- - 7
+  - 0.709
+- - 8
+  - 0.701
+- - 9
+  - 0.697
+- - 10
+  - 0.694
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- na
+- kwa
+- chapanga
+- ya
+- wa
+- vandu
+- kucha
+- yesu
+- mundu
+- va
+- ha
+- lakini
+- yumwi
+- mweni
+- nenga
+top_n_grams:
+- - 2
+  - 0.867
+- - 3
+  - 1.216
+- - 4
+  - 1.532

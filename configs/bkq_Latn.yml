@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.0
+- - 6
+  - 0.0
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.744
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- deus
+- modo
+- "war\xE2"
+- jesus
+- myani
+- ise
+- "w\xE2g\xE2"
+- "ol\xE2"
+- awyly
+- xina
+- ara
+- "m\xE2k\xE2"
+- kely
+- "lel\xE2"
+- aguely
+- "ur\xE2"
+top_n_grams:
+- - 2
+  - 0.022
+- - 3
+  - 0.032
+- - 4
+  - 0.042

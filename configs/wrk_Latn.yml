@@ -1,0 +1,51 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.409
+- - 6
+  - 0.397
+- - 7
+  - 0.39
+- - 8
+  - 0.385
+- - 9
+  - 0.367
+- - 10
+  - 0.367
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 6
+new_line_ratio: 0.053
+stopwords:
+- baki
+- nanda
+- nangangi
+- barri
+- miku
+- nyuli
+- jangkurr
+- marda
+- nyulu
+- ngala
+- yali
+- yaji
+- jungku
+- kudkanyi
+- yalu
+- jisus
+- yalunya
+- jala
+- narri
+- jali
+- yanyba
+- yalungi
+- yabimba
+- nani
+top_n_grams:
+- - 2
+  - 0.122
+- - 3
+  - 0.153
+- - 4
+  - 0.18

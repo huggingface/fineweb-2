@@ -1,0 +1,41 @@
+dup_line_frac: 0.125
+dup_n_grams:
+- - 5
+  - 0.559
+- - 6
+  - 0.538
+- - 7
+  - 0.53
+- - 8
+  - 0.503
+- - 9
+  - 0.474
+- - 10
+  - 0.445
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- da
+- i
+- dzi
+- "ara\u014Ban"
+- garam
+- u
+- ini
+- nam
+- igi
+- "gubu\u02BC"
+- sib
+- "bu\u014B\u02BC"
+- gan
+- "a\u014Bu"
+top_n_grams:
+- - 2
+  - 0.368
+- - 3
+  - 0.45
+- - 4
+  - 0.623

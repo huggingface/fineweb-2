@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.06
+- - 6
+  - 0.04
+- - 7
+  - 0.029
+- - 8
+  - 0.019
+- - 9
+  - 0.014
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- "m\u0268t"
+- "h\u0268rak"
+- menmen
+- "h\u0268r"
+- te
+- god
+- yi
+- me
+- han
+- hi
+- "h\u0268m"
+- au
+- "m\u0268t\u0268k"
+- haiu
+- ap
+- ke
+- kerek
+- iuwe
+- im
+- "h\u0268ram"
+- enum
+- wit
+- werek
+top_n_grams:
+- - 2
+  - 0.031
+- - 3
+  - 0.022
+- - 4
+  - 0.022

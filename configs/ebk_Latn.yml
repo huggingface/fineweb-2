@@ -1,0 +1,42 @@
+dup_line_frac: 0.706
+dup_n_grams:
+- - 5
+  - 0.441
+- - 6
+  - 0.496
+- - 7
+  - 0.508
+- - 8
+  - 0.423
+- - 9
+  - 0.372
+- - 10
+  - 0.346
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- nan
+- ay
+- as
+- kan
+- ya
+- at
+- apo
+- dios
+- hiya
+- hi
+- chiyuycha
+- tay
+- chakayu
+- jesus
+- ngem
+top_n_grams:
+- - 2
+  - 0.471
+- - 3
+  - 0.574
+- - 4
+  - 0.531

@@ -1,0 +1,52 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.38
+- - 6
+  - 0.374
+- - 7
+  - 0.322
+- - 8
+  - 0.316
+- - 9
+  - 0.312
+- - 10
+  - 0.308
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- "\xE1"
+- a
+- ba
+- na
+- "a\u0301"
+- am
+- ge
+- emnde
+- aara
+- "\u014Bane"
+- "\u014Banna"
+- aha
+- an
+- dadaamiya
+- keni
+- una
+- ta
+- "w\xE1"
+- de
+- "ba\u0257emme"
+- kure
+- "t\xE1"
+- "a\u014Bkwa"
+- yaisu
+- "a\u0257aba"
+top_n_grams:
+- - 2
+  - 0.115
+- - 3
+  - 0.218
+- - 4
+  - 0.118

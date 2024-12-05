@@ -1,0 +1,38 @@
+dup_line_frac: 0.65
+dup_n_grams:
+- - 5
+  - 0.498
+- - 6
+  - 0.465
+- - 7
+  - 0.444
+- - 8
+  - 0.423
+- - 9
+  - 0.411
+- - 10
+  - 0.403
+line_punct_thr: 0.111
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 2
+new_line_ratio: 0.333
+stopwords:
+- in
+- der
+- die
+- en
+- iss
+- vun
+- un
+- unn
+- hot
+- de
+- waar
+top_n_grams:
+- - 2
+  - 0.718
+- - 3
+  - 0.948
+- - 4
+  - 1.104

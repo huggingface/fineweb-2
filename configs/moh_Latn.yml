@@ -1,0 +1,47 @@
+dup_line_frac: 0.455
+dup_n_grams:
+- - 5
+  - 0.522
+- - 6
+  - 0.523
+- - 7
+  - 0.488
+- - 8
+  - 0.557
+- - 9
+  - 0.475
+- - 10
+  - 0.522
+line_punct_thr: -1
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.774
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- ne
+- ok
+- tsi
+- nene
+- oni
+- jesus
+- yaghten
+- yagh
+- naah
+- ethone
+- ken
+- etho
+- onen
+- egh
+- raonha
+- kadi
+- ten
+- denghnon
+- iken
+- togat
+top_n_grams:
+- - 2
+  - 0.756
+- - 3
+  - 1.052
+- - 4
+  - 1.373

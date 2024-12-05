@@ -1,0 +1,50 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.376
+- - 6
+  - 0.372
+- - 7
+  - 0.369
+- - 8
+  - 0.367
+- - 9
+  - 0.365
+- - 10
+  - 0.36
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ki
+- "n\u025B"
+- ya
+- "nn\u0254"
+- li
+- ni
+- bo
+- uwien
+- u
+- ye
+- nin
+- "w\u0254"
+- bi
+- la
+- "ki\u0301"
+- "n\u0301"
+- "k\u025B"
+- "b\u025B"
+- n
+- te
+- ma
+- "ye\u0301"
+- "\u014Ba"
+top_n_grams:
+- - 2
+  - 0.086
+- - 3
+  - 0.112
+- - 4
+  - 0.136

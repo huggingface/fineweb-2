@@ -1,0 +1,42 @@
+dup_line_frac: 0.905
+dup_n_grams:
+- - 5
+  - 0.506
+- - 6
+  - 0.483
+- - 7
+  - 0.474
+- - 8
+  - 0.458
+- - 9
+  - 0.444
+- - 10
+  - 0.435
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.78
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- na
+- ni
+- mulungu
+- wa
+- kwa
+- at'u
+- jeso
+- ta
+- ya
+- ela
+- a
+- ndo
+- kukala
+- mut'u
+- ye
+top_n_grams:
+- - 2
+  - 0.626
+- - 3
+  - 1.018
+- - 4
+  - 1.083

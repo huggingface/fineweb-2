@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.065
+- - 6
+  - 0.047
+- - 7
+  - 0.041
+- - 8
+  - 0.035
+- - 9
+  - 0.027
+- - 10
+  - 0.02
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- kat
+- waa
+- "n\u0268mba"
+- nyan
+- god
+- ana
+- "wand\u0268"
+- vat
+- wan
+- vak
+- apma
+- ndi
+- "l\u0268ga"
+- ngwuk
+- "nd\u0268"
+- "nyaang\u0268t"
+- kavle
+- maa
+- nat
+- "n\u0268ma"
+- jisas
+- wun
+- "nd\u0268na"
+top_n_grams:
+- - 2
+  - 0.032
+- - 3
+  - 0.025
+- - 4
+  - 0.024

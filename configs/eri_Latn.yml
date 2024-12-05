@@ -1,0 +1,47 @@
+dup_line_frac: 1.0
+dup_n_grams:
+- - 5
+  - 0.818
+- - 6
+  - 0.818
+- - 7
+  - 0.818
+- - 8
+  - 0.818
+- - 9
+  - 0.817
+- - 10
+  - 0.818
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.809
+min_avg_word_length: 4
+new_line_ratio: 0.059
+stopwords:
+- 'no'
+- waha
+- nomo
+- nere
+- fai
+- langa
+- bagu
+- tere
+- bona
+- ji
+- beele
+- ono
+- itou
+- ere
+- onodu
+- onou
+- aita
+- wa
+- ne
+- uwa
+top_n_grams:
+- - 2
+  - 0.909
+- - 3
+  - 1.454
+- - 4
+  - 1.909

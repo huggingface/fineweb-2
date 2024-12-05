@@ -1,0 +1,43 @@
+dup_line_frac: 0.444
+dup_n_grams:
+- - 5
+  - 0.399
+- - 6
+  - 0.393
+- - 7
+  - 0.381
+- - 8
+  - 0.39
+- - 9
+  - 0.376
+- - 10
+  - 0.382
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- "n\u025B\u0301"
+- "s\u0269s\u0269"
+- "g\u025B"
+- na
+- "ng\u025B"
+- "y\u0269"
+- "yee\u0301su"
+- "w\u025B"
+- "weeni\u0301"
+- "b\u0269l\u025B\u0301"
+- "\u0269s\u0254\u0301\u0254"
+- "s\u0269"
+- "ama\u0301"
+- a
+- "b\u0269ka"
+- "n\u0301na"
+top_n_grams:
+- - 2
+  - 0.149
+- - 3
+  - 0.176
+- - 4
+  - 0.192

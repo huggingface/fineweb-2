@@ -1,0 +1,42 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.742
+- - 6
+  - 0.763
+- - 7
+  - 0.742
+- - 8
+  - 0.763
+- - 9
+  - 0.763
+- - 10
+  - 0.742
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- xa
+- ka
+- te
+- "\xF1ayiu"
+- "n\u2011ka"
+- nuu
+- ianyuux
+- kuu
+- se
+- na
+- "\u0268\u0268n"
+- xi'in
+- "\xF1a"
+- ijan
+- io
+top_n_grams:
+- - 2
+  - 0.862
+- - 3
+  - 1.373
+- - 4
+  - 1.754

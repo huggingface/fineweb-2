@@ -1,0 +1,50 @@
+dup_line_frac: 0.1
+dup_n_grams:
+- - 5
+  - 0.309
+- - 6
+  - 0.299
+- - 7
+  - 0.303
+- - 8
+  - 0.29
+- - 9
+  - 0.286
+- - 10
+  - 0.282
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.83
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- "f\xF4"
+- "g\xE2t\xE2"
+- "g\xE2"
+- "\xE2"
+- ma
+- "b\xE2"
+- di
+- "wurubwar\xE2"
+- koro
+- e
+- "w\xF4"
+- "d\xF5"
+- "m\xF4"
+- "b\xE2n\xE6"
+- ade
+- be
+- "t\xE2"
+- n
+- sa
+- "m\xE2"
+- "\xE6"
+- yesu
+- alan
+top_n_grams:
+- - 2
+  - 0.628
+- - 3
+  - 0.991
+- - 4
+  - 1.359

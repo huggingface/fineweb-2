@@ -1,0 +1,44 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.404
+- - 6
+  - 0.387
+- - 7
+  - 0.368
+- - 8
+  - 0.354
+- - 9
+  - 0.339
+- - 10
+  - 0.322
+line_punct_thr: 0.2
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 3
+new_line_ratio: 0.228
+stopwords:
+- de
+- la
+- el
+- en
+- i
+- del
+- es
+- los
+- kon
+- ke
+- a
+- una
+- al
+- las
+- se
+- un
+- por
+top_n_grams:
+- - 2
+  - 0.377
+- - 3
+  - 0.453
+- - 4
+  - 0.528

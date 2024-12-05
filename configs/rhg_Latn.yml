@@ -1,0 +1,42 @@
+dup_line_frac: 0.418
+dup_n_grams:
+- - 5
+  - 0.586
+- - 6
+  - 0.512
+- - 7
+  - 0.465
+- - 8
+  - 0.443
+- - 9
+  - 0.399
+- - 10
+  - 0.368
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.2
+stopwords:
+- aa*i
+- aar
+- tu*i
+- beshi
+- ekkan
+- gori
+- ugga
+- iiyan
+- hite
+- aa*r
+- loi
+- ase
+- maze
+- aa*ra
+- hono
+top_n_grams:
+- - 2
+  - 1.186
+- - 3
+  - 1.42
+- - 4
+  - 1.532

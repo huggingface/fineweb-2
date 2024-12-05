@@ -1,0 +1,50 @@
+dup_line_frac: 0.731
+dup_n_grams:
+- - 5
+  - 0.576
+- - 6
+  - 0.562
+- - 7
+  - 0.544
+- - 8
+  - 0.5
+- - 9
+  - 0.542
+- - 10
+  - 0.506
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- tar
+- ke
+- tang
+- pare
+- a
+- ahik
+- i
+- doh
+- ka
+- tamata
+- god
+- ra
+- e
+- me
+- tun
+- kare
+- la
+- o
+- kara
+- turung
+- iesu
+- bo
+- pe
+top_n_grams:
+- - 2
+  - 0.661
+- - 3
+  - 0.877
+- - 4
+  - 1.0

@@ -1,0 +1,52 @@
+dup_line_frac: 0.846
+dup_n_grams:
+- - 5
+  - 0.656
+- - 6
+  - 0.626
+- - 7
+  - 0.652
+- - 8
+  - 0.534
+- - 9
+  - 0.525
+- - 10
+  - 0.532
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- ka
+- ba
+- ni
+- daang
+- u
+- i
+- na
+- ang
+- n
+- aning
+- jaa
+- la
+- tari
+- daana
+- mang
+- baahaa
+- bi
+- yeli
+- bang
+- wa
+- yi
+- niba
+- ye
+- bila
+top_n_grams:
+- - 2
+  - 0.525
+- - 3
+  - 0.73
+- - 4
+  - 0.968

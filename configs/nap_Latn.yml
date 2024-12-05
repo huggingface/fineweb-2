@@ -1,0 +1,41 @@
+dup_line_frac: 0.771
+dup_n_grams:
+- - 5
+  - 0.523
+- - 6
+  - 0.498
+- - 7
+  - 0.475
+- - 8
+  - 0.435
+- - 9
+  - 0.429
+- - 10
+  - 0.433
+line_punct_thr: 0.0
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.781
+min_avg_word_length: 3
+new_line_ratio: 1
+stopwords:
+- e
+- comune
+- a
+- d''a
+- o
+- pruvincia
+- "\xE8"
+- nu
+- l'
+- italia
+- giugrafia
+- reggione
+- ll'
+- ca
+top_n_grams:
+- - 2
+  - 0.243
+- - 3
+  - 0.289
+- - 4
+  - 0.333

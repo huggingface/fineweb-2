@@ -1,0 +1,46 @@
+dup_line_frac: 1.0
+dup_n_grams:
+- - 5
+  - 0.818
+- - 6
+  - 0.818
+- - 7
+  - 0.818
+- - 8
+  - 0.818
+- - 9
+  - 0.818
+- - 10
+  - 0.818
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- na
+- kwa
+- ni
+- wa
+- za
+- mulungu
+- at'u
+- jesu
+- kukala
+- bai
+- ela
+- ya
+- kahi
+- mut'u
+- o
+- were
+- ye
+- vizho
+- hatha
+top_n_grams:
+- - 2
+  - 0.909
+- - 3
+  - 1.454
+- - 4
+  - 1.909

@@ -1,0 +1,44 @@
+dup_line_frac: 0.833
+dup_n_grams:
+- - 5
+  - 0.643
+- - 6
+  - 0.601
+- - 7
+  - 0.598
+- - 8
+  - 0.595
+- - 9
+  - 0.549
+- - 10
+  - 0.577
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- uan
+- tlen
+- amo
+- nopa
+- ipan
+- se
+- ma
+- huan
+- kema
+- cati
+- "jehov\xE1"
+- pampa
+- katli
+- tlauel
+- kuali
+- nochi
+- para
+top_n_grams:
+- - 2
+  - 0.52
+- - 3
+  - 0.681
+- - 4
+  - 0.465

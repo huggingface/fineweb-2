@@ -1,0 +1,43 @@
+dup_line_frac: 0.278
+dup_n_grams:
+- - 5
+  - 0.165
+- - 6
+  - 0.137
+- - 7
+  - 0.128
+- - 8
+  - 0.1
+- - 9
+  - 0.079
+- - 10
+  - 0.056
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.804
+min_avg_word_length: 5
+new_line_ratio: 0.125
+stopwords:
+- kuti
+- ndi
+- cha
+- "\u0175anthu"
+- yehova
+- kumbi
+- vo
+- pa
+- asani
+- ndipu
+- yo
+- chiuta
+- vinthu
+- wo
+- wuli
+- mu
+top_n_grams:
+- - 2
+  - 0.484
+- - 3
+  - 0.39
+- - 4
+  - 0.305

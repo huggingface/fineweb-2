@@ -1,0 +1,42 @@
+dup_line_frac: 0.03
+dup_n_grams:
+- - 5
+  - 0.105
+- - 6
+  - 0.067
+- - 7
+  - 0.029
+- - 8
+  - 0.025
+- - 9
+  - 0.019
+- - 10
+  - 0.022
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.73
+min_avg_word_length: 5
+new_line_ratio: 0.056
+stopwords:
+- a
+- intok
+- ka
+- ju'u
+- betana
+- betchi'bo
+- jume
+- juka
+- liojta
+- junuen
+- enchim
+- jiba
+- au
+- am
+- taa
+top_n_grams:
+- - 2
+  - 0.036
+- - 3
+  - 0.058
+- - 4
+  - 0.064

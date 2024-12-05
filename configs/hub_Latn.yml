@@ -1,0 +1,39 @@
+dup_line_frac: 0.794
+dup_n_grams:
+- - 5
+  - 0.62
+- - 6
+  - 0.648
+- - 7
+  - 0.642
+- - 8
+  - 0.599
+- - 9
+  - 0.678
+- - 10
+  - 0.586
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 6
+new_line_ratio: 0.091
+stopwords:
+- shuar
+- tusa
+- tura
+- nu
+- aina
+- nuna
+- yuus
+- shir
+- ashi
+- nuka
+- chikich
+- wina
+top_n_grams:
+- - 2
+  - 0.36
+- - 3
+  - 0.457
+- - 4
+  - 0.51

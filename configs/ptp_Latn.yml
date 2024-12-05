@@ -1,0 +1,57 @@
+dup_line_frac: 0.531
+dup_n_grams:
+- - 5
+  - 0.476
+- - 6
+  - 0.48
+- - 7
+  - 0.462
+- - 8
+  - 0.429
+- - 9
+  - 0.432
+- - 10
+  - 0.382
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.88
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- ge
+- "w\xEA"
+- "d\u0268"
+- "v\xF4"
+- "v\xF4ng"
+- i
+- he
+- "\xEAn"
+- xam
+- xomxo
+- a
+- ob
+- "n\xEAl"
+- vac
+- anutu
+- om
+- lec
+- "k\u0268yang"
+- "l\xEAc"
+- la
+- "n\xEAb\xEA"
+- "ob\xEAc"
+- "l\xEAm"
+- "d\xF4"
+- ti
+- il
+- yesu
+- o
+- "t\u0268yi"
+- "n\xEAb"
+top_n_grams:
+- - 2
+  - 0.267
+- - 3
+  - 0.463
+- - 4
+  - 0.543

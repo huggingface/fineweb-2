@@ -1,0 +1,43 @@
+dup_line_frac: 0.862
+dup_n_grams:
+- - 5
+  - 0.8
+- - 6
+  - 0.818
+- - 7
+  - 0.779
+- - 8
+  - 0.781
+- - 9
+  - 0.72
+- - 10
+  - 0.744
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.167
+stopwords:
+- kuru
+- a
+- ro
+- ye
+- lan
+- suro
+- "d\u01DD"
+- shima
+- shi
+- awo
+- so
+- "d\u04D9"
+- "k\u0259la"
+- be
+- "d\u0259"
+- na
+top_n_grams:
+- - 2
+  - 0.801
+- - 3
+  - 1.168
+- - 4
+  - 1.558

@@ -1,0 +1,56 @@
+dup_line_frac: 0.533
+dup_n_grams:
+- - 5
+  - 0.433
+- - 6
+  - 0.43
+- - 7
+  - 0.416
+- - 8
+  - 0.417
+- - 9
+  - 0.404
+- - 10
+  - 0.388
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ni
+- 'no'
+- ye
+- khe
+- ha
+- le
+- rao
+- wo
+- abo
+- bai
+- akhe
+- bung
+- se
+- ong
+- nrao
+- yag
+- ya
+- nai
+- brao
+- ou
+- ang
+- hing
+- pho
+- mi
+- tong
+- yo
+- brouh
+- isor
+- di
+top_n_grams:
+- - 2
+  - 0.224
+- - 3
+  - 0.288
+- - 4
+  - 0.373

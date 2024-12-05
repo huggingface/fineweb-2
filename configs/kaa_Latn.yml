@@ -1,0 +1,41 @@
+dup_line_frac: 0.243
+dup_n_grams:
+- - 5
+  - 0.15
+- - 6
+  - 0.08
+- - 7
+  - 0.065
+- - 8
+  - 0.057
+- - 9
+  - 0.043
+- - 10
+  - 0.03
+line_punct_thr: 0.182
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 2
+new_line_ratio: 0.404
+stopwords:
+- "h\xE1m"
+- menen
+- bul
+- bir
+- ol
+- "bol\u0131p"
+- "ush\u0131n"
+- ha'm
+- "bol\u01F5an"
+- da
+- dep
+- de
+- jaylasqan
+- "on\u0131\u0144"
+top_n_grams:
+- - 2
+  - 0.475
+- - 3
+  - 0.247
+- - 4
+  - 0.27

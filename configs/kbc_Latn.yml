@@ -1,0 +1,40 @@
+dup_line_frac: 0.2
+dup_n_grams:
+- - 5
+  - 0.781
+- - 6
+  - 0.766
+- - 7
+  - 0.781
+- - 8
+  - 0.716
+- - 9
+  - 0.74
+- - 10
+  - 0.75
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 6
+new_line_ratio: 0.083
+stopwords:
+- me
+- ane
+- odaa
+- codaa
+- "aneotedo\u0261\u0336oji"
+- oko
+- pida
+- ja
+- "ni\u0261\u0336ijo"
+- "ni\u0261\u0336ina"
+- jesus
+- "aneotedo\u01E5oji"
+- "ni\u01E5ijo"
+top_n_grams:
+- - 2
+  - 1.682
+- - 3
+  - 2.562
+- - 4
+  - 3.375

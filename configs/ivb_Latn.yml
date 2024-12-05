@@ -1,0 +1,48 @@
+dup_line_frac: 0.823
+dup_n_grams:
+- - 5
+  - 0.736
+- - 6
+  - 0.739
+- - 7
+  - 0.743
+- - 8
+  - 0.732
+- - 9
+  - 0.701
+- - 10
+  - 0.691
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- a
+- do
+- ki
+- 'no'
+- na
+- kan
+- ta
+- so
+- nyo
+- da
+- dyos
+- saw
+- as
+- ni
+- ko
+- iyaw
+- maynamot
+- dya
+- an
+- jesos
+- myan
+top_n_grams:
+- - 2
+  - 0.586
+- - 3
+  - 1.002
+- - 4
+  - 1.295

@@ -1,0 +1,37 @@
+dup_line_frac: 0.733
+dup_n_grams:
+- - 5
+  - 0.689
+- - 6
+  - 0.668
+- - 7
+  - 0.7
+- - 8
+  - 0.598
+- - 9
+  - 0.6
+- - 10
+  - 0.651
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- wa
+- ali
+- wene
+- one
+- toa
+- nipa
+- moa
+- eni
+- ago
+- kini
+top_n_grams:
+- - 2
+  - 1.376
+- - 3
+  - 1.906
+- - 4
+  - 2.252

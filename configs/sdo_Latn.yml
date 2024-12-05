@@ -1,0 +1,58 @@
+dup_line_frac: 0.782
+dup_n_grams:
+- - 5
+  - 0.608
+- - 6
+  - 0.585
+- - 7
+  - 0.583
+- - 8
+  - 0.552
+- - 9
+  - 0.564
+- - 10
+  - 0.556
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.143
+stopwords:
+- da
+- nuh
+- tampa
+- inya
+- dangan
+- ira
+- bala
+- sien
+- kita
+- amu
+- jaji
+- yehuwa
+- buleh
+- bible
+- kaii
+- dunya
+- simua
+- jesus
+- masu
+- mung
+- udog
+- anih
+- pasal
+- mudip
+- aduh
+- kandug
+- paguh
+- ngundah
+- mene
+- anihkah
+- siti
+top_n_grams:
+- - 2
+  - 0.968
+- - 3
+  - 1.382
+- - 4
+  - 1.841

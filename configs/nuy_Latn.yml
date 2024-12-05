@@ -1,0 +1,50 @@
+dup_line_frac: 0.286
+dup_n_grams:
+- - 5
+  - 0.63
+- - 6
+  - 0.603
+- - 7
+  - 0.598
+- - 8
+  - 0.589
+- - 9
+  - 0.571
+- - 10
+  - 0.581
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.603
+min_avg_word_length: 5
+new_line_ratio: 0.04
+stopwords:
+- yung
+- na
+- ana
+- marri
+- anubani
+- anaani
+- ni
+- yinyung
+- wurru
+- warra
+- niga
+- nga
+- wuy
+- yagu
+- nugurru
+- god
+- warruburru
+- wu
+- ngaya
+- waari
+- wugurru
+- jinyung
+- lhaawu
+top_n_grams:
+- - 2
+  - 0.361
+- - 3
+  - 0.516
+- - 4
+  - 0.627

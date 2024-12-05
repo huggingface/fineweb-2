@@ -1,0 +1,42 @@
+dup_line_frac: 0.972
+dup_n_grams:
+- - 5
+  - 0.837
+- - 6
+  - 0.788
+- - 7
+  - 0.837
+- - 8
+  - 0.81
+- - 9
+  - 0.726
+- - 10
+  - 0.784
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 2
+new_line_ratio: 0.091
+stopwords:
+- ne
+- la
+- e
+- se
+- ma
+- 'on'
+- ta
+- ka
+- te
+- "i\u1EA1"
+- is
+- iris
+- "t\u0113"
+- "\u1EA1itu"
+- "t\xE4"
+top_n_grams:
+- - 2
+  - 1.813
+- - 3
+  - 2.709
+- - 4
+  - 3.55

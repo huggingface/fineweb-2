@@ -1,0 +1,41 @@
+dup_line_frac: 0.511
+dup_n_grams:
+- - 5
+  - 0.854
+- - 6
+  - 0.854
+- - 7
+  - 0.854
+- - 8
+  - 0.854
+- - 9
+  - 0.853
+- - 10
+  - 0.853
+line_punct_thr: -1
+max_avg_word_length: 20
+max_non_alpha_words_ratio: 0.684
+min_avg_word_length: 7
+new_line_ratio: 0.167
+stopwords:
+- ki
+- jesus
+- "ann\u014Fk"
+- an'iu
+- spots'im
+- nin'a
+- annik
+- "an'\u012Dstsiuax"
+- matap'pix
+- okku'i
+- an'iau
+- anniks'isk
+- "n\u012Dn'au"
+- "an'\u012Dstsiuaie"
+top_n_grams:
+- - 2
+  - 2.565
+- - 3
+  - 4.272
+- - 4
+  - 5.978

@@ -1,0 +1,47 @@
+dup_line_frac: 0.731
+dup_n_grams:
+- - 5
+  - 0.669
+- - 6
+  - 0.623
+- - 7
+  - 0.625
+- - 8
+  - 0.625
+- - 9
+  - 0.602
+- - 10
+  - 0.593
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- a
+- n
+- we
+- ka
+- chi
+- ti
+- "ni\u0331bu"
+- wu
+- ko
+- "ki\u0331ni"
+- "ki\u0331n"
+- "di\u0331ne"
+- ke
+- kwama
+- ni
+- "mi\u0331n"
+- nang
+- "bi\u0331bu"
+- yo
+- aya
+top_n_grams:
+- - 2
+  - 0.446
+- - 3
+  - 0.645
+- - 4
+  - 0.421

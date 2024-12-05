@@ -1,0 +1,51 @@
+dup_line_frac: 0.621
+dup_n_grams:
+- - 5
+  - 0.32
+- - 6
+  - 0.347
+- - 7
+  - 0.323
+- - 8
+  - 0.353
+- - 9
+  - 0.27
+- - 10
+  - 0.199
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- at
+- ay
+- fag
+- taw
+- nu
+- ngay
+- sa
+- te
+- sik
+- sas
+- funbalugu
+- e
+- isus
+- am
+- ban
+- anway
+- ku
+- anya
+- kanya
+- tam
+- laman
+- tuwa
+- wa
+- ka
+top_n_grams:
+- - 2
+  - 0.101
+- - 3
+  - 0.161
+- - 4
+  - 0.221

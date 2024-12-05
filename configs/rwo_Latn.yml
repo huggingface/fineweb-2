@@ -1,0 +1,48 @@
+dup_line_frac: 0.01
+dup_n_grams:
+- - 5
+  - 0.1
+- - 6
+  - 0.103
+- - 7
+  - 0.096
+- - 8
+  - 0.076
+- - 9
+  - 0.092
+- - 10
+  - 0.062
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 5
+new_line_ratio: 0.056
+stopwords:
+- ngu
+- oni
+- ene
+- ye
+- mande
+- nguro
+- ma
+- ko
+- oo
+- 'no'
+- ngulo
+- nguno
+- enengo
+- ngundo
+- ngundiro
+- nguya
+- eyingo
+- bidodo
+- hamoo
+- nga
+- ngundilo
+top_n_grams:
+- - 2
+  - 0.149
+- - 3
+  - 0.229
+- - 4
+  - 0.095

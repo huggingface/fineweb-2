@@ -1,0 +1,49 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.019
+- - 6
+  - 0.006
+- - 7
+  - 0.003
+- - 8
+  - 0.002
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 6
+new_line_ratio: 0.077
+stopwords:
+- y
+- nac
+- dios
+- "hua\u0320ntu\u0320"
+- "hua\u0320nti\u0320"
+- "pi\u0320"
+- luu
+- porque
+- "hu\xE1"
+- cumu
+- pero
+- caj
+- "xl\xE1"
+- "hua\u0332ntu\u0332"
+- "chun\xE1"
+- aquit
+- "ni\u0320"
+- para
+- "hua\u0332nti\u0332"
+- "jes\xFAs"
+- "pi\u0332"
+- "acxni\u0320"
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.16
+- - 4
+  - 0.154

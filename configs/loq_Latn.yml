@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.056
+- - 6
+  - 0.04
+- - 7
+  - 0.031
+- - 8
+  - 0.028
+- - 9
+  - 0.017
+- - 10
+  - 0.017
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 4
+new_line_ratio: 0.091
+stopwords:
+- na
+- ya
+- o
+- "ph\u0254"
+- "o\u0253okye"
+- "\u0253ato"
+- moto
+- "\u0253a"
+- amba
+- yesu
+- nga
+- wa
+- nde
+- "\u0253\u025B"
+- "\u014Bwaphongo"
+- kasi
+- ma
+- "m\u025B"
+- "\u0253o"
+- yokye
+- emba
+- yo
+- sa
+- "\u0253\u025B\u0300\u025B"
+top_n_grams:
+- - 2
+  - 0.757
+- - 3
+  - 0.595
+- - 4
+  - 0.75

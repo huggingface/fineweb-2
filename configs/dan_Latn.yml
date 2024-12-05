@@ -1,0 +1,47 @@
+dup_line_frac: 0.342
+dup_n_grams:
+- - 5
+  - 0.202
+- - 6
+  - 0.183
+- - 7
+  - 0.169
+- - 8
+  - 0.152
+- - 9
+  - 0.14
+- - 10
+  - 0.132
+line_punct_thr: 0.167
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.798
+min_avg_word_length: 4
+new_line_ratio: 0.233
+stopwords:
+- i
+- og
+- af
+- en
+- til
+- er
+- den
+- at
+- som
+- "p\xE5"
+- for
+- med
+- det
+- blev
+- var
+- der
+- fra
+- de
+- han
+- et
+top_n_grams:
+- - 2
+  - 0.115
+- - 3
+  - 0.145
+- - 4
+  - 0.168

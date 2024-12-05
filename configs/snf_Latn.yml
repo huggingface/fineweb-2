@@ -1,0 +1,43 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.398
+- - 6
+  - 0.392
+- - 7
+  - 0.389
+- - 8
+  - 0.383
+- - 9
+  - 0.382
+- - 10
+  - 0.375
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ga
+- ya
+- na
+- mi
+- an
+- ee
+- "\u0253a"
+- en
+- kooh
+- "\u0257\xFA"
+- "\u0253aa"
+- "i\xF1aa"
+- fu
+- "y\xE9esu"
+- "\u0253uwaa"
+- bi
+top_n_grams:
+- - 2
+  - 0.107
+- - 3
+  - 0.142
+- - 4
+  - 0.175

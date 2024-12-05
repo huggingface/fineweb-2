@@ -1,0 +1,48 @@
+dup_line_frac: 0.898
+dup_n_grams:
+- - 5
+  - 0.682
+- - 6
+  - 0.672
+- - 7
+  - 0.656
+- - 8
+  - 0.653
+- - 9
+  - 0.658
+- - 10
+  - 0.619
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- te
+- o
+- ore
+- ninye
+- e
+- le
+- naa
+- ninche
+- pooki
+- nanu
+- ina
+- enye
+- pee
+- olaitoriani
+- ilo
+- apa
+- iyie
+- oo
+- amu
+- lelo
+- intae
+top_n_grams:
+- - 2
+  - 0.721
+- - 3
+  - 1.0
+- - 4
+  - 1.0

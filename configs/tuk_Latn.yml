@@ -1,0 +1,49 @@
+dup_line_frac: 0.3
+dup_n_grams:
+- - 5
+  - 0.195
+- - 6
+  - 0.151
+- - 7
+  - 0.111
+- - 8
+  - 0.091
+- - 9
+  - 0.076
+- - 10
+  - 0.066
+line_punct_thr: 0.0
+max_avg_word_length: 24
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 2
+new_line_ratio: 1.0
+stopwords:
+- we
+- bilen
+- hem
+- bu
+- "\xFC\xE7in"
+- bir
+- ol
+- "bo\xFDun\xE7a"
+- "\xFDylda"
+- da
+- bolsa
+- "onu\u0148"
+- de
+- bolup
+- bolan
+- "\xF6z"
+- uly
+- "d\xFCn\xFD\xE4"
+- "\u015Fol"
+- "\xFDaly"
+- "i\u0148"
+- "\xFDyly\u0148"
+top_n_grams:
+- - 2
+  - 0.123
+- - 3
+  - 0.163
+- - 4
+  - 0.183

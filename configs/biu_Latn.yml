@@ -1,0 +1,45 @@
+dup_line_frac: 0.789
+dup_n_grams:
+- - 5
+  - 0.783
+- - 6
+  - 0.781
+- - 7
+  - 0.778
+- - 8
+  - 0.768
+- - 9
+  - 0.762
+- - 10
+  - 0.762
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- a
+- an
+- nit
+- chu
+- khah
+- khan
+- ti
+- nin
+- ki
+- neh
+- "t\xE2k"
+- mi
+- pathian
+- om
+- ni
+- kha
+- ziangah
+- rang
+top_n_grams:
+- - 2
+  - 1.553
+- - 3
+  - 2.361
+- - 4
+  - 3.276

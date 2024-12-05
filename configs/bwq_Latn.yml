@@ -1,0 +1,50 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.37
+- - 6
+  - 0.357
+- - 7
+  - 0.319
+- - 8
+  - 0.313
+- - 9
+  - 0.292
+- - 10
+  - 0.328
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- ye
+- na
+- ma
+- "\u0254\u0254n"
+- ta
+- ne
+- a
+- ka
+- "h\u0254n"
+- wiin
+- da
+- mane
+- ga
+- "k\u0254"
+- "\u0254n"
+- "w\u0254n"
+- wuro
+- "m\u025B"
+- "t\u025B"
+- n'a
+- ti
+- pepe
+- be
+top_n_grams:
+- - 2
+  - 0.61
+- - 3
+  - 0.475
+- - 4
+  - 0.407

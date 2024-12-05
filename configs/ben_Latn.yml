@@ -1,0 +1,41 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.441
+- - 6
+  - 0.413
+- - 7
+  - 0.395
+- - 8
+  - 0.383
+- - 9
+  - 0.365
+- - 10
+  - 0.347
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.2
+stopwords:
+- o
+- ebong
+- hoy
+- kore
+- tini
+- koren
+- ei
+- ekti
+- er
+- kora
+- theke
+- saale
+- tar
+- jonno
+top_n_grams:
+- - 2
+  - 0.587
+- - 3
+  - 0.663
+- - 4
+  - 0.7

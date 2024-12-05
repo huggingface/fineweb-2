@@ -1,0 +1,61 @@
+dup_line_frac: 0.867
+dup_n_grams:
+- - 5
+  - 0.631
+- - 6
+  - 0.619
+- - 7
+  - 0.579
+- - 8
+  - 0.619
+- - 9
+  - 0.525
+- - 10
+  - 0.525
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- te
+- e
+- "et\xFBa"
+- a
+- nei
+- mai
+- ana
+- i
+- ki
+- ia
+- o
+- me
+- bibilia
+- koe
+- kore
+- mo
+- ai
+- tagata
+- atu
+- kia
+- ko
+- utu
+- aga
+- takao
+- tona
+- ietu
+- ua
+- roa
+- ieova
+- kua
+- to
+- "a\xF4"
+- oraraga
+- tai
+top_n_grams:
+- - 2
+  - 0.778
+- - 3
+  - 0.929
+- - 4
+  - 1.496

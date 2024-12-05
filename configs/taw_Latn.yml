@@ -1,0 +1,51 @@
+dup_line_frac: 0.794
+dup_n_grams:
+- - 5
+  - 0.667
+- - 6
+  - 0.691
+- - 7
+  - 0.647
+- - 8
+  - 0.65
+- - 9
+  - 0.636
+- - 10
+  - 0.609
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- ak
+- okok
+- agak
+- "an\u0268b"
+- ne
+- pen
+- "bin\u0268b"
+- nop
+- god
+- ma
+- takaw
+- "b\u0268"
+- tek
+- tap
+- "k\u0268lop"
+- gos
+- "ag\u0268l"
+- "n\u0268\u014B\u0268d"
+- "y\u0268b\u0268l"
+- "k\u0268li"
+- awl
+- olap
+- yad
+- "g\u0268l"
+top_n_grams:
+- - 2
+  - 0.862
+- - 3
+  - 1.108
+- - 4
+  - 1.391

@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.132
+- - 6
+  - 0.044
+- - 7
+  - 0.028
+- - 8
+  - 0.025
+- - 9
+  - 0.025
+- - 10
+  - 0.025
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.851
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ne
+- "b\u0254\u0254\u0301"
+- "\u025Bs\u0254w\u0254"
+- ji
+- "nno\u0301"
+- "ne\u0301"
+- ayi
+- "\u025Bbw\u0254\u0301"
+- me
+- "jis\u0254s"
+- "n\xE9"
+- "nn\xF3"
+- "\u025Bnyu\u0301"
+- "nd\u025Bre"
+- abi
+- "muu\u0301"
+- "f\u0254\u0301"
+top_n_grams:
+- - 2
+  - 0.11
+- - 3
+  - 0.205
+- - 4
+  - 0.22

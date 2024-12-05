@@ -1,0 +1,42 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.032
+- - 6
+  - 0.019
+- - 7
+  - 0.01
+- - 8
+  - 0.006
+- - 9
+  - 0.003
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ma
+- da
+- na
+- ina
+- ke
+- god
+- wawaya
+- bo
+- tuna
+- ita
+- ivi
+- yesu
+- ku
+- kubiine
+- sago
+top_n_grams:
+- - 2
+  - 0.149
+- - 3
+  - 0.195
+- - 4
+  - 0.238

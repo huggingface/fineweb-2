@@ -1,0 +1,44 @@
+dup_line_frac: 0.304
+dup_n_grams:
+- - 5
+  - 0.418
+- - 6
+  - 0.417
+- - 7
+  - 0.416
+- - 8
+  - 0.416
+- - 9
+  - 0.416
+- - 10
+  - 0.416
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- kin
+- qa
+- he
+- unkan
+- kta
+- cin
+- en
+- "\u0161ni"
+- ca
+- taku
+- hena
+- kte
+- 'on'
+- wakantanka
+- etanhan
+- owasin
+- ce
+top_n_grams:
+- - 2
+  - 0.013
+- - 3
+  - 0.01
+- - 4
+  - 0.008

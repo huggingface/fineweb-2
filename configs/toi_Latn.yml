@@ -1,0 +1,69 @@
+dup_line_frac: 0.934
+dup_n_grams:
+- - 5
+  - 0.765
+- - 6
+  - 0.76
+- - 7
+  - 0.728
+- - 8
+  - 0.725
+- - 9
+  - 0.703
+- - 10
+  - 0.693
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 6
+new_line_ratio: 0.143
+stopwords:
+- kuti
+- alimwi
+- jehova
+- leza
+- bantu
+- jesu
+- ino
+- naa
+- kuli
+- kapati
+- ciindi
+- pele
+- nkaambo
+- nzi
+- kwiinda
+- ba
+- a
+- zintu
+- bbaibbele
+- wakali
+- mbuli
+- akaambo
+- buyo
+- mu
+- makani
+- muntu
+- kutegwa
+- kuba
+- kabotu
+- wa
+- bamwi
+- pe
+- kujatikizya
+- ikuti
+- nokuba
+- sena
+- aboobo
+- ku
+- lya
+- boobo
+- bana
+- bakali
+top_n_grams:
+- - 2
+  - 0.774
+- - 3
+  - 1.0
+- - 4
+  - 1.135

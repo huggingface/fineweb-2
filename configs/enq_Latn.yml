@@ -1,0 +1,43 @@
+dup_line_frac: 0.4
+dup_n_grams:
+- - 5
+  - 0.531
+- - 6
+  - 0.548
+- - 7
+  - 0.565
+- - 8
+  - 0.551
+- - 9
+  - 0.514
+- - 10
+  - 0.456
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 5
+new_line_ratio: 0.071
+stopwords:
+- doko
+- lao
+- dupa
+- endakali
+- pyaa
+- dokonya
+- baa
+- akali
+- dopa
+- pii
+- pyoo
+- mende
+- dupame
+- lea
+- dokome
+- nyakama
+top_n_grams:
+- - 2
+  - 0.918
+- - 3
+  - 1.092
+- - 4
+  - 1.441

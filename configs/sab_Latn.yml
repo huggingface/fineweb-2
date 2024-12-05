@@ -1,0 +1,56 @@
+dup_line_frac: 0.737
+dup_n_grams:
+- - 5
+  - 0.577
+- - 6
+  - 0.551
+- - 7
+  - 0.545
+- - 8
+  - 0.521
+- - 9
+  - 0.547
+- - 10
+  - 0.5
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.88
+min_avg_word_length: 4
+new_line_ratio: 0.048
+stopwords:
+- kwian
+- ba
+- giti
+- cha
+- ulita
+- chube
+- me
+- 'no'
+- ama
+- ole
+- kle
+- mo
+- ene
+- ta
+- e
+- kare
+- alin
+- geru
+- jesu
+- gerule
+- age
+- be
+- kaire
+- nga
+- gire
+- che
+- ulia
+- lle
+- gerua
+top_n_grams:
+- - 2
+  - 0.779
+- - 3
+  - 1.257
+- - 4
+  - 1.74

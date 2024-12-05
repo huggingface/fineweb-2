@@ -1,0 +1,44 @@
+dup_line_frac: 0.714
+dup_n_grams:
+- - 5
+  - 0.579
+- - 6
+  - 0.572
+- - 7
+  - 0.55
+- - 8
+  - 0.55
+- - 9
+  - 0.524
+- - 10
+  - 0.527
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.125
+stopwords:
+- "\xF1a\u0331"
+- ra
+- "\xF1a"
+- "na\u0331"
+- na
+- ta
+- "ta\u0331"
+- "x\xED\u02BCin"
+- va
+- "t\xE1"
+- saa
+- iin
+- "nu\u0331\xFA"
+- "xa\u0331\u02BCa\u0331"
+- ndo
+- ndia
+- chi
+top_n_grams:
+- - 2
+  - 0.667
+- - 3
+  - 1.2
+- - 4
+  - 1.215

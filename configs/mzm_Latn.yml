@@ -1,0 +1,49 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.378
+- - 6
+  - 0.367
+- - 7
+  - 0.316
+- - 8
+  - 0.319
+- - 9
+  - 0.299
+- - 10
+  - 0.319
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 3
+new_line_ratio: 0.059
+stopwords:
+- "\u0253\u0254\u0254"
+- zang
+- ka
+- "n\u025B\u025B"
+- ri
+- ruu
+- "\u0253\u025B\u025B"
+- a
+- wu
+- naa
+- laa
+- vuu
+- kpang
+- "n\u0254\u0254"
+- n
+- nyaa
+- bii
+- "t\u0254"
+- "\u0253i\u0253\u025B"
+- ti
+- "yees\u0254"
+- "ke\u0253e"
+top_n_grams:
+- - 2
+  - 0.303
+- - 3
+  - 0.239
+- - 4
+  - 0.174

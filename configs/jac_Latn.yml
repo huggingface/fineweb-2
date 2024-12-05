@@ -1,0 +1,48 @@
+dup_line_frac: 0.2
+dup_n_grams:
+- - 5
+  - 0.235
+- - 6
+  - 0.135
+- - 7
+  - 0.066
+- - 8
+  - 0.05
+- - 9
+  - 0.036
+- - 10
+  - 0.028
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- comam
+- naj
+- "yin\u0308"
+- ebnaj
+- tu
+- caw
+- yul
+- xin
+- dios
+- yu
+- tet
+- anma
+- tzet
+- hune
+- ha
+- yet
+- mach
+- ti
+- yeb
+- ay
+- ta
+top_n_grams:
+- - 2
+  - 0.41
+- - 3
+  - 0.55
+- - 4
+  - 0.405

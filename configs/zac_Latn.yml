@@ -1,0 +1,48 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.029
+- - 6
+  - 0.015
+- - 7
+  - 0.007
+- - 8
+  - 0.004
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "t\xEB"
+- ra
+- "m\xEB"
+- rall
+- lu
+- nu
+- "sht\xEB"
+- dios
+- "par\xEB"
+- "qu\xEB"
+- "m\xEBn\xEB"
+- "l\xEB\uA78C\xEB"
+- na
+- "ad\xEB"
+- ni
+- tubi
+- de
+- "jes\xFAs"
+- "l\xEB\u02BC\xEB"
+- con
+- "per\xEB"
+top_n_grams:
+- - 2
+  - 0.076
+- - 3
+  - 0.095
+- - 4
+  - 0.114

@@ -1,0 +1,41 @@
+dup_line_frac: 0.457
+dup_n_grams:
+- - 5
+  - 0.367
+- - 6
+  - 0.352
+- - 7
+  - 0.343
+- - 8
+  - 0.332
+- - 9
+  - 0.321
+- - 10
+  - 0.312
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.167
+stopwords:
+- je
+- aen
+- jo
+- men
+- ahe
+- khe
+- ta
+- te
+- khan
+- hin
+- ho
+- ahin
+- saan
+- me
+top_n_grams:
+- - 2
+  - 0.5
+- - 3
+  - 0.552
+- - 4
+  - 0.552

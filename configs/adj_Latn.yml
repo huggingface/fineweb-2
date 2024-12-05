@@ -1,0 +1,51 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.363
+- - 6
+  - 0.36
+- - 7
+  - 0.358
+- - 8
+  - 0.356
+- - 9
+  - 0.355
+- - 10
+  - 0.352
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- eke
+- "\u025Bm"
+- ab
+- e
+- nyam
+- "\u025Bt\u014B"
+- ow
+- es
+- ke
+- low
+- af
+- "\u0254ny"
+- in
+- "ag\u014B"
+- dad
+- "\u025Bl"
+- "w\u025Bl"
+- "f\u025B\u014B"
+- "\u025By"
+- "\u025Bg\u014B"
+- eci
+- am
+- "\u025Bs"
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.119
+- - 4
+  - 0.144

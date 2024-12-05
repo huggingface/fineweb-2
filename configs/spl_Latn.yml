@@ -1,0 +1,46 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.035
+- - 6
+  - 0.016
+- - 7
+  - 0.008
+- - 8
+  - 0.004
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- yawu
+- "yak\xE2t"
+- "s\xE2m"
+- ya
+- den
+- otmu
+- "otm\xE2"
+- ki
+- yuwu
+- mem
+- lok
+- lohimbi
+- "anit\xE2\u014Be"
+- "\xE2l\xE2"
+- yan
+- "y\xE2h\xE2"
+- "top\u014Be"
+- "n\xE2\u014Bg\xE2m"
+- me
+top_n_grams:
+- - 2
+  - 0.129
+- - 3
+  - 0.17
+- - 4
+  - 0.213

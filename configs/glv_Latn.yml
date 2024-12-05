@@ -1,0 +1,37 @@
+dup_line_frac: 0.334
+dup_n_grams:
+- - 5
+  - 0.134
+- - 6
+  - 0.095
+- - 7
+  - 0.072
+- - 8
+  - 0.027
+- - 9
+  - 0.015
+- - 10
+  - 0.0
+line_punct_thr: 0.091
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.815
+min_avg_word_length: 4
+new_line_ratio: 1.0
+stopwords:
+- as
+- ny
+- y
+- er
+- ayns
+- ta
+- yn
+- '''sy'
+- dy
+- she
+top_n_grams:
+- - 2
+  - 0.514
+- - 3
+  - 0.743
+- - 4
+  - 1.0

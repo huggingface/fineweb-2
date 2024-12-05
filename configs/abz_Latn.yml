@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.099
+- - 6
+  - 0.066
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 4
+new_line_ratio: 0.125
+stopwords:
+- ba
+- de
+- he
+- ya
+- mia
+- ama
+- na
+- pi
+- yehuwa
+- hedi
+- mu
+- e
+- allah
+- kang
+- wei
+- wal
+- hei
+- rieling
+- haba
+- surah
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 1.0

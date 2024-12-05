@@ -1,0 +1,44 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.036
+- - 6
+  - 0.019
+- - 7
+  - 0.011
+- - 8
+  - 0.006
+- - 9
+  - 0.004
+- - 10
+  - 0.003
+line_punct_thr: -1
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 7
+new_line_ratio: 0.077
+stopwords:
+- na
+- nia
+- pueyaso
+- cua
+- nojori
+- pa
+- pueya
+- naa
+- puetunu
+- cuno
+- jaara
+- quia
+- maninia
+- maja
+- majaari
+- nojoriiri
+- canaa
+top_n_grams:
+- - 2
+  - 0.118
+- - 3
+  - 0.14
+- - 4
+  - 0.042

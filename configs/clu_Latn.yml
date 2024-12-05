@@ -1,0 +1,46 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.38
+- - 6
+  - 0.372
+- - 7
+  - 0.357
+- - 8
+  - 0.339
+- - 9
+  - 0.317
+- - 10
+  - 0.318
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- nga
+- ang
+- sa
+- mga
+- kag
+- anang
+- dios
+- tana
+- ara
+- tao
+- kon
+- ra
+- kamo
+- gid
+- na
+- ni
+- sanda
+- si
+- ako
+top_n_grams:
+- - 2
+  - 0.364
+- - 3
+  - 0.341
+- - 4
+  - 0.3

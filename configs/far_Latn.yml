@@ -1,0 +1,52 @@
+dup_line_frac: 0.946
+dup_n_grams:
+- - 5
+  - 0.753
+- - 6
+  - 0.775
+- - 7
+  - 0.733
+- - 8
+  - 0.729
+- - 9
+  - 0.723
+- - 10
+  - 0.72
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.053
+stopwords:
+- na
+- ma
+- ka
+- ne
+- nia
+- ana
+- kera
+- ki
+- wane
+- sa
+- nau
+- sulia
+- god
+- nao
+- mulu
+- kai
+- ru
+- i
+- fua
+- si
+- fuana
+- ku
+- kada
+- jesus
+- nai
+top_n_grams:
+- - 2
+  - 0.863
+- - 3
+  - 1.109
+- - 4
+  - 1.729

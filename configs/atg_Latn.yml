@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.049
+- - 6
+  - 0.041
+- - 7
+  - 0.035
+- - 8
+  - 0.026
+- - 9
+  - 0.026
+- - 10
+  - 0.018
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.836
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- "\u1ECD"
+- ni
+- khi
+- a
+- e
+- o
+- ya
+- "\u1EB9"
+- li
+- ri
+- "r\u1ECD"
+- na
+- shi
+- mhi
+- ali
+- "\u1EB9shin\u1EB9gba"
+- abi
+- "\u1EB9gb\u1ECD"
+- oyi
+- "\u1ECDli"
+- eni
+- la
+- "w\u1EB9"
+top_n_grams:
+- - 2
+  - 0.063
+- - 3
+  - 0.031
+- - 4
+  - 0.039

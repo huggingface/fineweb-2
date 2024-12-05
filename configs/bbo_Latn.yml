@@ -1,0 +1,52 @@
+dup_line_frac: 0.656
+dup_n_grams:
+- - 5
+  - 0.625
+- - 6
+  - 0.598
+- - 7
+  - 0.6
+- - 8
+  - 0.584
+- - 9
+  - 0.565
+- - 10
+  - 0.565
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.867
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- na
+- "h\xF5"
+- ma
+- ye
+- a
+- ta
+- "ngw\xF5"
+- da
+- ka
+- "k\u0254"
+- ne
+- "m\u025B"
+- ga
+- wuro
+- ngwona
+- mane
+- "ngw\u0129"
+- "s\u0254ma"
+- ya
+- ha
+- "nem\u025B"
+- pepe
+- yesu
+- be
+- ti
+top_n_grams:
+- - 2
+  - 0.505
+- - 3
+  - 0.883
+- - 4
+  - 0.568

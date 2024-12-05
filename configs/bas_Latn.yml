@@ -1,0 +1,44 @@
+dup_line_frac: 0.469
+dup_n_grams:
+- - 5
+  - 0.309
+- - 6
+  - 0.252
+- - 7
+  - 0.243
+- - 8
+  - 0.236
+- - 9
+  - 0.203
+- - 10
+  - 0.195
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- i
+- a
+- ba
+- bi
+- le
+- ni
+- "b\xE9"
+- di
+- "y\xE9"
+- u
+- ma
+- inyu
+- "y\xE9h\xF4va"
+- li
+- "ng\xE9da"
+- "b\xF4t"
+- me
+top_n_grams:
+- - 2
+  - 0.957
+- - 3
+  - 1.0
+- - 4
+  - 1.0

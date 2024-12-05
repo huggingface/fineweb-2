@@ -1,0 +1,43 @@
+dup_line_frac: 0.75
+dup_n_grams:
+- - 5
+  - 0.619
+- - 6
+  - 0.586
+- - 7
+  - 0.589
+- - 8
+  - 0.554
+- - 9
+  - 0.532
+- - 10
+  - 0.516
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- ka
+- ambe
+- enga
+- 'no'
+- eska
+- ma
+- "s\xE9si"
+- "engaks\xEF"
+- para
+- jimbo
+- tata
+- "\xEDs\xEF"
+- je
+- jingoni
+- "\xFAni"
+- ima
+top_n_grams:
+- - 2
+  - 0.765
+- - 3
+  - 0.884
+- - 4
+  - 0.925

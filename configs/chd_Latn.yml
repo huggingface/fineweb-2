@@ -1,0 +1,49 @@
+dup_line_frac: 0.9
+dup_n_grams:
+- - 5
+  - 0.73
+- - 6
+  - 0.712
+- - 7
+  - 0.688
+- - 8
+  - 0.671
+- - 9
+  - 0.663
+- - 10
+  - 0.628
+line_punct_thr: -1
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.6
+min_avg_word_length: 5
+new_line_ratio: 0.083
+stopwords:
+- "\u019Aandios"
+- al
+- lan
+- "i\u019Aque"
+- cal
+- ma
+- xanuc
+- "to\u019Ata'a"
+- ja'ni
+- jouc'a
+- anuli
+- "jes\xFAs"
+- te
+- "i\u019Ane"
+- "i\u019Ae"
+- iya
+- to
+- joupa
+- imanc
+- pe
+- "ji\u019Ape"
+- "\xBF"
+top_n_grams:
+- - 2
+  - 1.291
+- - 3
+  - 1.703
+- - 4
+  - 1.974

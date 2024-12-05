@@ -1,0 +1,43 @@
+dup_line_frac: 0.867
+dup_n_grams:
+- - 5
+  - 0.764
+- - 6
+  - 0.655
+- - 7
+  - 0.686
+- - 8
+  - 0.605
+- - 9
+  - 0.6
+- - 10
+  - 0.655
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 6
+new_line_ratio: 0.111
+stopwords:
+- tsu
+- gi
+- chiga
+- tsa'caen
+- nane
+- tsa'ma
+- qquen
+- "\xF1otsse"
+- qui
+- in'jamba
+- tise
+- su
+- "\xF1oa'me"
+- a'i
+- majan
+- "\xF1a"
+top_n_grams:
+- - 2
+  - 0.603
+- - 3
+  - 0.651
+- - 4
+  - 0.76

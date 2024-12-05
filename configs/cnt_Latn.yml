@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.043
+- - 6
+  - 0.033
+- - 7
+  - 0.025
+- - 8
+  - 0.019
+- - 9
+  - 0.012
+- - 10
+  - 0.011
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.723
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- "dsa\u2082"
+- "\u0301"
+- "jaun\u2082"
+- "b\xE1\u2084"
+- "nia'\u2082"
+- "j\xE1g\u2081"
+- "ts\xE1\u2083"
+- "di\xFA\u2084"
+- "jni\xE1\u2082"
+- "ia\u2081"
+- "qui\xF3'\u2085"
+- "quian'\u2085\u2084"
+- "lia'\u2082"
+- "\xE9i\u2082"
+- "ju\u0268\u2081lia'\u2082"
+- "ne\u2084"
+top_n_grams:
+- - 2
+  - 0.079
+- - 3
+  - 0.113
+- - 4
+  - 0.139

@@ -1,0 +1,49 @@
+dup_line_frac: 0.864
+dup_n_grams:
+- - 5
+  - 0.584
+- - 6
+  - 0.576
+- - 7
+  - 0.562
+- - 8
+  - 0.546
+- - 9
+  - 0.535
+- - 10
+  - 0.515
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- nga
+- na
+- gu
+- ka
+- ni
+- ani
+- tipa
+- du
+- ga
+- si
+- i
+- re
+- agu
+- ko
+- rogo
+- aboro
+- yo
+- ti
+- gupai
+- fu
+- yekova
+- mo
+top_n_grams:
+- - 2
+  - 0.502
+- - 3
+  - 0.648
+- - 4
+  - 0.746

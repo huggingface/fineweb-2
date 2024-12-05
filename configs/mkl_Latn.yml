@@ -1,0 +1,52 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.068
+- - 6
+  - 0.047
+- - 7
+  - 0.034
+- - 8
+  - 0.024
+- - 9
+  - 0.021
+- - 10
+  - 0.019
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.884
+min_avg_word_length: 3
+new_line_ratio: 0.071
+stopwords:
+- "\xED"
+- "\u014B\u0251"
+- iyi
+- "\u0251\u0300"
+- si
+- ku
+- "w\u0251"
+- "n\u0254"
+- do
+- "in\u025B"
+- ce
+- "j\u025B"
+- i
+- "k\xF9"
+- ni
+- "il\u0251\u0251\u0254\u0303"
+- fei
+- "\u0251"
+- "n\u0251"
+- "\u014B\u0254i"
+- "w\u0251\u0251"
+- "b\u025Bi"
+- "y\u0251"
+- "\xEC"
+- jesu
+top_n_grams:
+- - 2
+  - 0.052
+- - 3
+  - 0.081
+- - 4
+  - 0.03

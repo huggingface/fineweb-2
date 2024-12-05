@@ -1,0 +1,45 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.177
+- - 6
+  - 0.162
+- - 7
+  - 0.147
+- - 8
+  - 0.127
+- - 9
+  - 0.12
+- - 10
+  - 0.111
+line_punct_thr: 0.333
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.832
+min_avg_word_length: 3
+new_line_ratio: 0.15
+stopwords:
+- de
+- el
+- la
+- a
+- i
+- d
+- l'
+- en
+- d'
+- que
+- va
+- els
+- per
+- un
+- les
+- una
+- amb
+- es
+top_n_grams:
+- - 2
+  - 0.087
+- - 3
+  - 0.111
+- - 4
+  - 0.135

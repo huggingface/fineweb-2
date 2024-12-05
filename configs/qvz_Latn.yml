@@ -1,0 +1,42 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.414
+- - 6
+  - 0.395
+- - 7
+  - 0.366
+- - 8
+  - 0.326
+- - 9
+  - 0.327
+- - 10
+  - 0.314
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 6
+new_line_ratio: 0.1
+stopwords:
+- mana
+- chi
+- chasna
+- nisha
+- tucui
+- dios
+- shuc
+- pai
+- ali
+- paihua
+- canguna
+- diospa
+- "\xF1uca"
+- chasnallata
+- runa
+top_n_grams:
+- - 2
+  - 0.602
+- - 3
+  - 0.553
+- - 4
+  - 0.479

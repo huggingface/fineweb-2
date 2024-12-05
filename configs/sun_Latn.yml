@@ -1,0 +1,40 @@
+dup_line_frac: 0.471
+dup_n_grams:
+- - 5
+  - 0.355
+- - 6
+  - 0.328
+- - 7
+  - 0.303
+- - 8
+  - 0.297
+- - 9
+  - 0.258
+- - 10
+  - 0.23
+line_punct_thr: 0.333
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 3
+new_line_ratio: 0.333
+stopwords:
+- di
+- nu
+- "ast\xE9roid"
+- jeung
+- "nya\xE9ta"
+- anu
+- ieu
+- dina
+- tina
+- jadi
+- "kabupat\xE9n"
+- pikeun
+- "indon\xE9sia"
+top_n_grams:
+- - 2
+  - 0.371
+- - 3
+  - 0.337
+- - 4
+  - 0.379

@@ -1,0 +1,52 @@
+dup_line_frac: 0.453
+dup_n_grams:
+- - 5
+  - 0.337
+- - 6
+  - 0.331
+- - 7
+  - 0.326
+- - 8
+  - 0.305
+- - 9
+  - 0.305
+- - 10
+  - 0.295
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.782
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- "biu\uA78C"
+- de
+- y
+- ke
+- "ru\uA78C"
+- nda
+- "bu\uA78C"
+- en
+- pa
+- nip
+- "ru\uA78Cdat"
+- "mj\xE0u"
+- "\u025Bs"
+- u
+- kun
+- "ganu\uA78C"
+- "\xA1"
+- peru
+- kuandu
+- mas
+- "n\u025Bp"
+- "\xBF"
+- "p\u0268k"
+- bale
+- "mja\u0300u"
+top_n_grams:
+- - 2
+  - 0.427
+- - 3
+  - 0.516
+- - 4
+  - 0.355

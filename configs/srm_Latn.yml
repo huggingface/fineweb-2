@@ -1,0 +1,49 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.301
+- - 6
+  - 0.295
+- - 7
+  - 0.292
+- - 8
+  - 0.288
+- - 9
+  - 0.282
+- - 10
+  - 0.282
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 1.0
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- di
+- a
+- u
+- ta
+- dee
+- "n\xF6\xF6"
+- de
+- bi
+- "d\xEB"
+- wan
+- "s\xEBmb\xEB"
+- ku
+- soni
+- "h\xEBn"
+- da
+- mi
+- ko
+- taa
+- i
+- o
+- gadu
+- sa
+top_n_grams:
+- - 2
+  - 0.116
+- - 3
+  - 0.229
+- - 4
+  - 0.104

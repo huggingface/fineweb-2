@@ -1,0 +1,51 @@
+dup_line_frac: 0.039
+dup_n_grams:
+- - 5
+  - 0.146
+- - 6
+  - 0.108
+- - 7
+  - 0.06
+- - 8
+  - 0.029
+- - 9
+  - 0.021
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- "l\xE4"
+- "b\xE4"
+- a
+- "t\xE4"
+- wei
+- cui
+- "\xF6\u0326j\xF6"
+- ma
+- yai
+- bada
+- "a\u0326"
+- nia
+- ya
+- "wamac\xF6"
+- ja
+- bufi
+- "ca\u0326i"
+- fa
+- "jam\xF6"
+- "d\xE4j\xE4"
+- "t\xE4b\xE4"
+- "n\xF6"
+- "\xBF"
+- nija
+top_n_grams:
+- - 2
+  - 0.892
+- - 3
+  - 0.351
+- - 4
+  - 0.486

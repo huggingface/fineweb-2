@@ -1,0 +1,44 @@
+dup_line_frac: 0.782
+dup_n_grams:
+- - 5
+  - 0.253
+- - 6
+  - 0.054
+- - 7
+  - 0.067
+- - 8
+  - 0.013
+- - 9
+  - 0.016
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.761
+min_avg_word_length: 4
+new_line_ratio: 0.1
+stopwords:
+- ak
+- ne
+- ki
+- eng
+- che
+- ko
+- po
+- kamuktaindet
+- tugul
+- ineendet
+- amu
+- toroor
+- ma
+- icheek
+- uu
+- anyun
+- ye
+top_n_grams:
+- - 2
+  - 0.101
+- - 3
+  - 0.165
+- - 4
+  - 0.046

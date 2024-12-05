@@ -1,0 +1,54 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.69
+- - 6
+  - 0.69
+- - 7
+  - 0.688
+- - 8
+  - 0.685
+- - 9
+  - 0.684
+- - 10
+  - 0.681
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- ne
+- a
+- nyi
+- ngu
+- re
+- he
+- shi
+- mbe
+- ngbe
+- we
+- "e\u0331"
+- nje
+- ko
+- "nn\xE9"
+- aha
+- nzhi
+- "we\u0331"
+- nka
+- ya
+- ki
+- "be\u0331ne\u0331"
+- "\xE1"
+- ci
+- ri
+- "ne\u0331"
+- ning
+- "ngwe\u0331"
+top_n_grams:
+- - 2
+  - 0.64
+- - 3
+  - 0.603
+- - 4
+  - 0.822

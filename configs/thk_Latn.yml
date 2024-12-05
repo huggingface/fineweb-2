@@ -1,0 +1,43 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.401
+- - 6
+  - 0.404
+- - 7
+  - 0.345
+- - 8
+  - 0.341
+- - 9
+  - 0.338
+- - 10
+  - 0.34
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.797
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- na
+- i
+- ngai
+- "yies\xFB"
+- "ant\xFB"
+- ya
+- wa
+- "n'\xFBnt\xFB"
+- bara
+- "b\xFBra"
+- bwa
+- "\xFBra"
+- "munt\xFB"
+- "k\xEEr\xEE"
+- "\xEEnd\xEE"
+- ta
+top_n_grams:
+- - 2
+  - 0.132
+- - 3
+  - 0.168
+- - 4
+  - 0.224

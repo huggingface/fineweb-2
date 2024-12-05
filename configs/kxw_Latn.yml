@@ -1,0 +1,50 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.055
+- - 6
+  - 0.048
+- - 7
+  - 0.031
+- - 8
+  - 0.027
+- - 9
+  - 0.024
+- - 10
+  - 0.022
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- o
+- "e\u0331"
+- "ke\u0331"
+- mei
+- "kaha\u0331"
+- "godiha\u0331"
+- sa
+- "ta\u0331"
+- "sasa\u0331i\u0331"
+- "ni\u0331"
+- ta
+- "ke\u0331me"
+- "a\u0331"
+- "ke\u0331no\u0361u"
+- "ko\u0361u"
+- "tobo\u0361u"
+- di
+- "midiho\u0331"
+- "tobolo\u0361u"
+- "kedia\u0331"
+- i
+- tobou
+- "olo\u0361u"
+top_n_grams:
+- - 2
+  - 0.037
+- - 3
+  - 0.052
+- - 4
+  - 0.044

@@ -1,0 +1,44 @@
+dup_line_frac: 0.66
+dup_n_grams:
+- - 5
+  - 0.497
+- - 6
+  - 0.475
+- - 7
+  - 0.447
+- - 8
+  - 0.451
+- - 9
+  - 0.418
+- - 10
+  - 0.43
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- "\xE3"
+- to
+- sehe
+- ti
+- ni
+- "m\u0289sa"
+- mehne
+- "cohamac\u0289"
+- mari
+- tiro
+- jesu
+- tina
+- yoa
+- "\xF5"
+- masa
+- noano
+- jira
+top_n_grams:
+- - 2
+  - 0.479
+- - 3
+  - 0.511
+- - 4
+  - 0.354

@@ -1,0 +1,45 @@
+dup_line_frac: 0.474
+dup_n_grams:
+- - 5
+  - 0.553
+- - 6
+  - 0.531
+- - 7
+  - 0.494
+- - 8
+  - 0.515
+- - 9
+  - 0.526
+- - 10
+  - 0.472
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 6
+new_line_ratio: 0.059
+stopwords:
+- ga
+- banha
+- nhan
+- bala
+- "\u014Barru"
+- dhanal
+- yana
+- warra
+- "dha\u014Bu"
+- "gay\u014Ban"
+- bitjanan
+- god
+- "bayi\u014B"
+- "bitjuwayi\u014B"
+- "yol\u014Bu"
+- "gay\u014Ba"
+- nhangu
+- "m\xE4"
+top_n_grams:
+- - 2
+  - 0.735
+- - 3
+  - 1.03
+- - 4
+  - 1.354

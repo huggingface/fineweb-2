@@ -1,0 +1,40 @@
+dup_line_frac: 0.846
+dup_n_grams:
+- - 5
+  - 0.663
+- - 6
+  - 0.666
+- - 7
+  - 0.634
+- - 8
+  - 0.628
+- - 9
+  - 0.615
+- - 10
+  - 0.599
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 5
+new_line_ratio: 0.143
+stopwords:
+- nende
+- ne
+- tawe
+- khandi
+- yali
+- olwa
+- muno
+- mbu
+- anansi
+- kho
+- khu
+- buli
+- ta
+top_n_grams:
+- - 2
+  - 0.634
+- - 3
+  - 0.917
+- - 4
+  - 0.958

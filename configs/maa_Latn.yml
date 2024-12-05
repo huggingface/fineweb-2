@@ -1,0 +1,43 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.092
+- - 6
+  - 0.058
+- - 7
+  - 0.039
+- - 8
+  - 0.03
+- - 9
+  - 0.022
+- - 10
+  - 0.018
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.759
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- nga
+- ra
+- "j\xE8"
+- xi
+- "xi\u0331ta\u0331"
+- "j\xF1\xE0"
+- "nain\xE1"
+- "ko\u0331"
+- "l\xE2"
+- "m\xEC"
+- "la\u0331"
+- "ya\u0331"
+- koni
+- "jes\xFAs"
+- "tj\xEDn"
+- "kjoa\u0331"
+top_n_grams:
+- - 2
+  - 0.086
+- - 3
+  - 0.115
+- - 4
+  - 0.146

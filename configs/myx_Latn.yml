@@ -1,0 +1,37 @@
+dup_line_frac: 0.834
+dup_n_grams:
+- - 5
+  - 0.668
+- - 6
+  - 0.667
+- - 7
+  - 0.622
+- - 8
+  - 0.632
+- - 9
+  - 0.624
+- - 10
+  - 0.59
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 5
+new_line_ratio: 0.111
+stopwords:
+- ni
+- nga
+- mu
+- ta
+- ne
+- wele
+- khu
+- ari
+- isi
+- yesu
+top_n_grams:
+- - 2
+  - 0.814
+- - 3
+  - 1.0
+- - 4
+  - 1.267

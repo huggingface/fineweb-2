@@ -1,0 +1,49 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.033
+- - 6
+  - 0.018
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 4
+new_line_ratio: 0.062
+stopwords:
+- "e\u2082"
+- "tsa\u2082"
+- "i\u2081"
+- "j\xF1a\u2082"
+- "jan\u2082"
+- "jna\u2083"
+- "na\u2082"
+- "la'\u2083"
+- "in\u2083"
+- "ma\u2082"
+- "ju\xEB\u2082na\u2081ri\u2081"
+- "ju\u2081"
+- "sa\u2083"
+- "jna'\u2081"
+- "hu\xEB\u2081"
+- "qui'\u2081"
+- "ma\u2081"
+- "a\u2084"
+- "li\u2083"
+- "con\u2082"
+- "can\u2082"
+- "ni\u2082"
+top_n_grams:
+- - 2
+  - 0.094
+- - 3
+  - 0.137
+- - 4
+  - 0.071

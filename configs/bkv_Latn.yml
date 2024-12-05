@@ -1,0 +1,52 @@
+dup_line_frac: 0.373
+dup_n_grams:
+- - 5
+  - 0.756
+- - 6
+  - 0.695
+- - 7
+  - 0.695
+- - 8
+  - 0.661
+- - 9
+  - 0.746
+- - 10
+  - 0.661
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- e
+- a
+- dee
+- yi
+- i
+- he
+- eni
+- ba
+- ngin
+- ka
+- amin
+- abe
+- iyem
+- re
+- atabuchi
+- imin
+- "\xE8"
+- kung
+- angin
+- ne
+- shi
+- woo
+- be
+- ab'e
+- mang
+top_n_grams:
+- - 2
+  - 1.678
+- - 3
+  - 2.478
+- - 4
+  - 3.197

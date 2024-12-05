@@ -1,0 +1,50 @@
+dup_line_frac: 0.605
+dup_n_grams:
+- - 5
+  - 0.403
+- - 6
+  - 0.38
+- - 7
+  - 0.393
+- - 8
+  - 0.365
+- - 9
+  - 0.367
+- - 10
+  - 0.34
+line_punct_thr: -1
+max_avg_word_length: 4
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 3
+new_line_ratio: 0.056
+stopwords:
+- "\xE9h"
+- neh
+- "\xE0"
+- a
+- eh
+- bo
+- "b\xFA"
+- behn
+- "b\xE1"
+- jia
+- "m\xE8h"
+- nda
+- naa
+- "n\xF2r"
+- "b\xF2"
+- "nj\xE8h"
+- ba
+- chang
+- deh
+- tua
+- dehne
+- seh
+- kell
+top_n_grams:
+- - 2
+  - 0.609
+- - 3
+  - 0.789
+- - 4
+  - 0.527

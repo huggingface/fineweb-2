@@ -1,0 +1,40 @@
+dup_line_frac: 0.518
+dup_n_grams:
+- - 5
+  - 0.579
+- - 6
+  - 0.695
+- - 7
+  - 0.6
+- - 8
+  - 0.695
+- - 9
+  - 0.521
+- - 10
+  - 0.579
+line_punct_thr: 0.4
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.781
+min_avg_word_length: 4
+new_line_ratio: 0.244
+stopwords:
+- ba
+- 'no'
+- niha
+- si
+- so
+- "da'\xF6"
+- ma
+- ia
+- sambua
+- ya'ia
+- moroi
+- indonesia
+- na
+top_n_grams:
+- - 2
+  - 0.821
+- - 3
+  - 1.074
+- - 4
+  - 1.579

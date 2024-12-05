@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.803
+- - 6
+  - 0.799
+- - 7
+  - 0.788
+- - 8
+  - 0.793
+- - 9
+  - 0.799
+- - 10
+  - 0.787
+line_punct_thr: -1
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- ge
+- ye
+- una
+- dje
+- dji
+- embe
+- al
+- na
+- god
+- mal
+- pille
+- kandja
+- we
+- une
+- iwa
+- ta
+- jisas
+- moi
+- wopake
+- ba
+- ni
+- kerman
+- yei
+- yene
+top_n_grams:
+- - 2
+  - 0.819
+- - 3
+  - 1.001
+- - 4
+  - 1.438

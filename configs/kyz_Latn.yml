@@ -1,0 +1,47 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.402
+- - 6
+  - 0.393
+- - 7
+  - 0.391
+- - 8
+  - 0.386
+- - 9
+  - 0.383
+- - 10
+  - 0.377
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.656
+min_avg_word_length: 4
+new_line_ratio: 0.053
+stopwords:
+- ga
+- "g\xE3"
+- jau
+- "a'eram\u0169"
+- je
+- nupe
+- futat
+- upe
+- jejui
+- "\xE3"
+- etee
+- nipo
+- are
+- te
+- jane
+- mama'e
+- "n\u0169"
+- a'ere
+- rakue
+- janeruwarete
+top_n_grams:
+- - 2
+  - 0.156
+- - 3
+  - 0.128
+- - 4
+  - 0.149

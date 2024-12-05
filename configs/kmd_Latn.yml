@@ -1,0 +1,48 @@
+dup_line_frac: 0.645
+dup_n_grams:
+- - 5
+  - 0.665
+- - 6
+  - 0.665
+- - 7
+  - 0.645
+- - 8
+  - 0.651
+- - 9
+  - 0.629
+- - 10
+  - 0.636
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- ey
+- sey
+- assey
+- an
+- as
+- at
+- ya
+- dasey
+- apudyus
+- pun
+- siya
+- nu
+- tey
+- tagu
+- da
+- jesus
+- ta
+- asda
+- dakayu
+- kon
+- vus
+top_n_grams:
+- - 2
+  - 1.006
+- - 3
+  - 1.378
+- - 4
+  - 1.409

@@ -1,0 +1,54 @@
+dup_line_frac: 0.37
+dup_n_grams:
+- - 5
+  - 0.267
+- - 6
+  - 0.199
+- - 7
+  - 0.185
+- - 8
+  - 0.174
+- - 9
+  - 0.136
+- - 10
+  - 0.111
+line_punct_thr: -1
+max_avg_word_length: 17
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 5
+new_line_ratio: 0.167
+stopwords:
+- "\u0985\u09AE\u09B8\u09C1\u0982"
+- "\u0985\u09B8\u09BF"
+- "\u0985\u09AE\u09BE"
+- "\u0985\u09AE\u09A6\u09BF"
+- "\u09B9\u09BE\u09DF\u09A8\u09BE"
+- "\u0993\u0987\u09A8\u09BE"
+- "\u0985\u09B8\u09BF\u0997\u09C0"
+- "\u0985\u09B8\u09BF\u09A6\u09BE"
+- "\u09BE"
+- "\u0985\u09A6\u09C1"
+- "\u0993\u0987\u09AC\u09BE"
+- "\u09AA\u09CD\u09B0\u09A7\u09BE\u09A8"
+- "\u0985\u09B8\u09BF\u09A8\u09BE"
+- "\u09DF\u09BE\u09AE\u09CD\u09A8\u09BE"
+- "\u0995\u09DF\u09BE"
+- "\u09A5\u09AC\u0995"
+- "\u09B2\u09C7\u09BE\u09DF\u09A8\u09A8\u09BE"
+- "\u0997\u09C0"
+- "\u09AE\u09C0\u0993\u0987"
+- "\u09A6\u09BE"
+- "\u09B9\u09BE\u09DF\u09AC\u09BE"
+- "\u09B2\u09C8\u09AC\u09BE"
+- "\u09AE\u09B9\u09BE\u0995\u09CD\u09A8\u09BE"
+- "\u09AE\u09A4\u09AE"
+- "\u09B9\u09C7\u09D7\u099C\u09BF\u0995"
+- "\u09B9\u09C7\u09A8\u09CD\u09A8\u09BE"
+- "\u0985\u09A6\u09C1\u09AC\u09C1"
+top_n_grams:
+- - 2
+  - 0.329
+- - 3
+  - 0.305
+- - 4
+  - 0.306

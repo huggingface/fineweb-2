@@ -1,0 +1,49 @@
+dup_line_frac: 0.623
+dup_n_grams:
+- - 5
+  - 0.453
+- - 6
+  - 0.418
+- - 7
+  - 0.398
+- - 8
+  - 0.39
+- - 9
+  - 0.359
+- - 10
+  - 0.342
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- ki
+- i
+- ti
+- sa
+- bann
+- pour
+- nou
+- en
+- zot
+- dan
+- e
+- fer
+- ou
+- avek
+- pou
+- pa
+- son
+- ganny
+- kapab
+- zeova
+- li
+- lo
+top_n_grams:
+- - 2
+  - 0.471
+- - 3
+  - 0.564
+- - 4
+  - 0.659

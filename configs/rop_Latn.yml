@@ -1,0 +1,49 @@
+dup_line_frac: 0.889
+dup_n_grams:
+- - 5
+  - 0.672
+- - 6
+  - 0.666
+- - 7
+  - 0.703
+- - 8
+  - 0.668
+- - 9
+  - 0.666
+- - 10
+  - 0.618
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.893
+min_avg_word_length: 4
+new_line_ratio: 0.077
+stopwords:
+- en
+- det
+- langa
+- bin
+- blanga
+- im
+- garra
+- yumob
+- detlot
+- yu
+- olabat
+- wal
+- pipul
+- imbin
+- na
+- ola
+- jidan
+- nomo
+- brom
+- mi
+- weya
+- meigim
+top_n_grams:
+- - 2
+  - 0.335
+- - 3
+  - 0.504
+- - 4
+  - 0.559

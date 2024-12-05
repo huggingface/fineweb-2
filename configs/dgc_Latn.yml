@@ -1,0 +1,53 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.389
+- - 6
+  - 0.388
+- - 7
+  - 0.386
+- - 8
+  - 0.385
+- - 9
+  - 0.381
+- - 10
+  - 0.381
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.814
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- a
+- ta
+- na
+- "\xE9y"
+- i
+- du
+- de
+- tu
+- sakay
+- ni
+- diyos
+- to
+- "\xE9wan"
+- side
+- moy
+- siya
+- ey
+- "d\xE9n"
+- nadid
+- ko
+- tolay
+- ti
+- kam
+- jesus
+- kagi
+- da
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.119
+- - 4
+  - 0.143

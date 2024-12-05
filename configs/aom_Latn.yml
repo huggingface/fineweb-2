@@ -1,0 +1,45 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.414
+- - 6
+  - 0.411
+- - 7
+  - 0.407
+- - 8
+  - 0.403
+- - 9
+  - 0.394
+- - 10
+  - 0.392
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.854
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- god
+- "\xEBhi"
+- hesi
+- bogo
+- "h\xF6jo"
+- are
+- mae
+- ae
+- "r\xF6hu"
+- "j\xF6ho"
+- ma
+- ro
+- na
+- "\xEB"
+- hu
+- a
+- mu
+- "j\xF6"
+top_n_grams:
+- - 2
+  - 0.109
+- - 3
+  - 0.145
+- - 4
+  - 0.183

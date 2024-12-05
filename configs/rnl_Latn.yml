@@ -1,0 +1,51 @@
+dup_line_frac: 1.0
+dup_n_grams:
+- - 5
+  - 0.857
+- - 6
+  - 0.856
+- - 7
+  - 0.856
+- - 8
+  - 0.856
+- - 9
+  - 0.857
+- - 10
+  - 0.856
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 3
+new_line_ratio: 0.077
+stopwords:
+- na
+- u
+- chu
+- ei
+- a
+- ngai
+- ha
+- le
+- ka
+- nei
+- han
+- ni
+- rang
+- hatuka
+- hava
+- "ng\u0101i"
+- ro
+- ani
+- om
+- ranga
+- hi
+- pathian
+- mi
+- ti
+top_n_grams:
+- - 2
+  - 1.857
+- - 3
+  - 2.856
+- - 4
+  - 3.855

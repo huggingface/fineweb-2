@@ -1,0 +1,45 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.031
+- - 6
+  - 0.018
+- - 7
+  - 0.012
+- - 8
+  - 0.008
+- - 9
+  - 0.004
+- - 10
+  - 0.002
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 1.0
+min_avg_word_length: 4
+new_line_ratio: 0.333
+stopwords:
+- jah
+- in
+- ni
+- du
+- izwis
+- "i\xFE"
+- "\xFEan"
+- "\xFEatei"
+- ist
+- imma
+- ei
+- "qa\xFE"
+- im
+- is
+- ina
+- "\xFEata"
+- unte
+- sa
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 0.8
+- - 4
+  - 0.23

@@ -1,0 +1,44 @@
+dup_line_frac: 0.654
+dup_n_grams:
+- - 5
+  - 0.685
+- - 6
+  - 0.665
+- - 7
+  - 0.639
+- - 8
+  - 0.64
+- - 9
+  - 0.614
+- - 10
+  - 0.609
+line_punct_thr: -1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 7
+new_line_ratio: 0.091
+stopwords:
+- dios
+- mana
+- "se\xF1or"
+- tsay
+- llapan
+- alli
+- "tsayn\xF6"
+- "all\xE4pa"
+- pero
+- ni
+- juc
+- tsaymi
+- manam
+- cay
+- imayca
+- yaya
+- nirgan
+top_n_grams:
+- - 2
+  - 1.056
+- - 3
+  - 1.684
+- - 4
+  - 2.252

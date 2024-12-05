@@ -1,0 +1,56 @@
+dup_line_frac: 0.552
+dup_n_grams:
+- - 5
+  - 0.608
+- - 6
+  - 0.612
+- - 7
+  - 0.577
+- - 8
+  - 0.596
+- - 9
+  - 0.6
+- - 10
+  - 0.59
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 3
+new_line_ratio: 0.111
+stopwords:
+- a
+- bee
+- "k\u0254"
+- pya
+- le
+- i
+- lo
+- bu
+- nu
+- "n\u025B\u025B"
+- ye
+- "s\u0254\u0304"
+- doo
+- "n\u025B"
+- loo
+- "j\u025Bhova"
+- na
+- e
+- ba
+- wa
+- lu
+- "\u025Br\u025B"
+- o
+- sa
+- ue
+- "k\u025B\u0304"
+- gaa
+- dap
+- naa
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.464
+- - 4
+  - 1.95

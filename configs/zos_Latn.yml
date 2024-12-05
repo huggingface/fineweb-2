@@ -1,0 +1,45 @@
+dup_line_frac: 0.912
+dup_n_grams:
+- - 5
+  - 0.607
+- - 6
+  - 0.573
+- - 7
+  - 0.316
+- - 8
+  - 0.118
+- - 9
+  - 0.116
+- - 10
+  - 0.028
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- y
+- mi
+- "va'c\xF8"
+- que
+- "nd\xF8"
+- porque
+- diosis
+- ji'n
+- pero
+- "t\xF8"
+- como
+- jetse
+- mumu
+- "p\xF8n"
+- o'ca
+- entonces
+- yac
+- cuando
+top_n_grams:
+- - 2
+  - 0.494
+- - 3
+  - 0.602
+- - 4
+  - 0.852

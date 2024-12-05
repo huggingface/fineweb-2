@@ -1,0 +1,44 @@
+dup_line_frac: 0.375
+dup_n_grams:
+- - 5
+  - 0.378
+- - 6
+  - 0.373
+- - 7
+  - 0.323
+- - 8
+  - 0.308
+- - 9
+  - 0.314
+- - 10
+  - 0.307
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- "he\u02C9"
+- "hi\u0331\u02C9"
+- "kih\uA717"
+- "hn\xE4h\uA718"
+- "ma\u02CA"
+- "dsa\u02C9"
+- "sa\uA719"
+- "ba\u02CA"
+- dio
+- "hi\uA719"
+- "kya\u0331a\u0331h\u02CA"
+- "jee\u02CA"
+- "mah\uA717"
+- "ja\u0331\u02C9"
+- "he\uA718"
+- "jne\u02CA"
+- "jes\xFAs"
+top_n_grams:
+- - 2
+  - 0.123
+- - 3
+  - 0.226
+- - 4
+  - 0.245

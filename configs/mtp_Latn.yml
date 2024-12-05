@@ -1,0 +1,45 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.13
+- - 6
+  - 0.092
+- - 7
+  - 0.067
+- - 8
+  - 0.053
+- - 9
+  - 0.04
+- - 10
+  - 0.032
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.583
+min_avg_word_length: 5
+new_line_ratio: 0.062
+stopwords:
+- "t\xE0"
+- wet
+- kyek
+- tha
+- k
+- "h\xE0p"
+- "\xE0p"
+- lhaamelh
+- tok
+- wikyi
+- tsi
+- yok
+- imak
+- lhaam
+- "\xEDihi"
+- "h\xE2\xE0pe"
+- jweesus
+- yoos
+top_n_grams:
+- - 2
+  - 0.206
+- - 3
+  - 0.086
+- - 4
+  - 0.081

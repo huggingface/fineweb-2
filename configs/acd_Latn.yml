@@ -1,0 +1,56 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.383
+- - 6
+  - 0.38
+- - 7
+  - 0.378
+- - 8
+  - 0.375
+- - 9
+  - 0.374
+- - 10
+  - 0.37
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.826
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- "m\u0254"
+- ne
+- "m\u025B"
+- kya
+- "wurubuaar\u025B"
+- "y\u025B\u025B"
+- de
+- "\u0254"
+- so
+- i
+- "d\u0254"
+- ilaa
+- gi
+- sa
+- "f\u025Bye"
+- kyu
+- "w\u0254ra"
+- fo
+- yesu
+- laa
+- "g\u025Bnen"
+- me
+- n
+- "m\u0254m\u0254"
+- a
+- "f\u025B"
+- "gy\u025B"
+- "t\u0254g\u025B"
+- "\u0254bono"
+top_n_grams:
+- - 2
+  - 0.095
+- - 3
+  - 0.123
+- - 4
+  - 0.146

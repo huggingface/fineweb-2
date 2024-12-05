@@ -1,0 +1,53 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.398
+- - 6
+  - 0.38
+- - 7
+  - 0.364
+- - 8
+  - 0.355
+- - 9
+  - 0.339
+- - 10
+  - 0.328
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.067
+stopwords:
+- la
+- a
+- ye
+- le
+- "\xEC"
+- ka
+- be
+- ko
+- wo
+- ali
+- "ni\u014B"
+- "me\u014B"
+- ti
+- kono
+- fo
+- ke
+- to
+- i
+- "ma\u014B"
+- alla
+- bari
+- "ka\u014B"
+- moo
+- n
+- "\xF1i\u014B"
+- yeesu
+top_n_grams:
+- - 2
+  - 0.247
+- - 3
+  - 0.28
+- - 4
+  - 0.267

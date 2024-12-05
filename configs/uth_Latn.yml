@@ -1,0 +1,52 @@
+dup_line_frac: 0.278
+dup_n_grams:
+- - 5
+  - 0.168
+- - 6
+  - 0.17
+- - 7
+  - 0.159
+- - 8
+  - 0.152
+- - 9
+  - 0.159
+- - 10
+  - 0.139
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.738
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- "u\u0331n"
+- "wu\u0331"
+- "ye\u0331"
+- m
+- "ne\u0331"
+- o
+- "o\u0331"
+- "\xE0"
+- de
+- "no\u0331"
+- shir
+- "ro\u0331"
+- "to\u0331"
+- "u\u0331r"
+- ka
+- yo
+- "u\u0331t"
+- "\xE1"
+- a
+- be
+- "me\u0331"
+- remen
+- ma
+- komo
+- "mo\u0331"
+top_n_grams:
+- - 2
+  - 0.184
+- - 3
+  - 0.224
+- - 4
+  - 0.316

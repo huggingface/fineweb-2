@@ -1,0 +1,45 @@
+dup_line_frac: 0.361
+dup_n_grams:
+- - 5
+  - 0.523
+- - 6
+  - 0.46
+- - 7
+  - 0.432
+- - 8
+  - 0.389
+- - 9
+  - 0.365
+- - 10
+  - 0.354
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.65
+min_avg_word_length: 5
+new_line_ratio: 0.077
+stopwords:
+- i
+- to
+- iti
+- pue
+- hai
+- tauna
+- ala
+- iesu
+- ina
+- kai
+- ti'ara
+- upu
+- "ag\xE1i\xE1n\xE1"
+- "l\xE1wi"
+- lia
+- hane'i
+- ara
+- bona
+top_n_grams:
+- - 2
+  - 0.392
+- - 3
+  - 0.392
+- - 4
+  - 0.276

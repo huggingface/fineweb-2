@@ -1,0 +1,40 @@
+dup_line_frac: 0.848
+dup_n_grams:
+- - 5
+  - 0.681
+- - 6
+  - 0.669
+- - 7
+  - 0.694
+- - 8
+  - 0.694
+- - 9
+  - 0.669
+- - 10
+  - 0.681
+line_punct_thr: -1
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 5
+new_line_ratio: 0.091
+stopwords:
+- mu
+- mani
+- nende
+- nae
+- handi
+- hu
+- nasae
+- ati
+- yesu
+- olwohuba
+- koti
+- yeecha
+- haba
+top_n_grams:
+- - 2
+  - 0.77
+- - 3
+  - 1.198
+- - 4
+  - 1.577

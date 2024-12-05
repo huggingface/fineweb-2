@@ -1,0 +1,39 @@
+dup_line_frac: 0.333
+dup_n_grams:
+- - 5
+  - 0.181
+- - 6
+  - 0.165
+- - 7
+  - 0.147
+- - 8
+  - 0.135
+- - 9
+  - 0.128
+- - 10
+  - 0.118
+line_punct_thr: 0.444
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.841
+min_avg_word_length: 4
+new_line_ratio: 0.182
+stopwords:
+- i
+- och
+- "\xE4r"
+- av
+- en
+- som
+- den
+- med
+- "p\xE5"
+- till
+- att
+- "f\xF6r"
+top_n_grams:
+- - 2
+  - 0.093
+- - 3
+  - 0.118
+- - 4
+  - 0.142

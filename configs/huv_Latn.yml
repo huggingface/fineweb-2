@@ -1,0 +1,46 @@
+dup_line_frac: 0.75
+dup_n_grams:
+- - 5
+  - 0.431
+- - 6
+  - 0.53
+- - 7
+  - 0.528
+- - 8
+  - 0.383
+- - 9
+  - 0.388
+- - 10
+  - 0.338
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.815
+min_avg_word_length: 5
+new_line_ratio: 0.1
+stopwords:
+- teat
+- "w\xFCx"
+- nej
+- quiaj
+- dios
+- "ti\xFCl"
+- ngo
+- aaga
+- leaw
+- cos
+- nejiw
+- "me\xE1wan"
+- nipilan
+- aag
+- ayaj
+- at
+- a
+- "jes\xFAs"
+- xeyay
+top_n_grams:
+- - 2
+  - 0.686
+- - 3
+  - 1.0
+- - 4
+  - 1.173

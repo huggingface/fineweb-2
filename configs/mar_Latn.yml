@@ -1,0 +1,40 @@
+dup_line_frac: 0.133
+dup_n_grams:
+- - 5
+  - 0.201
+- - 6
+  - 0.151
+- - 7
+  - 0.108
+- - 8
+  - 0.086
+- - 9
+  - 0.05
+- - 10
+  - 0.033
+line_punct_thr: -1
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.5
+stopwords:
+- ahe
+- ya
+- ani
+- he
+- va
+- ek
+- aahe
+- ha
+- hote
+- hi
+- te
+- kele
+- ahet
+top_n_grams:
+- - 2
+  - 1.0
+- - 3
+  - 1.0
+- - 4
+  - 0.9

@@ -1,0 +1,56 @@
+dup_line_frac: 0.321
+dup_n_grams:
+- - 5
+  - 0.219
+- - 6
+  - 0.214
+- - 7
+  - 0.219
+- - 8
+  - 0.21
+- - 9
+  - 0.172
+- - 10
+  - 0.186
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.25
+stopwords:
+- as
+- ast
+- ni
+- en
+- "t\u016B"
+- "t\u0101ns"
+- "k\u0101i"
+- turri
+- si
+- stan
+- per
+- "ten\u0101"
+- "w\u012Brst"
+- be
+- "b\u0113i"
+- sta
+- mazzi
+- ka
+- asma
+- sen
+- mi
+- ezze
+- majs
+- "sp\u0101rtai"
+- paggan
+- assei
+- "k\u0101igi"
+- iz
+- adder
+top_n_grams:
+- - 2
+  - 0.123
+- - 3
+  - 0.123
+- - 4
+  - 0.164

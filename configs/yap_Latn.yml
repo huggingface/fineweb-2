@@ -1,0 +1,45 @@
+dup_line_frac: 0.814
+dup_n_grams:
+- - 5
+  - 0.639
+- - 6
+  - 0.627
+- - 7
+  - 0.62
+- - 8
+  - 0.603
+- - 9
+  - 0.592
+- - 10
+  - 0.585
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.1
+stopwords:
+- ni
+- e
+- ma
+- ko
+- nge
+- u
+- be
+- nib
+- pi
+- rogon
+- ke
+- rok
+- i
+- ngak
+- ra
+- got
+- girdi
+- fan
+top_n_grams:
+- - 2
+  - 0.564
+- - 3
+  - 0.946
+- - 4
+  - 1.0

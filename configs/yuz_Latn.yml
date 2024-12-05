@@ -1,0 +1,41 @@
+dup_line_frac: 0.895
+dup_n_grams:
+- - 5
+  - 0.701
+- - 6
+  - 0.689
+- - 7
+  - 0.689
+- - 8
+  - 0.689
+- - 9
+  - 0.668
+- - 10
+  - 0.669
+line_punct_thr: -1
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.706
+min_avg_word_length: 6
+new_line_ratio: 0.1
+stopwords:
+- naa
+- nish
+- dios
+- latijsha
+- lacha
+- cuta
+- ati
+- diosja
+- jesusja
+- "jes\xFAs"
+- achaya
+- mammui
+- amumui
+- "s\xEB\xEB"
+top_n_grams:
+- - 2
+  - 0.754
+- - 3
+  - 1.201
+- - 4
+  - 1.452

@@ -1,0 +1,51 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.066
+- - 6
+  - 0.046
+- - 7
+  - 0.032
+- - 8
+  - 0.023
+- - 9
+  - 0.016
+- - 10
+  - 0.012
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.062
+stopwords:
+- ka
+- ba
+- na
+- "be\u014B"
+- "ba\u014B"
+- "wo\u014B"
+- "i\u014B"
+- "bind\u025B"
+- e
+- bi
+- masaala
+- wo
+- "ya\u014B"
+- "k\u0254\u014B"
+- "wund\u025B"
+- awa
+- "nd\u025B"
+- nde
+- "ha\u014B"
+- "w\u0254"
+- "ni\u014B"
+- biya
+- ni
+- "yis\u0254s"
+top_n_grams:
+- - 2
+  - 0.035
+- - 3
+  - 0.037
+- - 4
+  - 0.041

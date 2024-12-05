@@ -1,0 +1,45 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.022
+- - 6
+  - 0.008
+- - 7
+  - 0.0
+- - 8
+  - 0.0
+- - 9
+  - 0.0
+- - 10
+  - 0.0
+line_punct_thr: -1
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 6
+new_line_ratio: 0.083
+stopwords:
+- huan
+- tlen
+- nopa
+- para
+- toteco
+- ax
+- ipan
+- se
+- nochi
+- ma
+- ica
+- pampa
+- tlacame
+- quema
+- queja
+- pero
+- huajca
+- ni
+top_n_grams:
+- - 2
+  - 0.103
+- - 3
+  - 0.165
+- - 4
+  - 0.184

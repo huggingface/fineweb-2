@@ -1,0 +1,49 @@
+dup_line_frac: 0.488
+dup_n_grams:
+- - 5
+  - 0.409
+- - 6
+  - 0.394
+- - 7
+  - 0.384
+- - 8
+  - 0.368
+- - 9
+  - 0.366
+- - 10
+  - 0.359
+line_punct_thr: -1
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.837
+min_avg_word_length: 4
+new_line_ratio: 0.071
+stopwords:
+- na
+- i
+- ma
+- ni
+- do
+- tu
+- di
+- halahi
+- hamu
+- ia
+- angka
+- halak
+- dohot
+- si
+- jana
+- debata
+- sian
+- jesus
+- dung
+- au
+- songon
+- nada
+top_n_grams:
+- - 2
+  - 0.28
+- - 3
+  - 0.363
+- - 4
+  - 0.328

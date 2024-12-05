@@ -1,0 +1,47 @@
+dup_line_frac: 0.0
+dup_n_grams:
+- - 5
+  - 0.025
+- - 6
+  - 0.019
+- - 7
+  - 0.014
+- - 8
+  - 0.008
+- - 9
+  - 0.007
+- - 10
+  - 0.006
+line_punct_thr: -1
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 7
+new_line_ratio: 0.071
+stopwords:
+- "chu\u0331"
+- c
+- "hua\u0331ntu\u0331"
+- "pi\u0331"
+- "hua\u0331nti\u0331"
+- "ni\u0331"
+- dios
+- "la\u0331ntla\u0331"
+- "acxni\u0331"
+- luhua
+- "yama\u0331"
+- "sa\u0331mpi\u0331"
+- "na\u0331"
+- "hua\u0331mpi\u0331"
+- caj
+- "chun\xE1\u0331"
+- "laqui\u0331mpi\u0331"
+- quit
+- "xli\u0331pacs"
+- pala
+top_n_grams:
+- - 2
+  - 0.037
+- - 3
+  - 0.054
+- - 4
+  - 0.078

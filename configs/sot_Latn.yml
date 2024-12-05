@@ -1,0 +1,44 @@
+dup_line_frac: 0.5
+dup_n_grams:
+- - 5
+  - 0.385
+- - 6
+  - 0.365
+- - 7
+  - 0.347
+- - 8
+  - 0.331
+- - 9
+  - 0.32
+- - 10
+  - 0.303
+line_punct_thr: 0.333
+max_avg_word_length: 19
+max_non_alpha_words_ratio: 0.824
+min_avg_word_length: 3
+new_line_ratio: 0.355
+stopwords:
+- le
+- ho
+- e
+- ka
+- ea
+- a
+- ba
+- ke
+- oa
+- sa
+- tsa
+- o
+- tse
+- la
+- ya
+- afrika
+- ile
+top_n_grams:
+- - 2
+  - 0.437
+- - 3
+  - 0.571
+- - 4
+  - 0.717

@@ -1,0 +1,50 @@
+dup_line_frac: 0.04
+dup_n_grams:
+- - 5
+  - 0.113
+- - 6
+  - 0.09
+- - 7
+  - 0.06
+- - 8
+  - 0.049
+- - 9
+  - 0.042
+- - 10
+  - 0.035
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 4
+new_line_ratio: 0.067
+stopwords:
+- ngan
+- ga
+- ta
+- toa
+- be
+- gid
+- mao
+- ei
+- aea
+- deo
+- ele
+- panua
+- ne
+- gimi
+- posanga
+- pade
+- kadonga
+- oa
+- gau
+- eaba
+- eine
+- ede
+- mambe
+top_n_grams:
+- - 2
+  - 0.046
+- - 3
+  - 0.045
+- - 4
+  - 0.044

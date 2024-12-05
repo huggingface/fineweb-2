@@ -1,0 +1,57 @@
+dup_line_frac: 0.8
+dup_n_grams:
+- - 5
+  - 0.615
+- - 6
+  - 0.627
+- - 7
+  - 0.627
+- - 8
+  - 0.61
+- - 9
+  - 0.591
+- - 10
+  - 0.598
+line_punct_thr: -1
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.049
+stopwords:
+- ka
+- yu
+- i
+- ngarra
+- nhini
+- da
+- kardu
+- murrinh
+- nukunu
+- yile
+- neki
+- mange
+- matha
+- mere
+- nanki
+- warda
+- wa
+- mu
+- ngay
+- thathpirr
+- bere
+- wangu
+- ya
+- ngatha
+- deyida
+- ngala
+- nu
+- marda
+- nuru
+- re
+top_n_grams:
+- - 2
+  - 0.496
+- - 3
+  - 0.698
+- - 4
+  - 1.088

@@ -1,0 +1,54 @@
+dup_line_frac: 0.424
+dup_n_grams:
+- - 5
+  - 0.328
+- - 6
+  - 0.299
+- - 7
+  - 0.292
+- - 8
+  - 0.317
+- - 9
+  - 0.264
+- - 10
+  - 0.272
+line_punct_thr: -1
+max_avg_word_length: 5
+max_non_alpha_words_ratio: 0.877
+min_avg_word_length: 3
+new_line_ratio: 0.05
+stopwords:
+- ma
+- ni
+- ja
+- te
+- ka
+- i
+- de
+- ya
+- nuu
+- jin
+- sa
+- "\xF1ayii"
+- sa'a
+- o
+- "k\xFAu"
+- su'si
+- kuu
+- ini
+- sukan
+- a
+- maa
+- ji'in
+- tee
+- tnu'u
+- "\xF1a'a"
+- iyo
+- vaa
+top_n_grams:
+- - 2
+  - 0.144
+- - 3
+  - 0.163
+- - 4
+  - 0.175

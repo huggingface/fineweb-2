@@ -1,0 +1,46 @@
+dup_line_frac: 0.902
+dup_n_grams:
+- - 5
+  - 0.701
+- - 6
+  - 0.689
+- - 7
+  - 0.662
+- - 8
+  - 0.644
+- - 9
+  - 0.633
+- - 10
+  - 0.616
+line_punct_thr: -1
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.083
+stopwords:
+- ma
+- i
+- hi
+- po
+- yana
+- a
+- yesu
+- au
+- rava
+- egha
+- ipa
+- ina
+- apo
+- we
+- hina
+- aubaina
+- ona
+- maimaituwa
+- ahi
+top_n_grams:
+- - 2
+  - 0.712
+- - 3
+  - 0.888
+- - 4
+  - 1.087
