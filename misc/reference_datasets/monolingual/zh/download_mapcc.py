@@ -1,6 +1,115 @@
+import gzip
+import itertools
+import json
 import fsspec
 from datatrove.executor import LocalPipelineExecutor, SlurmPipelineExecutor
 from datatrove.pipeline.base import PipelineStep
+from datatrove.pipeline.writers import JsonlWriter
+import orjson
+
+class ConcatenatedFileStream:
+    def __init__(self, filepaths):
+        self.filepaths = filepaths
+        self.file_index = 0
+        self.current_file = None
+        self._open_next_file()
+
+    def _open_next_file(self):
+        if self.current_file:
+            self.current_file.close()
+        if self.file_index < len(self.filepaths):
+            print(f"opening {self.filepaths[self.file_index]}")
+            self.current_file = fsspec.open(self.filepaths[self.file_index], mode="rb").open()
+            self.file_index += 1
+        else:
+            self.current_file = None
+
+    def read(self, size=-1):
+        result = b""
+        while size != 0:
+            if self.current_file is None:
+                break  # No more files to read from
+
+            chunk = self.current_file.read(size)
+            if not chunk:  # End of current file
+                self._open_next_file()
+            else:
+                result += chunk
+                if size > 0:
+                    size -= len(chunk)
+        return result
+
+    def close(self):
+        if self.current_file:
+            self.current_file.close()
+
+class JsonlPartReader(JsonlReader):
+    def __init__(
+            self,
+            data_folder,
+            adapter=None,
+            text_key: str = "text",
+            id_key: str = "id",
+            default_metadata: dict = None,
+            recursive: bool = True,
+            glob_pattern: str | None = None,
+    ):
+        super().__init__(
+            data_folder,
+            adapter=adapter,
+            text_key=text_key,
+            id_key=id_key,
+            default_metadata=default_metadata,
+            recursive=recursive,
+            glob_pattern=glob_pattern,
+        )
+
+    def read_files_shard(self, shard: list[str]):
+        """
+            Reads a list of files and yield Documents
+        Args:
+            shard: a list of file paths
+
+        Returns: generator of Document
+
+        """
+        from tqdm import tqdm
+        li = 0
+        skipped = 0
+        with (
+            tqdm(
+                total=self.limit if self.limit != -1 else None,
+                desc="Document progress",
+                unit="doc",
+                disable=not self.doc_progress,
+            ) as doc_pbar,
+            tqdm(total=len(shard), desc="File progress", unit="file", disable=not self.file_progress) as file_pbar,
+        ):
+            for i, filepath in enumerate(shard):
+                self.stat_update("input_files")
+                di = 0
+                for di, document in enumerate(self.read_file(filepath)):
+                    if skipped < self.skip:
+                        skipped += 1
+                        continue
+                    if self.limit != -1 and li >= self.limit:
+                        break
+                    yield document
+                    doc_pbar.update()
+                    li += 1
+                file_pbar.update()
+                self.stat_update("documents", value=di, unit="input_file")
+                if self.limit != -1 and li >= self.limit:
+                    break
+
+def open_concatenated_gzip_files(filepaths):
+    # Create a concatenated binary stream
+    concatenated_stream = ConcatenatedFileStream(filepaths)
+
+    # Wrap it with gzip to decompress
+    gzip_stream = gzip.GzipFile(fileobj=concatenated_stream, mode='r')
+
+    return gzip_stream
 
 class ExtractMapccStep(PipelineStep):
     """Pipeline step to extract MAP-CC Chinese data.
@@ -10,30 +119,9 @@ class ExtractMapccStep(PipelineStep):
     def run(self, data, rank: int = 0, world_size: int = 1):
         if rank != 0:
             return
-        import gzip
-        import json
-        import os
-        from tqdm import tqdm
-        from datatrove.io import get_datafolder
-        # Get list of downloaded files
-        input_path = "/fsx/hynek_kydlicek/datasets/mapcc"
-        df = get_datafolder(input_path)
-        files = df.list_files(recursive=True, glob_pattern="zh_cc.jsonl.gz*")
-
-        # Process each gzipped file
-        for filename in tqdm(files, desc="Processing files"):
-            input_file = os.path.join(input_path, filename)
-            
-            # Read gzipped jsonl file
-            with gzip.open(input_file, 'rt', encoding='utf-8') as f:
-                for line in f:
-                    try:
-                        doc = json.loads(line)
-                        # Add language metadata
-                        doc['metadata'] = {'language': 'zh'}
-                        yield doc
-                    except json.JSONDecodeError:
-                        continue
+        with open_concatenated_gzip_files(data) as f:
+            for li, line in enumerate(itertools.islice(f, 0, None)):
+                yield orjson.loads(line)
 
 class CollectMapccStep(PipelineStep):
     """Base pipeline block, all blocks should inherit from this one.
@@ -84,7 +172,9 @@ if __name__ == "__main__":
     SlurmPipelineExecutor(
         job_name="mapcc-collect",
         pipeline=[
-            CollectMapccStep()
+            CollectMapccStep(),
+            ExtractMapccStep(),
+            JsonlWriter("/path/to/ref-datasets/monolingual/zh/mapcc", output_filename="${rank}.jsonl.gz", max_file_size=2*2**30)
         ],
         logging_dir="/path/to/logs/dataset_download_logs/zh/mapcc-collect",
         randomize_start_duration=3 * 60,
