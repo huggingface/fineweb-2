@@ -12,6 +12,7 @@ dup_n_grams:
   - 0.108
 - - 10
   - 0.092
+language_score: 0.719
 line_punct_thr: 0.2
 max_avg_word_length: 10
 max_non_alpha_words_ratio: 0.857
