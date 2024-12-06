@@ -6,6 +6,7 @@ FineWeb 2 is an extension of our FineWeb dataset, expanding the language support
 ## Data Pipeline
 The processing pipeline had to be heavily adapted for a multilingual setting. As each language has its own peculiarities, we **individually tuned each filter**, defining different thresholds and stopwords for each language. 
 These thresholds and stopwords are available in `/configs/{iso3_lang}_{script}.yml`.
+
 The starting point for our dataset was the non-English data (< 0.65 score in English) we obtained when processing the original FineWeb.
 To this data, we applied the following processing steps:
 1. Additional Language Identification and filtering
@@ -20,6 +21,7 @@ For each language, we defined *different minimum language classifier confidence 
 ### Deduplication
 Unlike in FineWeb, where data was deduplicated per CommonCrawl snapshot, in FineWeb 2, **data is deduplicated per language globally**. However, following our deduplication findings in the original FineWeb, while we remove all except one document from each duplicate cluster, we save the size of this cluster in the kept document's metadata, saved in `minhash_cluster_size`.
 This allows us to "re-hydrate" the dataset: by upsampling documents based on their cluster size, we see clear performance improvements for some languages, particularly high resource ones.
+
 We did not extensively explore different upsampling weights, but observed promising results with the following weights:
 - documents with no duplicates: 1 time
 - documents from a cluster of size N=2 or N=3: document will be N times in the final dataset
@@ -27,7 +29,7 @@ We did not extensively explore different upsampling weights, but observed promis
 - documents from a cluster of size N>=5 and N<100: document will be 5 times in the final dataset
 - documents from a cluster of size N>=100: document will be 8 times in the final dataset
 - documents from a cluster of size N>=1000: document will be 1 time in the final dataset (the assumption here is that very large clusters are lower quality)
-- 
+
 Example "re-hydration" block:
 ```python
 class Rehydrater(PipelineStep):
