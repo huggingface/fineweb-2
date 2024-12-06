@@ -62,9 +62,17 @@ Based on the results of our experiments, we also disabled/changed global values 
 ## Ablations code
 Each design choice in the pipeline was carefully tested on our created evaluation suite FineTasks <reference>. After each pipeline step, we trained a 1.XXXB ?? model for each language using a nanotron framework and then evaluated one of the tasks. For full transparency we provide both evaluation and training code.
 
-- [Evaluation code](https://github.com/HuggingFaceFW/fineweb-2/tree/main/evaluations)
-- [Training code](https://github.com/HuggingFaceFW/fineweb-2/tree/main/modelling)
-- [Tokenization code](https://github.com/HuggingFaceFW/fineweb-2/tree/main/tokenization)
+### Evaluation code
+- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/evaluation)
+- launch_evals.py is the main scripts used to run evaluations for one specific model.
+- launch_random_evals.py is a script used to asses a random baseline performance it uses dummy model producing random outputs.
+- run_eval.slurm.jinja is a slurm script that runs the evaluation.
+
+### Training code
+- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/modelling)
+
+### Tokenization code
+- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/tokenization)
 
 ## Misc
 
