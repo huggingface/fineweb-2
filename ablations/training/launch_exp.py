@@ -51,7 +51,7 @@ model_config = LlamaConfig(
     rope_scaling=None,
     tie_word_embeddings=True,
     use_cache=True,
-    vocab_size=256008,  # XGLM tokenizer rounded to next multiple of 8
+    vocab_size=256008,  # gemma tokenizer + some room
 )
 
 
@@ -199,10 +199,7 @@ if __name__ == "__main__":
         model_config=model_config,
         make_vocab_size_divisible_by=1,
         init_method=RandomInit(
-            std=0.02,
-            # std=1
-            # / math.sqrt(model_config.hidden_size)  # 0.01275  # Basically 1/sqrt(N),
-            # path="/fsx/shared-falcon-180B/brrr-falcon-180B"
+            std=0.02
         ),
         dtype=torch.bfloat16,
     )
@@ -224,7 +221,6 @@ if __name__ == "__main__":
             lr_warmup_steps=500,
             lr_warmup_style="linear",
             lr_decay_style="cosine",
-            # lr_decay_steps=10000-500,  # Keeping it to 10k for comparision for now
             min_decay_lr=3.0e-5
         ),
         optimizer_factory=AdamWOptimizerArgs(
