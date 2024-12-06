@@ -60,32 +60,31 @@ Based on the results of our experiments, we also disabled/changed global values 
 - Added some code to fix trafilatura created artifacts related to tables
 
 ## Ablations code
-Each design choice in the pipeline was carefully tested on our created evaluation suite FineTasks <reference>. After each pipeline step, we trained a 1.XXXB ?? model for each language using a nanotron framework and then evaluated one of the tasks. For full transparency we provide both evaluation and training code.
+Each design choice in the pipeline was carefully tested on our created evaluation suite [FineTasks](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks). After each pipeline step, we trained a 1.46B model for each language using a nanotron framework and then evaluated one of the tasks. For full transparency we provide both evaluation and training code.
 
-### Evaluation code
-- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/evaluation)
-- launch_evals.py is the main scripts used to run evaluations for one specific model.
-- launch_random_evals.py is a script used to asses a random baseline performance it uses dummy model producing random outputs.
-- run_eval.slurm.jinja is a slurm script that runs the evaluation.
+### [Evaluation code](ablations/evaluation)
+- `launch_evals.py` is the main scripts used to run evaluations for one specific model.
+- `launch_random_evals.py` is a script used to asses a random baseline performance it uses dummy model producing random outputs.
+- `run_all_missing_evals.py` runs evaluations for all checkpoints and models not yet evaluated.
 
-### Training code
-- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/modelling)
+### [Training code](ablations/training)
+- `train_model.py` is the main script used for training ablation models.
 
-### Tokenization code
-- [Link](https://github.com/HuggingFaceFW/fineweb-2/tree/main/tokenization)
+### [Tokenization code](ablations/tokenization)
+- `tokenize_dataset.py` is the main script used for pre-tokenizing processed data.
 
 ## Misc
 
 ### Word/Sentence Tokenization
-Many parts of the pipeline rely on correct word and sentence tokenization, however for most of the languages there are no such tokenizers available. We have thus developed a method to automatically assign similar tokenizer based on language family. You can check the tokenizer for each language at `<Insert link>`.
+Many parts of the pipeline rely on correct word and sentence tokenization, however for most of the languages there are no such tokenizers available. We have thus developed a method to automatically assign similar tokenizer based on language family. You can check the tokenizer for each language at [our space](https://huggingface.co/spaces/HuggingFaceFW-Dev/lang-word-tokenizers).
 
 ### Reference Datasets
-For full transparency, we provide code used to download and process reference datasets in `/misc/reference_datasets`.
+For full transparency, we provide code used to download and process reference datasets in [misc/reference_datasets](misc/reference_datasets).
 
-### Tools version
-- [Datatrove](https://github.com/HuggingFaceFW/datatrove) - <Add commit>
-- [LightEval](https://github.com/HuggingFaceFW/ml-lighteval) - <Add commit>
-- [Nanotron](https://github.com/HuggingFaceFW/nanotron) - <Add commit>
+### Tools versions
+- [Datatrove](git@github.com:hynky1999/datatrove.git)
+- [LightEval-Fork](git@github.com:hynky1999/lighteval.git) (branch: new-multi-lang-branch)
+- [Nanotron](git@github.com:hynky1999/nanotron.git)
 
 ## License
 The dataset retains the same license as the original FineWeb, which is Open Data Commons License Attribution family (ODC-By).
