@@ -1,7 +1,7 @@
 ![FineWeb 2 Logo](assets/fineweb-2-logo.png)
 # FineWeb 2
 
-FineWeb 2 is the second iteration of the popular 🍷 FineWeb dataset, bringing high quality pretraining data to over 1000 🗣️ languages.
+FineWeb 2 is the second iteration of the popular 🍷 FineWeb dataset, bringing high quality pretraining data to over 1000 🗣️ languages. For the actual data, please see the HuggingFace repository [https://huggingface.co/datasets/HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2).
 
 ## Data Pipeline 🚀
 The processing pipeline had to be heavily adapted for a multilingual setting. As each language has its own peculiarities, we **individually tuned each filter**, defining different thresholds and stopwords for each language. 📊
@@ -87,4 +87,17 @@ For full transparency, we provide code used to download and process reference da
 - [Nanotron](https://github.com/huggingface/nanotron)
 
 ## License 📜
-The dataset retains the same license as the original FineWeb, which is Open Data Commons License Attribution family (ODC-By).
+The dataset retains the same license as the original FineWeb, which is Open Data Commons License Attribution family (ODC-By). The code in this repository is licensed under the Apache 2.0 License.
+
+## Citation 📖
+```bibtex
+@software{penedo2024fineweb-2,
+  author = {Lozhkov, Anton and Ben Allal, Loubna and von Werra, Leandro and Wolf, Thomas},
+  author = {Penedo, Guilherme and Kydlíček, Hynek and Sabolčec, Vinko and Messmer, Bettina and Foroutan, Negar and Jaggi, Martin and von Werra, Leandro and Wolf, Thomas},
+  title = {FineWeb2: A sparkling update with 1000s of languages},
+  month = dec,
+  year = 2024,
+  doi = { },
+  url = {https://huggingface.co/datasets/HuggingFaceFW/fineweb-2}
+}
+```
