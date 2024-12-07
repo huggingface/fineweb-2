@@ -82,9 +82,9 @@ Many parts of the pipeline rely on correct word and sentence tokenization, howev
 For full transparency, we provide code used to download and process reference datasets in [misc/reference_datasets](misc/reference_datasets).
 
 ### Tools versions 🛠️
-- [Datatrove](git@github.com:hynky1999/datatrove.git)
-- [LightEval-Fork](git@github.com:hynky1999/lighteval.git) (branch: new-multi-lang-branch)
-- [Nanotron](git@github.com:hynky1999/nanotron.git)
+- [Datatrove](https://github.com/huggingface/datatrove)
+- [LightEval-Fork](https://github.com/hynky1999/lighteval) (branch: new-multi-lang-branch)
+- [Nanotron](https://github.com/huggingface/nanotron)
 
 ## License 📜
 The dataset retains the same license as the original FineWeb, which is Open Data Commons License Attribution family (ODC-By).
