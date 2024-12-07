@@ -92,7 +92,6 @@ The dataset retains the same license as the original FineWeb, which is Open Data
 ## Citation 📖
 ```bibtex
 @software{penedo2024fineweb-2,
-  author = {Lozhkov, Anton and Ben Allal, Loubna and von Werra, Leandro and Wolf, Thomas},
   author = {Penedo, Guilherme and Kydlíček, Hynek and Sabolčec, Vinko and Messmer, Bettina and Foroutan, Negar and Jaggi, Martin and von Werra, Leandro and Wolf, Thomas},
   title = {FineWeb2: A sparkling update with 1000s of languages},
   month = dec,
