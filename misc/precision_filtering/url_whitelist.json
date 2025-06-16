@@ -1,0 +1,3098 @@
+{
+  "nhk": [
+    "cosoleacaque",
+    "veracruz",
+    "aztec",
+    "isthmus-cosoleacaquenahuatl",
+    "mecayapan",
+    "nahuatl",
+    "melatajtol",
+    "istmo",
+    ".mx",
+    "mexican",
+    "mexico",
+    "pajapan"
+  ],
+  "kak": [
+    "nueva",
+    "philippines",
+    "kalanguya",
+    "benguet",
+    ".ph",
+    "mountain",
+    "filipino",
+    "ifugao",
+    "vizcaya"
+  ],
+  "jam": [
+    "patwa",
+    "jamaica",
+    "patois",
+    "jamaicancreoleenglish",
+    "jamaican",
+    "creole",
+    ".jm"
+  ],
+  "kpq": [
+    "korupun-sela",
+    "highlands",
+    "sela",
+    ".id",
+    "korupun",
+    "papua"
+  ],
+  "rub": [
+    "congolese",
+    "congo",
+    "gungu",
+    "kwilu",
+    "bandundu",
+    ".cd"
+  ],
+  "wes": [
+    "kamtok",
+    "pidgin",
+    ".cm",
+    "cameroonian",
+    "cameroon",
+    "cameroonpidgin"
+  ],
+  "goh": [
+    "germany",
+    "oldhighgerman",
+    "altdeutsch",
+    ".de",
+    "althochdeutsch",
+    "high",
+    "old"
+  ],
+  "cnk": [
+    "chin",
+    "state",
+    "myanmar",
+    "burma",
+    "rakhine",
+    ".mm",
+    "khumi",
+    "khumichin"
+  ],
+  "tkl": [
+    "polynesia",
+    "new",
+    "territory",
+    "tokelau",
+    "tokelauan",
+    "zealand"
+  ],
+  "cbk": [
+    "philippines",
+    ".ph",
+    "based",
+    "chavacano",
+    "filipino",
+    "creole",
+    "zamboanga"
+  ],
+  "ald": [
+    "cote",
+    "lagunes",
+    "coast",
+    "ivorian",
+    "ivory",
+    "abidjan",
+    ".ci",
+    "alladian",
+    "ivoire"
+  ],
+  "kas": [
+    "kashmir",
+    "jammu",
+    "kashmiri"
+  ],
+  "cdf": [
+    "chiru",
+    "northeast",
+    "manipur"
+  ],
+  "sco": [
+    ".gb",
+    "scots",
+    "scotland",
+    "lallans",
+    "scottish"
+  ],
+  "ain": [
+    "hokkaido",
+    "japan",
+    "indigenous",
+    "ainu",
+    ".jp"
+  ],
+  "acm": [
+    "mesopotamianarabic",
+    "iraq",
+    "mesopotamian",
+    "iraqi",
+    "baghdad",
+    ".iq"
+  ],
+  "nla": [
+    "western",
+    ".cm",
+    "cameroonian",
+    "bantu",
+    "cameroon",
+    "ngombale"
+  ],
+  "anp": [
+    "bihar",
+    "angika",
+    "maithili",
+    "jharkhand"
+  ],
+  "mzk": [
+    "taraba",
+    ".ng",
+    "nigeriamambila",
+    "adamawa",
+    "nigeria",
+    "nigerian",
+    "mambila"
+  ],
+  "tro": [
+    "tarao",
+    "manipur",
+    "taraonaga",
+    "naga"
+  ],
+  "dbq": [
+    "far",
+    "daba",
+    ".cm",
+    "cameroonian",
+    "north",
+    "bantu",
+    "cameroon"
+  ],
+  "cmr": [
+    "mro",
+    "myanmar",
+    "khimi",
+    "burma",
+    "rakhine",
+    ".mm",
+    "mro-khimichin"
+  ],
+  "hak": [
+    "taiwan",
+    "hakkachinese",
+    "kejia",
+    "guangdong",
+    "china",
+    "fujian",
+    "hakka",
+    ".cn"
+  ],
+  "mui": [
+    ".id",
+    "sumatra",
+    "south",
+    "musi"
+  ],
+  "aln": [
+    ".al",
+    "northern",
+    "albania",
+    "ghegh",
+    "ghegalbanian",
+    "gheg",
+    "albanian"
+  ],
+  "sdc": [
+    "sardinia",
+    "sassarese",
+    ".it",
+    "sardinian",
+    "italy",
+    "sassaresesardinian"
+  ],
+  "dag": [
+    "dagbani",
+    "northern",
+    "ghanaian",
+    "ghana",
+    "dagomba",
+    ".gh"
+  ],
+  "mrv": [
+    "polynesia",
+    ".pf",
+    "gambier",
+    "polynesian",
+    "islands",
+    "mangareva"
+  ],
+  "tpw": [
+    "tapu",
+    "australia",
+    "indigenous",
+    ".au",
+    "australian"
+  ],
+  "pss": [
+    ".pg",
+    "new",
+    "kaulong",
+    "britain",
+    "guinea",
+    "papua",
+    "baining"
+  ],
+  "led": [
+    "congolese",
+    "congo",
+    "lendu",
+    "ituri",
+    "saharan",
+    "nilo",
+    ".cd"
+  ],
+  "mfg": [
+    "mogofin",
+    "kissidougou",
+    "guinean",
+    ".gn",
+    "guinea",
+    "manding"
+  ],
+  "syl": [
+    "bangladesh",
+    "sylhet",
+    "bangladeshi",
+    "nagri",
+    ".bd",
+    "sylheti"
+  ],
+  "aoz": [
+    "uab",
+    "west",
+    ".id",
+    "meto",
+    "timor",
+    "uabmeto",
+    "dawan"
+  ],
+  "mlu": [
+    "islander",
+    "solomon",
+    ".sb",
+    "malaita",
+    "islands",
+    "toabaita"
+  ],
+  "nap": [
+    "naples",
+    "neapolitan",
+    ".it",
+    "napoletano",
+    "italy"
+  ],
+  "pfe": [
+    "northwest",
+    ".cm",
+    "cameroonian",
+    "pere",
+    "bantu",
+    "cameroon"
+  ],
+  "khy": [
+    "congolese",
+    "orientale",
+    "congo",
+    "kele",
+    "democraticrepublicofcongo",
+    ".cd"
+  ],
+  "nki": [
+    "thangalnaga",
+    "manipur",
+    "naga",
+    "thangal"
+  ],
+  "mer": [
+    "embu",
+    "kenya",
+    ".ke",
+    "meru",
+    "kenyan",
+    "mount"
+  ],
+  "dsh": [
+    ".et",
+    "omotic",
+    "omo",
+    "daasanach",
+    "river",
+    "ethiopia",
+    "ethiopian"
+  ],
+  "mup": [
+    "malvi",
+    "malwa",
+    "madhya",
+    "pradesh"
+  ],
+  "sdq": [
+    "kalimantan",
+    "dayak",
+    "west",
+    "semandang",
+    ".id"
+  ],
+  "uri": [
+    ".pg",
+    "sepik",
+    "new",
+    "east",
+    "guinea",
+    "papua",
+    "urim"
+  ],
+  "pcm": [
+    "pidgin",
+    "naija",
+    ".ng",
+    "nigerianpidgin",
+    "nigeria",
+    "nigerian"
+  ],
+  "dip": [
+    "twic",
+    ".sd",
+    "west",
+    "dinka",
+    "ajong",
+    "south",
+    "rek",
+    "panaruu",
+    "agaar",
+    "awiel",
+    "apuk",
+    "north",
+    "luac",
+    "northeastern",
+    "abiliang",
+    "agar",
+    "rut",
+    "thony",
+    "paliet",
+    "sudan",
+    "northeasterndinka",
+    "bor",
+    ".ss",
+    "padang",
+    "malual",
+    "east",
+    "center",
+    "nyiel"
+  ],
+  "pdc": [
+    "deitsch",
+    "amish",
+    "mennonite",
+    "pennsylvaniagerman",
+    "pennsylvania",
+    "dutch"
+  ],
+  "kyu": [
+    "karen",
+    "western",
+    "myanmar",
+    "kayah",
+    "burma",
+    "westernkayah",
+    ".mm",
+    "karenni"
+  ],
+  "enm": [
+    ".gb",
+    "middle",
+    "england",
+    "middleenglish"
+  ],
+  "ewo": [
+    "ewondo",
+    ".cm",
+    "yaounde",
+    "cameroon"
+  ],
+  "hns": [
+    "trinidad",
+    "caribbean",
+    ".tt",
+    "hindustani",
+    ".gy",
+    "sarnami",
+    "trinidadian",
+    "suriname",
+    ".sr",
+    "caribbeanhindustani",
+    "guyana"
+  ],
+  "cly": [
+    "easternhighlandchatino",
+    ".mx",
+    "oaxaca",
+    "highland",
+    "mexico",
+    "chatino",
+    "eastern"
+  ],
+  "nct": [
+    "manipur",
+    "chothenaga",
+    "naga",
+    "chothe"
+  ],
+  "mtj": [
+    "moskona",
+    "west",
+    ".id",
+    "papua"
+  ],
+  "blt": [
+    "tai",
+    ".vn",
+    "black",
+    "taidam",
+    "vietnam",
+    "noir",
+    "dam"
+  ],
+  "gmh": [
+    "mittelhochdeutsch",
+    "middle",
+    "germany",
+    ".de",
+    "high",
+    "middlehighgerman"
+  ],
+  "kei": [
+    ".id",
+    "maluku",
+    "islands"
+  ],
+  "rel": [
+    "kenya",
+    "rendille",
+    "marsabit",
+    ".ke"
+  ],
+  "dtb": [
+    "labuk",
+    "malaysia",
+    "labuk-kinabatangankadazan",
+    "kadazan",
+    ".my",
+    "sabah",
+    "kinabatangan"
+  ],
+  "ury": [
+    "orya",
+    ".id",
+    "papua"
+  ],
+  "tzl": [
+    "talossan",
+    "talossa",
+    "constructed"
+  ],
+  "zsm": [
+    "bahasa",
+    "malay",
+    "malaysia",
+    "melayu",
+    ".my",
+    "standardmalay"
+  ],
+  "kxm": [
+    "thailand",
+    ".th",
+    "northern",
+    "buriram",
+    "surin",
+    "sisaket",
+    "northernkhmer",
+    "khmer"
+  ],
+  "ldn": [
+    "laadan",
+    "constructed"
+  ],
+  "nov": [
+    "novial",
+    "constructed"
+  ],
+  "due": [
+    "quezon",
+    "philippines",
+    "dumagat",
+    ".ph",
+    "aurora",
+    "umiraydumagetagta",
+    "umiray",
+    "dumaget",
+    "agta"
+  ],
+  "glk": [
+    ".ir",
+    "gilaki",
+    "iran",
+    "gilan"
+  ],
+  "kqo": [
+    "liberia",
+    "easternkrahn",
+    ".lr",
+    "krahn",
+    "eastern"
+  ],
+  "niq": [
+    "nandi",
+    "kenya",
+    "kalenjin",
+    ".ke"
+  ],
+  "mbf": [
+    "malay",
+    "malaysia",
+    "straits",
+    ".my",
+    "baba",
+    "peranakan",
+    "babamalay"
+  ],
+  "bhp": [
+    "bima",
+    ".id",
+    "sumbawa"
+  ],
+  "frp": [
+    "franco",
+    "provencal",
+    "arpitan",
+    "france",
+    ".fr"
+  ],
+  "twb": [
+    "tawbuid",
+    "western",
+    "philippines",
+    ".ph",
+    "westerntawbuid",
+    "mindoro"
+  ],
+  "khq": [
+    "koyrachiinisonghay",
+    "timbuktu",
+    "mali",
+    "chiini",
+    "songhay",
+    "koyra"
+  ],
+  "qul": [
+    "northbolivianquechua",
+    "bolivia",
+    "ayacucho",
+    ".bo",
+    "north",
+    "quechua"
+  ],
+  "kdr": [
+    "trakai",
+    "karaim",
+    "karaite",
+    ".lt",
+    "lithuania"
+  ],
+  "ade": [
+    "adele",
+    "ghana",
+    "volta",
+    ".gh"
+  ],
+  "inh": [
+    "ingushetia",
+    "ingush",
+    "russia",
+    ".ru"
+  ],
+  "cgc": [
+    "kagayanen",
+    "philippines",
+    ".ph",
+    "palawan"
+  ],
+  "min": [
+    "west",
+    "padang",
+    ".id",
+    "sumatra",
+    "minangkabau"
+  ],
+  "ivb": [
+    "philippines",
+    ".ph",
+    "ibatan",
+    "batanes"
+  ],
+  "zpj": [
+    "quiavicuzaszapotec",
+    "quiavicuzas",
+    "zapotec",
+    ".mx",
+    "oaxaca",
+    "mexico"
+  ],
+  "yas": [
+    ".cm",
+    "nugunu",
+    "central",
+    "cameroon"
+  ],
+  "kgr": [
+    "abun",
+    ".id",
+    "papua"
+  ],
+  "rmy": [
+    "vlax",
+    "bulgaria",
+    "serbia",
+    ".rs",
+    "hungary",
+    "vlaxromani",
+    ".ro",
+    "romani",
+    "roma",
+    "romania",
+    ".bg",
+    ".hu"
+  ],
+  "ars": [
+    "najdi",
+    "arabia",
+    ".sa",
+    "najdiarabic",
+    "saudi"
+  ],
+  "saj": [
+    ".id",
+    "north",
+    "sahu",
+    "maluku"
+  ],
+  "aeb": [
+    "tunisia",
+    "tunisianarabic",
+    ".tn",
+    "tunisian"
+  ],
+  "snd": [
+    "pakistan",
+    "sindhi",
+    "sindh",
+    ".pk"
+  ],
+  "tbl": [
+    "philippines",
+    ".ph",
+    "cotabato",
+    "south",
+    "tboli"
+  ],
+  "awi": [
+    "western",
+    ".pg",
+    "new",
+    "guinea",
+    "aekyom",
+    "papua"
+  ],
+  "kzn": [
+    ".pg",
+    "new",
+    "madang",
+    "guinea",
+    "kokola",
+    "papua"
+  ],
+  "rme": [
+    ".gb",
+    "angloromani",
+    "romani",
+    "roma"
+  ],
+  "iqw": [
+    "ikwo",
+    "ebonyi",
+    "state",
+    ".ng",
+    "nigeria"
+  ],
+  "nkf": [
+    "inpuinaga",
+    "inpui",
+    "manipur",
+    "naga"
+  ],
+  "lki": [
+    ".ir",
+    "laki",
+    "lorestan",
+    "iran"
+  ],
+  "tig": [
+    "tigre",
+    "tigrayit",
+    "eritrea",
+    ".er",
+    "sudan",
+    "sudanese",
+    "eritrean"
+  ],
+  "fud": [
+    "wallisian",
+    "fakafutuna",
+    "futuna",
+    "wallis",
+    "eastfutuna",
+    "futunan",
+    ".wf",
+    "alofi"
+  ],
+  "bno": [
+    "philippines",
+    "romblon",
+    "bantoanon",
+    "odiongan",
+    ".ph",
+    "sibale",
+    "filipino",
+    "calatrava",
+    "asi",
+    "simara",
+    "tablas",
+    "banton"
+  ],
+  "hlt": [
+    "matuchin",
+    "chin",
+    "myanmar",
+    "burma",
+    "matu",
+    "burmese",
+    ".mm",
+    "mizoram",
+    "nga",
+    "matupi"
+  ],
+  "lln": [
+    ".td",
+    "chadian",
+    "lele",
+    "chad",
+    "tandjile"
+  ],
+  "xsb": [
+    "philippines",
+    "zambales",
+    "sambali",
+    ".ph",
+    "filipino",
+    "pangasinan",
+    "palawan",
+    "sambal"
+  ],
+  "mgm": [
+    "maubere",
+    "bobonaro",
+    "timorese",
+    "manufahi",
+    "liquica",
+    "ermera",
+    "leste",
+    "cova",
+    "aileu",
+    "timor",
+    "manbae",
+    "ainaro",
+    "dili",
+    "lima",
+    ".tl",
+    "east",
+    "mambai",
+    "mambae"
+  ],
+  "abs": [
+    "bahasa",
+    "malay",
+    "ambonesemalay",
+    ".id",
+    "ambonese",
+    "ambon",
+    "maluku"
+  ],
+  "cri": [
+    "tomean",
+    "principe",
+    "saotomense",
+    "tome",
+    ".st",
+    "sao"
+  ],
+  "nuz": [
+    "tlamacazapa",
+    "nahuatl",
+    "tlamacazapanahuatl",
+    ".mx",
+    "mexico"
+  ],
+  "agw": [
+    "solomon",
+    ".sb",
+    "kahua",
+    "islands"
+  ],
+  "xmm": [
+    "malay",
+    ".id",
+    "manado",
+    "manadomalay"
+  ],
+  "tqo": [
+    "toaripi",
+    ".pg",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "gag": [
+    ".md",
+    "gagauz",
+    "moldova"
+  ],
+  "hif": [
+    "fijihindi",
+    ".fj",
+    "fiji",
+    "hindi"
+  ],
+  "icr": [
+    "islander",
+    "islandercreoleenglish",
+    "creole",
+    "colombia"
+  ],
+  "gom": [
+    "konkani",
+    "goan",
+    "goankonkani"
+  ],
+  "zyp": [
+    "myanmar",
+    ".mm",
+    "chin",
+    "zyphechin",
+    "zyphe"
+  ],
+  "ktz": [
+    "ju\u01c0\u02bchoan",
+    "namibia",
+    ".na"
+  ],
+  "hop": [
+    "hopi"
+  ],
+  "lij": [
+    "ligurian",
+    "italy",
+    ".it"
+  ],
+  "ktm": [
+    ".id",
+    "kurti"
+  ],
+  "nre": [
+    "southernrengmanaga",
+    "rengma",
+    "southern",
+    "naga"
+  ],
+  "plw": [
+    "palawano",
+    "philippines",
+    "point",
+    ".ph",
+    "brookespointpalawano",
+    "brookes"
+  ],
+  "mrg": [
+    "mising"
+  ],
+  "lad": [
+    "ladino",
+    "spain",
+    ".es"
+  ],
+  "atd": [
+    "philippines",
+    "ata",
+    ".ph",
+    "manobo",
+    "atamanobo"
+  ],
+  "tdx": [
+    "madagascar",
+    "tandroy-mahafalymalagasy",
+    ".mg",
+    "tandroy",
+    "mahafaly",
+    "malagasy"
+  ],
+  "ivv": [
+    ".ph",
+    "philippines",
+    "ivatan"
+  ],
+  "aim": [
+    "aimol"
+  ],
+  "arq": [
+    "algeria",
+    ".dz",
+    "algerian",
+    "algerianarabic"
+  ],
+  "knc": [
+    "kanuri",
+    "centralkanuri",
+    ".ng",
+    "nigeria",
+    "central"
+  ],
+  "asm": [
+    "assamese"
+  ],
+  "byv": [
+    ".cm",
+    "cameroon",
+    "medumba"
+  ],
+  "hrv": [
+    ".hr",
+    "croatian",
+    "croatia"
+  ],
+  "trv": [
+    "taiwan",
+    "sediq",
+    ".tw"
+  ],
+  "ker": [
+    ".td",
+    "kera",
+    "chad"
+  ],
+  "fuv": [
+    "fulfulde",
+    "nigerianfulfulde",
+    ".ng",
+    "nigeria",
+    "nigerian"
+  ],
+  "kby": [
+    "kanuri",
+    ".ng",
+    "mangakanuri",
+    "nigeria",
+    "manga"
+  ],
+  "arb": [
+    "standardarabic",
+    "arabia",
+    ".sa",
+    "saudi"
+  ],
+  "vec": [
+    "venetian",
+    "italy",
+    ".it"
+  ],
+  "uzs": [
+    "afghanistan",
+    ".af",
+    "southern",
+    "uzbek",
+    "southernuzbek"
+  ],
+  "kea": [
+    "cape",
+    "kabuverdianu",
+    "verde",
+    ".cv"
+  ],
+  "ddn": [
+    "dendi",
+    "benin",
+    ".bj"
+  ],
+  "sps": [
+    ".pg",
+    "new",
+    "saposa",
+    "guinea",
+    "papua"
+  ],
+  "sby": [
+    ".zm",
+    "zambia",
+    "soli"
+  ],
+  "mpt": [
+    ".pg",
+    "mian",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "myb": [
+    "mbay",
+    "central",
+    "african",
+    "republic"
+  ],
+  "nio": [
+    ".ru",
+    "nganasan",
+    "russia"
+  ],
+  "diu": [
+    "diriku",
+    "namibia",
+    ".na"
+  ],
+  "mpg": [
+    ".td",
+    "marba",
+    "chad"
+  ],
+  "wbm": [
+    "myanmar",
+    ".mm"
+  ],
+  "pfl": [
+    "pfaelzisch",
+    "germany",
+    ".de"
+  ],
+  "vmk": [
+    "shirima",
+    ".mz",
+    "mozambique",
+    "makhuwa-shirima",
+    "makhuwa"
+  ],
+  "nin": [
+    ".ng",
+    "ninzo",
+    "nigeria"
+  ],
+  "nsu": [
+    "sierra",
+    "nahuatl",
+    "sierranegranahuatl",
+    "negra",
+    ".mx",
+    "mexico"
+  ],
+  "taq": [
+    "tamasheq",
+    "mali"
+  ],
+  "tcs": [
+    "torres",
+    "australia",
+    "torresstraitcreole",
+    ".au",
+    "creole",
+    "strait"
+  ],
+  "lld": [
+    "ladin",
+    "italy",
+    ".it"
+  ],
+  "dje": [
+    ".ne",
+    "niger",
+    "zarma"
+  ],
+  "srr": [
+    "senegal",
+    ".sn",
+    "serer"
+  ],
+  "aha": [
+    "ahanta",
+    "ghana",
+    ".gh"
+  ],
+  "ria": [
+    "riang"
+  ],
+  "bvc": [
+    "solomon",
+    ".sb",
+    "baelelea",
+    "islands"
+  ],
+  "bam": [
+    "mali",
+    "bambara"
+  ],
+  "lfn": [
+    "lingua",
+    "nova",
+    "linguafrancanova",
+    "franca"
+  ],
+  "dis": [
+    "dimasa"
+  ],
+  "adh": [
+    ".ug",
+    "uganda",
+    "adhola"
+  ],
+  "moh": [
+    "mohawk",
+    ".ca",
+    "canada"
+  ],
+  "mag": [
+    "magahi"
+  ],
+  "lzh": [
+    "china",
+    "literary",
+    "literarychinese",
+    ".cn"
+  ],
+  "yva": [
+    "yawa",
+    ".id"
+  ],
+  "ctd": [
+    "myanmar",
+    "tedim",
+    ".mm",
+    "chin",
+    "tedimchin"
+  ],
+  "vut": [
+    ".cm",
+    "cameroon",
+    "vute"
+  ],
+  "maf": [
+    ".cm",
+    "cameroon",
+    "mafa"
+  ],
+  "tlb": [
+    "tobelo",
+    ".id"
+  ],
+  "sdo": [
+    "malaysia",
+    "bukar-sadungbidayuh",
+    ".my",
+    "sadung",
+    "bukar",
+    "bidayuh"
+  ],
+  "qus": [
+    "quichua",
+    ".ar",
+    "argentina",
+    "del",
+    "estero",
+    "santiago",
+    "santiagodelesteroquichua"
+  ],
+  "bew": [
+    "betawi",
+    ".id"
+  ],
+  "ybb": [
+    "cameroon",
+    "yemba",
+    ".cm"
+  ],
+  "pam": [
+    "pampanga",
+    ".ph",
+    "philippines"
+  ],
+  "tmc": [
+    ".td",
+    "tumak",
+    "chad"
+  ],
+  "shu": [
+    ".td",
+    "chadianarabic",
+    "chadian",
+    "chad"
+  ],
+  "hvn": [
+    ".id",
+    "sabu"
+  ],
+  "pui": [
+    "colombia",
+    "puinave"
+  ],
+  "mrq": [
+    "polynesia",
+    "marquesan",
+    ".pf",
+    "northmarquesan",
+    "north"
+  ],
+  "kjb": [
+    ".gt",
+    "guatemala",
+    "qanjobal",
+    "qanjobal"
+  ],
+  "bbj": [
+    "ghomala",
+    ".cm",
+    "cameroon",
+    "ghomala"
+  ],
+  "lwg": [
+    "wanga",
+    "kenya",
+    ".ke"
+  ],
+  "kub": [
+    "kutep",
+    ".ng",
+    "nigeria"
+  ],
+  "lmk": [
+    "lamkang"
+  ],
+  "nrf": [
+    "jersey",
+    "jerriais",
+    ".je"
+  ],
+  "zpq": [
+    "zoogocho",
+    "zapotec",
+    "zoogochozapotec",
+    ".mx",
+    "mexico"
+  ],
+  "eka": [
+    "ekajuk",
+    ".ng",
+    "nigeria"
+  ],
+  "ayo": [
+    ".bo",
+    "ayoreo",
+    "bolivia"
+  ],
+  "lap": [
+    ".td",
+    "laka",
+    "chad"
+  ],
+  "orv": [
+    "oldrussian",
+    "russia",
+    ".ru",
+    "old"
+  ],
+  "twx": [
+    ".id",
+    "tewe"
+  ],
+  "bmv": [
+    ".cm",
+    "cameroon",
+    "bum"
+  ],
+  "atq": [
+    "aralle-tabulahan",
+    ".id",
+    "aralle",
+    "tabulahan"
+  ],
+  "rmq": [
+    "calo",
+    "spain",
+    ".es"
+  ],
+  "non": [
+    ".no",
+    "norway",
+    "oldnorse",
+    "norse",
+    "old"
+  ],
+  "raw": [
+    "rawang",
+    "myanmar",
+    ".mm"
+  ],
+  "whg": [
+    ".pg",
+    "new",
+    "north",
+    "wahgi",
+    "guinea",
+    "northwahgi",
+    "papua"
+  ],
+  "tuv": [
+    "kenya",
+    ".ke",
+    "turkana"
+  ],
+  "loe": [
+    "saluan",
+    ".id"
+  ],
+  "pwn": [
+    "taiwan",
+    "paiwan",
+    ".tw"
+  ],
+  "gbr": [
+    ".ng",
+    "gbagyi",
+    "nigeria"
+  ],
+  "blk": [
+    "karen",
+    "paokaren",
+    "myanmar",
+    ".mm",
+    "pao"
+  ],
+  "mua": [
+    ".cm",
+    "cameroon",
+    "mundang"
+  ],
+  "swk": [
+    "malawisena",
+    "sena",
+    ".mw",
+    "malawi"
+  ],
+  "pis": [
+    "solomon",
+    ".sb",
+    "islands",
+    "pijin"
+  ],
+  "zom": [
+    "myanmar",
+    ".mm",
+    "zou"
+  ],
+  "gsw": [
+    "swiss",
+    "swissgerman",
+    "switzerland",
+    ".ch"
+  ],
+  "hwc": [
+    "hawaii",
+    "hawaiicreoleenglish",
+    "creole"
+  ],
+  "kny": [
+    "kanyok",
+    "congo",
+    "democratic",
+    "republic",
+    ".cd"
+  ],
+  "wuu": [
+    "wuchinese",
+    "china",
+    ".cn"
+  ],
+  "scn": [
+    "sicilian",
+    "italy",
+    ".it"
+  ],
+  "fro": [
+    "oldfrench",
+    "france",
+    "old",
+    ".fr"
+  ],
+  "fuh": [
+    "fulfulde",
+    "western",
+    "westernnigerfulfulde",
+    ".ne",
+    "niger"
+  ],
+  "llb": [
+    "lolo",
+    "china",
+    ".cn"
+  ],
+  "guj": [
+    "gujarati"
+  ],
+  "ang": [
+    ".gb",
+    "oldenglish",
+    "old"
+  ],
+  "ajz": [
+    "karbi",
+    "amrikarbi",
+    "amri"
+  ],
+  "bkl": [
+    ".id",
+    "berik"
+  ],
+  "omb": [
+    "ambae",
+    "vanuatu",
+    ".vu",
+    "eastambae",
+    "east"
+  ],
+  "pmx": [
+    "poumei",
+    "naga",
+    "poumeinaga"
+  ],
+  "nmw": [
+    ".pg",
+    "new",
+    "nimoa",
+    "guinea",
+    "papua"
+  ],
+  "phm": [
+    ".mw",
+    "malawi",
+    "phimbi"
+  ],
+  "ota": [
+    "ottoman",
+    ".tr",
+    "turkish",
+    "turkey"
+  ],
+  "wol": [
+    "senegal",
+    ".sn",
+    "wolof"
+  ],
+  "nbc": [
+    "changnaga",
+    "chang",
+    "naga"
+  ],
+  "bsc": [
+    "senegal",
+    ".sn",
+    "bassari"
+  ],
+  "gul": [
+    "sea",
+    "seaislandcreoleenglish",
+    "island",
+    "creole"
+  ],
+  "hac": [
+    "gurani",
+    "iran",
+    ".ir"
+  ],
+  "fuq": [
+    "fulfulde",
+    ".ne",
+    "central",
+    "niger",
+    "central-easternnigerfulfulde",
+    "eastern"
+  ],
+  "pmf": [
+    ".id",
+    "pamona"
+  ],
+  "drg": [
+    "rungus",
+    "malaysia",
+    ".my"
+  ],
+  "mev": [
+    "liberia",
+    ".lr",
+    "mano"
+  ],
+  "mus": [
+    "creek"
+  ],
+  "sgh": [
+    "afghanistan",
+    ".af",
+    "shughni"
+  ],
+  "mcp": [
+    ".cm",
+    "makaa",
+    "cameroon"
+  ],
+  "awa": [
+    "awadhi"
+  ],
+  "dty": [
+    ".np",
+    "dotyali",
+    "nepal"
+  ],
+  "gna": [
+    "burkina",
+    ".bf",
+    "faso",
+    "kaansa"
+  ],
+  "ood": [
+    "tohono",
+    "oodham",
+    "tohonooodham"
+  ],
+  "xav": [
+    ".br",
+    "xavante",
+    "brazil"
+  ],
+  "naq": [
+    "khoekhoe",
+    "namibia",
+    ".na"
+  ],
+  "vot": [
+    ".ru",
+    "votic",
+    "russia"
+  ],
+  "dhv": [
+    "dehu",
+    ".nc",
+    "new",
+    "caledonia"
+  ],
+  "mns": [
+    ".ru",
+    "mansi",
+    "russia"
+  ],
+  "ngc": [
+    "congo",
+    "democratic",
+    "ngombe",
+    "republic",
+    ".cd",
+    "ngombe",
+    "democraticrepublicofcongo"
+  ],
+  "szb": [
+    ".id",
+    "ngalum"
+  ],
+  "iri": [
+    "rigwe",
+    ".ng",
+    "nigeria"
+  ],
+  "brh": [
+    "brahui",
+    "pakistan",
+    ".pk"
+  ],
+  "ccp": [
+    "chakma",
+    "bangladesh",
+    ".bd"
+  ],
+  "sgc": [
+    "kipsigis",
+    "kenya",
+    ".ke"
+  ],
+  "qve": [
+    "easternapurimacquechua",
+    "peru",
+    "apurimac",
+    "quechua",
+    ".pe",
+    "eastern"
+  ],
+  "zea": [
+    "zeeuws",
+    ".nl",
+    "netherlands"
+  ],
+  "goa": [
+    "guro",
+    "cote",
+    ".ci",
+    "ivoire"
+  ],
+  "kmy": [
+    "koma",
+    "ghana",
+    ".gh"
+  ],
+  "ayr": [
+    "aymara",
+    "bolivia",
+    "centralaymara",
+    "central",
+    ".bo"
+  ],
+  "bkv": [
+    ".ng",
+    "nigeria",
+    "bekwarra"
+  ],
+  "bqj": [
+    "senegal",
+    ".sn",
+    "bandial"
+  ],
+  "srp": [
+    "serbian",
+    "serbia",
+    ".rs"
+  ],
+  "rup": [
+    "macedo-romanian",
+    "romanian",
+    ".gr",
+    ".ro",
+    "macedo"
+  ],
+  "sbs": [
+    "namibia",
+    ".na",
+    "subiya"
+  ],
+  "mkz": [
+    ".tl",
+    "leste",
+    "makasae",
+    "timor"
+  ],
+  "soe": [
+    "angola",
+    ".ao",
+    "songomeno"
+  ],
+  "quz": [
+    "cuscoquechua",
+    "cusco",
+    "peru",
+    "quechua",
+    ".pe"
+  ],
+  "bom": [
+    ".ng",
+    "nigeria",
+    "berom"
+  ],
+  "mgo": [
+    ".cm",
+    "meta",
+    "meta",
+    "cameroon"
+  ],
+  "haw": [
+    "hawaiian"
+  ],
+  "cnw": [
+    "ngawnchin",
+    "myanmar",
+    ".mm",
+    "chin",
+    "ngawn"
+  ],
+  "pcd": [
+    "france",
+    "picard",
+    ".fr"
+  ],
+  "bdq": [
+    "vietnam",
+    "bahnar",
+    ".vn"
+  ],
+  "nyf": [
+    "kenya",
+    ".ke",
+    "giryama"
+  ],
+  "oto": [
+    "otomian"
+  ],
+  "knx": [
+    "kendayan",
+    ".id"
+  ],
+  "nzm": [
+    "zemenaga",
+    "naga",
+    "zeme"
+  ],
+  "sck": [
+    "sadri"
+  ],
+  "rcf": [
+    ".re",
+    "reunioncreolefrench",
+    "creole",
+    "reunion"
+  ],
+  "pnt": [
+    "greece",
+    "pontic",
+    ".gr"
+  ],
+  "ary": [
+    "morocco",
+    ".ma",
+    "moroccan",
+    "moroccanarabic"
+  ],
+  "csw": [
+    ".ca",
+    "swampy",
+    "swampycree",
+    "cree",
+    "canada"
+  ],
+  "swg": [
+    "swabian",
+    "germany",
+    ".de"
+  ],
+  "kog": [
+    "colombia",
+    "cogui"
+  ],
+  "ktu": [
+    "congo",
+    "democratic",
+    "kituba",
+    "republic",
+    "democraticrepublicofcongo",
+    ".cd"
+  ],
+  "rej": [
+    "rejang",
+    ".id"
+  ],
+  "czt": [
+    "zotungchin",
+    "myanmar",
+    ".mm",
+    "chin",
+    "zotung"
+  ],
+  "bar": [
+    "bavarian",
+    "germany",
+    ".de"
+  ],
+  "fit": [
+    ".fi",
+    "tornedalenfinnish",
+    "finnish",
+    "finland",
+    "tornedalen"
+  ],
+  "otw": [
+    ".ca",
+    "ottawa",
+    "canada"
+  ],
+  "wls": [
+    "wallisian",
+    "futuna",
+    "wallis",
+    ".wf"
+  ],
+  "rue": [
+    "ukraine",
+    ".ua",
+    "rusyn"
+  ],
+  "fad": [
+    ".pg",
+    "wagi",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "ndh": [
+    "ndali",
+    "tanzania",
+    ".tz"
+  ],
+  "alj": [
+    "alangan",
+    ".ph",
+    "philippines"
+  ],
+  "pan": [
+    "panjabi",
+    "punjabi"
+  ],
+  "eto": [
+    ".cm",
+    "eton",
+    "cameroon"
+  ],
+  "moa": [
+    "mwan",
+    "congo",
+    "democratic",
+    "republic",
+    ".cd"
+  ],
+  "bth": [
+    "malaysia",
+    "biatahbidayuh",
+    ".my",
+    "biatah",
+    "bidayuh"
+  ],
+  "lud": [
+    ".ru",
+    "ludian",
+    "russia"
+  ],
+  "msb": [
+    "masbatenyo",
+    ".ph",
+    "philippines"
+  ],
+  "wmw": [
+    "mwani",
+    "mozambique",
+    ".mz"
+  ],
+  "smt": [
+    "simte"
+  ],
+  "nhg": [
+    "nahuatl",
+    "tetelcingonahuatl",
+    ".mx",
+    "tetelcingo",
+    "mexico"
+  ],
+  "lew": [
+    "kaili",
+    "ledo",
+    ".id",
+    "ledokaili"
+  ],
+  "ina": [
+    "international",
+    ".int",
+    "interlingua",
+    "auxiliary",
+    "interlingua",
+    "internationalauxiliarylanguageassociation"
+  ],
+  "esi": [
+    "inupiatun",
+    "northalaskaninupiatun",
+    "north",
+    "alaskan"
+  ],
+  "eml": [
+    "emilian-romagnol",
+    ".it",
+    "romagnol",
+    "italy",
+    "emilian"
+  ],
+  "nhe": [
+    "nahuatl",
+    "easternhuastecanahuatl",
+    ".mx",
+    "huasteca",
+    "mexico",
+    "eastern"
+  ],
+  "btd": [
+    "batakdairi",
+    "dairi",
+    ".id",
+    "batak"
+  ],
+  "acf": [
+    "saint",
+    ".lc",
+    "saintluciancreolefrench",
+    "creole",
+    "lucia"
+  ],
+  "lhi": [
+    "china",
+    "lahu",
+    "lahushi",
+    "shi",
+    ".cn"
+  ],
+  "nvm": [
+    ".pg",
+    "new",
+    "namiae",
+    "guinea",
+    "papua"
+  ],
+  "mfy": [
+    "mayo",
+    "mexico",
+    ".mx"
+  ],
+  "doi": [
+    "dogri"
+  ],
+  "bvd": [
+    "solomon",
+    ".sb",
+    "baeggu",
+    "islands"
+  ],
+  "nmz": [
+    "nawdm",
+    "togo",
+    ".tg"
+  ],
+  "idu": [
+    ".ng",
+    "idoma",
+    "nigeria"
+  ],
+  "atj": [
+    ".ca",
+    "atikamekw",
+    "canada"
+  ],
+  "ksb": [
+    "shambala",
+    "tanzania",
+    ".tz"
+  ],
+  "rjs": [
+    "rajbanshi",
+    "nepal",
+    ".np"
+  ],
+  "pdt": [
+    ".ca",
+    "plautdietsch",
+    "canada"
+  ],
+  "vls": [
+    "belgium",
+    "vlaams",
+    ".be"
+  ],
+  "run": [
+    "burundi",
+    "rundi",
+    ".bi"
+  ],
+  "new": [
+    ".np",
+    "newari",
+    "nepal"
+  ],
+  "hin": [
+    "hindi"
+  ],
+  "lin": [
+    "congo",
+    "democratic",
+    "lingala",
+    "republic",
+    ".cd"
+  ],
+  "krj": [
+    "kinaray-a",
+    "philippines",
+    ".ph",
+    "kinaray"
+  ],
+  "kmd": [
+    "philippines",
+    "majukayang",
+    ".ph",
+    "majukayangkalinga",
+    "kalinga"
+  ],
+  "etu": [
+    ".cm",
+    "ejagham",
+    "cameroon"
+  ],
+  "daa": [
+    ".td",
+    "dangaleat",
+    "chad"
+  ],
+  "mhy": [
+    "maanyan",
+    "maanyan",
+    ".id"
+  ],
+  "bfo": [
+    "burkina",
+    "malba",
+    "birifor",
+    ".bf",
+    "faso",
+    "malbabirifor"
+  ],
+  "crt": [
+    "chorote",
+    ".ar",
+    "argentina",
+    "iyojwajachorote",
+    "iyojwaja"
+  ],
+  "bmq": [
+    "mali",
+    "bomu"
+  ],
+  "rim": [
+    "tanzania",
+    "nyaturu",
+    ".tz"
+  ],
+  "zdj": [
+    "comoros",
+    ".km",
+    "ngazidjacomorian",
+    "comorian",
+    "ngazidja"
+  ],
+  "xmv": [
+    "madagascar",
+    "antankaranamalagasy",
+    ".mg",
+    "malagasy",
+    "antankarana"
+  ],
+  "pww": [
+    "karen",
+    "thailand",
+    ".th",
+    "northern",
+    "pwo",
+    "pwonorthernkaren"
+  ],
+  "ksp": [
+    ".td",
+    "kaba",
+    "chad"
+  ],
+  "maw": [
+    "ghana",
+    "mampruli",
+    ".gh"
+  ],
+  "lwo": [
+    ".ss",
+    "luwo",
+    "south",
+    "sudan"
+  ],
+  "tly": [
+    ".az",
+    "talysh",
+    "azerbaijan"
+  ],
+  "ttj": [
+    ".ug",
+    "uganda",
+    "tooro"
+  ],
+  "mwl": [
+    "portugal",
+    ".pt",
+    "mirandese"
+  ],
+  "ffm": [
+    "fulfulde",
+    "maasina",
+    "mali",
+    "maasinafulfulde"
+  ],
+  "arz": [
+    "egyptian",
+    ".eg",
+    "egypt",
+    "egyptianarabic"
+  ],
+  "bjp": [
+    "fanamaket",
+    ".id"
+  ],
+  "zpg": [
+    "zapotec",
+    ".mx",
+    "guevea",
+    "humboldt",
+    "gueveadehumboldtzapotec",
+    "mexico"
+  ],
+  "cjk": [
+    "angola",
+    ".ao",
+    "chokwe"
+  ],
+  "klt": [
+    ".pg",
+    "new",
+    "nukna",
+    "guinea",
+    "papua"
+  ],
+  "zpm": [
+    "mixtepec",
+    "zapotec",
+    "mixtepeczapotec",
+    ".mx",
+    "mexico"
+  ],
+  "txu": [
+    ".br",
+    "kayapo",
+    "brazil"
+  ],
+  "kia": [
+    "kim",
+    ".td",
+    "chad"
+  ],
+  "amf": [
+    ".et",
+    "hamer",
+    "hamer-banna",
+    "ethiopia",
+    "banna"
+  ],
+  "mog": [
+    ".id",
+    "mongondow"
+  ],
+  "cek": [
+    "myanmar",
+    "easternkhumichin",
+    ".mm",
+    "chin",
+    "khumi",
+    "eastern"
+  ],
+  "mtg": [
+    "una",
+    ".pg",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "neb": [
+    "cote",
+    ".ci",
+    "toura",
+    "ivoire",
+    "cotedivoire"
+  ],
+  "zca": [
+    "coatecasaltaszapotec",
+    "zapotec",
+    ".mx",
+    "altas",
+    "coatecas",
+    "mexico"
+  ],
+  "ddg": [
+    "fataluku",
+    ".tl",
+    "leste",
+    "timor"
+  ],
+  "kpe": [
+    "liberia",
+    "kpelle",
+    ".lr"
+  ],
+  "rml": [
+    "balticromani",
+    ".gr",
+    ".ro",
+    "romani",
+    "baltic",
+    ".bg"
+  ],
+  "qvo": [
+    "lowland",
+    "napolowlandquechua",
+    "napo",
+    "ecuador",
+    "quechua",
+    ".ec"
+  ],
+  "bzj": [
+    "kriol",
+    "belize",
+    ".bz",
+    "belizekriolenglish"
+  ],
+  "quy": [
+    "peru",
+    "ayacuchoquechua",
+    "ayacucho",
+    "quechua",
+    ".pe"
+  ],
+  "ksc": [
+    "philippines",
+    ".ph",
+    "southern",
+    "southernkalinga",
+    "kalinga"
+  ],
+  "swb": [
+    ".yt",
+    "comoros",
+    "maorecomorian",
+    "maore",
+    "comorian",
+    "mayotte"
+  ],
+  "nlg": [
+    "solomon",
+    ".sb",
+    "gela",
+    "islands"
+  ],
+  "pao": [
+    "northernpaiute",
+    "paiute",
+    "northern"
+  ],
+  "sbd": [
+    "samo",
+    ".pg",
+    "new",
+    "southernsamo",
+    "southern",
+    "guinea",
+    "papua"
+  ],
+  "csb": [
+    "kashubian",
+    "poland",
+    ".pl"
+  ],
+  "kms": [
+    ".pg",
+    "new",
+    "guinea",
+    "papua",
+    "kamasau"
+  ],
+  "ksh": [
+    "kolsch",
+    "germany",
+    ".de"
+  ],
+  "mak": [
+    ".id",
+    "makasar"
+  ],
+  "cho": [
+    "choctaw"
+  ],
+  "gnb": [
+    "gangte"
+  ],
+  "hnn": [
+    ".ph",
+    "hanunoo",
+    "philippines"
+  ],
+  "rar": [
+    "rarotongan",
+    "cook",
+    ".ck",
+    "islands"
+  ],
+  "dln": [
+    "darlong"
+  ],
+  "szl": [
+    "silesian",
+    "poland",
+    ".pl"
+  ],
+  "oke": [
+    "southwestern",
+    "okpe",
+    ".ng",
+    "edo",
+    "nigeria"
+  ],
+  "rmn": [
+    "balkanromani",
+    ".gr",
+    ".ro",
+    ".mk",
+    "balkan",
+    "romani",
+    ".bg"
+  ],
+  "msc": [
+    "maninka",
+    "sankaranmaninka",
+    ".gn",
+    "guinea",
+    "sankaran"
+  ],
+  "fuf": [
+    ".gm",
+    "pular",
+    ".gn",
+    ".sn"
+  ],
+  "lob": [
+    "burkina",
+    ".bf",
+    "faso",
+    "lobi"
+  ],
+  "mqy": [
+    ".id",
+    "manggarai"
+  ],
+  "tui": [
+    ".cm",
+    "cameroon",
+    "tupuri"
+  ],
+  "ami": [
+    "taiwan",
+    "amis",
+    ".tw"
+  ],
+  "hbo": [
+    "ancient",
+    "hebrew",
+    "ancienthebrew",
+    ".il",
+    "israel"
+  ],
+  "btt": [
+    ".cm",
+    "bete-bendi",
+    "bendi",
+    "bete",
+    "cameroon"
+  ],
+  "kca": [
+    ".ru",
+    "khanty",
+    "russia"
+  ],
+  "dua": [
+    ".cm",
+    "duala",
+    "cameroon"
+  ],
+  "ifu": [
+    "philippines",
+    ".ph",
+    "mayoyao",
+    "ifugao",
+    "mayoyaoifugao"
+  ],
+  "urd": [
+    "pakistan",
+    "urdu",
+    ".pk"
+  ],
+  "bbk": [
+    ".cm",
+    "cameroon",
+    "babanki"
+  ],
+  "npi": [
+    "nepali",
+    ".np",
+    "nepal"
+  ],
+  "lmo": [
+    "italy",
+    "lombard",
+    ".it"
+  ],
+  "nri": [
+    "chokri",
+    "chokrinaga",
+    "naga"
+  ],
+  "dzo": [
+    "dzongkha",
+    ".bt",
+    "bhutan"
+  ],
+  "amk": [
+    "ambai",
+    ".id"
+  ],
+  "gdg": [
+    "philippines",
+    ".ph",
+    "gadang",
+    "gadang"
+  ],
+  "old": [
+    "philippines",
+    ".ph",
+    "mochi"
+  ],
+  "kmm": [
+    "kom"
+  ],
+  "atb": [
+    "myanmar",
+    "zaiwa",
+    ".mm"
+  ],
+  "apc": [
+    ".lb",
+    "levantine",
+    "levantinearabic",
+    ".ps",
+    ".sy"
+  ],
+  "ish": [
+    "esan",
+    ".ng",
+    "nigeria"
+  ],
+  "ibg": [
+    ".ph",
+    "philippines",
+    "ibanag"
+  ],
+  "ncx": [
+    "nahuatl",
+    "centralpueblanahuatl",
+    ".mx",
+    "central",
+    "puebla",
+    "mexico"
+  ],
+  "mzn": [
+    ".ir",
+    "iran",
+    "mazanderani"
+  ],
+  "pse": [
+    "malay",
+    "malaysia",
+    ".my",
+    "centralmalay",
+    "central"
+  ],
+  "loq": [
+    "congo",
+    "democratic",
+    "lobala",
+    "republic",
+    ".cd"
+  ],
+  "eri": [
+    ".pg",
+    "ogea",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "alz": [
+    "congo",
+    "democratic",
+    "republic",
+    ".cd",
+    "alur"
+  ],
+  "obo": [
+    "philippines",
+    "obomanobo",
+    ".ph",
+    "manobo"
+  ],
+  "zam": [
+    "miahuatlanzapotec",
+    "zapotec",
+    ".mx",
+    "miahuatlan",
+    "mexico"
+  ],
+  "diq": [
+    "dimli",
+    ".tr",
+    "turkey"
+  ],
+  "huv": [
+    "del",
+    "mar",
+    "sanmateodelmarhuave",
+    "san",
+    "huave",
+    ".mx",
+    "mexico",
+    "mateo"
+  ],
+  "mhi": [
+    ".ss",
+    "madi",
+    "madi",
+    "south",
+    "sudan"
+  ],
+  "hae": [
+    ".et",
+    "easternoromo",
+    ".ke",
+    "oromo",
+    "eastern"
+  ],
+  "zab": [
+    "western",
+    "tlacolula",
+    "valley",
+    "westerntlacolulavalleyzapotec",
+    "zapotec",
+    ".mx",
+    "mexico"
+  ],
+  "mmo": [
+    ".pg",
+    "new",
+    "buang",
+    "manggabuang",
+    "guinea",
+    "papua",
+    "mangga"
+  ],
+  "njz": [
+    "nyishi"
+  ],
+  "wlx": [
+    "ghana",
+    "wali",
+    ".gh"
+  ],
+  "fue": [
+    "fulfulde",
+    "borgu",
+    "benin",
+    "borgufulfulde",
+    ".bj"
+  ],
+  "rop": [
+    "kriol",
+    "belize",
+    ".bz"
+  ],
+  "esk": [
+    "alaska",
+    "northwest",
+    "inupiatun",
+    "northwestalaskainupiatun"
+  ],
+  "fan": [
+    "fang",
+    "guinea",
+    "equatorial"
+  ],
+  "biu": [
+    ".cm",
+    "biete",
+    "cameroon"
+  ],
+  "sua": [
+    ".pg",
+    "new",
+    "sulka",
+    "guinea",
+    "papua"
+  ],
+  "clu": [
+    ".ph",
+    "caluyanun",
+    "philippines"
+  ],
+  "kqe": [
+    ".ph",
+    "kalagan",
+    "philippines"
+  ],
+  "ben": [
+    "bengali",
+    "bangladesh",
+    ".bd"
+  ],
+  "jaa": [
+    ".br",
+    "brazil",
+    "jamamadi"
+  ],
+  "mcn": [
+    "masana",
+    ".id"
+  ],
+  "rmo": [
+    "sinte",
+    "germany",
+    "sinteromani",
+    ".de",
+    "romani"
+  ],
+  "yss": [
+    ".pg",
+    "new",
+    "mayo",
+    "yessan-mayo",
+    "guinea",
+    "yessan",
+    "papua"
+  ],
+  "tsc": [
+    "mozambique",
+    ".mz",
+    "tswa"
+  ],
+  "kup": [
+    ".pg",
+    "new",
+    "guinea",
+    "kunimaipa",
+    "papua"
+  ],
+  "mfe": [
+    ".mu",
+    "morisyen",
+    "mauritius"
+  ],
+  "suk": [
+    "sukuma",
+    "tanzania",
+    ".tz"
+  ],
+  "kzf": [
+    "daakaili",
+    "daa",
+    "kaili",
+    ".id"
+  ],
+  "kos": [
+    ".fm",
+    "kosraean",
+    "micronesia"
+  ],
+  "kri": [
+    "sierra",
+    "krio",
+    "leone",
+    ".sl"
+  ],
+  "pri": [
+    ".nc",
+    "new",
+    "caledonia",
+    "paici"
+  ],
+  "acn": [
+    "achang",
+    "myanmar",
+    ".mm"
+  ],
+  "asg": [
+    ".ng",
+    "nigeria",
+    "cishingini"
+  ],
+  "nhu": [
+    ".cm",
+    "noone",
+    "cameroon"
+  ],
+  "gos": [
+    "gronings",
+    ".nl",
+    "netherlands"
+  ],
+  "ldi": [
+    "laari",
+    ".cg",
+    "congo"
+  ],
+  "zpo": [
+    "zapotec",
+    ".mx",
+    "amatlan",
+    "amatlanzapotec",
+    "mexico"
+  ],
+  "ory": [
+    "odia"
+  ],
+  "njb": [
+    "nocte",
+    "noctenaga",
+    "naga"
+  ],
+  "lsi": [
+    "lashi",
+    "myanmar",
+    ".mm"
+  ],
+  "skr": [
+    "saraiki",
+    "pakistan",
+    ".pk"
+  ],
+  "pov": [
+    "crioulo",
+    "upper",
+    ".gw",
+    "bissau",
+    "guinea",
+    "upperguineacrioulo"
+  ],
+  "tpa": [
+    ".pg",
+    "new",
+    "taupota",
+    "guinea",
+    "papua"
+  ],
+  "mar": [
+    "marathi"
+  ],
+  "gcf": [
+    ".gp",
+    "guadeloupeancreolefrench",
+    "guadeloupe",
+    "creole"
+  ],
+  "zpa": [
+    "lachiguiri",
+    "zapotec",
+    ".mx",
+    "lachiguirizapotec",
+    "mexico"
+  ],
+  "ile": [
+    "interlingue",
+    ".int"
+  ],
+  "hrx": [
+    ".br",
+    "hunsrik",
+    "brazil"
+  ],
+  "azz": [
+    "nahuatl",
+    "highlandpueblanahuatl",
+    ".mx",
+    "puebla",
+    "highland",
+    "mexico"
+  ],
+  "ext": [
+    ".es",
+    "spain",
+    "extremaduran"
+  ],
+  "mie": [
+    "ocotepec",
+    "ocotepecmixtec",
+    ".mx",
+    "mexico",
+    "mixtec"
+  ],
+  "ttq": [
+    "tamajaq",
+    "tawallammat",
+    ".ne",
+    "tawallammattamajaq",
+    "niger"
+  ],
+  "myx": [
+    ".ug",
+    "uganda",
+    "masaaba"
+  ],
+  "mbj": [
+    ".br",
+    "nadeb",
+    "brazil"
+  ],
+  "rnl": [
+    "ranglong"
+  ],
+  "kan": [
+    "kannada"
+  ],
+  "ses": [
+    "senni",
+    "koyraboro",
+    "mali",
+    "koyraborosennisonghai",
+    "songhai"
+  ],
+  "ncl": [
+    "michoacannahuatl",
+    "nahuatl",
+    "michoacan",
+    ".mx",
+    "mexico"
+  ],
+  "cgg": [
+    ".ug",
+    "uganda",
+    "chiga"
+  ],
+  "tlj": [
+    ".ug",
+    "bwisi",
+    "uganda",
+    "talinga",
+    "talinga-bwisi"
+  ],
+  "bku": [
+    ".ph",
+    "philippines",
+    "buhid"
+  ],
+  "dks": [
+    ".ss",
+    "southeastern",
+    "dinka",
+    "south",
+    "southeasterndinka",
+    "sudan"
+  ],
+  "nbu": [
+    "rongmeinaga",
+    "rongmei",
+    "naga"
+  ],
+  "dgz": [
+    ".pg",
+    "daga",
+    "new",
+    "guinea",
+    "papua"
+  ],
+  "avk": [
+    "kotava"
+  ],
+  "bjn": [
+    "banjar",
+    ".id"
+  ],
+  "tay": [
+    "taiwan",
+    ".tw",
+    "atayal"
+  ],
+  "mfk": [
+    "mofu",
+    ".cm",
+    "northmofu",
+    "north",
+    "cameroon"
+  ],
+  "myv": [
+    ".ru",
+    "erzya",
+    "russia"
+  ],
+  "avn": [
+    "ghana",
+    "avatime",
+    ".gh"
+  ],
+  "koi": [
+    "komi",
+    "permyak",
+    "russia",
+    ".ru",
+    "komi-permyak"
+  ],
+  "kje": [
+    ".id",
+    "kisar"
+  ],
+  "pkb": [
+    "kenya",
+    "pokomo",
+    ".ke"
+  ],
+  "laj": [
+    ".ug",
+    "uganda",
+    "lango"
+  ],
+  "rap": [
+    "rapanui",
+    "chile",
+    ".cl"
+  ],
+  "njm": [
+    "angami",
+    "naga",
+    "angaminaga"
+  ],
+  "ncj": [
+    "northern",
+    "northernpueblanahuatl",
+    "nahuatl",
+    ".mx",
+    "puebla",
+    "mexico"
+  ],
+  "vap": [
+    "myanmar",
+    "vaiphei",
+    ".mm"
+  ],
+  "jmc": [
+    "tanzania",
+    "machame",
+    ".tz"
+  ],
+  "kmk": [
+    "philippines",
+    "limoskalinga",
+    ".ph",
+    "limos",
+    "kalinga"
+  ],
+  "pls": [
+    "popoloca",
+    "marcos",
+    "sanmarcostlacoyalcopopoloca",
+    "san",
+    "tlacoyalco",
+    ".mx",
+    "mexico"
+  ],
+  "mnk": [
+    ".gm",
+    "mandinka",
+    "gambia"
+  ],
+  "akb": [
+    "batakangkola",
+    "angkola",
+    ".id",
+    "batak"
+  ],
+  "hus": [
+    "guatemala",
+    "huastec",
+    ".gt"
+  ],
+  "gcr": [
+    "guiana",
+    "guianesecreolefrench",
+    ".gf",
+    "creole"
+  ],
+  "zne": [
+    ".ss",
+    "south",
+    "sudan",
+    "zande"
+  ],
+  "nst": [
+    "tase",
+    "tasenaga",
+    "naga"
+  ],
+  "kzj": [],
+  "tuk": [
+    ".tm",
+    "turkmen",
+    "turkmenistan"
+  ],
+  "anm": [
+    "anal"
+  ],
+  "ifa": [
+    "africa",
+    "west",
+    ".ng",
+    "traditional",
+    "religion",
+    "yoruba",
+    "amganadifugao",
+    "nigeria",
+    "igbo",
+    "divination",
+    "nigerian"
+  ],
+  "lrc": [
+    ".ir",
+    "luri",
+    "lori",
+    "northern",
+    "northernluri",
+    "iran",
+    "mazandaran",
+    "kurdistan"
+  ]
+}
