@@ -1,23 +1,23 @@
-dup_line_frac: 0.478
+dup_line_frac: 0.579
 dup_n_grams:
 - - 5
-  - 0.622
+  - 0.631
 - - 6
-  - 0.627
+  - 0.641
 - - 7
-  - 0.545
+  - 0.567
 - - 8
-  - 0.554
+  - 0.549
 - - 9
-  - 0.586
+  - 0.558
 - - 10
-  - 0.518
+  - 0.493
 language_score: 0.316
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.867
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - noga
 - rot
@@ -51,8 +51,8 @@ stopwords:
 - mona
 top_n_grams:
 - - 2
-  - 0.318
+  - 1.243
 - - 3
-  - 0.437
+  - 1.291
 - - 4
-  - 0.31
+  - 1.22

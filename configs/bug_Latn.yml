@@ -1,22 +1,22 @@
-dup_line_frac: 0.796
+dup_line_frac: 0.794
 dup_n_grams:
 - - 5
-  - 0.546
+  - 0.451
 - - 6
-  - 0.519
+  - 0.374
 - - 7
-  - 0.489
+  - 0.347
 - - 8
-  - 0.47
+  - 0.322
 - - 9
-  - 0.417
+  - 0.278
 - - 10
-  - 0.398
+  - 0.252
 language_score: 0.3
 line_punct_thr: 0.25
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.84
-min_avg_word_length: 4
+min_avg_word_length: 3
 new_line_ratio: 0.278
 stopwords:
 - ri
@@ -32,8 +32,8 @@ stopwords:
 - aisne
 top_n_grams:
 - - 2
-  - 0.433
+  - 0.764
 - - 3
-  - 0.626
+  - 0.779
 - - 4
-  - 0.74
+  - 0.722

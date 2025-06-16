@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.107
 dup_n_grams:
 - - 5
-  - 0.106
+  - 0.121
 - - 6
-  - 0.08
+  - 0.099
 - - 7
-  - 0.06
+  - 0.085
 - - 8
-  - 0.05
+  - 0.073
 - - 9
-  - 0.037
+  - 0.064
 - - 10
-  - 0.031
+  - 0.056
 language_score: 0.799
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.87
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - "k\u01A1"
 - "\u0180ing"
@@ -45,8 +45,8 @@ stopwords:
 - yang
 top_n_grams:
 - - 2
-  - 0.055
+  - 0.195
 - - 3
-  - 0.044
+  - 0.179
 - - 4
-  - 0.044
+  - 0.152

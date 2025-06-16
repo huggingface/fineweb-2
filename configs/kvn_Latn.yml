@@ -1,23 +1,23 @@
-dup_line_frac: 0.459
+dup_line_frac: 0.391
 dup_n_grams:
 - - 5
-  - 0.533
+  - 0.327
 - - 6
-  - 0.517
+  - 0.307
 - - 7
-  - 0.485
+  - 0.321
 - - 8
-  - 0.468
+  - 0.25
 - - 9
-  - 0.421
+  - 0.224
 - - 10
-  - 0.42
+  - 0.206
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.632
-min_avg_word_length: 5
-new_line_ratio: 0.059
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.615
+min_avg_word_length: 3
+new_line_ratio: 0.048
 stopwords:
 - tegin
 - tule
@@ -41,8 +41,8 @@ stopwords:
 - al
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.677
 - - 3
-  - 0.879
+  - 1.072
 - - 4
-  - 0.926
+  - 0.921

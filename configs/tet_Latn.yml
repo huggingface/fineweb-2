@@ -1,23 +1,23 @@
-dup_line_frac: 0.049
+dup_line_frac: 0.19
 dup_n_grams:
 - - 5
-  - 0.075
+  - 0.135
 - - 6
-  - 0.059
+  - 0.126
 - - 7
-  - 0.047
+  - 0.117
 - - 8
-  - 0.039
+  - 0.11
 - - 9
-  - 0.03
+  - 0.102
 - - 10
-  - 0.024
+  - 0.095
 language_score: 0.545
-line_punct_thr: 0.2
-max_avg_word_length: 11
+line_punct_thr: 0.039
+max_avg_word_length: 12
 max_non_alpha_words_ratio: 0.674
-min_avg_word_length: 3
-new_line_ratio: 0.375
+min_avg_word_length: 2
+new_line_ratio: 0.292
 stopwords:
 - iha
 - 'no'
@@ -34,8 +34,8 @@ stopwords:
 - ne'e
 top_n_grams:
 - - 2
-  - 0.077
+  - 0.294
 - - 3
-  - 0.092
+  - 0.263
 - - 4
-  - 0.096
+  - 0.227

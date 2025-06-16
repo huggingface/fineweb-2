@@ -1,23 +1,23 @@
-dup_line_frac: 0.478
+dup_line_frac: 0.43
 dup_n_grams:
 - - 5
-  - 0.406
+  - 0.292
 - - 6
-  - 0.352
+  - 0.257
 - - 7
-  - 0.312
+  - 0.227
 - - 8
-  - 0.299
+  - 0.208
 - - 9
-  - 0.281
+  - 0.191
 - - 10
-  - 0.258
+  - 0.173
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - ke
 - oro
@@ -36,8 +36,8 @@ stopwords:
 - ini
 top_n_grams:
 - - 2
-  - 0.506
+  - 0.923
 - - 3
-  - 0.704
+  - 0.862
 - - 4
-  - 1.0
+  - 0.809

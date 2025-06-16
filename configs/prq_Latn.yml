@@ -1,23 +1,23 @@
-dup_line_frac: 0.2
+dup_line_frac: 0.355
 dup_n_grams:
 - - 5
-  - 0.599
+  - 0.442
 - - 6
-  - 0.616
+  - 0.424
 - - 7
-  - 0.627
+  - 0.419
 - - 8
-  - 0.631
+  - 0.396
 - - 9
-  - 0.564
+  - 0.349
 - - 10
-  - 0.502
+  - 0.297
 language_score: 0.312
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.636
-min_avg_word_length: 6
-new_line_ratio: 0.077
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.615
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - tima
 - ari
@@ -38,8 +38,8 @@ stopwords:
 - totaari
 top_n_grams:
 - - 2
-  - 0.474
+  - 0.867
 - - 3
-  - 0.812
+  - 0.917
 - - 4
-  - 0.618
+  - 0.646

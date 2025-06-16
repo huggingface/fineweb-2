@@ -1,23 +1,23 @@
-dup_line_frac: 0.467
+dup_line_frac: 0.432
 dup_n_grams:
 - - 5
-  - 0.411
+  - 0.316
 - - 6
-  - 0.292
+  - 0.285
 - - 7
-  - 0.254
+  - 0.274
 - - 8
-  - 0.233
+  - 0.259
 - - 9
-  - 0.228
+  - 0.245
 - - 10
-  - 0.209
+  - 0.226
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 18
-max_non_alpha_words_ratio: 0.727
-min_avg_word_length: 7
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 5
+new_line_ratio: 0.111
 stopwords:
 - nau
 - henee
@@ -39,8 +39,8 @@ stopwords:
 - hesee
 top_n_grams:
 - - 2
-  - 0.484
+  - 0.938
 - - 3
-  - 0.552
+  - 0.794
 - - 4
-  - 0.662
+  - 0.714

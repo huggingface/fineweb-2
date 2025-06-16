@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.164
 dup_n_grams:
 - - 5
-  - 0.055
+  - 0.147
 - - 6
-  - 0.037
+  - 0.143
 - - 7
-  - 0.026
+  - 0.131
 - - 8
-  - 0.021
+  - 0.123
 - - 9
-  - 0.015
+  - 0.116
 - - 10
-  - 0.011
+  - 0.106
 language_score: 0.836
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.781
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - tachi
 - "b\u0268"
@@ -40,8 +40,8 @@ stopwords:
 - "mam\u0129da"
 top_n_grams:
 - - 2
-  - 0.101
+  - 0.167
 - - 3
-  - 0.16
+  - 0.195
 - - 4
-  - 0.165
+  - 0.167

@@ -1,23 +1,23 @@
-dup_line_frac: 0.818
+dup_line_frac: 0.607
 dup_n_grams:
 - - 5
-  - 0.552
+  - 0.351
 - - 6
-  - 0.447
+  - 0.321
 - - 7
-  - 0.434
+  - 0.309
 - - 8
-  - 0.448
+  - 0.283
 - - 9
-  - 0.474
+  - 0.272
 - - 10
-  - 0.482
+  - 0.252
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.867
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - "g\u0259\u0301"
 - "g\u0259"
@@ -40,8 +40,8 @@ stopwords:
 - "dee\u0330"
 top_n_grams:
 - - 2
-  - 1.246
+  - 1.666
 - - 3
-  - 1.723
+  - 1.741
 - - 4
-  - 2.188
+  - 1.549

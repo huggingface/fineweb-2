@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.11
 dup_n_grams:
 - - 5
-  - 0.05
+  - 0.112
 - - 6
-  - 0.037
+  - 0.108
 - - 7
-  - 0.026
+  - 0.1
 - - 8
-  - 0.014
+  - 0.09
 - - 9
-  - 0.014
+  - 0.083
 - - 10
-  - 0.013
+  - 0.077
 language_score: 0.717
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.917
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.905
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - mo
 - "pa\uA789ta\uA789"
@@ -39,8 +39,8 @@ stopwords:
 - "wanda\uA789hali"
 top_n_grams:
 - - 2
-  - 0.031
+  - 0.524
 - - 3
-  - 0.034
+  - 0.487
 - - 4
-  - 0.026
+  - 0.429

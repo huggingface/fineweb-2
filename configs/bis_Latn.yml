@@ -1,23 +1,23 @@
-dup_line_frac: 0.417
+dup_line_frac: 0.41
 dup_n_grams:
 - - 5
-  - 0.773
+  - 0.447
 - - 6
-  - 0.772
+  - 0.432
 - - 7
-  - 0.769
+  - 0.415
 - - 8
-  - 0.769
+  - 0.398
 - - 9
-  - 0.768
+  - 0.377
 - - 10
-  - 0.766
+  - 0.352
 language_score: 0.516
-line_punct_thr: 0.333
+line_punct_thr: 0.25
 max_avg_word_length: 10
 max_non_alpha_words_ratio: 0.87
 min_avg_word_length: 3
-new_line_ratio: 0.333
+new_line_ratio: 0.25
 stopwords:
 - blong
 - i
@@ -39,8 +39,8 @@ stopwords:
 - singsing
 top_n_grams:
 - - 2
-  - 1.174
+  - 1.695
 - - 3
-  - 1.789
+  - 1.722
 - - 4
-  - 2.508
+  - 1.649

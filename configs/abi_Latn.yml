@@ -1,23 +1,23 @@
-dup_line_frac: 0.558
+dup_line_frac: 0.546
 dup_n_grams:
 - - 5
-  - 0.359
+  - 0.35
 - - 6
-  - 0.371
+  - 0.344
 - - 7
-  - 0.354
+  - 0.328
 - - 8
-  - 0.362
+  - 0.312
 - - 9
-  - 0.371
+  - 0.309
 - - 10
-  - 0.313
+  - 0.277
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.8
+max_non_alpha_words_ratio: 0.778
 min_avg_word_length: 3
-new_line_ratio: 0.062
+new_line_ratio: 0.053
 stopwords:
 - "\u03ADn\u0269"
 - "\u025Bn\u025B\u025B"
@@ -40,8 +40,8 @@ stopwords:
 - jesi
 top_n_grams:
 - - 2
-  - 0.516
+  - 0.712
 - - 3
-  - 0.189
+  - 0.483
 - - 4
-  - 0.168
+  - 0.504

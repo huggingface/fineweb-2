@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.191
 dup_n_grams:
 - - 5
-  - 0.026
+  - 0.115
 - - 6
-  - 0.014
+  - 0.114
 - - 7
-  - 0.007
+  - 0.098
 - - 8
-  - 0.0
+  - 0.094
 - - 9
-  - 0.0
+  - 0.088
 - - 10
-  - 0.0
+  - 0.077
 language_score: 0.642
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - "dsa\xB2"
 - "j\xF8ng\xB2"
@@ -36,8 +36,8 @@ stopwords:
 - "ju\xB3lah"
 top_n_grams:
 - - 2
-  - 0.112
+  - 0.357
 - - 3
-  - 0.18
+  - 0.41
 - - 4
-  - 0.183
+  - 0.376

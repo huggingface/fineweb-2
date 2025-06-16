@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.437
 dup_n_grams:
 - - 5
-  - 0.414
+  - 0.32
 - - 6
-  - 0.395
+  - 0.292
 - - 7
-  - 0.366
+  - 0.272
 - - 8
-  - 0.326
+  - 0.249
 - - 9
-  - 0.327
+  - 0.235
 - - 10
-  - 0.314
+  - 0.212
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.848
-min_avg_word_length: 6
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 5
+new_line_ratio: 0.083
 stopwords:
 - mana
 - chi
@@ -36,8 +36,8 @@ stopwords:
 - runa
 top_n_grams:
 - - 2
-  - 0.602
+  - 1.089
 - - 3
-  - 0.553
+  - 0.928
 - - 4
-  - 0.479
+  - 0.78

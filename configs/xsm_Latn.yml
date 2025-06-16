@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.298
 dup_n_grams:
 - - 5
-  - 0.364
+  - 0.27
 - - 6
-  - 0.361
+  - 0.264
 - - 7
-  - 0.355
+  - 0.252
 - - 8
-  - 0.351
+  - 0.24
 - - 9
-  - 0.348
+  - 0.227
 - - 10
-  - 0.344
+  - 0.213
 language_score: 0.836
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.841
-min_avg_word_length: 3
-new_line_ratio: 0.053
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 2
+new_line_ratio: 0.043
 stopwords:
 - o
 - ba
@@ -40,8 +40,8 @@ stopwords:
 - to
 top_n_grams:
 - - 2
-  - 0.079
+  - 0.132
 - - 3
-  - 0.106
+  - 0.137
 - - 4
-  - 0.128
+  - 0.134

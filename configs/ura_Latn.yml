@@ -1,23 +1,23 @@
-dup_line_frac: 0.034
+dup_line_frac: 0.212
 dup_n_grams:
 - - 5
-  - 0.129
+  - 0.171
 - - 6
-  - 0.1
+  - 0.158
 - - 7
-  - 0.081
+  - 0.142
 - - 8
-  - 0.066
+  - 0.13
 - - 9
-  - 0.055
+  - 0.12
 - - 10
-  - 0.043
+  - 0.108
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - nii
 - cana
@@ -38,8 +38,8 @@ stopwords:
 - nenaa
 top_n_grams:
 - - 2
-  - 0.103
+  - 0.469
 - - 3
-  - 0.154
+  - 0.427
 - - 4
-  - 0.176
+  - 0.37

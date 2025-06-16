@@ -1,23 +1,23 @@
-dup_line_frac: 0.2
+dup_line_frac: 0.245
 dup_n_grams:
 - - 5
-  - 0.008
+  - 0.137
 - - 6
-  - 0.0
+  - 0.129
 - - 7
-  - 0.0
+  - 0.122
 - - 8
-  - 0.0
+  - 0.114
 - - 9
-  - 0.0
+  - 0.103
 - - 10
-  - 0.0
+  - 0.089
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 24
-max_non_alpha_words_ratio: 0.741
-min_avg_word_length: 10
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.706
+min_avg_word_length: 7
+new_line_ratio: 0.1
 stopwords:
 - aapani
 - irioshi
@@ -35,8 +35,8 @@ stopwords:
 - iriatimpa
 top_n_grams:
 - - 2
-  - 0.496
+  - 0.934
 - - 3
-  - 0.678
+  - 0.825
 - - 4
-  - 0.725
+  - 0.69

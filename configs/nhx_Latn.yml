@@ -1,23 +1,23 @@
-dup_line_frac: 0.95
+dup_line_frac: 0.975
 dup_n_grams:
 - - 5
-  - 0.71
+  - 0.586
 - - 6
-  - 0.712
+  - 0.578
 - - 7
-  - 0.707
+  - 0.548
 - - 8
-  - 0.701
+  - 0.519
 - - 9
-  - 0.703
+  - 0.498
 - - 10
-  - 0.697
+  - 0.47
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.765
-min_avg_word_length: 5
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - iga
 - yej
@@ -33,8 +33,8 @@ stopwords:
 - "ay\xE1\u0331\uA78C"
 top_n_grams:
 - - 2
-  - 0.53
+  - 1.105
 - - 3
-  - 0.627
+  - 1.063
 - - 4
-  - 0.656
+  - 0.956

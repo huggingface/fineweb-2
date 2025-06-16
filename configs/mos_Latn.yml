@@ -1,23 +1,23 @@
-dup_line_frac: 0.773
+dup_line_frac: 0.662
 dup_n_grams:
 - - 5
-  - 0.436
+  - 0.316
 - - 6
-  - 0.415
+  - 0.299
 - - 7
-  - 0.381
+  - 0.281
 - - 8
-  - 0.364
+  - 0.259
 - - 9
-  - 0.338
+  - 0.241
 - - 10
-  - 0.348
+  - 0.222
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 3
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.083
 stopwords:
 - n
 - a
@@ -37,8 +37,8 @@ stopwords:
 - "t\xF5e"
 top_n_grams:
 - - 2
-  - 0.551
+  - 0.874
 - - 3
-  - 0.647
+  - 0.806
 - - 4
-  - 0.76
+  - 0.694

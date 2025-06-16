@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.354
 dup_n_grams:
 - - 5
-  - 0.413
+  - 0.323
 - - 6
-  - 0.409
+  - 0.316
 - - 7
-  - 0.403
+  - 0.304
 - - 8
-  - 0.401
+  - 0.291
 - - 9
-  - 0.395
+  - 0.274
 - - 10
-  - 0.39
+  - 0.255
 language_score: 0.338
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.815
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - maya
 - loko
@@ -36,8 +36,8 @@ stopwords:
 - iki
 top_n_grams:
 - - 2
-  - 0.143
+  - 0.585
 - - 3
-  - 0.165
+  - 0.422
 - - 4
-  - 0.2
+  - 0.364

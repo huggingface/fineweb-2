@@ -1,23 +1,23 @@
-dup_line_frac: 0.669
+dup_line_frac: 0.696
 dup_n_grams:
 - - 5
-  - 0.449
+  - 0.344
 - - 6
-  - 0.473
+  - 0.346
 - - 7
-  - 0.433
+  - 0.3
 - - 8
-  - 0.089
+  - 0.163
 - - 9
-  - 0.076
+  - 0.147
 - - 10
-  - 0.077
+  - 0.134
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.694
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 3
+new_line_ratio: 0.043
 stopwords:
 - na
 - jon
@@ -35,8 +35,8 @@ stopwords:
 - naan
 top_n_grams:
 - - 2
-  - 0.22
+  - 0.543
 - - 3
-  - 0.316
+  - 0.436
 - - 4
-  - 0.407
+  - 0.395

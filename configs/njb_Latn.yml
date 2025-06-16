@@ -1,23 +1,23 @@
-dup_line_frac: 0.483
+dup_line_frac: 0.471
 dup_n_grams:
 - - 5
-  - 0.421
+  - 0.364
 - - 6
-  - 0.418
+  - 0.357
 - - 7
-  - 0.417
+  - 0.345
 - - 8
-  - 0.414
+  - 0.324
 - - 9
-  - 0.403
+  - 0.302
 - - 10
-  - 0.404
+  - 0.28
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - ngale
 - ngama
@@ -36,8 +36,8 @@ stopwords:
 - atema
 top_n_grams:
 - - 2
-  - 0.527
+  - 0.938
 - - 3
-  - 0.519
+  - 0.902
 - - 4
-  - 0.66
+  - 0.811

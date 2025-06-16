@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.234
 dup_n_grams:
 - - 5
-  - 0.334
+  - 0.187
 - - 6
-  - 0.337
+  - 0.184
 - - 7
-  - 0.318
+  - 0.166
 - - 8
-  - 0.317
+  - 0.159
 - - 9
-  - 0.315
+  - 0.148
 - - 10
-  - 0.313
+  - 0.138
 language_score: 0.712
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.829
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - a
 - hen
@@ -48,8 +48,8 @@ stopwords:
 - thu
 top_n_grams:
 - - 2
-  - 0.094
+  - 0.263
 - - 3
-  - 0.117
+  - 0.224
 - - 4
-  - 0.139
+  - 0.208

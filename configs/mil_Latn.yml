@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.219
 dup_n_grams:
 - - 5
-  - 0.095
+  - 0.13
 - - 6
-  - 0.064
+  - 0.12
 - - 7
-  - 0.044
+  - 0.103
 - - 8
-  - 0.032
+  - 0.093
 - - 9
-  - 0.023
+  - 0.087
 - - 10
-  - 0.016
+  - 0.077
 language_score: 0.823
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.879
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.05
 stopwords:
 - te
 - "n\xED"
@@ -39,8 +39,8 @@ stopwords:
 - "y\u01CE"
 top_n_grams:
 - - 2
-  - 0.093
+  - 0.145
 - - 3
-  - 0.15
+  - 0.171
 - - 4
-  - 0.131
+  - 0.129

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.137
 dup_n_grams:
 - - 5
-  - 0.066
+  - 0.138
 - - 6
-  - 0.045
+  - 0.128
 - - 7
-  - 0.032
+  - 0.115
 - - 8
-  - 0.024
+  - 0.108
 - - 9
-  - 0.02
+  - 0.097
 - - 10
-  - 0.015
+  - 0.088
 language_score: 0.701
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.771
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - da
 - ava
@@ -41,8 +41,8 @@ stopwords:
 - aminge
 top_n_grams:
 - - 2
-  - 0.073
+  - 0.314
 - - 3
-  - 0.124
+  - 0.305
 - - 4
-  - 0.111
+  - 0.253

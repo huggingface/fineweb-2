@@ -1,23 +1,23 @@
-dup_line_frac: 0.594
+dup_line_frac: 0.549
 dup_n_grams:
 - - 5
-  - 0.519
+  - 0.389
 - - 6
-  - 0.48
+  - 0.364
 - - 7
-  - 0.457
+  - 0.349
 - - 8
-  - 0.463
+  - 0.329
 - - 9
-  - 0.401
+  - 0.304
 - - 10
-  - 0.4
+  - 0.283
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.811
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - li
 - min
@@ -39,8 +39,8 @@ stopwords:
 - yata
 top_n_grams:
 - - 2
-  - 0.624
+  - 1.151
 - - 3
-  - 0.677
+  - 1.07
 - - 4
-  - 0.98
+  - 0.979

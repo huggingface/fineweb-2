@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.438
 dup_n_grams:
 - - 5
-  - 0.528
+  - 0.403
 - - 6
-  - 0.483
+  - 0.392
 - - 7
-  - 0.501
+  - 0.369
 - - 8
-  - 0.463
+  - 0.346
 - - 9
-  - 0.483
+  - 0.328
 - - 10
-  - 0.441
+  - 0.303
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.793
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 3
+new_line_ratio: 0.077
 stopwords:
 - nou
 - naiuso
@@ -43,8 +43,8 @@ stopwords:
 - ngiom
 top_n_grams:
 - - 2
-  - 0.542
+  - 1.112
 - - 3
-  - 0.654
+  - 1.038
 - - 4
-  - 0.714
+  - 0.911

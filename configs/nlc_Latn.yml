@@ -1,23 +1,23 @@
-dup_line_frac: 0.901
+dup_line_frac: 0.749
 dup_n_grams:
 - - 5
-  - 0.75
+  - 0.657
 - - 6
-  - 0.735
+  - 0.632
 - - 7
-  - 0.739
+  - 0.616
 - - 8
-  - 0.735
+  - 0.589
 - - 9
-  - 0.74
+  - 0.563
 - - 10
-  - 0.734
+  - 0.534
 language_score: 0.621
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.729
-min_avg_word_length: 4
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.71
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - dara
 - ara
@@ -43,8 +43,8 @@ stopwords:
 - alja
 top_n_grams:
 - - 2
-  - 1.642
+  - 2.305
 - - 3
-  - 2.541
+  - 2.481
 - - 4
-  - 3.411
+  - 2.411

@@ -1,23 +1,23 @@
-dup_line_frac: 0.045
+dup_line_frac: 0.155
 dup_n_grams:
 - - 5
-  - 0.214
+  - 0.165
 - - 6
-  - 0.199
+  - 0.152
 - - 7
-  - 0.185
+  - 0.139
 - - 8
-  - 0.173
+  - 0.128
 - - 9
-  - 0.168
+  - 0.118
 - - 10
-  - 0.16
+  - 0.108
 language_score: 0.3
-line_punct_thr: 0.25
+line_punct_thr: 0.1
 max_avg_word_length: 68
 max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 3
-new_line_ratio: 0.286
+min_avg_word_length: 2
+new_line_ratio: 0.25
 stopwords:
 - o
 - si
@@ -32,8 +32,8 @@ stopwords:
 - thaj
 top_n_grams:
 - - 2
-  - 0.137
+  - 0.547
 - - 3
-  - 0.117
+  - 0.392
 - - 4
-  - 0.12
+  - 0.285

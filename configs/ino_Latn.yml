@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.068
 dup_n_grams:
 - - 5
   - 0.049
 - - 6
-  - 0.033
+  - 0.037
 - - 7
-  - 0.023
+  - 0.029
 - - 8
-  - 0.018
+  - 0.02
 - - 9
-  - 0.012
+  - 0.016
 - - 10
-  - 0.008
+  - 0.01
 language_score: 0.702
 line_punct_thr: -1
-max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 4
+new_line_ratio: 0.059
 stopwords:
 - ani
 - ke
@@ -35,8 +35,8 @@ stopwords:
 - ve'ka
 top_n_grams:
 - - 2
-  - 0.028
+  - 0.127
 - - 3
-  - 0.036
+  - 0.113
 - - 4
-  - 0.038
+  - 0.106

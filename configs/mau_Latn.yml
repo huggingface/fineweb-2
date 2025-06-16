@@ -1,23 +1,23 @@
-dup_line_frac: 0.979
+dup_line_frac: 0.939
 dup_n_grams:
 - - 5
-  - 0.843
+  - 0.658
 - - 6
-  - 0.842
+  - 0.655
 - - 7
-  - 0.838
+  - 0.638
 - - 8
-  - 0.832
+  - 0.616
 - - 9
-  - 0.823
+  - 0.589
 - - 10
-  - 0.816
+  - 0.554
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.111
 stopwords:
 - xi
 - je
@@ -36,8 +36,8 @@ stopwords:
 - kao
 top_n_grams:
 - - 2
-  - 1.003
+  - 1.696
 - - 3
-  - 1.84
+  - 2.143
 - - 4
-  - 2.086
+  - 1.872

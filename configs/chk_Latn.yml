@@ -1,23 +1,23 @@
-dup_line_frac: 0.857
+dup_line_frac: 0.675
 dup_n_grams:
 - - 5
-  - 0.676
+  - 0.449
 - - 6
-  - 0.66
+  - 0.431
 - - 7
-  - 0.641
+  - 0.406
 - - 8
-  - 0.635
+  - 0.385
 - - 9
-  - 0.613
+  - 0.359
 - - 10
-  - 0.604
+  - 0.334
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - a
 - ewe
@@ -42,8 +42,8 @@ stopwords:
 - chon
 top_n_grams:
 - - 2
-  - 0.903
+  - 1.262
 - - 3
-  - 0.711
+  - 1.067
 - - 4
-  - 0.808
+  - 0.993

@@ -1,23 +1,23 @@
-dup_line_frac: 0.13
+dup_line_frac: 0.248
 dup_n_grams:
 - - 5
-  - 0.098
+  - 0.14
 - - 6
-  - 0.081
+  - 0.124
 - - 7
-  - 0.06
+  - 0.112
 - - 8
-  - 0.046
+  - 0.098
 - - 9
-  - 0.039
+  - 0.088
 - - 10
-  - 0.035
+  - 0.078
 language_score: 0.3
-line_punct_thr: 0.125
+line_punct_thr: 0.008
 max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.829
-min_avg_word_length: 4
-new_line_ratio: 0.222
+min_avg_word_length: 3
+new_line_ratio: 0.194
 stopwords:
 - sa
 - ang
@@ -38,8 +38,8 @@ stopwords:
 - bulan
 top_n_grams:
 - - 2
-  - 0.357
+  - 0.674
 - - 3
-  - 0.459
+  - 0.553
 - - 4
-  - 0.552
+  - 0.445

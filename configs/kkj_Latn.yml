@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.276
 dup_n_grams:
 - - 5
-  - 0.369
+  - 0.258
 - - 6
-  - 0.369
+  - 0.228
 - - 7
-  - 0.314
+  - 0.19
 - - 8
-  - 0.312
+  - 0.181
 - - 9
-  - 0.302
+  - 0.169
 - - 10
-  - 0.306
+  - 0.159
 language_score: 0.853
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.841
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - "k\u025B"
 - yi
@@ -44,8 +44,8 @@ stopwords:
 - "\u0253e"
 top_n_grams:
 - - 2
-  - 0.117
+  - 0.167
 - - 3
-  - 0.221
+  - 0.253
 - - 4
-  - 0.239
+  - 0.223

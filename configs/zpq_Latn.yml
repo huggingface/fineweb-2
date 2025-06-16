@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.455
 dup_n_grams:
 - - 5
-  - 0.478
+  - 0.462
 - - 6
-  - 0.451
+  - 0.441
 - - 7
-  - 0.367
+  - 0.398
 - - 8
-  - 0.365
+  - 0.374
 - - 9
   - 0.364
 - - 10
-  - 0.366
+  - 0.336
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.565
-min_avg_word_length: 4
-new_line_ratio: 0.056
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.549
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - na
 - "be\u1E49e"
@@ -38,8 +38,8 @@ stopwords:
 - le'e
 top_n_grams:
 - - 2
-  - 0.306
+  - 0.839
 - - 3
-  - 0.383
+  - 0.82
 - - 4
-  - 0.428
+  - 0.725

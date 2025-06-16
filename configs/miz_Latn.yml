@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.043
 dup_n_grams:
 - - 5
   - 0.074
 - - 6
-  - 0.046
+  - 0.058
 - - 7
-  - 0.027
+  - 0.044
 - - 8
-  - 0.017
+  - 0.041
 - - 9
-  - 0.012
+  - 0.023
 - - 10
-  - 0.008
+  - 0.018
 language_score: 0.884
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.814
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - "\xF1a"
 - "\xE9"
@@ -42,8 +42,8 @@ stopwords:
 - "ka\uA78Can"
 top_n_grams:
 - - 2
-  - 0.081
+  - 0.121
 - - 3
-  - 0.15
+  - 0.161
 - - 4
-  - 0.113
+  - 0.107

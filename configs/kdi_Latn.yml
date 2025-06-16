@@ -1,23 +1,23 @@
-dup_line_frac: 0.826
+dup_line_frac: 0.59
 dup_n_grams:
 - - 5
-  - 0.605
+  - 0.433
 - - 6
-  - 0.572
+  - 0.422
 - - 7
-  - 0.57
+  - 0.406
 - - 8
-  - 0.543
+  - 0.376
 - - 9
-  - 0.591
+  - 0.359
 - - 10
-  - 0.543
+  - 0.335
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.839
-min_avg_word_length: 3
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 2
+new_line_ratio: 0.062
 stopwords:
 - kame
 - kede
@@ -43,8 +43,8 @@ stopwords:
 - wu
 top_n_grams:
 - - 2
-  - 0.808
+  - 1.252
 - - 3
-  - 0.973
+  - 0.94
 - - 4
-  - 1.481
+  - 0.966

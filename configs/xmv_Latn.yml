@@ -1,23 +1,23 @@
-dup_line_frac: 0.792
+dup_line_frac: 0.808
 dup_n_grams:
 - - 5
-  - 0.606
+  - 0.452
 - - 6
-  - 0.594
+  - 0.417
 - - 7
-  - 0.569
+  - 0.397
 - - 8
-  - 0.552
+  - 0.365
 - - 9
-  - 0.528
+  - 0.335
 - - 10
-  - 0.515
+  - 0.309
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.111
 stopwords:
 - raha
 - fa
@@ -42,8 +42,8 @@ stopwords:
 - anao
 top_n_grams:
 - - 2
-  - 0.605
+  - 1.09
 - - 3
-  - 0.691
+  - 0.979
 - - 4
-  - 0.96
+  - 0.915

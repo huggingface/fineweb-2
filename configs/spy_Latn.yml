@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.282
 dup_n_grams:
 - - 5
-  - 0.395
+  - 0.285
 - - 6
-  - 0.391
+  - 0.241
 - - 7
-  - 0.339
+  - 0.208
 - - 8
-  - 0.328
+  - 0.197
 - - 9
-  - 0.323
+  - 0.185
 - - 10
-  - 0.31
+  - 0.169
 language_score: 0.312
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.737
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - kule
 - "ny\u0113\u0113"
@@ -40,8 +40,8 @@ stopwords:
 - "w\u014Dl\u0113\u0113"
 top_n_grams:
 - - 2
-  - 0.139
+  - 0.432
 - - 3
-  - 0.255
+  - 0.466
 - - 4
-  - 0.275
+  - 0.402

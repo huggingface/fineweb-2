@@ -1,23 +1,23 @@
-dup_line_frac: 0.618
+dup_line_frac: 0.509
 dup_n_grams:
 - - 5
-  - 0.635
+  - 0.387
 - - 6
-  - 0.594
+  - 0.372
 - - 7
-  - 0.522
+  - 0.353
 - - 8
-  - 0.533
+  - 0.33
 - - 9
-  - 0.559
+  - 0.313
 - - 10
-  - 0.56
+  - 0.295
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 26
-max_non_alpha_words_ratio: 0.692
-min_avg_word_length: 7
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.657
+min_avg_word_length: 5
+new_line_ratio: 0.1
 stopwords:
 - ari
 - tema
@@ -38,8 +38,8 @@ stopwords:
 - aririka
 top_n_grams:
 - - 2
-  - 0.638
+  - 1.344
 - - 3
-  - 0.878
+  - 1.29
 - - 4
-  - 1.001
+  - 1.185

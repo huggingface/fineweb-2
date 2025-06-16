@@ -1,23 +1,23 @@
-dup_line_frac: 0.545
+dup_line_frac: 0.41
 dup_n_grams:
 - - 5
-  - 0.492
+  - 0.289
 - - 6
-  - 0.453
+  - 0.28
 - - 7
-  - 0.492
+  - 0.276
 - - 8
-  - 0.468
+  - 0.264
 - - 9
-  - 0.43
+  - 0.239
 - - 10
-  - 0.386
+  - 0.214
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - ta
 - "\u02BCinega"
@@ -41,8 +41,8 @@ stopwords:
 - tuta
 top_n_grams:
 - - 2
-  - 0.561
+  - 0.979
 - - 3
-  - 0.627
+  - 0.83
 - - 4
-  - 0.711
+  - 0.696

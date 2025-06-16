@@ -1,23 +1,23 @@
-dup_line_frac: 0.469
+dup_line_frac: 0.405
 dup_n_grams:
 - - 5
-  - 0.808
+  - 0.536
 - - 6
-  - 0.796
+  - 0.536
 - - 7
-  - 0.813
+  - 0.515
 - - 8
-  - 0.796
+  - 0.491
 - - 9
-  - 0.786
+  - 0.472
 - - 10
-  - 0.793
+  - 0.441
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 4
-new_line_ratio: 0.04
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.735
+min_avg_word_length: 3
+new_line_ratio: 0.032
 stopwords:
 - tunum
 - ami
@@ -42,8 +42,8 @@ stopwords:
 - yesus
 top_n_grams:
 - - 2
-  - 0.578
+  - 1.232
 - - 3
-  - 1.008
+  - 1.282
 - - 4
-  - 1.477
+  - 1.222

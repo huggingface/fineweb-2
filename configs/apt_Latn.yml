@@ -1,23 +1,23 @@
-dup_line_frac: 0.775
+dup_line_frac: 0.569
 dup_n_grams:
 - - 5
-  - 0.712
+  - 0.534
 - - 6
-  - 0.722
+  - 0.521
 - - 7
-  - 0.704
+  - 0.508
 - - 8
-  - 0.694
+  - 0.487
 - - 9
-  - 0.691
+  - 0.456
 - - 10
-  - 0.685
+  - 0.432
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - ho
 - mi
@@ -36,8 +36,8 @@ stopwords:
 - mohlu
 top_n_grams:
 - - 2
-  - 1.534
+  - 2.045
 - - 3
-  - 2.227
+  - 2.157
 - - 4
-  - 3.037
+  - 2.051

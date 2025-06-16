@@ -1,23 +1,23 @@
-dup_line_frac: 0.214
+dup_line_frac: 0.234
 dup_n_grams:
 - - 5
-  - 0.117
+  - 0.13
 - - 6
-  - 0.095
+  - 0.118
 - - 7
-  - 0.081
+  - 0.109
 - - 8
-  - 0.07
+  - 0.099
 - - 9
-  - 0.068
+  - 0.09
 - - 10
-  - 0.063
+  - 0.082
 language_score: 0.803
-line_punct_thr: 0.489
-max_avg_word_length: 13
+line_punct_thr: 0.2
+max_avg_word_length: 14
 max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 3
-new_line_ratio: 0.2
+min_avg_word_length: 2
+new_line_ratio: 0.143
 stopwords:
 - ka
 - i
@@ -41,8 +41,8 @@ stopwords:
 - "ho\u02BBohana"
 top_n_grams:
 - - 2
-  - 0.069
+  - 0.148
 - - 3
-  - 0.104
+  - 0.143
 - - 4
-  - 0.098
+  - 0.122

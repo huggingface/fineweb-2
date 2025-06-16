@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.466
 dup_n_grams:
 - - 5
-  - 0.515
+  - 0.377
 - - 6
-  - 0.476
+  - 0.358
 - - 7
-  - 0.454
+  - 0.343
 - - 8
-  - 0.415
+  - 0.316
 - - 9
-  - 0.411
+  - 0.299
 - - 10
-  - 0.396
+  - 0.272
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 5
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 3
+new_line_ratio: 0.125
 stopwords:
 - "ak\u0289za"
 - daizeze
@@ -37,8 +37,8 @@ stopwords:
 - audre
 top_n_grams:
 - - 2
-  - 0.617
+  - 1.127
 - - 3
-  - 0.794
+  - 1.065
 - - 4
-  - 1.0
+  - 0.95

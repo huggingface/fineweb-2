@@ -1,23 +1,23 @@
-dup_line_frac: 0.39
+dup_line_frac: 0.41
 dup_n_grams:
 - - 5
-  - 0.424
+  - 0.295
 - - 6
-  - 0.412
+  - 0.289
 - - 7
-  - 0.391
+  - 0.269
 - - 8
-  - 0.36
+  - 0.251
 - - 9
-  - 0.344
+  - 0.23
 - - 10
-  - 0.328
+  - 0.209
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.815
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 2
+new_line_ratio: 0.077
 stopwords:
 - puo
 - mu
@@ -38,8 +38,8 @@ stopwords:
 - sidi
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.45
 - - 3
-  - 1.0
+  - 1.156
 - - 4
-  - 0.971
+  - 0.982

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.238
 dup_n_grams:
 - - 5
-  - 0.072
+  - 0.231
 - - 6
-  - 0.047
+  - 0.214
 - - 7
-  - 0.04
+  - 0.187
 - - 8
-  - 0.029
+  - 0.179
 - - 9
-  - 0.022
+  - 0.166
 - - 10
-  - 0.017
+  - 0.149
 language_score: 0.637
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.896
-min_avg_word_length: 5
-new_line_ratio: 0.069
+max_non_alpha_words_ratio: 0.878
+min_avg_word_length: 4
+new_line_ratio: 0.056
 stopwords:
 - logo
 - keya
@@ -34,8 +34,8 @@ stopwords:
 - kapura
 top_n_grams:
 - - 2
-  - 0.227
+  - 0.974
 - - 3
-  - 0.3
+  - 0.824
 - - 4
-  - 0.341
+  - 0.652

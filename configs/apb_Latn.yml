@@ -1,23 +1,23 @@
-dup_line_frac: 0.2
+dup_line_frac: 0.422
 dup_n_grams:
 - - 5
-  - 0.318
+  - 0.326
 - - 6
-  - 0.284
+  - 0.313
 - - 7
-  - 0.2
+  - 0.292
 - - 8
-  - 0.163
+  - 0.274
 - - 9
-  - 0.177
+  - 0.258
 - - 10
-  - 0.179
+  - 0.241
 language_score: 0.67
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.852
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.044
 stopwords:
 - e
 - aana
@@ -46,8 +46,8 @@ stopwords:
 - "lo\uA78Cu"
 top_n_grams:
 - - 2
-  - 0.152
+  - 1.417
 - - 3
-  - 0.102
+  - 1.428
 - - 4
-  - 0.122
+  - 1.311

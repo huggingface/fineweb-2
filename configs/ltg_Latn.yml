@@ -1,23 +1,23 @@
-dup_line_frac: 0.882
+dup_line_frac: 0.798
 dup_n_grams:
 - - 5
-  - 0.544
+  - 0.363
 - - 6
-  - 0.541
+  - 0.348
 - - 7
-  - 0.525
+  - 0.327
 - - 8
-  - 0.519
+  - 0.307
 - - 9
-  - 0.504
+  - 0.283
 - - 10
-  - 0.489
+  - 0.262
 language_score: 0.3
-line_punct_thr: 0.2
-max_avg_word_length: 16
+line_punct_thr: 0.083
+max_avg_word_length: 17
 max_non_alpha_words_ratio: 0.722
-min_avg_word_length: 3
-new_line_ratio: 0.391
+min_avg_word_length: 2
+new_line_ratio: 0.277
 stopwords:
 - i
 - nu
@@ -42,8 +42,8 @@ stopwords:
 - "n\u016Bruodis"
 top_n_grams:
 - - 2
-  - 0.632
+  - 0.943
 - - 3
-  - 0.774
+  - 0.817
 - - 4
-  - 0.812
+  - 0.801

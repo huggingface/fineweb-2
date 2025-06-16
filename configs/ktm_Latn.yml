@@ -1,23 +1,23 @@
-dup_line_frac: 0.231
+dup_line_frac: 0.356
 dup_n_grams:
 - - 5
-  - 0.764
+  - 0.505
 - - 6
-  - 0.772
+  - 0.493
 - - 7
-  - 0.757
+  - 0.462
 - - 8
-  - 0.759
+  - 0.442
 - - 9
-  - 0.744
+  - 0.414
 - - 10
-  - 0.753
+  - 0.389
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 3
-new_line_ratio: 0.077
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.776
+min_avg_word_length: 2
+new_line_ratio: 0.062
 stopwords:
 - pe
 - ndre
@@ -44,8 +44,8 @@ stopwords:
 - ndramat
 top_n_grams:
 - - 2
-  - 0.727
+  - 1.184
 - - 3
-  - 0.908
+  - 1.087
 - - 4
-  - 1.0
+  - 0.919

@@ -1,23 +1,23 @@
-dup_line_frac: 0.423
+dup_line_frac: 0.415
 dup_n_grams:
 - - 5
-  - 0.243
+  - 0.234
 - - 6
-  - 0.181
+  - 0.213
 - - 7
-  - 0.188
+  - 0.197
 - - 8
-  - 0.161
+  - 0.181
 - - 9
-  - 0.145
+  - 0.17
 - - 10
-  - 0.089
+  - 0.154
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.792
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - ri
 - che
@@ -35,8 +35,8 @@ stopwords:
 - rumal
 top_n_grams:
 - - 2
-  - 0.635
+  - 1.176
 - - 3
-  - 0.837
+  - 1.047
 - - 4
-  - 0.876
+  - 0.848

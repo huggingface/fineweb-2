@@ -1,23 +1,23 @@
-dup_line_frac: 0.031
+dup_line_frac: 0.151
 dup_n_grams:
 - - 5
-  - 0.127
+  - 0.219
 - - 6
-  - 0.093
+  - 0.197
 - - 7
-  - 0.067
+  - 0.177
 - - 8
-  - 0.054
+  - 0.161
 - - 9
-  - 0.043
+  - 0.149
 - - 10
-  - 0.033
+  - 0.14
 language_score: 0.61
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.815
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.062
 stopwords:
 - amo
 - "dol\xF6"
@@ -34,8 +34,8 @@ stopwords:
 - nea
 top_n_grams:
 - - 2
-  - 0.044
+  - 0.642
 - - 3
-  - 0.057
+  - 0.569
 - - 4
-  - 0.057
+  - 0.502

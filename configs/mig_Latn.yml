@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.03
 dup_n_grams:
 - - 5
-  - 0.041
+  - 0.04
 - - 6
   - 0.028
 - - 7
-  - 0.016
+  - 0.015
 - - 8
-  - 0.013
-- - 9
   - 0.011
+- - 9
+  - 0.009
 - - 10
-  - 0.008
+  - 0.007
 language_score: 0.775
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.826
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - te
 - "ni\u0331"
@@ -40,8 +40,8 @@ stopwords:
 - "n\xFA"
 top_n_grams:
 - - 2
-  - 0.047
+  - 0.137
 - - 3
-  - 0.03
+  - 0.039
 - - 4
-  - 0.033
+  - 0.036

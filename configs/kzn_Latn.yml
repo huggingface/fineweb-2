@@ -1,23 +1,23 @@
-dup_line_frac: 0.818
+dup_line_frac: 0.855
 dup_n_grams:
 - - 5
-  - 0.587
+  - 0.525
 - - 6
-  - 0.582
+  - 0.519
 - - 7
-  - 0.576
+  - 0.494
 - - 8
-  - 0.565
+  - 0.471
 - - 9
-  - 0.563
+  - 0.448
 - - 10
-  - 0.554
+  - 0.417
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 4
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 3
+new_line_ratio: 0.125
 stopwords:
 - ira
 - a
@@ -46,8 +46,8 @@ stopwords:
 - la
 top_n_grams:
 - - 2
-  - 0.615
+  - 1.116
 - - 3
-  - 1.154
+  - 1.297
 - - 4
-  - 1.04
+  - 1.186

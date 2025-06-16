@@ -1,23 +1,23 @@
-dup_line_frac: 0.696
+dup_line_frac: 0.576
 dup_n_grams:
 - - 5
-  - 0.627
+  - 0.417
 - - 6
-  - 0.597
+  - 0.399
 - - 7
-  - 0.595
+  - 0.392
 - - 8
-  - 0.564
+  - 0.361
 - - 9
-  - 0.534
+  - 0.318
 - - 10
-  - 0.497
+  - 0.286
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 6
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.758
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - na
 - iga
@@ -30,8 +30,8 @@ stopwords:
 - abaanto
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.751
 - - 3
-  - 1.0
+  - 1.609
 - - 4
-  - 1.399
+  - 1.479

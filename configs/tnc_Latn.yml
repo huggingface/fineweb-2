@@ -1,23 +1,23 @@
-dup_line_frac: 0.156
+dup_line_frac: 0.209
 dup_n_grams:
 - - 5
-  - 0.24
+  - 0.192
 - - 6
-  - 0.248
+  - 0.193
 - - 7
-  - 0.026
+  - 0.158
 - - 8
-  - 0.022
+  - 0.147
 - - 9
-  - 0.017
+  - 0.139
 - - 10
-  - 0.019
+  - 0.131
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.737
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.708
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - "i'su\u1D7Daka"
 - mija
@@ -42,8 +42,8 @@ stopwords:
 - "\u1D7Doto"
 top_n_grams:
 - - 2
-  - 0.083
+  - 0.656
 - - 3
-  - 0.215
+  - 0.675
 - - 4
-  - 0.248
+  - 0.644

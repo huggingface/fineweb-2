@@ -1,19 +1,19 @@
-dup_line_frac: 0.385
+dup_line_frac: 0.373
 dup_n_grams:
 - - 5
-  - 0.343
+  - 0.27
 - - 6
-  - 0.267
+  - 0.224
 - - 7
-  - 0.252
+  - 0.208
 - - 8
-  - 0.228
+  - 0.178
 - - 9
-  - 0.211
+  - 0.162
 - - 10
-  - 0.192
+  - 0.144
 language_score: 0.3
-line_punct_thr: 0.2
+line_punct_thr: 0.125
 max_avg_word_length: 12
 max_non_alpha_words_ratio: 0.81
 min_avg_word_length: 4
@@ -39,8 +39,8 @@ stopwords:
 - "kabupat\xE8n"
 top_n_grams:
 - - 2
-  - 0.537
+  - 0.83
 - - 3
-  - 0.606
+  - 0.729
 - - 4
-  - 0.572
+  - 0.55

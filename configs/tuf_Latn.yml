@@ -1,23 +1,23 @@
-dup_line_frac: 0.214
+dup_line_frac: 0.437
 dup_n_grams:
 - - 5
-  - 0.251
+  - 0.244
 - - 6
-  - 0.174
+  - 0.228
 - - 7
-  - 0.119
+  - 0.218
 - - 8
-  - 0.108
+  - 0.209
 - - 9
-  - 0.057
+  - 0.189
 - - 10
-  - 0.043
+  - 0.175
 language_score: 0.32
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.784
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.755
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - eyta
 - cat
@@ -37,8 +37,8 @@ stopwords:
 - bin
 top_n_grams:
 - - 2
-  - 0.365
+  - 0.893
 - - 3
-  - 0.451
+  - 0.889
 - - 4
-  - 0.333
+  - 0.834

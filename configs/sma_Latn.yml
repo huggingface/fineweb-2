@@ -1,23 +1,23 @@
-dup_line_frac: 0.444
+dup_line_frac: 0.399
 dup_n_grams:
 - - 5
-  - 0.265
-- - 6
   - 0.235
+- - 6
+  - 0.22
 - - 7
-  - 0.209
+  - 0.206
 - - 8
-  - 0.197
+  - 0.191
 - - 9
-  - 0.166
+  - 0.176
 - - 10
-  - 0.155
+  - 0.159
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 21
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 6
-new_line_ratio: 0.2
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 4
+new_line_ratio: 0.167
 stopwords:
 - "j\xEFh"
 - lea
@@ -30,8 +30,8 @@ stopwords:
 - jih
 top_n_grams:
 - - 2
-  - 0.333
+  - 0.672
 - - 3
-  - 0.31
+  - 0.564
 - - 4
-  - 0.308
+  - 0.465

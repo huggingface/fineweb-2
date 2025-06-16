@@ -1,23 +1,23 @@
-dup_line_frac: 0.838
+dup_line_frac: 0.769
 dup_n_grams:
 - - 5
-  - 0.646
+  - 0.497
 - - 6
-  - 0.623
+  - 0.473
 - - 7
-  - 0.625
+  - 0.44
 - - 8
-  - 0.605
+  - 0.408
 - - 9
-  - 0.591
+  - 0.376
 - - 10
-  - 0.575
+  - 0.34
 language_score: 0.342
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 3
+new_line_ratio: 0.077
 stopwords:
 - tlen
 - iva
@@ -41,8 +41,8 @@ stopwords:
 - imejvah
 top_n_grams:
 - - 2
-  - 0.498
+  - 1.144
 - - 3
-  - 0.701
+  - 1.19
 - - 4
-  - 0.859
+  - 1.105

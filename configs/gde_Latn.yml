@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.225
 dup_n_grams:
 - - 5
-  - 0.373
+  - 0.229
 - - 6
-  - 0.364
+  - 0.197
 - - 7
-  - 0.332
+  - 0.178
 - - 8
-  - 0.324
+  - 0.169
 - - 9
-  - 0.318
+  - 0.159
 - - 10
-  - 0.307
+  - 0.146
 language_score: 0.9
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - ka
 - "\u014Bga"
@@ -42,8 +42,8 @@ stopwords:
 - "\u0259s\u0259"
 top_n_grams:
 - - 2
-  - 0.117
+  - 0.179
 - - 3
-  - 0.217
+  - 0.245
 - - 4
-  - 0.235
+  - 0.213

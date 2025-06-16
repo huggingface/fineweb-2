@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.085
 dup_n_grams:
 - - 5
-  - 0.06
+  - 0.099
 - - 6
-  - 0.04
+  - 0.087
 - - 7
-  - 0.029
+  - 0.071
 - - 8
-  - 0.019
+  - 0.053
 - - 9
-  - 0.014
+  - 0.051
 - - 10
-  - 0.012
+  - 0.045
 language_score: 0.688
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.85
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - "m\u0268t"
 - "h\u0268rak"
@@ -44,8 +44,8 @@ stopwords:
 - werek
 top_n_grams:
 - - 2
-  - 0.031
+  - 0.334
 - - 3
-  - 0.022
+  - 0.26
 - - 4
-  - 0.022
+  - 0.177

@@ -1,23 +1,23 @@
-dup_line_frac: 0.925
+dup_line_frac: 0.748
 dup_n_grams:
 - - 5
-  - 0.747
+  - 0.507
 - - 6
-  - 0.749
+  - 0.503
 - - 7
-  - 0.741
+  - 0.482
 - - 8
-  - 0.732
+  - 0.459
 - - 9
-  - 0.735
+  - 0.441
 - - 10
-  - 0.72
+  - 0.405
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - reta
 - vae
@@ -40,8 +40,8 @@ stopwords:
 - cuae
 top_n_grams:
 - - 2
-  - 0.408
+  - 0.861
 - - 3
-  - 0.422
+  - 0.685
 - - 4
-  - 0.376
+  - 0.569

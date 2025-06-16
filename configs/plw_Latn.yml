@@ -1,23 +1,23 @@
-dup_line_frac: 0.053
+dup_line_frac: 0.305
 dup_n_grams:
 - - 5
-  - 0.403
+  - 0.28
 - - 6
-  - 0.383
+  - 0.271
 - - 7
-  - 0.378
+  - 0.26
 - - 8
-  - 0.35
+  - 0.244
 - - 9
-  - 0.31
+  - 0.223
 - - 10
-  - 0.305
+  - 0.203
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.735
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.708
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - et
 - dut
@@ -44,8 +44,8 @@ stopwords:
 - gasi
 top_n_grams:
 - - 2
-  - 0.697
+  - 1.255
 - - 3
-  - 0.925
+  - 1.238
 - - 4
-  - 1.125
+  - 1.175

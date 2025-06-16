@@ -1,23 +1,23 @@
-dup_line_frac: 0.182
+dup_line_frac: 0.393
 dup_n_grams:
 - - 5
-  - 0.314
+  - 0.37
 - - 6
-  - 0.306
+  - 0.358
 - - 7
-  - 0.302
+  - 0.351
 - - 8
-  - 0.314
+  - 0.346
 - - 9
-  - 0.282
+  - 0.313
 - - 10
-  - 0.314
+  - 0.312
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.76
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.737
+min_avg_word_length: 3
+new_line_ratio: 0.048
 stopwords:
 - nna
 - le
@@ -44,8 +44,8 @@ stopwords:
 - "\u0105'hua"
 top_n_grams:
 - - 2
-  - 0.494
+  - 0.931
 - - 3
-  - 0.784
+  - 1.038
 - - 4
-  - 1.098
+  - 1.112

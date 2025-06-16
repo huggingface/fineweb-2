@@ -1,23 +1,23 @@
-dup_line_frac: 0.923
+dup_line_frac: 0.817
 dup_n_grams:
 - - 5
-  - 0.732
+  - 0.547
 - - 6
-  - 0.722
+  - 0.531
 - - 7
-  - 0.724
+  - 0.514
 - - 8
-  - 0.702
+  - 0.487
 - - 9
-  - 0.697
+  - 0.466
 - - 10
-  - 0.674
+  - 0.428
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.724
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.696
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - anna
 - la
@@ -38,8 +38,8 @@ stopwords:
 - angganna
 top_n_grams:
 - - 2
-  - 0.936
+  - 1.706
 - - 3
-  - 1.258
+  - 1.695
 - - 4
-  - 1.766
+  - 1.618

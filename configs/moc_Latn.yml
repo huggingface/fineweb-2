@@ -1,23 +1,23 @@
-dup_line_frac: 0.88
+dup_line_frac: 0.705
 dup_n_grams:
 - - 5
-  - 0.556
+  - 0.462
 - - 6
-  - 0.57
+  - 0.449
 - - 7
-  - 0.545
+  - 0.436
 - - 8
-  - 0.543
+  - 0.4
 - - 9
-  - 0.519
+  - 0.345
 - - 10
-  - 0.526
+  - 0.307
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.674
-min_avg_word_length: 5
-new_line_ratio: 0.067
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.643
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - ca
 - so
@@ -35,8 +35,8 @@ stopwords:
 - qamiri
 top_n_grams:
 - - 2
-  - 0.561
+  - 1.191
 - - 3
-  - 0.71
+  - 1.15
 - - 4
-  - 0.923
+  - 1.01

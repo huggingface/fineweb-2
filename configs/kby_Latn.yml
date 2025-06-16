@@ -1,23 +1,23 @@
-dup_line_frac: 0.858
+dup_line_frac: 0.673
 dup_n_grams:
 - - 5
-  - 0.847
+  - 0.659
 - - 6
-  - 0.853
+  - 0.647
 - - 7
-  - 0.845
+  - 0.619
 - - 8
-  - 0.846
+  - 0.596
 - - 9
-  - 0.853
+  - 0.567
 - - 10
-  - 0.84
+  - 0.53
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.701
-min_avg_word_length: 5
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - a
 - amma
@@ -39,8 +39,8 @@ stopwords:
 - isa
 top_n_grams:
 - - 2
-  - 0.784
+  - 1.39
 - - 3
-  - 1.128
+  - 1.341
 - - 4
-  - 1.358
+  - 1.216

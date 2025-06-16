@@ -1,23 +1,23 @@
-dup_line_frac: 0.016
+dup_line_frac: 0.266
 dup_n_grams:
 - - 5
-  - 0.021
+  - 0.24
 - - 6
-  - 0.011
+  - 0.233
 - - 7
-  - 0.012
+  - 0.222
 - - 8
-  - 0.006
+  - 0.215
 - - 9
-  - 0.0
+  - 0.198
 - - 10
-  - 0.0
+  - 0.183
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.765
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - ebu
 - "aza\u1E21a"
@@ -38,8 +38,8 @@ stopwords:
 - mazao
 top_n_grams:
 - - 2
-  - 0.043
+  - 0.681
 - - 3
-  - 0.032
+  - 0.697
 - - 4
-  - 0.036
+  - 0.631

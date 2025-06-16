@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.237
 dup_n_grams:
 - - 5
-  - 0.049
+  - 0.046
 - - 6
-  - 0.027
+  - 0.029
 - - 7
-  - 0.019
+  - 0.025
 - - 8
-  - 0.014
+  - 0.024
 - - 9
-  - 0.007
+  - 0.013
 - - 10
-  - 0.005
+  - 0.012
 language_score: 0.777
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.871
-min_avg_word_length: 5
-new_line_ratio: 0.056
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 4
+new_line_ratio: 0.045
 stopwords:
 - "m\u0268"
 - siya
@@ -38,8 +38,8 @@ stopwords:
 - inkam
 top_n_grams:
 - - 2
-  - 0.089
+  - 0.129
 - - 3
-  - 0.099
+  - 0.102
 - - 4
-  - 0.112
+  - 0.086

@@ -1,23 +1,23 @@
-dup_line_frac: 0.417
+dup_line_frac: 0.389
 dup_n_grams:
 - - 5
-  - 0.385
+  - 0.32
 - - 6
-  - 0.37
+  - 0.288
 - - 7
-  - 0.37
+  - 0.269
 - - 8
-  - 0.369
+  - 0.246
 - - 9
-  - 0.365
+  - 0.229
 - - 10
-  - 0.336
+  - 0.208
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.798
+max_non_alpha_words_ratio: 0.771
 min_avg_word_length: 2
-new_line_ratio: 0.056
+new_line_ratio: 0.045
 stopwords:
 - "t\xF3g"
 - "t\u1EF9"
@@ -54,8 +54,8 @@ stopwords:
 - kar
 top_n_grams:
 - - 2
-  - 0.237
+  - 0.78
 - - 3
-  - 0.498
+  - 0.87
 - - 4
-  - 0.627
+  - 0.764

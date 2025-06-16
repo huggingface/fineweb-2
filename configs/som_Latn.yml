@@ -1,23 +1,23 @@
-dup_line_frac: 0.471
+dup_line_frac: 0.405
 dup_n_grams:
 - - 5
-  - 0.382
+  - 0.285
 - - 6
-  - 0.364
+  - 0.27
 - - 7
-  - 0.345
+  - 0.251
 - - 8
-  - 0.328
+  - 0.232
 - - 9
-  - 0.31
+  - 0.211
 - - 10
-  - 0.292
+  - 0.191
 language_score: 0.3
-line_punct_thr: 0.026
+line_punct_thr: 0.0
 max_avg_word_length: 74
 max_non_alpha_words_ratio: 0.831
-min_avg_word_length: 3
-new_line_ratio: 0.446
+min_avg_word_length: 2
+new_line_ratio: 0.29
 stopwords:
 - oo
 - iyo
@@ -35,8 +35,8 @@ stopwords:
 - waxay
 top_n_grams:
 - - 2
-  - 0.505
+  - 0.812
 - - 3
-  - 0.769
+  - 0.846
 - - 4
-  - 1.0
+  - 0.811

@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.48
 dup_n_grams:
 - - 5
-  - 0.526
+  - 0.515
 - - 6
-  - 0.523
+  - 0.514
 - - 7
-  - 0.553
+  - 0.477
 - - 8
-  - 0.597
+  - 0.445
 - - 9
-  - 0.611
+  - 0.434
 - - 10
-  - 0.344
+  - 0.273
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - ko
 - la
@@ -35,8 +35,8 @@ stopwords:
 - joi
 top_n_grams:
 - - 2
-  - 0.868
+  - 1.405
 - - 3
-  - 1.316
+  - 1.457
 - - 4
-  - 1.289
+  - 1.246

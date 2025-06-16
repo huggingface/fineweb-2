@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.294
 dup_n_grams:
 - - 5
-  - 0.378
+  - 0.279
 - - 6
-  - 0.373
+  - 0.241
 - - 7
-  - 0.32
+  - 0.199
 - - 8
-  - 0.312
+  - 0.189
 - - 9
-  - 0.309
+  - 0.182
 - - 10
-  - 0.297
+  - 0.165
 language_score: 0.861
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.846
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - a
 - u
@@ -40,8 +40,8 @@ stopwords:
 - "anyi\u0301a"
 top_n_grams:
 - - 2
-  - 0.126
+  - 0.191
 - - 3
-  - 0.233
+  - 0.285
 - - 4
-  - 0.251
+  - 0.25

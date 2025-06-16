@@ -1,23 +1,23 @@
-dup_line_frac: 0.417
+dup_line_frac: 0.466
 dup_n_grams:
 - - 5
-  - 0.159
+  - 0.221
 - - 6
-  - 0.097
+  - 0.209
 - - 7
-  - 0.094
+  - 0.189
 - - 8
-  - 0.056
+  - 0.169
 - - 9
-  - 0.012
+  - 0.145
 - - 10
-  - 0.0
+  - 0.136
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.826
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - nou
 - hi
@@ -40,8 +40,8 @@ stopwords:
 - ramai
 top_n_grams:
 - - 2
-  - 0.595
+  - 0.98
 - - 3
-  - 0.682
+  - 0.801
 - - 4
-  - 0.72
+  - 0.597

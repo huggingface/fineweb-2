@@ -1,23 +1,23 @@
-dup_line_frac: 0.708
+dup_line_frac: 0.68
 dup_n_grams:
 - - 5
-  - 0.628
+  - 0.441
 - - 6
-  - 0.618
+  - 0.427
 - - 7
-  - 0.603
+  - 0.39
 - - 8
-  - 0.604
+  - 0.385
 - - 9
-  - 0.585
+  - 0.341
 - - 10
-  - 0.615
+  - 0.329
 language_score: 0.44
 line_punct_thr: -1
-max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 6
-new_line_ratio: 0.111
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.72
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - era
 - relha
@@ -39,8 +39,8 @@ stopwords:
 - arrpunha
 top_n_grams:
 - - 2
-  - 1.0
+  - 2.168
 - - 3
-  - 2.643
+  - 1.999
 - - 4
-  - 3.365
+  - 1.855

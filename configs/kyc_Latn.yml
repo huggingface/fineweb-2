@@ -1,23 +1,23 @@
-dup_line_frac: 0.007
+dup_line_frac: 0.204
 dup_n_grams:
 - - 5
-  - 0.073
+  - 0.17
 - - 6
-  - 0.071
+  - 0.167
 - - 7
-  - 0.046
+  - 0.145
 - - 8
-  - 0.032
+  - 0.134
 - - 9
-  - 0.022
+  - 0.126
 - - 10
-  - 0.019
+  - 0.115
 language_score: 0.708
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.897
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.879
+min_avg_word_length: 4
+new_line_ratio: 0.067
 stopwords:
 - lao
 - doko
@@ -40,8 +40,8 @@ stopwords:
 - namba
 top_n_grams:
 - - 2
-  - 0.112
+  - 0.359
 - - 3
-  - 0.108
+  - 0.31
 - - 4
-  - 0.136
+  - 0.277

@@ -1,23 +1,23 @@
-dup_line_frac: 0.518
+dup_line_frac: 0.483
 dup_n_grams:
 - - 5
-  - 0.396
+  - 0.32
 - - 6
-  - 0.386
+  - 0.306
 - - 7
-  - 0.375
+  - 0.289
 - - 8
-  - 0.367
+  - 0.271
 - - 9
-  - 0.345
+  - 0.248
 - - 10
-  - 0.342
+  - 0.229
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - ta
 - di
@@ -41,8 +41,8 @@ stopwords:
 - algen
 top_n_grams:
 - - 2
-  - 0.36
+  - 0.745
 - - 3
-  - 0.533
+  - 0.637
 - - 4
-  - 0.581
+  - 0.524

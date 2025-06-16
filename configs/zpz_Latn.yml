@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.211
 dup_n_grams:
 - - 5
-  - 0.1
+  - 0.164
 - - 6
-  - 0.077
+  - 0.151
 - - 7
-  - 0.057
+  - 0.129
 - - 8
-  - 0.048
+  - 0.119
 - - 9
-  - 0.032
+  - 0.107
 - - 10
-  - 0.024
+  - 0.099
 language_score: 0.667
 line_punct_thr: -1
 max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.79
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 2
+new_line_ratio: 0.045
 stopwords:
 - nu
 - de
@@ -42,8 +42,8 @@ stopwords:
 - gyicy
 top_n_grams:
 - - 2
-  - 0.083
+  - 0.356
 - - 3
-  - 0.146
+  - 0.351
 - - 4
-  - 0.133
+  - 0.3

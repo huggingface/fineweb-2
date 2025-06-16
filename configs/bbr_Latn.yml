@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.363
 dup_n_grams:
 - - 5
-  - 0.402
+  - 0.357
 - - 6
-  - 0.4
+  - 0.351
 - - 7
-  - 0.399
+  - 0.341
 - - 8
-  - 0.394
+  - 0.325
 - - 9
-  - 0.388
+  - 0.31
 - - 10
-  - 0.39
+  - 0.291
 language_score: 0.666
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - kiro
 - ak
@@ -47,8 +47,8 @@ stopwords:
 - eposek
 top_n_grams:
 - - 2
-  - 0.109
+  - 0.315
 - - 3
-  - 0.128
+  - 0.311
 - - 4
-  - 0.157
+  - 0.296

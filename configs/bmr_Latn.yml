@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.312
 dup_n_grams:
 - - 5
-  - 0.388
-- - 6
-  - 0.356
-- - 7
   - 0.336
+- - 6
+  - 0.309
+- - 7
+  - 0.294
 - - 8
-  - 0.37
+  - 0.303
 - - 9
-  - 0.342
+  - 0.271
 - - 10
-  - 0.369
+  - 0.273
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 15
-max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 7
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 5
+new_line_ratio: 0.1
 stopwords:
 - bu
 - moocaani
@@ -39,8 +39,8 @@ stopwords:
 - "pary\u0268"
 top_n_grams:
 - - 2
-  - 0.778
+  - 1.229
 - - 3
-  - 1.185
+  - 1.326
 - - 4
-  - 1.545
+  - 1.303

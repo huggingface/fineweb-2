@@ -1,23 +1,23 @@
-dup_line_frac: 0.447
+dup_line_frac: 0.402
 dup_n_grams:
 - - 5
-  - 0.357
+  - 0.307
 - - 6
-  - 0.374
+  - 0.304
 - - 7
-  - 0.34
+  - 0.285
 - - 8
-  - 0.302
+  - 0.27
 - - 9
-  - 0.131
+  - 0.263
 - - 10
-  - 0.141
+  - 0.234
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.767
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.091
 stopwords:
 - masike
 - "malal\xEB"
@@ -37,8 +37,8 @@ stopwords:
 - huwa
 top_n_grams:
 - - 2
-  - 0.193
+  - 0.804
 - - 3
-  - 0.234
+  - 0.827
 - - 4
-  - 0.238
+  - 0.75

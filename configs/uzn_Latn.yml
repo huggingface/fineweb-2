@@ -1,23 +1,23 @@
-dup_line_frac: 0.25
+dup_line_frac: 0.254
 dup_n_grams:
 - - 5
-  - 0.152
+  - 0.15
 - - 6
-  - 0.128
+  - 0.139
 - - 7
-  - 0.114
+  - 0.128
 - - 8
-  - 0.102
+  - 0.12
 - - 9
-  - 0.085
+  - 0.109
 - - 10
-  - 0.067
+  - 0.093
 language_score: 0.631
-line_punct_thr: 0.382
-max_avg_word_length: 12
+line_punct_thr: 0.25
+max_avg_word_length: 13
 max_non_alpha_words_ratio: 0.691
 min_avg_word_length: 3
-new_line_ratio: 0.196
+new_line_ratio: 0.159
 stopwords:
 - va
 - bilan
@@ -42,8 +42,8 @@ stopwords:
 - sifatida
 top_n_grams:
 - - 2
-  - 0.427
+  - 0.871
 - - 3
-  - 0.288
+  - 0.543
 - - 4
-  - 0.248
+  - 0.357

@@ -1,23 +1,23 @@
-dup_line_frac: 0.186
+dup_line_frac: 0.241
 dup_n_grams:
 - - 5
-  - 0.063
+  - 0.142
 - - 6
-  - 0.043
+  - 0.134
 - - 7
-  - 0.028
+  - 0.125
 - - 8
-  - 0.017
+  - 0.115
 - - 9
-  - 0.006
+  - 0.106
 - - 10
-  - 0.0
+  - 0.095
 language_score: 0.3
-line_punct_thr: 0.167
+line_punct_thr: 0.125
 max_avg_word_length: 13
 max_non_alpha_words_ratio: 0.778
 min_avg_word_length: 3
-new_line_ratio: 0.252
+new_line_ratio: 0.214
 stopwords:
 - mu
 - nga
@@ -43,8 +43,8 @@ stopwords:
 - abantu
 top_n_grams:
 - - 2
-  - 0.778
+  - 1.233
 - - 3
-  - 1.0
+  - 1.109
 - - 4
-  - 1.105
+  - 0.92

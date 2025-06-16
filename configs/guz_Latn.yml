@@ -1,23 +1,23 @@
-dup_line_frac: 0.417
+dup_line_frac: 0.511
 dup_n_grams:
 - - 5
-  - 0.464
+  - 0.383
 - - 6
-  - 0.432
+  - 0.352
 - - 7
-  - 0.408
+  - 0.317
 - - 8
-  - 0.348
+  - 0.285
 - - 9
-  - 0.346
+  - 0.265
 - - 10
-  - 0.344
+  - 0.245
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.762
-min_avg_word_length: 6
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 3
+new_line_ratio: 0.111
 stopwords:
 - korende
 - nyasaye
@@ -32,8 +32,8 @@ stopwords:
 - ekiagera
 top_n_grams:
 - - 2
-  - 0.492
+  - 1.155
 - - 3
-  - 0.646
+  - 1.134
 - - 4
-  - 0.676
+  - 1.0

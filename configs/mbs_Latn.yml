@@ -1,23 +1,23 @@
-dup_line_frac: 0.939
+dup_line_frac: 1.02
 dup_n_grams:
 - - 5
-  - 0.814
+  - 0.767
 - - 6
-  - 0.814
+  - 0.764
 - - 7
-  - 0.759
+  - 0.711
 - - 8
-  - 0.651
+  - 0.624
 - - 9
-  - 0.732
+  - 0.649
 - - 10
-  - 0.814
+  - 0.671
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - te
 - se
@@ -41,8 +41,8 @@ stopwords:
 - kedita
 top_n_grams:
 - - 2
-  - 1.786
+  - 3.086
 - - 3
-  - 2.644
+  - 3.284
 - - 4
-  - 3.441
+  - 3.235

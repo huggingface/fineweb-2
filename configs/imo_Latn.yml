@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.359
 dup_n_grams:
 - - 5
-  - 0.407
+  - 0.35
 - - 6
-  - 0.405
+  - 0.344
 - - 7
-  - 0.402
+  - 0.333
 - - 8
-  - 0.399
+  - 0.318
 - - 9
-  - 0.396
+  - 0.301
 - - 10
-  - 0.39
+  - 0.282
 language_score: 0.672
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.87
-min_avg_word_length: 5
-new_line_ratio: 0.067
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.841
+min_avg_word_length: 4
+new_line_ratio: 0.053
 stopwords:
 - kinye
 - aku
@@ -39,8 +39,8 @@ stopwords:
 - konopu
 top_n_grams:
 - - 2
-  - 0.107
+  - 0.52
 - - 3
-  - 0.133
+  - 0.399
 - - 4
-  - 0.166
+  - 0.359

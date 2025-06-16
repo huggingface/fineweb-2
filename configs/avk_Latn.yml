@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.51
 dup_n_grams:
 - - 5
-  - 0.462
+  - 0.349
 - - 6
-  - 0.432
+  - 0.335
 - - 7
-  - 0.415
+  - 0.318
 - - 8
-  - 0.404
+  - 0.302
 - - 9
-  - 0.395
+  - 0.284
 - - 10
-  - 0.394
+  - 0.261
 language_score: 0.3
-line_punct_thr: 0.04
-max_avg_word_length: 15
+line_punct_thr: 0.024
+max_avg_word_length: 16
 max_non_alpha_words_ratio: 0.606
 min_avg_word_length: 3
-new_line_ratio: 1.0
+new_line_ratio: 0.314
 stopwords:
 - vuest-
 - en
@@ -31,8 +31,8 @@ stopwords:
 - koe
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.696
 - - 3
-  - 1.521
+  - 1.796
 - - 4
-  - 2.055
+  - 1.757

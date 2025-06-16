@@ -1,23 +1,23 @@
-dup_line_frac: 0.083
+dup_line_frac: 0.321
 dup_n_grams:
 - - 5
-  - 0.258
+  - 0.237
 - - 6
-  - 0.171
+  - 0.219
 - - 7
-  - 0.108
+  - 0.203
 - - 8
-  - 0.084
+  - 0.191
 - - 9
-  - 0.014
+  - 0.172
 - - 10
-  - 0.002
+  - 0.157
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - "ph\u1ECD"
 - "b\u1ECD"
@@ -32,8 +32,8 @@ stopwords:
 - azihova
 top_n_grams:
 - - 2
-  - 0.778
+  - 1.262
 - - 3
-  - 1.0
+  - 1.118
 - - 4
-  - 0.859
+  - 0.869

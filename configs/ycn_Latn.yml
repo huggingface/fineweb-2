@@ -1,23 +1,23 @@
-dup_line_frac: 0.874
+dup_line_frac: 0.591
 dup_n_grams:
 - - 5
-  - 0.711
+  - 0.499
 - - 6
-  - 0.643
+  - 0.474
 - - 7
-  - 0.673
+  - 0.457
 - - 8
-  - 0.623
+  - 0.434
 - - 9
-  - 0.64
+  - 0.408
 - - 10
-  - 0.636
+  - 0.374
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - tupana
 - que
@@ -40,8 +40,8 @@ stopwords:
 - chu
 top_n_grams:
 - - 2
-  - 0.84
+  - 1.433
 - - 3
-  - 1.336
+  - 1.507
 - - 4
-  - 1.864
+  - 1.43

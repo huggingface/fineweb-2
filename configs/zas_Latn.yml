@@ -1,23 +1,23 @@
-dup_line_frac: 0.833
+dup_line_frac: 0.605
 dup_n_grams:
 - - 5
-  - 0.76
+  - 0.538
 - - 6
-  - 0.766
+  - 0.506
 - - 7
-  - 0.77
+  - 0.512
 - - 8
-  - 0.633
+  - 0.433
 - - 9
-  - 0.658
+  - 0.385
 - - 10
-  - 0.678
+  - 0.345
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.78
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - ree
 - reeman
@@ -42,8 +42,8 @@ stopwords:
 - zi'c
 top_n_grams:
 - - 2
-  - 0.938
+  - 1.564
 - - 3
-  - 1.0
+  - 1.479
 - - 4
-  - 1.0
+  - 1.329

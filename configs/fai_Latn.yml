@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.206
 dup_n_grams:
 - - 5
-  - 0.033
+  - 0.15
 - - 6
-  - 0.006
+  - 0.144
 - - 7
-  - 0.0
+  - 0.127
 - - 8
-  - 0.0
+  - 0.121
 - - 9
-  - 0.0
+  - 0.109
 - - 10
-  - 0.0
+  - 0.102
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.848
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - kinim
 - kale
@@ -44,8 +44,8 @@ stopwords:
 - naka
 top_n_grams:
 - - 2
-  - 0.174
+  - 0.669
 - - 3
-  - 0.201
+  - 0.635
 - - 4
-  - 0.217
+  - 0.589

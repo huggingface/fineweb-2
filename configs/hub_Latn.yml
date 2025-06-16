@@ -1,23 +1,23 @@
-dup_line_frac: 0.794
+dup_line_frac: 0.608
 dup_n_grams:
 - - 5
-  - 0.62
+  - 0.465
 - - 6
-  - 0.648
+  - 0.46
 - - 7
-  - 0.642
+  - 0.438
 - - 8
-  - 0.599
+  - 0.413
 - - 9
-  - 0.678
+  - 0.407
 - - 10
-  - 0.586
+  - 0.365
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 6
-new_line_ratio: 0.091
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - shuar
 - tusa
@@ -33,8 +33,8 @@ stopwords:
 - wina
 top_n_grams:
 - - 2
-  - 0.36
+  - 0.936
 - - 3
-  - 0.457
+  - 0.911
 - - 4
-  - 0.51
+  - 0.819

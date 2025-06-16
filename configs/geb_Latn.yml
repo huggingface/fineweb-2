@@ -1,23 +1,23 @@
-dup_line_frac: 0.026
+dup_line_frac: 0.163
 dup_n_grams:
 - - 5
-  - 0.11
+  - 0.231
 - - 6
-  - 0.088
+  - 0.216
 - - 7
-  - 0.062
+  - 0.194
 - - 8
-  - 0.043
+  - 0.184
 - - 9
-  - 0.037
+  - 0.168
 - - 10
-  - 0.028
+  - 0.155
 language_score: 0.702
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 4
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.774
+min_avg_word_length: 3
+new_line_ratio: 0.043
 stopwords:
 - ana
 - mbe
@@ -45,8 +45,8 @@ stopwords:
 - "muu\u014Bgi"
 top_n_grams:
 - - 2
-  - 0.052
+  - 0.945
 - - 3
-  - 0.063
+  - 0.948
 - - 4
-  - 0.055
+  - 0.855

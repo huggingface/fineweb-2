@@ -1,23 +1,23 @@
-dup_line_frac: 0.438
+dup_line_frac: 0.41
 dup_n_grams:
 - - 5
-  - 0.262
+  - 0.301
 - - 6
-  - 0.24
+  - 0.294
 - - 7
-  - 0.235
+  - 0.285
 - - 8
-  - 0.134
+  - 0.265
 - - 9
-  - 0.113
+  - 0.249
 - - 10
-  - 0.089
+  - 0.229
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.795
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - ii
 - mono
@@ -34,8 +34,8 @@ stopwords:
 - eja
 top_n_grams:
 - - 2
-  - 0.438
+  - 0.652
 - - 3
-  - 0.362
+  - 0.47
 - - 4
-  - 0.51
+  - 0.395

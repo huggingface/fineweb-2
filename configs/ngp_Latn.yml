@@ -1,23 +1,23 @@
-dup_line_frac: 0.761
+dup_line_frac: 0.73
 dup_n_grams:
 - - 5
-  - 0.639
+  - 0.548
 - - 6
-  - 0.646
+  - 0.548
 - - 7
-  - 0.619
+  - 0.522
 - - 8
-  - 0.63
+  - 0.508
 - - 9
-  - 0.614
+  - 0.479
 - - 10
-  - 0.608
+  - 0.45
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 5
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.083
 stopwords:
 - na
 - niyo
@@ -36,8 +36,8 @@ stopwords:
 - kugamba
 top_n_grams:
 - - 2
-  - 0.889
+  - 1.561
 - - 3
-  - 1.089
+  - 1.621
 - - 4
-  - 1.555
+  - 1.658

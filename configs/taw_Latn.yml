@@ -1,23 +1,23 @@
-dup_line_frac: 0.794
+dup_line_frac: 0.569
 dup_n_grams:
 - - 5
-  - 0.667
+  - 0.415
 - - 6
-  - 0.691
+  - 0.4
 - - 7
-  - 0.647
+  - 0.381
 - - 8
-  - 0.65
+  - 0.36
 - - 9
-  - 0.636
+  - 0.333
 - - 10
-  - 0.609
+  - 0.31
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - ak
 - okok
@@ -45,8 +45,8 @@ stopwords:
 - "g\u0268l"
 top_n_grams:
 - - 2
-  - 0.862
+  - 1.412
 - - 3
-  - 1.108
+  - 1.364
 - - 4
-  - 1.391
+  - 1.258

@@ -1,23 +1,23 @@
-dup_line_frac: 0.132
+dup_line_frac: 0.222
 dup_n_grams:
 - - 5
-  - 0.231
+  - 0.239
 - - 6
-  - 0.21
+  - 0.222
 - - 7
-  - 0.063
+  - 0.144
 - - 8
-  - 0.047
+  - 0.134
 - - 9
-  - 0.037
+  - 0.114
 - - 10
-  - 0.031
+  - 0.105
 language_score: 0.594
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.741
-min_avg_word_length: 5
-new_line_ratio: 0.05
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.725
+min_avg_word_length: 4
+new_line_ratio: 0.042
 stopwords:
 - rma
 - "hat\xE0"
@@ -44,8 +44,8 @@ stopwords:
 - khoryenkomo
 top_n_grams:
 - - 2
-  - 0.196
+  - 0.718
 - - 3
-  - 0.326
+  - 0.57
 - - 4
-  - 0.187
+  - 0.437

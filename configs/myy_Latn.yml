@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.204
 dup_n_grams:
 - - 5
-  - 0.351
+  - 0.2
 - - 6
-  - 0.35
+  - 0.18
 - - 7
-  - 0.284
+  - 0.15
 - - 8
-  - 0.281
+  - 0.139
 - - 9
-  - 0.271
+  - 0.128
 - - 10
-  - 0.276
+  - 0.119
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - "\u0129"
 - ito
@@ -44,8 +44,8 @@ stopwords:
 - "m\u0289"
 top_n_grams:
 - - 2
-  - 0.103
+  - 0.182
 - - 3
-  - 0.186
+  - 0.205
 - - 4
-  - 0.201
+  - 0.176

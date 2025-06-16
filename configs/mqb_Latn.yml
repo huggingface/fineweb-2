@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.205
 dup_n_grams:
 - - 5
-  - 0.338
+  - 0.195
 - - 6
-  - 0.339
+  - 0.167
 - - 7
-  - 0.279
+  - 0.138
 - - 8
-  - 0.269
+  - 0.131
 - - 9
-  - 0.268
+  - 0.123
 - - 10
-  - 0.247
+  - 0.112
 language_score: 0.865
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 3
-new_line_ratio: 0.05
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 2
+new_line_ratio: 0.043
 stopwords:
 - a
 - ahay
@@ -50,8 +50,8 @@ stopwords:
 - aya
 top_n_grams:
 - - 2
-  - 0.111
+  - 0.187
 - - 3
-  - 0.214
+  - 0.229
 - - 4
-  - 0.233
+  - 0.197

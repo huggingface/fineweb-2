@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.384
 dup_n_grams:
 - - 5
-  - 0.391
+  - 0.374
 - - 6
-  - 0.387
+  - 0.367
 - - 7
-  - 0.386
+  - 0.355
 - - 8
-  - 0.384
+  - 0.341
 - - 9
-  - 0.379
+  - 0.325
 - - 10
-  - 0.378
+  - 0.308
 language_score: 0.723
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.767
-min_avg_word_length: 3
-new_line_ratio: 0.05
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.042
 stopwords:
 - ei
 - nga
@@ -44,8 +44,8 @@ stopwords:
 - elim
 top_n_grams:
 - - 2
-  - 0.089
+  - 0.35
 - - 3
-  - 0.115
+  - 0.346
 - - 4
-  - 0.135
+  - 0.314

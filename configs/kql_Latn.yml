@@ -1,23 +1,23 @@
-dup_line_frac: 0.994
+dup_line_frac: 1.289
 dup_n_grams:
 - - 5
-  - 0.64
+  - 0.746
 - - 6
-  - 0.639
+  - 0.745
 - - 7
-  - 0.638
+  - 0.734
 - - 8
-  - 0.639
+  - 0.721
 - - 9
-  - 0.638
+  - 0.701
 - - 10
-  - 0.639
+  - 0.683
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.741
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - de
 - wulu
@@ -44,8 +44,8 @@ stopwords:
 - wunu
 top_n_grams:
 - - 2
-  - 0.8
+  - 1.562
 - - 3
-  - 1.38
+  - 1.815
 - - 4
-  - 1.759
+  - 2.115

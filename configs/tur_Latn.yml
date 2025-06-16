@@ -1,23 +1,23 @@
-dup_line_frac: 0.303
+dup_line_frac: 0.272
 dup_n_grams:
 - - 5
-  - 0.168
+  - 0.154
 - - 6
-  - 0.151
+  - 0.144
 - - 7
-  - 0.135
+  - 0.134
 - - 8
-  - 0.123
+  - 0.124
 - - 9
-  - 0.116
+  - 0.113
 - - 10
-  - 0.107
+  - 0.103
 language_score: 0.875
-line_punct_thr: 0.2
+line_punct_thr: 0.091
 max_avg_word_length: 21
 max_non_alpha_words_ratio: 0.773
 min_avg_word_length: 3
-new_line_ratio: 0.273
+new_line_ratio: 0.222
 stopwords:
 - ve
 - bir
@@ -37,8 +37,8 @@ stopwords:
 - the
 top_n_grams:
 - - 2
-  - 0.094
+  - 0.214
 - - 3
-  - 0.114
+  - 0.168
 - - 4
-  - 0.136
+  - 0.147

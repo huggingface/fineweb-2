@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.047
 dup_n_grams:
 - - 5
-  - 0.075
+  - 0.08
 - - 6
-  - 0.053
+  - 0.063
 - - 7
-  - 0.041
+  - 0.051
 - - 8
-  - 0.03
+  - 0.043
 - - 9
-  - 0.027
+  - 0.036
 - - 10
-  - 0.02
+  - 0.031
 language_score: 0.893
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - ha
 - "n\u025B"
@@ -46,8 +46,8 @@ stopwords:
 - "n\u025B\u0302"
 top_n_grams:
 - - 2
-  - 0.034
+  - 0.127
 - - 3
-  - 0.037
+  - 0.123
 - - 4
-  - 0.033
+  - 0.108

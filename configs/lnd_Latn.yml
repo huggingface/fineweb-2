@@ -1,23 +1,23 @@
-dup_line_frac: 0.1
+dup_line_frac: 0.256
 dup_n_grams:
 - - 5
-  - 0.286
+  - 0.273
 - - 6
-  - 0.245
+  - 0.269
 - - 7
-  - 0.202
+  - 0.247
 - - 8
-  - 0.13
+  - 0.23
 - - 9
-  - 0.145
+  - 0.219
 - - 10
-  - 0.152
+  - 0.2
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.733
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.708
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - idi
 - luk
@@ -47,8 +47,8 @@ stopwords:
 - kareb
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.611
 - - 3
-  - 1.0
+  - 1.392
 - - 4
-  - 1.0
+  - 1.252

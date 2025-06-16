@@ -1,23 +1,23 @@
-dup_line_frac: 0.43
+dup_line_frac: 0.394
 dup_n_grams:
 - - 5
-  - 0.382
+  - 0.406
 - - 6
-  - 0.384
+  - 0.335
 - - 7
-  - 0.375
+  - 0.266
 - - 8
-  - 0.375
+  - 0.252
 - - 9
-  - 0.374
+  - 0.237
 - - 10
-  - 0.373
+  - 0.216
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 5
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.083
 stopwords:
 - hoba
 - to
@@ -40,8 +40,8 @@ stopwords:
 - haoenei
 top_n_grams:
 - - 2
-  - 0.625
+  - 1.18
 - - 3
-  - 0.666
+  - 0.84
 - - 4
-  - 0.769
+  - 0.716

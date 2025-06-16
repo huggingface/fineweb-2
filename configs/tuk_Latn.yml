@@ -1,22 +1,22 @@
-dup_line_frac: 0.3
+dup_line_frac: 0.276
 dup_n_grams:
 - - 5
-  - 0.195
+  - 0.17
 - - 6
   - 0.151
 - - 7
-  - 0.111
+  - 0.138
 - - 8
-  - 0.091
+  - 0.125
 - - 9
-  - 0.076
+  - 0.117
 - - 10
-  - 0.066
+  - 0.104
 language_score: 0.666
 line_punct_thr: 0.0
 max_avg_word_length: 24
 max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 2
+min_avg_word_length: 1
 new_line_ratio: 1.0
 stopwords:
 - we
@@ -43,8 +43,8 @@ stopwords:
 - "\xFDyly\u0148"
 top_n_grams:
 - - 2
-  - 0.123
+  - 0.406
 - - 3
-  - 0.163
+  - 0.337
 - - 4
-  - 0.183
+  - 0.274

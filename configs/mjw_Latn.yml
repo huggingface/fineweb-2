@@ -1,23 +1,23 @@
-dup_line_frac: 0.145
+dup_line_frac: 0.346
 dup_n_grams:
 - - 5
-  - 0.197
+  - 0.251
 - - 6
-  - 0.157
+  - 0.239
 - - 7
-  - 0.118
+  - 0.227
 - - 8
-  - 0.076
+  - 0.215
 - - 9
-  - 0.062
+  - 0.196
 - - 10
-  - 0.047
+  - 0.179
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - aphan
 - lapen
@@ -39,8 +39,8 @@ stopwords:
 - labangso
 top_n_grams:
 - - 2
-  - 0.378
+  - 0.921
 - - 3
-  - 0.466
+  - 0.865
 - - 4
-  - 0.403
+  - 0.748

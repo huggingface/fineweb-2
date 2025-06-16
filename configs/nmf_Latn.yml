@@ -1,23 +1,23 @@
-dup_line_frac: 0.062
+dup_line_frac: 0.223
 dup_n_grams:
 - - 5
-  - 0.057
+  - 0.177
 - - 6
-  - 0.025
+  - 0.163
 - - 7
-  - 0.013
+  - 0.157
 - - 8
-  - 0.01
+  - 0.141
 - - 9
-  - 0.0
+  - 0.13
 - - 10
-  - 0.0
+  - 0.123
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 6
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.1
 stopwords:
 - kala
 - eina
@@ -36,8 +36,8 @@ stopwords:
 - hi
 top_n_grams:
 - - 2
-  - 0.911
+  - 1.298
 - - 3
-  - 1.0
+  - 1.043
 - - 4
-  - 0.867
+  - 0.749

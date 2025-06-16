@@ -1,23 +1,23 @@
-dup_line_frac: 0.692
+dup_line_frac: 0.634
 dup_n_grams:
 - - 5
-  - 0.55
+  - 0.435
 - - 6
-  - 0.511
+  - 0.412
 - - 7
-  - 0.523
+  - 0.383
 - - 8
-  - 0.537
+  - 0.356
 - - 9
-  - 0.459
+  - 0.315
 - - 10
-  - 0.495
+  - 0.288
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.766
-min_avg_word_length: 4
-new_line_ratio: 0.043
+max_non_alpha_words_ratio: 0.744
+min_avg_word_length: 3
+new_line_ratio: 0.036
 stopwords:
 - nang
 - er
@@ -47,8 +47,8 @@ stopwords:
 - kanya
 top_n_grams:
 - - 2
-  - 0.701
+  - 1.261
 - - 3
-  - 0.8
+  - 1.213
 - - 4
-  - 0.979
+  - 1.119

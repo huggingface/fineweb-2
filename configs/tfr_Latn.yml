@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.29
 dup_n_grams:
 - - 5
-  - 0.381
+  - 0.276
 - - 6
-  - 0.375
+  - 0.239
 - - 7
-  - 0.326
+  - 0.208
 - - 8
-  - 0.317
+  - 0.194
 - - 9
-  - 0.317
+  - 0.183
 - - 10
-  - 0.304
+  - 0.168
 language_score: 0.636
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - ga
 - kong
@@ -40,8 +40,8 @@ stopwords:
 - bakoe
 top_n_grams:
 - - 2
-  - 0.129
+  - 0.27
 - - 3
-  - 0.239
+  - 0.322
 - - 4
-  - 0.257
+  - 0.294

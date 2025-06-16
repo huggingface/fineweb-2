@@ -1,23 +1,23 @@
-dup_line_frac: 0.846
+dup_line_frac: 0.63
 dup_n_grams:
 - - 5
-  - 0.729
+  - 0.428
 - - 6
-  - 0.713
+  - 0.42
 - - 7
-  - 0.697
+  - 0.397
 - - 8
-  - 0.669
+  - 0.374
 - - 9
-  - 0.674
+  - 0.362
 - - 10
-  - 0.627
+  - 0.328
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.792
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - ko
 - "ts\xFC"
@@ -40,8 +40,8 @@ stopwords:
 - ih
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.485
 - - 3
-  - 1.0
+  - 1.371
 - - 4
-  - 1.266
+  - 1.269

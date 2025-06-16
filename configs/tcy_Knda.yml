@@ -1,23 +1,23 @@
-dup_line_frac: 0.304
+dup_line_frac: 0.303
 dup_n_grams:
 - - 5
-  - 0.212
+  - 0.195
 - - 6
-  - 0.198
+  - 0.188
 - - 7
-  - 0.169
+  - 0.177
 - - 8
-  - 0.147
+  - 0.152
 - - 9
-  - 0.124
+  - 0.138
 - - 10
-  - 0.094
+  - 0.123
 language_score: 0.431
-line_punct_thr: 0.182
-max_avg_word_length: 15
+line_punct_thr: 0.111
+max_avg_word_length: 16
 max_non_alpha_words_ratio: 0.814
 min_avg_word_length: 4
-new_line_ratio: 0.334
+new_line_ratio: 0.23
 stopwords:
 - "\u0CAC\u0CCA\u0C95\u0CCD\u0C95"
 - "\u0C88"
@@ -36,8 +36,8 @@ stopwords:
 - "\u0CA6"
 top_n_grams:
 - - 2
-  - 0.143
+  - 0.507
 - - 3
-  - 0.167
+  - 0.461
 - - 4
-  - 0.208
+  - 0.398

@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.473
 dup_n_grams:
 - - 5
-  - 0.39
+  - 0.296
 - - 6
-  - 0.387
+  - 0.28
 - - 7
-  - 0.336
+  - 0.259
 - - 8
-  - 0.322
+  - 0.24
 - - 9
-  - 0.293
+  - 0.223
 - - 10
-  - 0.32
+  - 0.204
 language_score: 0.743
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.828
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - me
 - "m\xE8"
@@ -46,8 +46,8 @@ stopwords:
 - mije
 top_n_grams:
 - - 2
-  - 0.128
+  - 1.289
 - - 3
-  - 0.239
+  - 1.275
 - - 4
-  - 0.257
+  - 1.14

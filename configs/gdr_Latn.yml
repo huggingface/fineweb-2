@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.053
 dup_n_grams:
 - - 5
-  - 0.021
+  - 0.045
 - - 6
-  - 0.0
+  - 0.039
 - - 7
-  - 0.0
+  - 0.035
 - - 8
-  - 0.0
+  - 0.032
 - - 9
-  - 0.0
+  - 0.029
 - - 10
-  - 0.0
+  - 0.026
 language_score: 0.646
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.865
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 3
+new_line_ratio: 0.05
 stopwords:
 - re
 - "\u0268"
@@ -39,8 +39,8 @@ stopwords:
 - "y\u0268t"
 top_n_grams:
 - - 2
-  - 0.099
+  - 0.218
 - - 3
-  - 0.125
+  - 0.218
 - - 4
-  - 0.159
+  - 0.221

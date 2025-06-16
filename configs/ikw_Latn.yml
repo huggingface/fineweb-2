@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.523
 dup_n_grams:
 - - 5
-  - 0.406
+  - 0.311
 - - 6
-  - 0.37
+  - 0.307
 - - 7
-  - 0.355
+  - 0.294
 - - 8
-  - 0.359
+  - 0.284
 - - 9
-  - 0.417
+  - 0.27
 - - 10
-  - 0.342
+  - 0.245
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 3
-new_line_ratio: 0.083
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.781
+min_avg_word_length: 2
+new_line_ratio: 0.067
 stopwords:
 - "n\u1EE5"
 - be
@@ -41,8 +41,8 @@ stopwords:
 - "jiz\u1ECDsi"
 top_n_grams:
 - - 2
-  - 0.667
+  - 1.386
 - - 3
-  - 1.0
+  - 1.375
 - - 4
-  - 0.615
+  - 1.248

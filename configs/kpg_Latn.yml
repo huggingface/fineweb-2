@@ -1,23 +1,23 @@
-dup_line_frac: 0.037
+dup_line_frac: 0.197
 dup_n_grams:
 - - 5
-  - 0.113
+  - 0.157
 - - 6
-  - 0.084
+  - 0.134
 - - 7
-  - 0.062
+  - 0.117
 - - 8
-  - 0.046
+  - 0.105
 - - 9
-  - 0.039
+  - 0.092
 - - 10
-  - 0.033
+  - 0.081
 language_score: 0.624
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.852
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.829
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - di
 - gi
@@ -46,8 +46,8 @@ stopwords:
 - lodo
 top_n_grams:
 - - 2
-  - 0.28
+  - 0.507
 - - 3
-  - 0.062
+  - 0.355
 - - 4
-  - 0.068
+  - 0.27

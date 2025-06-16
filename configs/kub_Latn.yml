@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.367
 dup_n_grams:
 - - 5
-  - 0.514
+  - 0.344
 - - 6
-  - 0.505
+  - 0.337
 - - 7
-  - 0.523
+  - 0.32
 - - 8
-  - 0.523
+  - 0.313
 - - 9
-  - 0.505
+  - 0.291
 - - 10
-  - 0.467
+  - 0.265
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.821
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.045
 stopwords:
 - "t\u012B"
 - ti
@@ -50,8 +50,8 @@ stopwords:
 - yesu
 top_n_grams:
 - - 2
-  - 1.221
+  - 1.434
 - - 3
-  - 1.885
+  - 1.484
 - - 4
-  - 2.523
+  - 1.405

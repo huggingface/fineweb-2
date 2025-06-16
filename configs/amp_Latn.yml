@@ -1,23 +1,23 @@
-dup_line_frac: 0.786
+dup_line_frac: 0.756
 dup_n_grams:
 - - 5
-  - 0.428
+  - 0.424
 - - 6
-  - 0.506
+  - 0.433
 - - 7
-  - 0.45
+  - 0.403
 - - 8
-  - 0.5
+  - 0.401
 - - 9
-  - 0.406
+  - 0.346
 - - 10
-  - 0.412
+  - 0.334
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - nd
 - bro
@@ -37,8 +37,8 @@ stopwords:
 - mrokfom
 top_n_grams:
 - - 2
-  - 0.387
+  - 0.897
 - - 3
-  - 0.453
+  - 0.869
 - - 4
-  - 0.5
+  - 0.781

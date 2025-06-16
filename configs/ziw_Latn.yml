@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.458
 dup_n_grams:
 - - 5
-  - 0.412
+  - 0.419
 - - 6
   - 0.41
 - - 7
-  - 0.409
+  - 0.399
 - - 8
-  - 0.407
+  - 0.378
 - - 9
-  - 0.405
+  - 0.361
 - - 10
-  - 0.402
+  - 0.341
 language_score: 0.704
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.091
 stopwords:
 - na
 - kwa
@@ -36,8 +36,8 @@ stopwords:
 - kwaviya
 top_n_grams:
 - - 2
-  - 0.134
+  - 0.851
 - - 3
-  - 0.173
+  - 0.857
 - - 4
-  - 0.215
+  - 0.795

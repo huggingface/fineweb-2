@@ -1,23 +1,23 @@
-dup_line_frac: 0.424
+dup_line_frac: 0.668
 dup_n_grams:
 - - 5
-  - 0.457
+  - 0.517
 - - 6
-  - 0.457
+  - 0.521
 - - 7
-  - 0.427
+  - 0.512
 - - 8
-  - 0.383
+  - 0.48
 - - 9
-  - 0.386
+  - 0.47
 - - 10
-  - 0.387
+  - 0.442
 language_score: 0.371
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.774
-min_avg_word_length: 5
-new_line_ratio: 0.164
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 4
+new_line_ratio: 0.143
 stopwords:
 - baibo
 - ikute
@@ -60,8 +60,8 @@ stopwords:
 - a
 top_n_grams:
 - - 2
-  - 0.926
+  - 1.735
 - - 3
-  - 1.0
+  - 1.233
 - - 4
-  - 0.667
+  - 1.041

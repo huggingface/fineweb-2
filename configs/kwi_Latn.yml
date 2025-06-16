@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.274
 dup_n_grams:
 - - 5
-  - 0.383
+  - 0.269
 - - 6
-  - 0.375
+  - 0.22
 - - 7
-  - 0.317
+  - 0.19
 - - 8
-  - 0.309
+  - 0.181
 - - 9
-  - 0.309
+  - 0.169
 - - 10
-  - 0.305
+  - 0.156
 language_score: 0.686
 line_punct_thr: -1
-max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.759
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - aizpa
 - kit
@@ -44,8 +44,8 @@ stopwords:
 - na
 top_n_grams:
 - - 2
-  - 0.141
+  - 0.374
 - - 3
-  - 0.255
+  - 0.472
 - - 4
-  - 0.275
+  - 0.397

@@ -1,23 +1,23 @@
-dup_line_frac: 0.975
+dup_line_frac: 1.138
 dup_n_grams:
 - - 5
-  - 0.819
+  - 0.785
 - - 6
-  - 0.825
+  - 0.781
 - - 7
-  - 0.812
+  - 0.758
 - - 8
-  - 0.818
+  - 0.737
 - - 9
-  - 0.809
+  - 0.702
 - - 10
-  - 0.81
+  - 0.671
 language_score: 0.313
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.875
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.1
 stopwords:
 - te
 - i
@@ -48,8 +48,8 @@ stopwords:
 - "ha\u02C8e"
 top_n_grams:
 - - 2
-  - 0.953
+  - 2.044
 - - 3
-  - 1.257
+  - 2.008
 - - 4
-  - 1.902
+  - 2.253

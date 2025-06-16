@@ -1,23 +1,23 @@
 dup_line_frac: 0.238
 dup_n_grams:
 - - 5
-  - 0.104
+  - 0.105
 - - 6
-  - 0.082
+  - 0.078
 - - 7
-  - 0.059
+  - 0.056
 - - 8
-  - 0.048
+  - 0.044
 - - 9
-  - 0.031
+  - 0.032
 - - 10
-  - 0.021
+  - 0.022
 language_score: 0.783
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.873
-min_avg_word_length: 4
-new_line_ratio: 0.05
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.042
 stopwords:
 - ta
 - na
@@ -44,8 +44,8 @@ stopwords:
 - "y\xF3o"
 top_n_grams:
 - - 2
-  - 0.038
+  - 0.076
 - - 3
-  - 0.03
+  - 0.039
 - - 4
-  - 0.04
+  - 0.038

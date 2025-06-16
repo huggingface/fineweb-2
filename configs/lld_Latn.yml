@@ -1,23 +1,23 @@
-dup_line_frac: 0.231
+dup_line_frac: 0.249
 dup_n_grams:
 - - 5
-  - 0.112
+  - 0.192
 - - 6
-  - 0.099
+  - 0.18
 - - 7
-  - 0.085
+  - 0.174
 - - 8
-  - 0.078
+  - 0.162
 - - 9
-  - 0.065
+  - 0.154
 - - 10
-  - 0.06
+  - 0.142
 language_score: 0.518
 line_punct_thr: 0.333
 max_avg_word_length: 8
 max_non_alpha_words_ratio: 0.886
 min_avg_word_length: 3
-new_line_ratio: 0.235
+new_line_ratio: 0.182
 stopwords:
 - de
 - na
@@ -49,8 +49,8 @@ stopwords:
 - "cr\xEBp"
 top_n_grams:
 - - 2
-  - 0.091
+  - 0.679
 - - 3
-  - 0.109
+  - 0.604
 - - 4
-  - 0.124
+  - 0.506

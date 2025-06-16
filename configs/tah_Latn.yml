@@ -1,23 +1,23 @@
-dup_line_frac: 0.444
+dup_line_frac: 0.406
 dup_n_grams:
 - - 5
-  - 0.326
+  - 0.246
 - - 6
-  - 0.291
+  - 0.226
 - - 7
-  - 0.268
+  - 0.212
 - - 8
-  - 0.247
+  - 0.192
 - - 9
-  - 0.216
+  - 0.179
 - - 10
-  - 0.195
+  - 0.162
 language_score: 0.3
 line_punct_thr: 0.2
-max_avg_word_length: 42
+max_avg_word_length: 43
 max_non_alpha_words_ratio: 0.765
-min_avg_word_length: 3
-new_line_ratio: 0.5
+min_avg_word_length: 2
+new_line_ratio: 0.438
 stopwords:
 - te
 - i
@@ -39,8 +39,8 @@ stopwords:
 - "p\u014Dr\u012Bnetia"
 top_n_grams:
 - - 2
-  - 0.621
+  - 1.096
 - - 3
-  - 0.629
+  - 0.786
 - - 4
-  - 0.611
+  - 0.589

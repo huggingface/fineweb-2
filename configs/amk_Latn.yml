@@ -1,23 +1,23 @@
-dup_line_frac: 0.608
+dup_line_frac: 0.543
 dup_n_grams:
 - - 5
-  - 0.677
+  - 0.461
 - - 6
-  - 0.558
+  - 0.431
 - - 7
-  - 0.632
+  - 0.414
 - - 8
-  - 0.654
+  - 0.394
 - - 9
-  - 0.517
+  - 0.357
 - - 10
-  - 0.511
+  - 0.335
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.839
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.812
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - we
 - na
@@ -40,8 +40,8 @@ stopwords:
 - yesusi
 top_n_grams:
 - - 2
-  - 0.679
+  - 1.407
 - - 3
-  - 0.916
+  - 1.38
 - - 4
-  - 1.0
+  - 1.258

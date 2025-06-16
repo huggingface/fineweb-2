@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.286
 dup_n_grams:
 - - 5
-  - 0.065
+  - 0.27
 - - 6
-  - 0.047
+  - 0.263
 - - 7
-  - 0.041
+  - 0.253
 - - 8
-  - 0.035
+  - 0.241
 - - 9
-  - 0.027
+  - 0.228
 - - 10
-  - 0.02
+  - 0.212
 language_score: 0.802
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.862
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - kat
 - waa
@@ -44,8 +44,8 @@ stopwords:
 - "nd\u0268na"
 top_n_grams:
 - - 2
-  - 0.032
+  - 1.372
 - - 3
-  - 0.025
+  - 1.403
 - - 4
-  - 0.024
+  - 1.29

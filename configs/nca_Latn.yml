@@ -1,23 +1,23 @@
-dup_line_frac: 0.016
+dup_line_frac: 0.089
 dup_n_grams:
 - - 5
-  - 0.065
+  - 0.146
 - - 6
-  - 0.045
+  - 0.142
 - - 7
-  - 0.033
+  - 0.124
 - - 8
-  - 0.024
+  - 0.111
 - - 9
-  - 0.019
+  - 0.105
 - - 10
-  - 0.016
+  - 0.094
 language_score: 0.615
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.794
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - uni
 - "\u014Bu"
@@ -42,8 +42,8 @@ stopwords:
 - soso
 top_n_grams:
 - - 2
-  - 0.057
+  - 0.794
 - - 3
-  - 0.106
+  - 0.709
 - - 4
-  - 0.068
+  - 0.581

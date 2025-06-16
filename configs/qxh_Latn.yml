@@ -1,23 +1,23 @@
-dup_line_frac: 0.731
+dup_line_frac: 0.604
 dup_n_grams:
 - - 5
-  - 0.429
+  - 0.328
 - - 6
-  - 0.421
+  - 0.301
 - - 7
-  - 0.391
+  - 0.282
 - - 8
-  - 0.383
+  - 0.262
 - - 9
-  - 0.373
+  - 0.242
 - - 10
-  - 0.356
+  - 0.223
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.711
-min_avg_word_length: 7
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.68
+min_avg_word_length: 5
+new_line_ratio: 0.091
 stopwords:
 - tayta
 - mana
@@ -36,8 +36,8 @@ stopwords:
 - ama
 top_n_grams:
 - - 2
-  - 0.424
+  - 0.742
 - - 3
-  - 0.546
+  - 0.772
 - - 4
-  - 0.667
+  - 0.719

@@ -1,23 +1,23 @@
-dup_line_frac: 0.263
+dup_line_frac: 0.218
 dup_n_grams:
 - - 5
-  - 0.054
+  - 0.071
 - - 6
-  - 0.034
+  - 0.057
 - - 7
-  - 0.029
+  - 0.053
 - - 8
-  - 0.025
+  - 0.048
 - - 9
-  - 0.019
+  - 0.04
 - - 10
-  - 0.014
+  - 0.034
 language_score: 0.859
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.795
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - mi
 - "m\xF6n\xF6"
@@ -30,8 +30,8 @@ stopwords:
 - ambazip
 top_n_grams:
 - - 2
-  - 0.066
+  - 0.227
 - - 3
-  - 0.056
+  - 0.193
 - - 4
-  - 0.068
+  - 0.163

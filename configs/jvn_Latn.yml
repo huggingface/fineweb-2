@@ -1,23 +1,23 @@
-dup_line_frac: 0.042
+dup_line_frac: 0.264
 dup_n_grams:
 - - 5
-  - 0.186
+  - 0.226
 - - 6
-  - 0.147
+  - 0.22
 - - 7
-  - 0.134
+  - 0.196
 - - 8
-  - 0.118
+  - 0.186
 - - 9
-  - 0.107
+  - 0.173
 - - 10
-  - 0.091
+  - 0.158
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 3
+new_line_ratio: 0.062
 stopwords:
 - sing
 - wong
@@ -45,8 +45,8 @@ stopwords:
 - iki
 top_n_grams:
 - - 2
-  - 0.125
+  - 0.643
 - - 3
-  - 0.162
+  - 0.603
 - - 4
-  - 0.155
+  - 0.527

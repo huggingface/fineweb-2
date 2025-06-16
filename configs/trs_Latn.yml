@@ -1,23 +1,23 @@
-dup_line_frac: 0.469
+dup_line_frac: 0.475
 dup_n_grams:
 - - 5
-  - 0.36
+  - 0.274
 - - 6
-  - 0.354
+  - 0.272
 - - 7
-  - 0.341
+  - 0.232
 - - 8
-  - 0.357
+  - 0.233
 - - 9
-  - 0.355
+  - 0.223
 - - 10
-  - 0.345
+  - 0.194
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.76
-min_avg_word_length: 4
-new_line_ratio: 0.05
+max_non_alpha_words_ratio: 0.738
+min_avg_word_length: 3
+new_line_ratio: 0.042
 stopwords:
 - nej
 - "ni\u0331"
@@ -44,8 +44,8 @@ stopwords:
 - "jes\xFAs"
 top_n_grams:
 - - 2
-  - 0.22
+  - 0.357
 - - 3
-  - 0.235
+  - 0.352
 - - 4
-  - 0.247
+  - 0.308

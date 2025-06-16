@@ -1,23 +1,23 @@
-dup_line_frac: 0.495
+dup_line_frac: 0.412
 dup_n_grams:
 - - 5
-  - 0.127
+  - 0.251
 - - 6
-  - 0.121
+  - 0.238
 - - 7
-  - 0.104
+  - 0.224
 - - 8
-  - 0.104
+  - 0.209
 - - 9
-  - 0.101
+  - 0.2
 - - 10
-  - 0.095
+  - 0.187
 language_score: 0.333
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.874
-min_avg_word_length: 3
-new_line_ratio: 0.053
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.854
+min_avg_word_length: 2
+new_line_ratio: 0.045
 stopwords:
 - "m\xE1"
 - a
@@ -43,8 +43,8 @@ stopwords:
 - sang
 top_n_grams:
 - - 2
-  - 0.188
+  - 0.63
 - - 3
-  - 0.161
+  - 0.577
 - - 4
-  - 0.206
+  - 0.541

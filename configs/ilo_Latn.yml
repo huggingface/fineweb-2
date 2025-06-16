@@ -1,23 +1,23 @@
-dup_line_frac: 0.25
+dup_line_frac: 0.304
 dup_n_grams:
 - - 5
-  - 0.167
+  - 0.176
 - - 6
-  - 0.128
+  - 0.159
 - - 7
-  - 0.098
+  - 0.144
 - - 8
-  - 0.072
+  - 0.126
 - - 9
-  - 0.039
+  - 0.111
 - - 10
-  - 0.026
+  - 0.097
 language_score: 0.3
-line_punct_thr: 0.25
+line_punct_thr: 0.077
 max_avg_word_length: 10
 max_non_alpha_words_ratio: 0.842
 min_avg_word_length: 3
-new_line_ratio: 0.212
+new_line_ratio: 0.184
 stopwords:
 - ti
 - a
@@ -32,8 +32,8 @@ stopwords:
 - daytoy
 top_n_grams:
 - - 2
-  - 0.571
+  - 0.989
 - - 3
-  - 0.708
+  - 0.82
 - - 4
-  - 0.81
+  - 0.699

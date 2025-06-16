@@ -1,23 +1,23 @@
-dup_line_frac: 0.98
+dup_line_frac: 1.05
 dup_n_grams:
 - - 5
-  - 0.688
+  - 0.658
 - - 6
-  - 0.696
+  - 0.657
 - - 7
-  - 0.71
+  - 0.657
 - - 8
-  - 0.696
+  - 0.629
 - - 9
-  - 0.717
+  - 0.614
 - - 10
-  - 0.652
+  - 0.549
 language_score: 0.303
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.816
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.795
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - nyei
 - ninh
@@ -41,8 +41,8 @@ stopwords:
 - caux
 top_n_grams:
 - - 2
-  - 1.674
+  - 2.789
 - - 3
-  - 2.604
+  - 3.08
 - - 4
-  - 3.514
+  - 3.075

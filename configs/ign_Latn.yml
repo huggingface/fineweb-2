@@ -1,23 +1,23 @@
-dup_line_frac: 0.882
+dup_line_frac: 0.595
 dup_n_grams:
 - - 5
-  - 0.635
+  - 0.4
 - - 6
-  - 0.627
+  - 0.39
 - - 7
-  - 0.589
+  - 0.367
 - - 8
-  - 0.603
+  - 0.351
 - - 9
-  - 0.56
+  - 0.32
 - - 10
-  - 0.571
+  - 0.307
 language_score: 0.628
 line_punct_thr: -1
-max_avg_word_length: 15
-max_non_alpha_words_ratio: 0.765
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_avg_word_length: 16
+max_non_alpha_words_ratio: 0.739
+min_avg_word_length: 5
+new_line_ratio: 0.071
 stopwords:
 - eta
 - ema
@@ -30,8 +30,8 @@ stopwords:
 - achaneana
 top_n_grams:
 - - 2
-  - 0.658
+  - 1.243
 - - 3
-  - 0.837
+  - 1.133
 - - 4
-  - 1.369
+  - 1.155

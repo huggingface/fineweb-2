@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.184
 dup_n_grams:
 - - 5
-  - 0.067
+  - 0.139
 - - 6
-  - 0.048
+  - 0.131
 - - 7
-  - 0.037
+  - 0.117
 - - 8
-  - 0.025
+  - 0.108
 - - 9
-  - 0.018
+  - 0.102
 - - 10
-  - 0.015
+  - 0.09
 language_score: 0.659
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.781
-min_avg_word_length: 5
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.755
+min_avg_word_length: 4
+new_line_ratio: 0.045
 stopwords:
 - kinie
 - pulu
@@ -34,8 +34,8 @@ stopwords:
 - konopu
 top_n_grams:
 - - 2
-  - 0.101
+  - 0.57
 - - 3
-  - 0.12
+  - 0.467
 - - 4
-  - 0.146
+  - 0.42

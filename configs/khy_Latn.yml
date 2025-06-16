@@ -1,23 +1,23 @@
-dup_line_frac: 0.878
+dup_line_frac: 0.706
 dup_n_grams:
 - - 5
-  - 0.738
+  - 0.591
 - - 6
-  - 0.747
+  - 0.579
 - - 7
-  - 0.73
+  - 0.561
 - - 8
-  - 0.753
+  - 0.546
 - - 9
-  - 0.754
+  - 0.519
 - - 10
-  - 0.738
+  - 0.494
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.793
+min_avg_word_length: 3
+new_line_ratio: 0.083
 stopwords:
 - la
 - mbo
@@ -39,8 +39,8 @@ stopwords:
 - "lim\u0254"
 top_n_grams:
 - - 2
-  - 1.544
+  - 2.251
 - - 3
-  - 2.344
+  - 2.43
 - - 4
-  - 3.134
+  - 2.471

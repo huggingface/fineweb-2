@@ -1,23 +1,23 @@
-dup_line_frac: 0.679
+dup_line_frac: 0.623
 dup_n_grams:
 - - 5
-  - 0.541
+  - 0.443
 - - 6
-  - 0.465
+  - 0.416
 - - 7
-  - 0.424
+  - 0.389
 - - 8
-  - 0.401
+  - 0.366
 - - 9
-  - 0.384
+  - 0.346
 - - 10
-  - 0.383
+  - 0.318
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 20
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 8
-new_line_ratio: 0.125
+max_avg_word_length: 21
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 5
+new_line_ratio: 0.1
 stopwords:
 - tasorintsi
 - aikiro
@@ -39,8 +39,8 @@ stopwords:
 - magatiro
 top_n_grams:
 - - 2
-  - 0.67
+  - 1.402
 - - 3
-  - 0.675
+  - 1.061
 - - 4
-  - 0.78
+  - 0.932

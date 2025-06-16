@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.153
 dup_n_grams:
 - - 5
-  - 0.043
+  - 0.133
 - - 6
-  - 0.033
+  - 0.128
 - - 7
-  - 0.025
+  - 0.106
 - - 8
-  - 0.019
+  - 0.101
 - - 9
-  - 0.012
+  - 0.093
 - - 10
-  - 0.011
+  - 0.088
 language_score: 0.824
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.723
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.692
+min_avg_word_length: 3
+new_line_ratio: 0.062
 stopwords:
 - "dsa\u2082"
 - "\u0301"
@@ -37,8 +37,8 @@ stopwords:
 - "ne\u2084"
 top_n_grams:
 - - 2
-  - 0.079
+  - 0.128
 - - 3
-  - 0.113
+  - 0.137
 - - 4
-  - 0.139
+  - 0.126

@@ -1,23 +1,23 @@
-dup_line_frac: 0.904
+dup_line_frac: 0.719
 dup_n_grams:
 - - 5
-  - 0.766
+  - 0.495
 - - 6
-  - 0.767
+  - 0.483
 - - 7
-  - 0.769
+  - 0.458
 - - 8
-  - 0.756
+  - 0.437
 - - 9
-  - 0.751
+  - 0.41
 - - 10
-  - 0.749
+  - 0.385
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.698
-min_avg_word_length: 6
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.678
+min_avg_word_length: 5
+new_line_ratio: 0.062
 stopwords:
 - kari
 - nyulu
@@ -38,8 +38,8 @@ stopwords:
 - ngana
 top_n_grams:
 - - 2
-  - 0.6
+  - 1.031
 - - 3
-  - 0.927
+  - 1.04
 - - 4
-  - 1.282
+  - 1.002

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.114
 dup_n_grams:
 - - 5
-  - 0.063
+  - 0.111
 - - 6
-  - 0.041
+  - 0.105
 - - 7
-  - 0.03
+  - 0.094
 - - 8
-  - 0.019
+  - 0.085
 - - 9
-  - 0.013
+  - 0.079
 - - 10
-  - 0.01
+  - 0.071
 language_score: 0.8
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.766
+min_avg_word_length: 2
+new_line_ratio: 0.048
 stopwords:
 - "k\u0259"
 - ba
@@ -56,8 +56,8 @@ stopwords:
 - "t\u0259mburi"
 top_n_grams:
 - - 2
-  - 0.093
+  - 0.196
 - - 3
-  - 0.166
+  - 0.238
 - - 4
-  - 0.14
+  - 0.175

@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.554
 dup_n_grams:
 - - 5
-  - 0.802
+  - 0.828
 - - 6
-  - 0.789
+  - 0.81
 - - 7
-  - 0.814
+  - 0.81
 - - 8
-  - 0.814
+  - 0.783
 - - 9
-  - 0.789
+  - 0.744
 - - 10
-  - 0.727
+  - 0.668
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - ia
 - idia
@@ -41,8 +41,8 @@ stopwords:
 - diba
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.648
 - - 3
-  - 1.278
+  - 1.847
 - - 4
-  - 1.687
+  - 1.862

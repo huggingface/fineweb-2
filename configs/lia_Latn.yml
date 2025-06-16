@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.051
 dup_n_grams:
 - - 5
-  - 0.066
+  - 0.075
 - - 6
-  - 0.046
+  - 0.062
 - - 7
-  - 0.032
+  - 0.047
 - - 8
-  - 0.023
+  - 0.042
 - - 9
-  - 0.016
+  - 0.034
 - - 10
-  - 0.012
+  - 0.032
 language_score: 0.9
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.857
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
 min_avg_word_length: 3
-new_line_ratio: 0.062
+new_line_ratio: 0.053
 stopwords:
 - ka
 - ba
@@ -45,8 +45,8 @@ stopwords:
 - "yis\u0254s"
 top_n_grams:
 - - 2
-  - 0.035
+  - 0.075
 - - 3
-  - 0.037
+  - 0.067
 - - 4
-  - 0.041
+  - 0.052

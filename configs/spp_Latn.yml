@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.095
 dup_n_grams:
 - - 5
-  - 0.054
+  - 0.09
 - - 6
-  - 0.037
+  - 0.082
 - - 7
-  - 0.027
+  - 0.07
 - - 8
-  - 0.019
+  - 0.063
 - - 9
-  - 0.015
+  - 0.059
 - - 10
-  - 0.011
+  - 0.054
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.85
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.053
 stopwords:
 - na
 - u
@@ -49,8 +49,8 @@ stopwords:
 - yesu
 top_n_grams:
 - - 2
-  - 0.089
+  - 0.134
 - - 3
-  - 0.158
+  - 0.189
 - - 4
-  - 0.141
+  - 0.135

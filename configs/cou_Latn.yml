@@ -1,23 +1,23 @@
-dup_line_frac: 0.748
+dup_line_frac: 0.8
 dup_n_grams:
 - - 5
-  - 0.452
+  - 0.465
 - - 6
-  - 0.456
+  - 0.46
 - - 7
-  - 0.42
+  - 0.424
 - - 8
-  - 0.416
+  - 0.401
 - - 9
-  - 0.409
+  - 0.373
 - - 10
-  - 0.403
+  - 0.359
 language_score: 0.32
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.759
+min_avg_word_length: 3
+new_line_ratio: 0.077
 stopwords:
 - "\u014Ba"
 - do
@@ -40,8 +40,8 @@ stopwords:
 - "vahn\xEB"
 top_n_grams:
 - - 2
-  - 0.667
+  - 1.086
 - - 3
-  - 0.721
+  - 0.967
 - - 4
-  - 0.611
+  - 0.747

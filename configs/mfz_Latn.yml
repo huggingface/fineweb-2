@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.033
 dup_n_grams:
 - - 5
-  - 0.052
+  - 0.053
 - - 6
-  - 0.032
+  - 0.041
 - - 7
-  - 0.019
+  - 0.031
 - - 8
-  - 0.013
+  - 0.028
 - - 9
-  - 0.01
+  - 0.024
 - - 10
-  - 0.007
+  - 0.019
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - "\u0254ci"
 - "\u025Bk\u025B"
@@ -44,8 +44,8 @@ stopwords:
 - jyeka
 top_n_grams:
 - - 2
-  - 0.09
+  - 0.142
 - - 3
-  - 0.122
+  - 0.144
 - - 4
-  - 0.153
+  - 0.142

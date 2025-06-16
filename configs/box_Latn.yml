@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.004
 dup_n_grams:
 - - 5
-  - 0.078
+  - 0.08
 - - 6
-  - 0.054
+  - 0.055
 - - 7
-  - 0.041
+  - 0.039
 - - 8
-  - 0.028
+  - 0.03
 - - 9
-  - 0.022
+  - 0.021
 - - 10
-  - 0.024
+  - 0.017
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.861
+max_non_alpha_words_ratio: 0.842
 min_avg_word_length: 2
-new_line_ratio: 0.059
+new_line_ratio: 0.048
 stopwords:
 - le
 - yi
@@ -46,8 +46,8 @@ stopwords:
 - "m\xED"
 top_n_grams:
 - - 2
-  - 0.051
+  - 0.115
 - - 3
-  - 0.08
+  - 0.106
 - - 4
-  - 0.024
+  - 0.055

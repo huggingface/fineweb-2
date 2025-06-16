@@ -1,23 +1,23 @@
-dup_line_frac: 0.844
+dup_line_frac: 0.655
 dup_n_grams:
 - - 5
-  - 0.588
+  - 0.488
 - - 6
-  - 0.572
+  - 0.478
 - - 7
-  - 0.568
+  - 0.465
 - - 8
-  - 0.55
+  - 0.441
 - - 9
-  - 0.55
+  - 0.418
 - - 10
-  - 0.533
+  - 0.394
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.828
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - me
 - biname
@@ -48,8 +48,8 @@ stopwords:
 - miiji
 top_n_grams:
 - - 2
-  - 0.83
+  - 1.481
 - - 3
-  - 1.117
+  - 1.509
 - - 4
-  - 1.605
+  - 1.431

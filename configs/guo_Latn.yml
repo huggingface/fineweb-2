@@ -1,23 +1,23 @@
-dup_line_frac: 0.846
+dup_line_frac: 0.867
 dup_n_grams:
 - - 5
-  - 0.61
+  - 0.489
 - - 6
-  - 0.581
+  - 0.442
 - - 7
-  - 0.56
+  - 0.427
 - - 8
-  - 0.526
+  - 0.399
 - - 9
-  - 0.521
+  - 0.371
 - - 10
-  - 0.51
+  - 0.34
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.667
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.648
+min_avg_word_length: 4
+new_line_ratio: 0.059
 stopwords:
 - "w\u0289t"
 - dios
@@ -42,8 +42,8 @@ stopwords:
 - me
 top_n_grams:
 - - 2
-  - 0.541
+  - 1.005
 - - 3
-  - 0.864
+  - 1.141
 - - 4
-  - 1.107
+  - 1.028

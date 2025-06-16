@@ -1,23 +1,23 @@
-dup_line_frac: 0.429
+dup_line_frac: 0.417
 dup_n_grams:
 - - 5
-  - 0.28
-- - 6
-  - 0.266
-- - 7
   - 0.249
+- - 6
+  - 0.239
+- - 7
+  - 0.225
 - - 8
-  - 0.242
+  - 0.208
 - - 9
-  - 0.163
+  - 0.19
 - - 10
-  - 0.17
+  - 0.169
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - i
 - na
@@ -45,8 +45,8 @@ stopwords:
 - "r\u1ECD"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.363
 - - 3
-  - 0.933
+  - 1.108
 - - 4
-  - 0.889
+  - 0.962

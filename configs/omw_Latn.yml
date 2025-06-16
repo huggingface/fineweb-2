@@ -1,23 +1,23 @@
-dup_line_frac: 0.263
+dup_line_frac: 0.258
 dup_n_grams:
 - - 5
-  - 0.037
+  - 0.084
 - - 6
-  - 0.023
+  - 0.08
 - - 7
-  - 0.02
+  - 0.073
 - - 8
-  - 0.021
+  - 0.069
 - - 9
-  - 0.013
+  - 0.066
 - - 10
-  - 0.01
+  - 0.053
 language_score: 0.717
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.84
+min_avg_word_length: 4
+new_line_ratio: 0.059
 stopwords:
 - mwi
 - hia
@@ -40,8 +40,8 @@ stopwords:
 - iesusiva
 top_n_grams:
 - - 2
-  - 0.075
+  - 0.318
 - - 3
-  - 0.054
+  - 0.315
 - - 4
-  - 0.064
+  - 0.271

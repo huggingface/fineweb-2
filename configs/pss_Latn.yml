@@ -1,23 +1,23 @@
-dup_line_frac: 0.787
+dup_line_frac: 0.616
 dup_n_grams:
 - - 5
-  - 0.521
+  - 0.447
 - - 6
-  - 0.523
+  - 0.408
 - - 7
-  - 0.452
+  - 0.342
 - - 8
-  - 0.412
+  - 0.33
 - - 9
-  - 0.443
+  - 0.31
 - - 10
-  - 0.512
+  - 0.3
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.875
-min_avg_word_length: 3
-new_line_ratio: 0.048
+max_non_alpha_words_ratio: 0.853
+min_avg_word_length: 2
+new_line_ratio: 0.04
 stopwords:
 - men
 - tin
@@ -48,8 +48,8 @@ stopwords:
 - epon
 top_n_grams:
 - - 2
-  - 0.435
+  - 0.89
 - - 3
-  - 0.609
+  - 0.864
 - - 4
   - 0.75

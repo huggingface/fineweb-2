@@ -1,23 +1,23 @@
-dup_line_frac: 0.969
+dup_line_frac: 0.698
 dup_n_grams:
 - - 5
-  - 0.835
+  - 0.534
 - - 6
-  - 0.833
+  - 0.525
 - - 7
-  - 0.833
+  - 0.511
 - - 8
-  - 0.832
+  - 0.49
 - - 9
-  - 0.832
+  - 0.47
 - - 10
-  - 0.831
+  - 0.445
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.684
-min_avg_word_length: 2
-new_line_ratio: 0.032
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.672
+min_avg_word_length: 1
+new_line_ratio: 0.026
 stopwords:
 - "\u0302"
 - "\u0306"
@@ -47,8 +47,8 @@ stopwords:
 - geh
 top_n_grams:
 - - 2
-  - 0.899
+  - 1.053
 - - 3
-  - 1.602
+  - 1.227
 - - 4
-  - 1.858
+  - 1.033

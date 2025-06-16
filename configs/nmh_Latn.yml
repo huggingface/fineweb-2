@@ -1,23 +1,23 @@
-dup_line_frac: 0.867
+dup_line_frac: 0.743
 dup_n_grams:
 - - 5
-  - 0.685
+  - 0.49
 - - 6
-  - 0.658
+  - 0.445
 - - 7
-  - 0.629
+  - 0.423
 - - 8
-  - 0.616
+  - 0.386
 - - 9
-  - 0.578
+  - 0.358
 - - 10
-  - 0.579
+  - 0.324
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 6
-new_line_ratio: 0.125
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.1
 stopwords:
 - ing
 - engkhejege
@@ -30,8 +30,8 @@ stopwords:
 - ate
 top_n_grams:
 - - 2
-  - 0.996
+  - 1.743
 - - 3
-  - 1.283
+  - 1.694
 - - 4
-  - 1.599
+  - 1.496

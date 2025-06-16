@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.298
 dup_n_grams:
 - - 5
-  - 0.085
+  - 0.159
 - - 6
-  - 0.071
+  - 0.153
 - - 7
-  - 0.06
+  - 0.132
 - - 8
-  - 0.044
+  - 0.122
 - - 9
-  - 0.028
+  - 0.107
 - - 10
-  - 0.016
+  - 0.098
 language_score: 0.382
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - "h\u01DDn"
 - len
@@ -37,8 +37,8 @@ stopwords:
 - ginau
 top_n_grams:
 - - 2
-  - 0.176
+  - 0.406
 - - 3
-  - 0.19
+  - 0.347
 - - 4
-  - 0.226
+  - 0.324

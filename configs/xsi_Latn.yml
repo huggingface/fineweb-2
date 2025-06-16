@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.023
 dup_n_grams:
 - - 5
-  - 0.092
+  - 0.085
 - - 6
-  - 0.068
+  - 0.061
 - - 7
-  - 0.051
+  - 0.045
 - - 8
-  - 0.039
+  - 0.034
 - - 9
-  - 0.032
+  - 0.027
 - - 10
-  - 0.028
+  - 0.022
 language_score: 0.891
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.839
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - "tam\xE2ta"
 - ma
@@ -49,8 +49,8 @@ stopwords:
 - ilo
 top_n_grams:
 - - 2
-  - 0.043
+  - 0.064
 - - 3
-  - 0.027
+  - 0.034
 - - 4
-  - 0.024
+  - 0.025

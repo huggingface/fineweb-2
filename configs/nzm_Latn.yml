@@ -1,23 +1,23 @@
-dup_line_frac: 0.565
+dup_line_frac: 0.547
 dup_n_grams:
 - - 5
-  - 0.289
+  - 0.242
 - - 6
-  - 0.247
+  - 0.21
 - - 7
-  - 0.232
+  - 0.199
 - - 8
-  - 0.205
+  - 0.175
 - - 9
-  - 0.196
+  - 0.162
 - - 10
-  - 0.171
+  - 0.142
 language_score: 0.342
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.821
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - lei
 - ze
@@ -42,8 +42,8 @@ stopwords:
 - lu
 top_n_grams:
 - - 2
-  - 0.273
+  - 0.536
 - - 3
-  - 0.29
+  - 0.484
 - - 4
-  - 0.297
+  - 0.418

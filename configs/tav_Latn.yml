@@ -1,23 +1,23 @@
-dup_line_frac: 0.972
+dup_line_frac: 1.223
 dup_n_grams:
 - - 5
-  - 0.607
+  - 0.667
 - - 6
-  - 0.607
+  - 0.667
 - - 7
-  - 0.605
+  - 0.659
 - - 8
-  - 0.584
+  - 0.619
 - - 9
-  - 0.583
+  - 0.608
 - - 10
-  - 0.582
+  - 0.594
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.806
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.783
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - "c\u0289"
 - na
@@ -41,8 +41,8 @@ stopwords:
 - bairona
 top_n_grams:
 - - 2
-  - 0.219
+  - 0.414
 - - 3
-  - 0.582
+  - 0.783
 - - 4
-  - 0.101
+  - 0.251

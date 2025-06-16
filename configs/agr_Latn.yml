@@ -1,23 +1,23 @@
-dup_line_frac: 0.2
+dup_line_frac: 0.373
 dup_n_grams:
 - - 5
-  - 0.037
+  - 0.184
 - - 6
-  - 0.025
+  - 0.179
 - - 7
-  - 0.013
+  - 0.169
 - - 8
-  - 0.011
+  - 0.156
 - - 9
-  - 0.0
+  - 0.145
 - - 10
-  - 0.0
+  - 0.128
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.771
-min_avg_word_length: 6
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.737
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - "apaju\xED"
 - aents
@@ -31,8 +31,8 @@ stopwords:
 - mina
 top_n_grams:
 - - 2
-  - 0.387
+  - 0.948
 - - 3
-  - 0.497
+  - 0.842
 - - 4
-  - 0.314
+  - 0.691

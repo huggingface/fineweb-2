@@ -1,23 +1,23 @@
-dup_line_frac: 0.433
+dup_line_frac: 0.468
 dup_n_grams:
 - - 5
-  - 0.767
+  - 0.502
 - - 6
-  - 0.758
+  - 0.492
 - - 7
-  - 0.78
+  - 0.475
 - - 8
-  - 0.759
+  - 0.454
 - - 9
-  - 0.752
+  - 0.434
 - - 10
-  - 0.731
+  - 0.406
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.729
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.71
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - va'e
 - vy
@@ -46,8 +46,8 @@ stopwords:
 - nhande
 top_n_grams:
 - - 2
-  - 0.508
+  - 1.131
 - - 3
-  - 0.889
+  - 1.2
 - - 4
-  - 1.288
+  - 1.118

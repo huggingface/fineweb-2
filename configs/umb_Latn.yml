@@ -1,23 +1,23 @@
-dup_line_frac: 0.429
+dup_line_frac: 0.373
 dup_n_grams:
 - - 5
-  - 0.161
+  - 0.191
 - - 6
-  - 0.078
+  - 0.182
 - - 7
-  - 0.039
+  - 0.171
 - - 8
-  - 0.0
+  - 0.16
 - - 9
-  - 0.0
+  - 0.145
 - - 10
-  - 0.0
+  - 0.127
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.111
 stopwords:
 - oku
 - va
@@ -34,8 +34,8 @@ stopwords:
 - via
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.261
 - - 3
-  - 0.789
+  - 0.938
 - - 4
-  - 0.926
+  - 0.794

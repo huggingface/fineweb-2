@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.191
 dup_n_grams:
 - - 5
-  - 0.068
+  - 0.143
 - - 6
-  - 0.047
+  - 0.132
 - - 7
-  - 0.034
+  - 0.118
 - - 8
-  - 0.024
+  - 0.108
 - - 9
-  - 0.021
+  - 0.102
 - - 10
-  - 0.019
+  - 0.092
 language_score: 0.663
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.884
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - "\xED"
 - "\u014B\u0251"
@@ -46,8 +46,8 @@ stopwords:
 - jesu
 top_n_grams:
 - - 2
-  - 0.052
+  - 0.228
 - - 3
-  - 0.081
+  - 0.094
 - - 4
-  - 0.03
+  - 0.05

@@ -1,23 +1,23 @@
-dup_line_frac: 0.905
+dup_line_frac: 0.69
 dup_n_grams:
 - - 5
-  - 0.733
+  - 0.431
 - - 6
-  - 0.764
+  - 0.422
 - - 7
-  - 0.733
+  - 0.39
 - - 8
-  - 0.679
+  - 0.352
 - - 9
-  - 0.764
+  - 0.357
 - - 10
-  - 0.636
+  - 0.296
 language_score: 0.3
-line_punct_thr: 0.071
-max_avg_word_length: 10
+line_punct_thr: 0.056
+max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.799
 min_avg_word_length: 2
-new_line_ratio: 0.429
+new_line_ratio: 0.367
 stopwords:
 - ring
 - punika
@@ -36,8 +36,8 @@ stopwords:
 - saking
 top_n_grams:
 - - 2
-  - 0.909
+  - 1.088
 - - 3
-  - 1.152
+  - 0.979
 - - 4
-  - 1.649
+  - 1.0

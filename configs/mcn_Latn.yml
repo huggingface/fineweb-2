@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.491
 dup_n_grams:
 - - 5
-  - 0.463
+  - 0.339
 - - 6
-  - 0.411
+  - 0.316
 - - 7
-  - 0.406
+  - 0.298
 - - 8
-  - 0.419
+  - 0.285
 - - 9
-  - 0.393
+  - 0.262
 - - 10
-  - 0.417
+  - 0.25
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.804
-min_avg_word_length: 3
-new_line_ratio: 0.077
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.784
+min_avg_word_length: 2
+new_line_ratio: 0.067
 stopwords:
 - ma
 - hay
@@ -39,8 +39,8 @@ stopwords:
 - nigi
 top_n_grams:
 - - 2
-  - 0.607
+  - 1.059
 - - 3
-  - 0.727
+  - 0.922
 - - 4
-  - 0.838
+  - 0.802

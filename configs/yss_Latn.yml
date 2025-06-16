@@ -1,23 +1,23 @@
-dup_line_frac: 0.756
+dup_line_frac: 0.601
 dup_n_grams:
 - - 5
-  - 0.573
+  - 0.395
 - - 6
-  - 0.582
+  - 0.389
 - - 7
-  - 0.578
+  - 0.353
 - - 8
-  - 0.571
+  - 0.338
 - - 9
-  - 0.511
+  - 0.321
 - - 10
-  - 0.522
+  - 0.29
 language_score: 0.414
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.82
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - re
 - tame
@@ -42,8 +42,8 @@ stopwords:
 - erne
 top_n_grams:
 - - 2
-  - 0.743
+  - 1.415
 - - 3
-  - 0.837
+  - 1.361
 - - 4
-  - 1.0
+  - 1.261

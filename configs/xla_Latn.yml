@@ -1,23 +1,23 @@
-dup_line_frac: 0.99
+dup_line_frac: 1.301
 dup_n_grams:
 - - 5
-  - 0.785
+  - 0.888
 - - 6
-  - 0.78
+  - 0.882
 - - 7
-  - 0.78
+  - 0.872
 - - 8
-  - 0.777
+  - 0.844
 - - 9
-  - 0.778
+  - 0.826
 - - 10
-  - 0.773
+  - 0.799
 language_score: 0.681
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - dla
 - mate
@@ -46,8 +46,8 @@ stopwords:
 - "wa\uA789"
 top_n_grams:
 - - 2
-  - 1.785
+  - 3.193
 - - 3
-  - 2.749
+  - 3.64
 - - 4
-  - 3.692
+  - 3.808

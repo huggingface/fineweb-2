@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.436
 dup_n_grams:
 - - 5
-  - 0.285
+  - 0.265
 - - 6
-  - 0.27
+  - 0.242
 - - 7
-  - 0.218
+  - 0.224
 - - 8
-  - 0.248
+  - 0.215
 - - 9
-  - 0.214
+  - 0.192
 - - 10
-  - 0.238
+  - 0.177
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.759
+min_avg_word_length: 4
+new_line_ratio: 0.091
 stopwords:
 - kahchu
 - chu
@@ -38,8 +38,8 @@ stopwords:
 - ate
 top_n_grams:
 - - 2
-  - 0.923
+  - 1.41
 - - 3
-  - 1.0
+  - 1.221
 - - 4
-  - 0.872
+  - 1.024

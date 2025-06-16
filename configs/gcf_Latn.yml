@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.312
 dup_n_grams:
 - - 5
-  - 0.236
+  - 0.192
 - - 6
-  - 0.221
+  - 0.183
 - - 7
-  - 0.201
+  - 0.171
 - - 8
-  - 0.189
+  - 0.158
 - - 9
-  - 0.177
+  - 0.148
 - - 10
-  - 0.17
+  - 0.137
 language_score: 0.677
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.083
 stopwords:
 - ka
 - nou
@@ -47,8 +47,8 @@ stopwords:
 - "\xE8v\xE8"
 top_n_grams:
 - - 2
-  - 0.5
+  - 0.801
 - - 3
-  - 0.7
+  - 0.796
 - - 4
-  - 0.16
+  - 0.405

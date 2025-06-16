@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.481
 dup_n_grams:
 - - 5
-  - 0.507
+  - 0.354
 - - 6
-  - 0.505
+  - 0.341
 - - 7
-  - 0.533
+  - 0.334
 - - 8
-  - 0.485
+  - 0.31
 - - 9
-  - 0.432
+  - 0.282
 - - 10
-  - 0.401
+  - 0.266
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - go
 - ag
@@ -46,8 +46,8 @@ stopwords:
 - naliu
 top_n_grams:
 - - 2
-  - 0.715
+  - 1.553
 - - 3
-  - 0.781
+  - 1.534
 - - 4
-  - 0.931
+  - 1.427

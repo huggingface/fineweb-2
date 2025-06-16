@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.005
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.005
 - - 6
-  - 0.0
+  - 0.004
 - - 7
-  - 0.0
+  - 0.003
 - - 8
-  - 0.0
+  - 0.003
 - - 9
-  - 0.0
+  - 0.002
 - - 10
-  - 0.0
+  - 0.002
 language_score: 0.804
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.816
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - oi
 - ore
@@ -29,8 +29,8 @@ stopwords:
 - "\u014Bi\u014Bigo"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.7
 - - 3
-  - 1.25
+  - 1.892
 - - 4
-  - 0.083
+  - 0.46

@@ -1,23 +1,23 @@
-dup_line_frac: 0.286
+dup_line_frac: 0.278
 dup_n_grams:
 - - 5
-  - 0.175
+  - 0.167
 - - 6
-  - 0.145
+  - 0.151
 - - 7
-  - 0.122
+  - 0.137
 - - 8
-  - 0.115
+  - 0.127
 - - 9
-  - 0.103
+  - 0.117
 - - 10
-  - 0.09
+  - 0.105
 language_score: 0.611
-line_punct_thr: 0.055
+line_punct_thr: 0.0
 max_avg_word_length: 170
 max_non_alpha_words_ratio: 0.787
 min_avg_word_length: 2
-new_line_ratio: 0.231
+new_line_ratio: 0.188
 stopwords:
 - e
 - ko
@@ -37,8 +37,8 @@ stopwords:
 - "\u02BBakau"
 top_n_grams:
 - - 2
-  - 0.088
+  - 0.398
 - - 3
-  - 0.103
+  - 0.269
 - - 4
-  - 0.12
+  - 0.217

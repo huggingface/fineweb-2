@@ -1,23 +1,23 @@
-dup_line_frac: 0.724
+dup_line_frac: 0.594
 dup_n_grams:
 - - 5
-  - 0.287
+  - 0.222
 - - 6
-  - 0.239
+  - 0.196
 - - 7
-  - 0.213
+  - 0.177
 - - 8
-  - 0.209
+  - 0.16
 - - 9
-  - 0.163
+  - 0.143
 - - 10
-  - 0.161
+  - 0.127
 language_score: 0.3
-line_punct_thr: 0.105
+line_punct_thr: 0.059
 max_avg_word_length: 34
 max_non_alpha_words_ratio: 0.655
-min_avg_word_length: 4
-new_line_ratio: 0.467
+min_avg_word_length: 3
+new_line_ratio: 0.394
 stopwords:
 - jisk'a
 - suyu
@@ -32,8 +32,8 @@ stopwords:
 - asu
 top_n_grams:
 - - 2
-  - 0.429
+  - 0.788
 - - 3
-  - 0.565
+  - 0.69
 - - 4
-  - 0.633
+  - 0.568

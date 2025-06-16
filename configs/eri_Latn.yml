@@ -1,23 +1,23 @@
-dup_line_frac: 1.0
+dup_line_frac: 0.847
 dup_n_grams:
 - - 5
-  - 0.818
+  - 0.717
 - - 6
-  - 0.818
+  - 0.72
 - - 7
-  - 0.818
+  - 0.704
 - - 8
-  - 0.818
+  - 0.669
 - - 9
-  - 0.817
+  - 0.633
 - - 10
-  - 0.818
+  - 0.6
 language_score: 0.526
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.809
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 3
+new_line_ratio: 0.048
 stopwords:
 - 'no'
 - waha
@@ -41,8 +41,8 @@ stopwords:
 - uwa
 top_n_grams:
 - - 2
-  - 0.909
+  - 1.575
 - - 3
-  - 1.454
+  - 1.805
 - - 4
-  - 1.909
+  - 1.857

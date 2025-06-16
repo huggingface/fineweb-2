@@ -1,23 +1,23 @@
-dup_line_frac: 0.417
+dup_line_frac: 0.476
 dup_n_grams:
 - - 5
-  - 0.403
+  - 0.364
 - - 6
-  - 0.393
+  - 0.357
 - - 7
-  - 0.394
+  - 0.35
 - - 8
-  - 0.389
+  - 0.335
 - - 9
-  - 0.363
+  - 0.302
 - - 10
-  - 0.363
+  - 0.287
 language_score: 0.478
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.859
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 2
+new_line_ratio: 0.048
 stopwords:
 - "r\u0129"
 - "n\xED"
@@ -43,8 +43,8 @@ stopwords:
 - "l\u1EBD"
 top_n_grams:
 - - 2
-  - 0.079
+  - 0.276
 - - 3
-  - 0.088
+  - 0.239
 - - 4
-  - 0.106
+  - 0.204

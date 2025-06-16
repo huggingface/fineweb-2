@@ -1,23 +1,23 @@
-dup_line_frac: 0.459
+dup_line_frac: 0.428
 dup_n_grams:
 - - 5
-  - 0.644
+  - 0.379
 - - 6
-  - 0.61
+  - 0.35
 - - 7
-  - 0.695
+  - 0.368
 - - 8
-  - 0.418
+  - 0.254
 - - 9
-  - 0.417
+  - 0.24
 - - 10
-  - 0.416
+  - 0.223
 language_score: 0.3
-line_punct_thr: 0.25
+line_punct_thr: 0.127
 max_avg_word_length: 7
 max_non_alpha_words_ratio: 0.845
-min_avg_word_length: 3
-new_line_ratio: 0.139
+min_avg_word_length: 2
+new_line_ratio: 0.101
 stopwords:
 - to
 - "t\u1ECDn"
@@ -37,8 +37,8 @@ stopwords:
 - do
 top_n_grams:
 - - 2
-  - 0.533
+  - 0.885
 - - 3
-  - 0.737
+  - 0.857
 - - 4
-  - 0.774
+  - 0.703
