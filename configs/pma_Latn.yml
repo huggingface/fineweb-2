@@ -1,23 +1,23 @@
-dup_line_frac: 0.814
+dup_line_frac: 0.504
 dup_n_grams:
 - - 5
-  - 0.55
+  - 0.349
 - - 6
-  - 0.518
+  - 0.332
 - - 7
-  - 0.55
+  - 0.327
 - - 8
-  - 0.503
+  - 0.302
 - - 9
-  - 0.496
+  - 0.288
 - - 10
-  - 0.55
+  - 0.265
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.781
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - keil
 - ka
@@ -42,8 +42,8 @@ stopwords:
 - vasi
 top_n_grams:
 - - 2
-  - 0.628
+  - 1.329
 - - 3
-  - 0.977
+  - 1.342
 - - 4
-  - 1.029
+  - 1.197

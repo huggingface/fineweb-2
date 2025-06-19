@@ -1,23 +1,23 @@
-dup_line_frac: 0.525
+dup_line_frac: 0.503
 dup_n_grams:
 - - 5
-  - 0.367
+  - 0.285
 - - 6
-  - 0.362
+  - 0.28
 - - 7
-  - 0.351
+  - 0.262
 - - 8
-  - 0.341
+  - 0.243
 - - 9
-  - 0.336
+  - 0.226
 - - 10
-  - 0.332
+  - 0.205
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.868
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.854
+min_avg_word_length: 2
+new_line_ratio: 0.048
 stopwords:
 - de
 - "j\u0101"
@@ -46,8 +46,8 @@ stopwords:
 - dios
 top_n_grams:
 - - 2
-  - 0.149
+  - 0.624
 - - 3
-  - 0.178
+  - 0.587
 - - 4
-  - 0.202
+  - 0.544

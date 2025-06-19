@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.266
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.138
 - - 6
-  - 0.0
+  - 0.119
 - - 7
-  - 0.0
+  - 0.115
 - - 8
-  - 0.0
+  - 0.106
 - - 9
-  - 0.0
+  - 0.098
 - - 10
-  - 0.0
+  - 0.088
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 16
-max_non_alpha_words_ratio: 0.667
-min_avg_word_length: 4
-new_line_ratio: 0.5
+max_non_alpha_words_ratio: 0.646
+min_avg_word_length: 2
+new_line_ratio: 0.333
 stopwords:
 - "tup\xE3"
 - rese
@@ -51,8 +51,8 @@ stopwords:
 - "e\u0294ipe"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.499
 - - 3
-  - 1.0
+  - 1.242
 - - 4
-  - 1.162
+  - 1.133

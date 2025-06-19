@@ -1,23 +1,23 @@
-dup_line_frac: 0.429
+dup_line_frac: 0.382
 dup_n_grams:
 - - 5
-  - 0.375
+  - 0.286
 - - 6
-  - 0.347
+  - 0.262
 - - 7
-  - 0.315
+  - 0.236
 - - 8
-  - 0.294
+  - 0.217
 - - 9
-  - 0.274
+  - 0.198
 - - 10
-  - 0.26
+  - 0.179
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 16
-max_non_alpha_words_ratio: 0.85
-min_avg_word_length: 5
-new_line_ratio: 0.2
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.143
 stopwords:
 - ane
 - che
@@ -30,8 +30,8 @@ stopwords:
 - aave
 top_n_grams:
 - - 2
-  - 0.576
+  - 1.051
 - - 3
-  - 0.627
+  - 0.834
 - - 4
-  - 0.659
+  - 0.69

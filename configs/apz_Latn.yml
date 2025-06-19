@@ -1,23 +1,23 @@
-dup_line_frac: 0.462
+dup_line_frac: 0.504
 dup_n_grams:
 - - 5
-  - 0.666
+  - 0.359
 - - 6
-  - 0.637
+  - 0.344
 - - 7
-  - 0.619
+  - 0.327
 - - 8
-  - 0.612
+  - 0.312
 - - 9
-  - 0.594
+  - 0.295
 - - 10
-  - 0.571
+  - 0.27
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.862
-min_avg_word_length: 6
-new_line_ratio: 0.077
+max_avg_word_length: 13
+max_non_alpha_words_ratio: 0.842
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - kako
 - a'amu
@@ -44,8 +44,8 @@ stopwords:
 - wonyo
 top_n_grams:
 - - 2
-  - 0.431
+  - 1.101
 - - 3
-  - 0.55
+  - 1.12
 - - 4
-  - 0.6
+  - 0.992

@@ -1,23 +1,23 @@
-dup_line_frac: 0.8
+dup_line_frac: 0.586
 dup_n_grams:
 - - 5
-  - 0.505
+  - 0.329
 - - 6
-  - 0.398
+  - 0.299
 - - 7
-  - 0.38
+  - 0.281
 - - 8
-  - 0.371
+  - 0.241
 - - 9
-  - 0.36
+  - 0.229
 - - 10
-  - 0.338
+  - 0.214
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.85
-min_avg_word_length: 6
-new_line_ratio: 0.111
+max_avg_word_length: 15
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 5
+new_line_ratio: 0.091
 stopwords:
 - "\u191C\u1927\u1930\u1901\u1929\u1920\u1931"
 - "\u190F\u1922"
@@ -35,8 +35,8 @@ stopwords:
 - "\u1902\u1922\u190F\u1921\u1939"
 top_n_grams:
 - - 2
-  - 0.442
+  - 0.656
 - - 3
-  - 0.523
+  - 0.582
 - - 4
-  - 0.758
+  - 0.584

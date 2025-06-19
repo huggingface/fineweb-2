@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.322
 dup_n_grams:
 - - 5
-  - 0.366
+  - 0.29
 - - 6
-  - 0.372
+  - 0.259
 - - 7
-  - 0.314
+  - 0.218
 - - 8
-  - 0.309
+  - 0.208
 - - 9
-  - 0.316
+  - 0.196
 - - 10
-  - 0.306
+  - 0.183
 language_score: 0.783
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.862
-min_avg_word_length: 3
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 2
+new_line_ratio: 0.062
 stopwords:
 - la
 - di
@@ -45,8 +45,8 @@ stopwords:
 - yeesu
 top_n_grams:
 - - 2
-  - 0.128
+  - 0.196
 - - 3
-  - 0.239
+  - 0.298
 - - 4
-  - 0.257
+  - 0.265

@@ -1,23 +1,23 @@
-dup_line_frac: 0.404
+dup_line_frac: 0.405
 dup_n_grams:
 - - 5
-  - 0.497
+  - 0.423
 - - 6
-  - 0.511
+  - 0.313
 - - 7
-  - 0.47
+  - 0.288
 - - 8
-  - 0.434
+  - 0.274
 - - 9
-  - 0.386
+  - 0.248
 - - 10
-  - 0.4
+  - 0.233
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.755
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - "\u0257o"
 - ka
@@ -46,8 +46,8 @@ stopwords:
 - "bu\u014Bdi"
 top_n_grams:
 - - 2
-  - 0.683
+  - 1.479
 - - 3
-  - 0.714
+  - 1.193
 - - 4
-  - 0.817
+  - 1.143

@@ -1,23 +1,23 @@
-dup_line_frac: 0.926
+dup_line_frac: 0.813
 dup_n_grams:
 - - 5
-  - 0.715
+  - 0.597
 - - 6
-  - 0.724
+  - 0.6
 - - 7
-  - 0.703
+  - 0.581
 - - 8
-  - 0.686
+  - 0.567
 - - 9
-  - 0.68
+  - 0.553
 - - 10
-  - 0.677
+  - 0.53
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.792
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - nu
 - ku
@@ -38,8 +38,8 @@ stopwords:
 - mukota
 top_n_grams:
 - - 2
-  - 0.734
+  - 1.364
 - - 3
-  - 1.055
+  - 1.348
 - - 4
-  - 1.441
+  - 1.286

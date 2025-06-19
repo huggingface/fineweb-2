@@ -1,23 +1,23 @@
-dup_line_frac: 0.167
+dup_line_frac: 0.243
 dup_n_grams:
 - - 5
-  - 0.1
+  - 0.142
 - - 6
-  - 0.052
+  - 0.13
 - - 7
-  - 0.033
+  - 0.121
 - - 8
-  - 0.019
+  - 0.114
 - - 9
-  - 0.007
+  - 0.105
 - - 10
-  - 0.0
+  - 0.095
 language_score: 0.3
-line_punct_thr: 0.364
-max_avg_word_length: 18
+line_punct_thr: 0.2
+max_avg_word_length: 19
 max_non_alpha_words_ratio: 0.895
 min_avg_word_length: 3
-new_line_ratio: 0.312
+new_line_ratio: 0.217
 stopwords:
 - na
 - ya
@@ -34,8 +34,8 @@ stopwords:
 - "m\u0169no"
 top_n_grams:
 - - 2
-  - 0.909
+  - 1.218
 - - 3
-  - 0.862
+  - 0.901
 - - 4
-  - 0.812
+  - 0.646

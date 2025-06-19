@@ -1,23 +1,23 @@
-dup_line_frac: 0.974
+dup_line_frac: 1.013
 dup_n_grams:
 - - 5
-  - 0.828
+  - 0.735
 - - 6
-  - 0.826
+  - 0.729
 - - 7
-  - 0.823
+  - 0.708
 - - 8
-  - 0.826
+  - 0.688
 - - 9
-  - 0.819
+  - 0.652
 - - 10
-  - 0.814
+  - 0.62
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.825
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - su
 - cuana
@@ -44,8 +44,8 @@ stopwords:
 - micuaneda
 top_n_grams:
 - - 2
-  - 0.667
+  - 1.331
 - - 3
-  - 0.907
+  - 1.292
 - - 4
-  - 1.002
+  - 1.188

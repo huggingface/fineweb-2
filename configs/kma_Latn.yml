@@ -1,23 +1,23 @@
-dup_line_frac: 0.913
+dup_line_frac: 0.952
 dup_n_grams:
 - - 5
-  - 0.439
+  - 0.449
 - - 6
-  - 0.444
+  - 0.43
 - - 7
-  - 0.448
+  - 0.425
 - - 8
-  - 0.446
+  - 0.405
 - - 9
-  - 0.402
+  - 0.376
 - - 10
-  - 0.393
+  - 0.358
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.867
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - "d\u0269"
 - die
@@ -45,8 +45,8 @@ stopwords:
 - "f\u028A"
 top_n_grams:
 - - 2
-  - 0.829
+  - 1.245
 - - 3
-  - 1.316
+  - 1.514
 - - 4
-  - 1.75
+  - 1.596

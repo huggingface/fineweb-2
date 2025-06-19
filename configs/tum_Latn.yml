@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.57
 dup_n_grams:
 - - 5
-  - 0.492
+  - 0.338
 - - 6
-  - 0.585
+  - 0.376
 - - 7
-  - 0.02
+  - 0.178
 - - 8
-  - 0.009
+  - 0.163
 - - 9
-  - 0.005
+  - 0.149
 - - 10
-  - 0.0
+  - 0.135
 language_score: 0.3
 line_punct_thr: 0.143
 max_avg_word_length: 16
 max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 1
-new_line_ratio: 0.2
+min_avg_word_length: 0
+new_line_ratio: 0.189
 stopwords:
 - mu
 - cha
@@ -41,8 +41,8 @@ stopwords:
 - ndipo
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.539
 - - 3
-  - 1.0
+  - 1.496
 - - 4
-  - 1.0
+  - 1.295

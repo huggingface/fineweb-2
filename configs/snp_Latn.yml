@@ -1,23 +1,23 @@
-dup_line_frac: 0.025
+dup_line_frac: 0.106
 dup_n_grams:
 - - 5
-  - 0.069
+  - 0.127
 - - 6
-  - 0.047
+  - 0.101
 - - 7
-  - 0.035
+  - 0.095
 - - 8
-  - 0.027
+  - 0.078
 - - 9
-  - 0.019
+  - 0.072
 - - 10
-  - 0.017
+  - 0.063
 language_score: 0.741
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.826
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - ya
 - ido
@@ -36,8 +36,8 @@ stopwords:
 - mona
 top_n_grams:
 - - 2
-  - 0.444
+  - 0.683
 - - 3
-  - 0.586
+  - 0.605
 - - 4
-  - 0.108
+  - 0.37

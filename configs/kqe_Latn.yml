@@ -1,23 +1,23 @@
-dup_line_frac: 0.923
+dup_line_frac: 0.812
 dup_n_grams:
 - - 5
-  - 0.66
+  - 0.534
 - - 6
-  - 0.784
+  - 0.547
 - - 7
-  - 0.693
+  - 0.524
 - - 8
-  - 0.769
+  - 0.498
 - - 9
-  - 0.619
+  - 0.435
 - - 10
-  - 0.658
+  - 0.408
 language_score: 0.339
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.854
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - na
 - sang
@@ -43,8 +43,8 @@ stopwords:
 - adto
 top_n_grams:
 - - 2
-  - 1.59
+  - 1.995
 - - 3
-  - 2.405
+  - 2.026
 - - 4
-  - 3.102
+  - 1.925

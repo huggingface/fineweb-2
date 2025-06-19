@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.206
 dup_n_grams:
 - - 5
-  - 0.123
+  - 0.229
 - - 6
-  - 0.107
+  - 0.209
 - - 7
-  - 0.085
+  - 0.183
 - - 8
-  - 0.075
+  - 0.162
 - - 9
-  - 0.069
+  - 0.147
 - - 10
-  - 0.068
+  - 0.131
 language_score: 0.647
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.912
-min_avg_word_length: 4
-new_line_ratio: 0.042
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.902
+min_avg_word_length: 3
+new_line_ratio: 0.036
 stopwords:
 - ora
 - ngo
@@ -42,8 +42,8 @@ stopwords:
 - kakl
 top_n_grams:
 - - 2
-  - 0.227
+  - 0.762
 - - 3
-  - 0.121
+  - 0.72
 - - 4
-  - 0.087
+  - 0.658

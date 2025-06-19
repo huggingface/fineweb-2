@@ -1,23 +1,23 @@
-dup_line_frac: 0.549
+dup_line_frac: 0.686
 dup_n_grams:
 - - 5
-  - 0.589
+  - 0.534
 - - 6
-  - 0.554
+  - 0.525
 - - 7
-  - 0.538
+  - 0.509
 - - 8
-  - 0.492
+  - 0.496
 - - 9
-  - 0.502
+  - 0.477
 - - 10
-  - 0.457
+  - 0.455
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - go
 - emi
@@ -48,8 +48,8 @@ stopwords:
 - gogi
 top_n_grams:
 - - 2
-  - 0.584
+  - 1.768
 - - 3
-  - 0.83
+  - 1.903
 - - 4
-  - 0.869
+  - 1.554

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.179
 dup_n_grams:
 - - 5
-  - 0.033
+  - 0.144
 - - 6
-  - 0.023
+  - 0.137
 - - 7
-  - 0.014
+  - 0.126
 - - 8
-  - 0.01
+  - 0.118
 - - 9
-  - 0.006
+  - 0.11
 - - 10
-  - 0.0
+  - 0.097
 language_score: 0.696
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 6
-new_line_ratio: 0.091
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - au
 - "ax\u0268na"
@@ -36,8 +36,8 @@ stopwords:
 - naki
 top_n_grams:
 - - 2
-  - 0.099
+  - 0.537
 - - 3
-  - 0.117
+  - 0.507
 - - 4
-  - 0.148
+  - 0.454

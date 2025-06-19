@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.015
 dup_n_grams:
 - - 5
-  - 0.044
+  - 0.042
 - - 6
-  - 0.031
+  - 0.032
 - - 7
-  - 0.021
+  - 0.027
 - - 8
-  - 0.015
+  - 0.02
 - - 9
-  - 0.011
+  - 0.017
 - - 10
-  - 0.007
+  - 0.014
 language_score: 0.9
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.794
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - ne
 - "ituk\xF3'oviti"
@@ -42,8 +42,8 @@ stopwords:
 - "it\xFAkeovo"
 top_n_grams:
 - - 2
-  - 0.049
+  - 0.13
 - - 3
-  - 0.061
+  - 0.107
 - - 4
-  - 0.081
+  - 0.093

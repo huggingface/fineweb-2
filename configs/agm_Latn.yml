@@ -1,23 +1,23 @@
-dup_line_frac: 0.263
+dup_line_frac: 0.21
 dup_n_grams:
 - - 5
-  - 0.027
+  - 0.041
 - - 6
-  - 0.013
+  - 0.034
 - - 7
-  - 0.008
+  - 0.032
 - - 8
-  - 0.006
+  - 0.029
 - - 9
-  - 0.0
+  - 0.026
 - - 10
-  - 0.0
+  - 0.024
 language_score: 0.841
 line_punct_thr: -1
-max_avg_word_length: 28
-max_non_alpha_words_ratio: 0.846
-min_avg_word_length: 7
-new_line_ratio: 0.071
+max_avg_word_length: 29
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 5
+new_line_ratio: 0.056
 stopwords:
 - "am\u0268"
 - "is\u0268hiya"
@@ -36,8 +36,8 @@ stopwords:
 - "nyah\u0268"
 top_n_grams:
 - - 2
-  - 0.085
+  - 0.146
 - - 3
-  - 0.077
+  - 0.118
 - - 4
-  - 0.087
+  - 0.096

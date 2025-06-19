@@ -1,23 +1,23 @@
-dup_line_frac: 0.757
+dup_line_frac: 0.66
 dup_n_grams:
 - - 5
-  - 0.375
+  - 0.287
 - - 6
-  - 0.353
+  - 0.27
 - - 7
-  - 0.321
+  - 0.243
 - - 8
-  - 0.288
+  - 0.221
 - - 9
-  - 0.259
+  - 0.194
 - - 10
-  - 0.239
+  - 0.175
 language_score: 0.3
-line_punct_thr: 0.333
-max_avg_word_length: 12
+line_punct_thr: 0.182
+max_avg_word_length: 13
 max_non_alpha_words_ratio: 0.63
 min_avg_word_length: 3
-new_line_ratio: 0.261
+new_line_ratio: 0.238
 stopwords:
 - "g\u012Bvenv\u0117it\u0117s"
 - rajuona
@@ -36,8 +36,8 @@ stopwords:
 - "g\u012Bvenv\u0117itie"
 top_n_grams:
 - - 2
-  - 0.214
+  - 0.54
 - - 3
-  - 0.238
+  - 0.479
 - - 4
-  - 0.266
+  - 0.43

@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.351
 dup_n_grams:
 - - 5
-  - 0.019
+  - 0.205
 - - 6
-  - 0.006
+  - 0.204
 - - 7
-  - 0.003
+  - 0.191
 - - 8
-  - 0.002
+  - 0.178
 - - 9
-  - 0.0
+  - 0.173
 - - 10
-  - 0.0
+  - 0.155
 language_score: 0.473
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.867
-min_avg_word_length: 6
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.839
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - y
 - nac
@@ -43,8 +43,8 @@ stopwords:
 - "acxni\u0320"
 top_n_grams:
 - - 2
-  - 0.107
+  - 0.528
 - - 3
-  - 0.16
+  - 0.501
 - - 4
-  - 0.154
+  - 0.421

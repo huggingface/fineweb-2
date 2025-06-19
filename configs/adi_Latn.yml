@@ -1,23 +1,23 @@
-dup_line_frac: 0.4
+dup_line_frac: 0.394
 dup_n_grams:
 - - 5
-  - 0.561
+  - 0.507
 - - 6
-  - 0.477
+  - 0.332
 - - 7
-  - 0.436
+  - 0.316
 - - 8
-  - 0.42
+  - 0.3
 - - 9
-  - 0.411
+  - 0.28
 - - 10
-  - 0.381
+  - 0.259
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - "b\xED"
 - delokke
@@ -31,8 +31,8 @@ stopwords:
 - "b\xEDkke"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.412
 - - 3
-  - 1.0
+  - 1.236
 - - 4
-  - 0.977
+  - 1.096

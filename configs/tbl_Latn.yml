@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.282
 dup_n_grams:
 - - 5
-  - 0.162
+  - 0.291
 - - 6
-  - 0.134
+  - 0.266
 - - 7
-  - 0.109
+  - 0.243
 - - 8
-  - 0.1
+  - 0.227
 - - 9
-  - 0.089
+  - 0.211
 - - 10
-  - 0.077
+  - 0.194
 language_score: 0.395
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.837
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - "y\xF3m"
 - "y\xF3"
@@ -44,8 +44,8 @@ stopwords:
 - tey
 top_n_grams:
 - - 2
-  - 0.227
+  - 0.774
 - - 3
-  - 0.166
+  - 0.71
 - - 4
-  - 0.174
+  - 0.622

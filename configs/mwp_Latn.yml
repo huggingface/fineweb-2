@@ -1,23 +1,23 @@
-dup_line_frac: 0.077
+dup_line_frac: 0.347
 dup_n_grams:
 - - 5
-  - 0.062
+  - 0.233
 - - 6
-  - 0.073
+  - 0.222
 - - 7
-  - 0.07
+  - 0.211
 - - 8
-  - 0.032
+  - 0.196
 - - 9
-  - 0.018
+  - 0.185
 - - 10
-  - 0.012
+  - 0.173
 language_score: 0.63
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - kedha
 - a
@@ -44,8 +44,8 @@ stopwords:
 - na
 top_n_grams:
 - - 2
-  - 0.1
+  - 0.827
 - - 3
-  - 0.137
+  - 0.775
 - - 4
-  - 0.091
+  - 0.703

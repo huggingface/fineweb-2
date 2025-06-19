@@ -1,23 +1,23 @@
-dup_line_frac: 0.636
+dup_line_frac: 0.627
 dup_n_grams:
 - - 5
-  - 0.492
+  - 0.429
 - - 6
-  - 0.481
+  - 0.418
 - - 7
-  - 0.473
+  - 0.403
 - - 8
-  - 0.463
+  - 0.384
 - - 9
-  - 0.456
+  - 0.364
 - - 10
-  - 0.451
+  - 0.343
 language_score: 0.312
 line_punct_thr: -1
 max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.842
-min_avg_word_length: 3
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 2
+new_line_ratio: 0.071
 stopwords:
 - "\u060C"
 - "\u0648"
@@ -40,8 +40,8 @@ stopwords:
 - "\u0646\u0647"
 top_n_grams:
 - - 2
-  - 0.214
+  - 0.551
 - - 3
-  - 0.255
+  - 0.522
 - - 4
-  - 0.242
+  - 0.488

@@ -1,23 +1,23 @@
-dup_line_frac: 0.953
+dup_line_frac: 1.171
 dup_n_grams:
 - - 5
-  - 0.704
+  - 0.678
 - - 6
-  - 0.692
+  - 0.681
 - - 7
-  - 0.683
+  - 0.663
 - - 8
-  - 0.679
+  - 0.627
 - - 9
-  - 0.665
+  - 0.634
 - - 10
-  - 0.672
+  - 0.576
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.843
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - po
 - rai
@@ -42,8 +42,8 @@ stopwords:
 - vatane
 top_n_grams:
 - - 2
-  - 1.622
+  - 2.551
 - - 3
-  - 2.44
+  - 3.051
 - - 4
-  - 3.208
+  - 3.285

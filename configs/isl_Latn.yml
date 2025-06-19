@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.292
 dup_n_grams:
 - - 5
-  - 0.194
+  - 0.157
 - - 6
-  - 0.179
+  - 0.15
 - - 7
-  - 0.163
+  - 0.143
 - - 8
-  - 0.139
+  - 0.126
 - - 9
-  - 0.121
+  - 0.114
 - - 10
-  - 0.111
+  - 0.104
 language_score: 0.863
-line_punct_thr: 0.2
+line_punct_thr: 0.095
 max_avg_word_length: 13
 max_non_alpha_words_ratio: 0.8
 min_avg_word_length: 2
-new_line_ratio: 0.273
+new_line_ratio: 0.25
 stopwords:
 - og
 - "\xED"
@@ -35,8 +35,8 @@ stopwords:
 - "me\xF0"
 top_n_grams:
 - - 2
-  - 0.097
+  - 0.21
 - - 3
-  - 0.12
+  - 0.183
 - - 4
-  - 0.153
+  - 0.163

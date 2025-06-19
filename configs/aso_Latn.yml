@@ -1,23 +1,23 @@
-dup_line_frac: 0.414
+dup_line_frac: 0.359
 dup_n_grams:
 - - 5
-  - 0.374
+  - 0.291
 - - 6
-  - 0.343
+  - 0.274
 - - 7
-  - 0.371
+  - 0.258
 - - 8
-  - 0.349
+  - 0.233
 - - 9
-  - 0.302
+  - 0.216
 - - 10
-  - 0.223
+  - 0.187
 language_score: 0.667
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.702
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.684
+min_avg_word_length: 3
+new_line_ratio: 0.043
 stopwords:
 - nene
 - lo
@@ -35,8 +35,8 @@ stopwords:
 - di
 top_n_grams:
 - - 2
-  - 0.213
+  - 0.964
 - - 3
-  - 0.191
+  - 0.846
 - - 4
-  - 0.189
+  - 0.738

@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.311
 dup_n_grams:
 - - 5
-  - 0.367
+  - 0.248
 - - 6
-  - 0.313
+  - 0.221
 - - 7
-  - 0.267
+  - 0.188
 - - 8
-  - 0.204
+  - 0.156
 - - 9
-  - 0.197
+  - 0.142
 - - 10
-  - 0.161
+  - 0.125
 language_score: 0.768
 line_punct_thr: 0.0
-max_avg_word_length: 19
+max_avg_word_length: 20
 max_non_alpha_words_ratio: 0.903
 min_avg_word_length: 1
-new_line_ratio: 0.446
+new_line_ratio: 0.333
 stopwords:
 - cu
 - zoi
@@ -39,8 +39,8 @@ stopwords:
 - toi
 top_n_grams:
 - - 2
-  - 0.124
+  - 0.498
 - - 3
-  - 0.144
+  - 0.29
 - - 4
-  - 0.165
+  - 0.242

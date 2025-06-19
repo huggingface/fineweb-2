@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.412
 dup_n_grams:
 - - 5
-  - 0.525
+  - 0.344
 - - 6
-  - 0.503
+  - 0.333
 - - 7
-  - 0.479
+  - 0.311
 - - 8
-  - 0.481
+  - 0.292
 - - 9
-  - 0.474
+  - 0.268
 - - 10
-  - 0.465
+  - 0.246
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.745
-min_avg_word_length: 5
-new_line_ratio: 0.048
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 4
+new_line_ratio: 0.038
 stopwords:
 - nil
 - puth
@@ -42,8 +42,8 @@ stopwords:
 - "ya\uA78Ca"
 top_n_grams:
 - - 2
-  - 0.449
+  - 0.887
 - - 3
-  - 0.526
+  - 0.845
 - - 4
-  - 0.61
+  - 0.768

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.11
 dup_n_grams:
 - - 5
-  - 0.07
+  - 0.107
 - - 6
-  - 0.046
+  - 0.097
 - - 7
-  - 0.028
+  - 0.085
 - - 8
-  - 0.017
+  - 0.078
 - - 9
-  - 0.011
+  - 0.071
 - - 10
-  - 0.009
+  - 0.064
 language_score: 0.678
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.881
-min_avg_word_length: 4
-new_line_ratio: 0.056
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.857
+min_avg_word_length: 3
+new_line_ratio: 0.045
 stopwords:
 - ongga
 - rot
@@ -50,8 +50,8 @@ stopwords:
 - mona
 top_n_grams:
 - - 2
-  - 0.08
+  - 0.266
 - - 3
-  - 0.104
+  - 0.265
 - - 4
-  - 0.124
+  - 0.245

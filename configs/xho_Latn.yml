@@ -1,23 +1,23 @@
-dup_line_frac: 0.476
+dup_line_frac: 0.371
 dup_n_grams:
 - - 5
-  - 0.139
+  - 0.169
 - - 6
-  - 0.069
+  - 0.14
 - - 7
-  - 0.052
+  - 0.129
 - - 8
-  - 0.033
+  - 0.118
 - - 9
-  - 0.008
+  - 0.105
 - - 10
-  - 0.0
+  - 0.094
 language_score: 0.3
-line_punct_thr: 0.226
+line_punct_thr: 0.035
 max_avg_word_length: 3141
 max_non_alpha_words_ratio: 0.775
 min_avg_word_length: 1
-new_line_ratio: 0.286
+new_line_ratio: 0.233
 stopwords:
 - i
 - kunye
@@ -42,8 +42,8 @@ stopwords:
 - kuba
 top_n_grams:
 - - 2
-  - 0.886
+  - 1.224
 - - 3
-  - 0.817
+  - 0.905
 - - 4
-  - 0.869
+  - 0.756

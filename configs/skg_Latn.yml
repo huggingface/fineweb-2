@@ -1,23 +1,23 @@
-dup_line_frac: 0.95
+dup_line_frac: 0.821
 dup_n_grams:
 - - 5
-  - 0.766
+  - 0.526
 - - 6
-  - 0.775
+  - 0.515
 - - 7
-  - 0.755
+  - 0.494
 - - 8
-  - 0.754
+  - 0.46
 - - 9
-  - 0.755
+  - 0.436
 - - 10
-  - 0.749
+  - 0.414
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - ty
 - amy
@@ -39,8 +39,8 @@ stopwords:
 - ie
 top_n_grams:
 - - 2
-  - 0.866
+  - 1.374
 - - 3
-  - 1.077
+  - 1.331
 - - 4
-  - 1.753
+  - 1.367

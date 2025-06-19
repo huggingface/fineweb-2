@@ -1,23 +1,23 @@
-dup_line_frac: 0.971
+dup_line_frac: 0.876
 dup_n_grams:
 - - 5
-  - 0.719
+  - 0.6
 - - 6
-  - 0.723
+  - 0.594
 - - 7
-  - 0.715
+  - 0.574
 - - 8
-  - 0.707
+  - 0.552
 - - 9
-  - 0.712
+  - 0.527
 - - 10
-  - 0.702
+  - 0.496
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.775
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - ono
 - iya
@@ -40,8 +40,8 @@ stopwords:
 - "\u1EB9ge"
 top_n_grams:
 - - 2
-  - 0.755
+  - 1.529
 - - 3
-  - 1.257
+  - 1.723
 - - 4
-  - 1.724
+  - 1.704

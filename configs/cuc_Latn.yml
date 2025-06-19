@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.126
 dup_n_grams:
 - - 5
-  - 0.014
+  - 0.099
 - - 6
-  - 0.008
+  - 0.095
 - - 7
-  - 0.0
+  - 0.085
 - - 8
-  - 0.0
+  - 0.079
 - - 9
-  - 0.0
+  - 0.075
 - - 10
-  - 0.0
+  - 0.065
 language_score: 0.316
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 6
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - "jian\xB3"
 - "jon\xB3"
@@ -38,8 +38,8 @@ stopwords:
 - "a\xB3hain\u2074"
 top_n_grams:
 - - 2
-  - 0.059
+  - 0.288
 - - 3
-  - 0.099
+  - 0.26
 - - 4
-  - 0.134
+  - 0.217

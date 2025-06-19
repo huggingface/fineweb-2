@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.002
 dup_n_grams:
 - - 5
-  - 0.059
+  - 0.043
 - - 6
-  - 0.034
+  - 0.029
 - - 7
-  - 0.024
+  - 0.023
 - - 8
-  - 0.016
+  - 0.018
 - - 9
-  - 0.007
+  - 0.013
 - - 10
-  - 0.002
+  - 0.009
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.827
-min_avg_word_length: 3
-new_line_ratio: 0.05
+max_non_alpha_words_ratio: 0.808
+min_avg_word_length: 2
+new_line_ratio: 0.042
 stopwords:
 - "ka\u0301"
 - na
@@ -49,8 +49,8 @@ stopwords:
 - "\u0253aa"
 top_n_grams:
 - - 2
-  - 0.098
+  - 0.151
 - - 3
-  - 0.124
+  - 0.154
 - - 4
-  - 0.152
+  - 0.151

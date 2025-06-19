@@ -1,23 +1,23 @@
-dup_line_frac: 0.024
+dup_line_frac: 0.293
 dup_n_grams:
 - - 5
-  - 0.043
+  - 0.208
 - - 6
-  - 0.04
+  - 0.206
 - - 7
-  - 0.034
+  - 0.191
 - - 8
-  - 0.039
+  - 0.182
 - - 9
-  - 0.032
+  - 0.167
 - - 10
-  - 0.036
+  - 0.145
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.765
-min_avg_word_length: 6
-new_line_ratio: 0.1
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 5
+new_line_ratio: 0.083
 stopwords:
 - chay
 - "n\xE4tan"
@@ -34,8 +34,8 @@ stopwords:
 - diospa
 top_n_grams:
 - - 2
-  - 0.332
+  - 0.702
 - - 3
-  - 0.358
+  - 0.635
 - - 4
-  - 0.276
+  - 0.552

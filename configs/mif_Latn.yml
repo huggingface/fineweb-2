@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.268
 dup_n_grams:
 - - 5
-  - 0.371
+  - 0.255
 - - 6
-  - 0.369
+  - 0.226
 - - 7
-  - 0.319
+  - 0.191
 - - 8
-  - 0.31
+  - 0.179
 - - 9
-  - 0.308
+  - 0.169
 - - 10
-  - 0.3
+  - 0.156
 language_score: 0.746
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.796
-min_avg_word_length: 3
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.772
+min_avg_word_length: 2
+new_line_ratio: 0.043
 stopwords:
 - a
 - "\u014Bga"
@@ -49,8 +49,8 @@ stopwords:
 - maaya
 top_n_grams:
 - - 2
-  - 0.114
+  - 0.193
 - - 3
-  - 0.22
+  - 0.265
 - - 4
-  - 0.241
+  - 0.237

@@ -1,23 +1,23 @@
-dup_line_frac: 0.636
+dup_line_frac: 0.576
 dup_n_grams:
 - - 5
-  - 0.434
+  - 0.406
 - - 6
-  - 0.453
+  - 0.403
 - - 7
-  - 0.445
+  - 0.389
 - - 8
-  - 0.426
+  - 0.363
 - - 9
-  - 0.424
+  - 0.347
 - - 10
-  - 0.426
+  - 0.317
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.63
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.604
+min_avg_word_length: 4
+new_line_ratio: 0.059
 stopwords:
 - da
 - da'me
@@ -41,8 +41,8 @@ stopwords:
 - "\xF1i"
 top_n_grams:
 - - 2
-  - 0.663
+  - 1.1
 - - 3
-  - 0.942
+  - 1.05
 - - 4
-  - 0.923
+  - 0.894

@@ -1,23 +1,23 @@
-dup_line_frac: 0.327
+dup_line_frac: 0.293
 dup_n_grams:
 - - 5
-  - 0.208
+  - 0.178
 - - 6
-  - 0.186
+  - 0.163
 - - 7
-  - 0.168
+  - 0.15
 - - 8
-  - 0.154
+  - 0.136
 - - 9
-  - 0.139
+  - 0.124
 - - 10
-  - 0.125
+  - 0.111
 language_score: 0.802
-line_punct_thr: 0.571
-max_avg_word_length: 10
+line_punct_thr: 0.333
+max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.803
 min_avg_word_length: 3
-new_line_ratio: 0.151
+new_line_ratio: 0.103
 stopwords:
 - "l\xE0"
 - "v\xE0"
@@ -34,8 +34,8 @@ stopwords:
 - "ng\u01B0\u1EDDi"
 top_n_grams:
 - - 2
-  - 0.102
+  - 0.223
 - - 3
-  - 0.116
+  - 0.197
 - - 4
-  - 0.134
+  - 0.171

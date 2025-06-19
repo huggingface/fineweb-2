@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.527
 dup_n_grams:
 - - 5
-  - 0.69
+  - 0.514
 - - 6
-  - 0.69
+  - 0.519
 - - 7
-  - 0.688
+  - 0.5
 - - 8
-  - 0.685
+  - 0.478
 - - 9
-  - 0.684
+  - 0.444
 - - 10
-  - 0.681
+  - 0.409
 language_score: 0.389
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.053
 stopwords:
 - ne
 - a
@@ -48,8 +48,8 @@ stopwords:
 - "ngwe\u0331"
 top_n_grams:
 - - 2
-  - 0.64
+  - 1.153
 - - 3
-  - 0.603
+  - 0.941
 - - 4
-  - 0.822
+  - 0.86

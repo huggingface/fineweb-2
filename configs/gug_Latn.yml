@@ -1,23 +1,23 @@
-dup_line_frac: 0.479
+dup_line_frac: 0.407
 dup_n_grams:
 - - 5
-  - 0.36
+  - 0.252
 - - 6
-  - 0.346
+  - 0.239
 - - 7
-  - 0.322
+  - 0.217
 - - 8
-  - 0.298
+  - 0.203
 - - 9
-  - 0.278
+  - 0.188
 - - 10
-  - 0.26
+  - 0.17
 language_score: 0.3
-line_punct_thr: 0.2
-max_avg_word_length: 24
+line_punct_thr: 0.083
+max_avg_word_length: 25
 max_non_alpha_words_ratio: 0.74
 min_avg_word_length: 3
-new_line_ratio: 0.429
+new_line_ratio: 0.343
 stopwords:
 - ha
 - ary
@@ -29,8 +29,8 @@ stopwords:
 - ha'e
 top_n_grams:
 - - 2
-  - 0.507
+  - 0.887
 - - 3
-  - 0.652
+  - 0.778
 - - 4
-  - 0.734
+  - 0.644

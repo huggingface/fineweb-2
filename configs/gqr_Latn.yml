@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.263
 dup_n_grams:
 - - 5
-  - 0.061
+  - 0.165
 - - 6
-  - 0.037
+  - 0.145
 - - 7
-  - 0.021
+  - 0.137
 - - 8
-  - 0.016
+  - 0.13
 - - 9
-  - 0.016
+  - 0.122
 - - 10
-  - 0.012
+  - 0.113
 language_score: 0.736
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.829
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.806
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - "k\u0268"
 - in
@@ -45,8 +45,8 @@ stopwords:
 - nje
 top_n_grams:
 - - 2
-  - 0.133
+  - 0.998
 - - 3
-  - 0.239
+  - 0.878
 - - 4
-  - 0.336
+  - 0.815

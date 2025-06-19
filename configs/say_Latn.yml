@@ -1,22 +1,22 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.021
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.015
 - - 6
-  - 0.0
+  - 0.014
 - - 7
-  - 0.0
+  - 0.014
 - - 8
-  - 0.0
+  - 0.013
 - - 9
-  - 0.0
+  - 0.012
 - - 10
-  - 0.0
+  - 0.011
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.6
-min_avg_word_length: 2
+max_non_alpha_words_ratio: 0.5
+min_avg_word_length: 1
 new_line_ratio: 0.5
 stopwords:
 - tu
@@ -56,8 +56,8 @@ stopwords:
 - "y\xE2\u02D0n"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.534
 - - 3
-  - 1.0
+  - 1.322
 - - 4
-  - 1.053
+  - 1.132

@@ -1,22 +1,22 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.023
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.016
 - - 6
-  - 0.0
+  - 0.015
 - - 7
-  - 0.0
+  - 0.015
 - - 8
-  - 0.0
+  - 0.014
 - - 9
-  - 0.0
+  - 0.013
 - - 10
-  - 0.0
+  - 0.012
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 17
-max_non_alpha_words_ratio: 1.0
-min_avg_word_length: 4
+max_avg_word_length: 18
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
 new_line_ratio: 1.0
 stopwords:
 - "a\u014B"
@@ -47,8 +47,8 @@ stopwords:
 - "ike\u0294\u0268"
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.506
 - - 3
-  - 1.182
+  - 1.585
 - - 4
-  - 1.059
+  - 1.508

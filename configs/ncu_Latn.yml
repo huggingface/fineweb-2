@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.164
 dup_n_grams:
 - - 5
-  - 0.247
+  - 0.233
 - - 6
-  - 0.048
+  - 0.146
 - - 7
-  - 0.031
+  - 0.119
 - - 8
-  - 0.023
+  - 0.116
 - - 9
-  - 0.019
+  - 0.104
 - - 10
-  - 0.014
+  - 0.091
 language_score: 0.9
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.839
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 2
+new_line_ratio: 0.045
 stopwords:
 - "ne\u0331"
 - a
@@ -47,8 +47,8 @@ stopwords:
 - "ane\u0331\u014B"
 top_n_grams:
 - - 2
-  - 0.106
+  - 0.198
 - - 3
-  - 0.213
+  - 0.248
 - - 4
-  - 0.235
+  - 0.233

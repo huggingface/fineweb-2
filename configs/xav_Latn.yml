@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.509
 dup_n_grams:
 - - 5
-  - 0.414
+  - 0.37
 - - 6
-  - 0.403
+  - 0.354
 - - 7
-  - 0.405
+  - 0.34
 - - 8
-  - 0.388
+  - 0.318
 - - 9
-  - 0.386
+  - 0.302
 - - 10
-  - 0.39
+  - 0.284
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.772
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - te
 - "h\xE3"
@@ -41,8 +41,8 @@ stopwords:
 - e
 top_n_grams:
 - - 2
-  - 0.591
+  - 1.063
 - - 3
-  - 0.89
+  - 1.088
 - - 4
-  - 1.147
+  - 1.062

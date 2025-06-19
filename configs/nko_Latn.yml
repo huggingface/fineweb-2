@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.02
 dup_n_grams:
 - - 5
-  - 0.059
+  - 0.044
 - - 6
-  - 0.032
+  - 0.028
 - - 7
-  - 0.019
+  - 0.02
 - - 8
-  - 0.016
+  - 0.015
 - - 9
-  - 0.012
+  - 0.013
 - - 10
-  - 0.011
+  - 0.01
 language_score: 0.684
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.808
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - "m\u028B"
 - bulu
@@ -40,8 +40,8 @@ stopwords:
 - "ta\u0301m\u025B"
 top_n_grams:
 - - 2
-  - 0.026
+  - 0.046
 - - 3
-  - 0.035
+  - 0.047
 - - 4
-  - 0.027
+  - 0.03

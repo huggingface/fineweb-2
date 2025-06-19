@@ -1,23 +1,23 @@
-dup_line_frac: 0.231
+dup_line_frac: 0.263
 dup_n_grams:
 - - 5
-  - 0.165
+  - 0.16
 - - 6
-  - 0.146
+  - 0.152
 - - 7
   - 0.145
 - - 8
-  - 0.131
+  - 0.135
 - - 9
   - 0.124
 - - 10
-  - 0.124
+  - 0.117
 language_score: 0.319
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - i
 - de
@@ -38,8 +38,8 @@ stopwords:
 - "tid\xE9w"
 top_n_grams:
 - - 2
-  - 0.267
+  - 0.522
 - - 3
-  - 0.3
+  - 0.529
 - - 4
-  - 0.349
+  - 0.488

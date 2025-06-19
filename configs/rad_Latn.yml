@@ -1,23 +1,23 @@
-dup_line_frac: 0.431
+dup_line_frac: 0.293
 dup_n_grams:
 - - 5
-  - 0.105
+  - 0.115
 - - 6
-  - 0.076
+  - 0.093
 - - 7
-  - 0.055
+  - 0.078
 - - 8
-  - 0.043
+  - 0.068
 - - 9
-  - 0.033
+  - 0.058
 - - 10
-  - 0.026
+  - 0.051
 language_score: 0.663
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.842
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.816
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - leh
 - "an\u0103n"
@@ -47,8 +47,8 @@ stopwords:
 - "ng\u0103"
 top_n_grams:
 - - 2
-  - 0.083
+  - 0.371
 - - 3
-  - 0.067
+  - 0.301
 - - 4
-  - 0.078
+  - 0.251

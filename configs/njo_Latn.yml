@@ -1,23 +1,23 @@
-dup_line_frac: 0.867
+dup_line_frac: 0.581
 dup_n_grams:
 - - 5
-  - 0.594
+  - 0.391
 - - 6
-  - 0.569
+  - 0.376
 - - 7
-  - 0.58
+  - 0.367
 - - 8
-  - 0.569
+  - 0.341
 - - 9
-  - 0.529
+  - 0.317
 - - 10
-  - 0.594
+  - 0.308
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 4
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.083
 stopwords:
 - aser
 - nung
@@ -39,8 +39,8 @@ stopwords:
 - parnoki
 top_n_grams:
 - - 2
-  - 0.8
+  - 1.313
 - - 3
-  - 1.0
+  - 1.247
 - - 4
-  - 1.159
+  - 1.08

@@ -1,23 +1,23 @@
-dup_line_frac: 0.646
+dup_line_frac: 0.574
 dup_n_grams:
 - - 5
-  - 0.619
+  - 0.468
 - - 6
-  - 0.643
+  - 0.454
 - - 7
-  - 0.619
+  - 0.434
 - - 8
-  - 0.571
+  - 0.402
 - - 9
-  - 0.579
+  - 0.383
 - - 10
-  - 0.565
+  - 0.352
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.792
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - diau
 - ngan
@@ -41,8 +41,8 @@ stopwords:
 - pulau
 top_n_grams:
 - - 2
-  - 0.925
+  - 1.545
 - - 3
-  - 1.115
+  - 1.537
 - - 4
-  - 1.5
+  - 1.423

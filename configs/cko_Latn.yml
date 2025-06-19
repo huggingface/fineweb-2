@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.017
 dup_n_grams:
 - - 5
-  - 0.073
+  - 0.068
 - - 6
-  - 0.057
+  - 0.052
 - - 7
-  - 0.041
+  - 0.039
 - - 8
-  - 0.031
+  - 0.032
 - - 9
-  - 0.021
+  - 0.027
 - - 10
-  - 0.016
+  - 0.021
 language_score: 0.822
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.848
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.829
 min_avg_word_length: 2
-new_line_ratio: 0.059
+new_line_ratio: 0.048
 stopwords:
 - i
 - n
@@ -44,8 +44,8 @@ stopwords:
 - nyini
 top_n_grams:
 - - 2
-  - 0.081
+  - 0.118
 - - 3
-  - 0.113
+  - 0.126
 - - 4
-  - 0.138
+  - 0.12

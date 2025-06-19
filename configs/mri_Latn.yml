@@ -1,22 +1,22 @@
-dup_line_frac: 0.492
+dup_line_frac: 0.455
 dup_n_grams:
 - - 5
-  - 0.484
+  - 0.37
 - - 6
-  - 0.465
+  - 0.35
 - - 7
-  - 0.44
+  - 0.327
 - - 8
-  - 0.417
+  - 0.3
 - - 9
-  - 0.41
+  - 0.278
 - - 10
-  - 0.4
+  - 0.256
 language_score: 0.3
-line_punct_thr: 0.125
-max_avg_word_length: 8
+line_punct_thr: 0.045
+max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.776
-min_avg_word_length: 3
+min_avg_word_length: 2
 new_line_ratio: 0.458
 stopwords:
 - te
@@ -40,8 +40,8 @@ stopwords:
 - "w\u0101hi"
 top_n_grams:
 - - 2
-  - 0.358
+  - 0.76
 - - 3
-  - 0.448
+  - 0.752
 - - 4
-  - 0.531
+  - 0.684

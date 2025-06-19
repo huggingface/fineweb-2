@@ -1,23 +1,23 @@
-dup_line_frac: 0.514
+dup_line_frac: 0.532
 dup_n_grams:
 - - 5
-  - 0.092
+  - 0.095
 - - 6
-  - 0.076
+  - 0.092
 - - 7
-  - 0.049
+  - 0.073
 - - 8
-  - 0.039
+  - 0.068
 - - 9
-  - 0.029
+  - 0.063
 - - 10
-  - 0.018
+  - 0.058
 language_score: 0.668
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.784
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.763
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - aro
 - anang
@@ -43,8 +43,8 @@ stopwords:
 - para
 top_n_grams:
 - - 2
-  - 0.138
+  - 0.261
 - - 3
-  - 0.211
+  - 0.269
 - - 4
-  - 0.257
+  - 0.265

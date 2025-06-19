@@ -1,23 +1,23 @@
-dup_line_frac: 0.714
+dup_line_frac: 0.699
 dup_n_grams:
 - - 5
-  - 0.525
+  - 0.405
 - - 6
-  - 0.492
+  - 0.382
 - - 7
-  - 0.468
+  - 0.365
 - - 8
-  - 0.453
+  - 0.338
 - - 9
-  - 0.427
+  - 0.304
 - - 10
-  - 0.412
+  - 0.27
 language_score: 0.3
-line_punct_thr: 0.333
-max_avg_word_length: 8
+line_punct_thr: 0.133
+max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.818
 min_avg_word_length: 3
-new_line_ratio: 0.138
+new_line_ratio: 0.101
 stopwords:
 - a
 - "w\u0254"
@@ -34,8 +34,8 @@ stopwords:
 - ne
 top_n_grams:
 - - 2
-  - 0.519
+  - 1.132
 - - 3
-  - 0.693
+  - 1.125
 - - 4
-  - 0.746
+  - 1.021

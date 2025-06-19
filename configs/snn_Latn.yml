@@ -1,23 +1,23 @@
-dup_line_frac: 0.015
+dup_line_frac: 0.022
 dup_n_grams:
 - - 5
-  - 0.059
+  - 0.068
 - - 6
-  - 0.046
+  - 0.075
 - - 7
-  - 0.039
+  - 0.084
 - - 8
-  - 0.035
+  - 0.086
 - - 9
-  - 0.02
+  - 0.026
 - - 10
-  - 0.014
+  - 0.013
 language_score: 0.808
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 6
-new_line_ratio: 0.067
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.056
 stopwords:
 - "y\xEB'\xEB"
 - ja'nca
@@ -34,8 +34,8 @@ stopwords:
 - coca
 top_n_grams:
 - - 2
-  - 0.089
+  - 0.176
 - - 3
   - 0.14
 - - 4
-  - 0.097
+  - 0.108

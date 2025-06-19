@@ -1,23 +1,23 @@
-dup_line_frac: 0.518
+dup_line_frac: 0.47
 dup_n_grams:
 - - 5
-  - 0.418
+  - 0.339
 - - 6
-  - 0.415
+  - 0.336
 - - 7
-  - 0.416
+  - 0.327
 - - 8
-  - 0.411
+  - 0.309
 - - 9
-  - 0.401
+  - 0.281
 - - 10
-  - 0.386
+  - 0.256
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.854
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.048
 stopwords:
 - ri
 - hima
@@ -46,8 +46,8 @@ stopwords:
 - kipe
 top_n_grams:
 - - 2
-  - 0.094
+  - 0.364
 - - 3
-  - 0.144
+  - 0.334
 - - 4
-  - 0.147
+  - 0.282

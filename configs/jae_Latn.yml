@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.384
 dup_n_grams:
 - - 5
-  - 0.514
+  - 0.287
 - - 6
-  - 0.088
+  - 0.228
 - - 7
-  - 0.071
+  - 0.219
 - - 8
-  - 0.065
+  - 0.195
 - - 9
-  - 0.051
+  - 0.178
 - - 10
-  - 0.039
+  - 0.165
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.829
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - ma
 - gebe
@@ -47,8 +47,8 @@ stopwords:
 - go
 top_n_grams:
 - - 2
-  - 0.452
+  - 0.873
 - - 3
-  - 0.583
+  - 0.801
 - - 4
-  - 0.596
+  - 0.672

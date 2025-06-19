@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.198
 dup_n_grams:
 - - 5
-  - 0.359
+  - 0.285
 - - 6
-  - 0.312
+  - 0.257
 - - 7
-  - 0.182
+  - 0.244
 - - 8
-  - 0.122
+  - 0.224
 - - 9
-  - 0.139
+  - 0.21
 - - 10
-  - 0.1
+  - 0.195
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.873
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.85
+min_avg_word_length: 2
+new_line_ratio: 0.053
 stopwords:
 - "n\u0268"
 - "\u0259"
@@ -46,8 +46,8 @@ stopwords:
 - "nya\u02BC\u0259"
 top_n_grams:
 - - 2
-  - 0.269
+  - 0.83
 - - 3
-  - 0.386
+  - 0.837
 - - 4
-  - 0.331
+  - 0.773

@@ -1,23 +1,23 @@
-dup_line_frac: 0.545
+dup_line_frac: 0.479
 dup_n_grams:
 - - 5
-  - 0.461
+  - 0.366
 - - 6
-  - 0.418
+  - 0.309
 - - 7
-  - 0.399
+  - 0.29
 - - 8
-  - 0.377
+  - 0.274
 - - 9
-  - 0.347
+  - 0.254
 - - 10
-  - 0.333
+  - 0.233
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - i
 - su
@@ -40,8 +40,8 @@ stopwords:
 - sarung
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.433
 - - 3
-  - 0.784
+  - 1.063
 - - 4
-  - 0.925
+  - 0.969

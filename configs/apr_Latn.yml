@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.346
 dup_n_grams:
 - - 5
-  - 0.386
+  - 0.331
 - - 6
-  - 0.381
+  - 0.323
 - - 7
-  - 0.38
+  - 0.313
 - - 8
-  - 0.379
+  - 0.301
 - - 9
-  - 0.371
+  - 0.284
 - - 10
-  - 0.377
+  - 0.27
 language_score: 0.73
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.87
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.849
 min_avg_word_length: 3
-new_line_ratio: 0.045
+new_line_ratio: 0.037
 stopwords:
 - ngan
 - ye
@@ -48,8 +48,8 @@ stopwords:
 - bong
 top_n_grams:
 - - 2
-  - 0.097
+  - 0.178
 - - 3
-  - 0.117
+  - 0.176
 - - 4
-  - 0.14
+  - 0.162

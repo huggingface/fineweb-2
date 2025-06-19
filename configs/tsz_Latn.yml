@@ -1,23 +1,23 @@
-dup_line_frac: 0.75
+dup_line_frac: 0.64
 dup_n_grams:
 - - 5
-  - 0.619
+  - 0.438
 - - 6
-  - 0.586
+  - 0.415
 - - 7
-  - 0.589
+  - 0.399
 - - 8
-  - 0.554
+  - 0.366
 - - 9
-  - 0.532
+  - 0.345
 - - 10
-  - 0.516
+  - 0.321
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.125
 stopwords:
 - ka
 - ambe
@@ -37,8 +37,8 @@ stopwords:
 - ima
 top_n_grams:
 - - 2
-  - 0.765
+  - 1.395
 - - 3
-  - 0.884
+  - 1.273
 - - 4
-  - 0.925
+  - 1.157

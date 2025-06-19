@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.302
 dup_n_grams:
 - - 5
-  - 0.399
+  - 0.263
 - - 6
-  - 0.395
+  - 0.258
 - - 7
-  - 0.325
+  - 0.207
 - - 8
-  - 0.314
+  - 0.196
 - - 9
-  - 0.32
+  - 0.188
 - - 10
-  - 0.311
+  - 0.173
 language_score: 0.765
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 5
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - "ma\u028C\u0303"
 - "b\u0336\u028Ca"
@@ -39,8 +39,8 @@ stopwords:
 - "m\xE3w\xE3"
 top_n_grams:
 - - 2
-  - 0.113
+  - 0.219
 - - 3
-  - 0.172
+  - 0.219
 - - 4
-  - 0.159
+  - 0.17

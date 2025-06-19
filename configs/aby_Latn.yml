@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.369
 dup_n_grams:
 - - 5
-  - 0.403
+  - 0.365
 - - 6
-  - 0.401
+  - 0.358
 - - 7
-  - 0.398
+  - 0.346
 - - 8
-  - 0.396
+  - 0.331
 - - 9
-  - 0.392
+  - 0.311
 - - 10
-  - 0.386
+  - 0.295
 language_score: 0.832
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.903
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.889
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - i
 - eno
@@ -36,8 +36,8 @@ stopwords:
 - yaisina
 top_n_grams:
 - - 2
-  - 0.11
+  - 0.233
 - - 3
-  - 0.14
+  - 0.239
 - - 4
-  - 0.17
+  - 0.234

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.129
 dup_n_grams:
 - - 5
-  - 0.085
+  - 0.139
 - - 6
-  - 0.067
+  - 0.127
 - - 7
-  - 0.047
+  - 0.113
 - - 8
-  - 0.037
+  - 0.105
 - - 9
-  - 0.026
+  - 0.095
 - - 10
-  - 0.02
+  - 0.085
 language_score: 0.875
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.719
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.695
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - men
 - i
@@ -42,8 +42,8 @@ stopwords:
 - tia
 top_n_grams:
 - - 2
-  - 0.082
+  - 0.139
 - - 3
-  - 0.109
-- - 4
   - 0.138
+- - 4
+  - 0.128

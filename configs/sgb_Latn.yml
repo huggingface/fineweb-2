@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.196
 dup_n_grams:
 - - 5
-  - 0.089
+  - 0.133
 - - 6
-  - 0.067
+  - 0.125
 - - 7
-  - 0.05
+  - 0.105
 - - 8
-  - 0.039
+  - 0.096
 - - 9
-  - 0.026
+  - 0.09
 - - 10
-  - 0.021
+  - 0.08
 language_score: 0.746
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.806
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.784
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - ya
 - ha
@@ -38,8 +38,8 @@ stopwords:
 - hilay
 top_n_grams:
 - - 2
-  - 0.101
+  - 0.186
 - - 3
-  - 0.164
+  - 0.234
 - - 4
-  - 0.148
+  - 0.171

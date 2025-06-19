@@ -1,23 +1,23 @@
-dup_line_frac: 0.24
+dup_line_frac: 0.323
 dup_n_grams:
 - - 5
-  - 0.271
+  - 0.234
 - - 6
-  - 0.274
+  - 0.224
 - - 7
-  - 0.154
+  - 0.194
 - - 8
-  - 0.103
+  - 0.175
 - - 9
-  - 0.077
+  - 0.163
 - - 10
-  - 0.025
+  - 0.147
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.111
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.787
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - ba
 - nani
@@ -39,8 +39,8 @@ stopwords:
 - wan
 top_n_grams:
 - - 2
-  - 0.522
+  - 1.076
 - - 3
-  - 0.783
+  - 0.983
 - - 4
-  - 1.0
+  - 0.892

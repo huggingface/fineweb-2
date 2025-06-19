@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.694
 dup_n_grams:
 - - 5
-  - 0.821
+  - 0.885
 - - 6
-  - 0.816
+  - 0.87
 - - 7
-  - 0.82
+  - 0.87
 - - 8
-  - 0.82
+  - 0.839
 - - 9
-  - 0.816
+  - 0.82
 - - 10
-  - 0.809
+  - 0.788
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 6
-new_line_ratio: 0.167
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.143
 stopwords:
 - lhiehe
 - watsa
@@ -46,8 +46,8 @@ stopwords:
 - koaka
 top_n_grams:
 - - 2
-  - 1.821
+  - 3.15
 - - 3
-  - 2.799
+  - 3.745
 - - 4
-  - 3.758
+  - 4.103

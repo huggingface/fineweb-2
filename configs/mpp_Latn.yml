@@ -1,23 +1,23 @@
-dup_line_frac: 0.914
+dup_line_frac: 1.124
 dup_n_grams:
 - - 5
-  - 0.772
+  - 0.848
 - - 6
-  - 0.772
+  - 0.839
 - - 7
-  - 0.763
+  - 0.828
 - - 8
-  - 0.765
+  - 0.808
 - - 9
-  - 0.761
+  - 0.794
 - - 10
-  - 0.755
+  - 0.765
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.743
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - ngic
 - ye
@@ -35,8 +35,8 @@ stopwords:
 - monic
 top_n_grams:
 - - 2
-  - 1.69
+  - 2.83
 - - 3
-  - 2.538
+  - 3.458
 - - 4
-  - 3.359
+  - 3.921

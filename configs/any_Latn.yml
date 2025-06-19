@@ -1,23 +1,23 @@
-dup_line_frac: 0.833
+dup_line_frac: 0.619
 dup_n_grams:
 - - 5
-  - 0.587
+  - 0.44
 - - 6
-  - 0.558
+  - 0.425
 - - 7
-  - 0.54
+  - 0.455
 - - 8
-  - 0.488
+  - 0.405
 - - 9
-  - 0.467
+  - 0.346
 - - 10
-  - 0.458
+  - 0.288
 language_score: 0.748
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.795
+min_avg_word_length: 2
+new_line_ratio: 0.05
 stopwords:
 - "m\u0254"
 - "\u0254"
@@ -42,8 +42,8 @@ stopwords:
 - "nw\u028Bn"
 top_n_grams:
 - - 2
-  - 0.609
+  - 1.262
 - - 3
-  - 0.815
+  - 1.229
 - - 4
-  - 0.934
+  - 1.081

@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.516
 dup_n_grams:
 - - 5
-  - 0.726
+  - 0.784
 - - 6
-  - 0.719
+  - 0.778
 - - 7
-  - 0.717
+  - 0.763
 - - 8
-  - 0.716
+  - 0.743
 - - 9
-  - 0.715
+  - 0.723
 - - 10
-  - 0.714
+  - 0.693
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.861
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.838
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - eng
 - munon
@@ -43,8 +43,8 @@ stopwords:
 - gab
 top_n_grams:
 - - 2
-  - 0.688
+  - 1.605
 - - 3
-  - 0.789
+  - 1.625
 - - 4
-  - 1.0
+  - 1.459

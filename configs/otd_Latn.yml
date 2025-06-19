@@ -1,23 +1,23 @@
-dup_line_frac: 0.486
+dup_line_frac: 0.491
 dup_n_grams:
 - - 5
-  - 0.44
+  - 0.41
 - - 6
-  - 0.436
+  - 0.403
 - - 7
-  - 0.438
+  - 0.396
 - - 8
-  - 0.401
+  - 0.364
 - - 9
-  - 0.421
+  - 0.36
 - - 10
-  - 0.38
+  - 0.324
 language_score: 0.654
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.78
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.067
 stopwords:
 - ijo
 - ulun
@@ -39,8 +39,8 @@ stopwords:
 - tahpi
 top_n_grams:
 - - 2
-  - 0.543
+  - 0.972
 - - 3
-  - 0.676
+  - 0.924
 - - 4
-  - 0.817
+  - 0.841

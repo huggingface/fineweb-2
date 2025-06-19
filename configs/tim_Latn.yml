@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0
 dup_n_grams:
 - - 5
-  - 0.027
+  - 0.03
 - - 6
-  - 0.015
+  - 0.024
 - - 7
-  - 0.01
+  - 0.009
 - - 8
   - 0.007
 - - 9
   - 0.005
 - - 10
-  - 0.005
+  - 0.004
 language_score: 0.88
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.85
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - akto
 - are
@@ -37,8 +37,8 @@ stopwords:
 - "anutu\u014Be"
 top_n_grams:
 - - 2
-  - 0.019
+  - 0.033
 - - 3
-  - 0.018
+  - 0.036
 - - 4
-  - 0.018
+  - 0.032

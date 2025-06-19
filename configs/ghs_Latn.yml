@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.462
 dup_n_grams:
 - - 5
-  - 0.423
-- - 6
-  - 0.401
-- - 7
-  - 0.379
-- - 8
-  - 0.401
-- - 9
-  - 0.326
-- - 10
   - 0.332
+- - 6
+  - 0.304
+- - 7
+  - 0.278
+- - 8
+  - 0.268
+- - 9
+  - 0.231
+- - 10
+  - 0.22
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.88
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - ma
 - abi
@@ -36,8 +36,8 @@ stopwords:
 - oonita
 top_n_grams:
 - - 2
-  - 0.569
+  - 0.956
 - - 3
-  - 0.538
+  - 0.759
 - - 4
-  - 0.639
+  - 0.627

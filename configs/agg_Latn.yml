@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.375
 dup_n_grams:
 - - 5
-  - 0.426
+  - 0.389
 - - 6
-  - 0.424
+  - 0.381
 - - 7
-  - 0.42
+  - 0.367
 - - 8
-  - 0.417
+  - 0.349
 - - 9
-  - 0.416
+  - 0.333
 - - 10
-  - 0.413
+  - 0.314
 language_score: 0.878
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.774
-min_avg_word_length: 6
-new_line_ratio: 0.067
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.056
 stopwords:
 - ai
 - asu
@@ -37,8 +37,8 @@ stopwords:
 - "moat\xFCkun\u0268"
 top_n_grams:
 - - 2
-  - 0.108
+  - 0.178
 - - 3
-  - 0.143
+  - 0.176
 - - 4
-  - 0.186
+  - 0.181

@@ -1,22 +1,22 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.483
 dup_n_grams:
 - - 5
-  - 0.447
+  - 0.361
 - - 6
-  - 0.425
+  - 0.336
 - - 7
-  - 0.399
+  - 0.308
 - - 8
-  - 0.381
+  - 0.28
 - - 9
-  - 0.367
+  - 0.251
 - - 10
-  - 0.352
+  - 0.222
 language_score: 0.3
 line_punct_thr: 0.667
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
+min_avg_word_length: 3
 new_line_ratio: 0.061
 stopwords:
 - dari
@@ -49,8 +49,8 @@ stopwords:
 - nebula
 top_n_grams:
 - - 2
-  - 0.319
+  - 0.616
 - - 3
-  - 0.378
+  - 0.548
 - - 4
-  - 0.42
+  - 0.481

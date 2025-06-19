@@ -1,23 +1,23 @@
-dup_line_frac: 0.826
+dup_line_frac: 0.741
 dup_n_grams:
 - - 5
-  - 0.46
+  - 0.35
 - - 6
-  - 0.432
+  - 0.325
 - - 7
-  - 0.409
+  - 0.306
 - - 8
-  - 0.387
+  - 0.269
 - - 9
-  - 0.38
+  - 0.252
 - - 10
-  - 0.371
+  - 0.231
 language_score: 0.3
-line_punct_thr: 0.167
+line_punct_thr: 0.111
 max_avg_word_length: 6
 max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 3
-new_line_ratio: 0.231
+min_avg_word_length: 2
+new_line_ratio: 0.204
 stopwords:
 - "t\u0254n"
 - "\u0256o"
@@ -36,8 +36,8 @@ stopwords:
 - kpo
 top_n_grams:
 - - 2
-  - 0.6
+  - 1.064
 - - 3
-  - 0.722
+  - 0.89
 - - 4
-  - 0.857
+  - 0.745

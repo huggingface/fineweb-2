@@ -1,23 +1,23 @@
-dup_line_frac: 0.039
+dup_line_frac: 0.231
 dup_n_grams:
 - - 5
-  - 0.146
+  - 0.203
 - - 6
-  - 0.108
+  - 0.174
 - - 7
-  - 0.06
+  - 0.155
 - - 8
-  - 0.029
+  - 0.144
 - - 9
-  - 0.021
+  - 0.132
 - - 10
-  - 0.0
+  - 0.124
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.81
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 3
+new_line_ratio: 0.043
 stopwords:
 - "l\xE4"
 - "b\xE4"
@@ -45,8 +45,8 @@ stopwords:
 - nija
 top_n_grams:
 - - 2
-  - 0.892
+  - 1.097
 - - 3
-  - 0.351
+  - 0.718
 - - 4
-  - 0.486
+  - 0.654

@@ -1,23 +1,23 @@
-dup_line_frac: 0.366
+dup_line_frac: 0.394
 dup_n_grams:
 - - 5
-  - 0.402
+  - 0.311
 - - 6
-  - 0.368
+  - 0.304
 - - 7
-  - 0.333
+  - 0.243
 - - 8
-  - 0.302
+  - 0.23
 - - 9
-  - 0.273
+  - 0.217
 - - 10
-  - 0.244
+  - 0.199
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.826
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 2
+new_line_ratio: 0.071
 stopwords:
 - der
 - ich
@@ -41,8 +41,8 @@ stopwords:
 - "s\xF4"
 top_n_grams:
 - - 2
-  - 0.328
+  - 1.229
 - - 3
-  - 0.355
+  - 1.074
 - - 4
-  - 0.349
+  - 0.878

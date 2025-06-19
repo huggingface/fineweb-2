@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.026
 dup_n_grams:
 - - 5
-  - 0.056
+  - 0.05
 - - 6
-  - 0.041
+  - 0.037
 - - 7
-  - 0.033
-- - 8
   - 0.029
+- - 8
+  - 0.024
 - - 9
-  - 0.026
-- - 10
   - 0.019
+- - 10
+  - 0.016
 language_score: 0.892
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.739
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - "t\u0268mbi"
 - "w\u0268n"
@@ -37,8 +37,8 @@ stopwords:
 - en
 top_n_grams:
 - - 2
-  - 0.016
+  - 0.056
 - - 3
-  - 0.015
+  - 0.028
 - - 4
-  - 0.016
+  - 0.014

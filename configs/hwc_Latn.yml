@@ -1,23 +1,23 @@
-dup_line_frac: 0.978
+dup_line_frac: 1.128
 dup_n_grams:
 - - 5
-  - 0.71
+  - 0.684
 - - 6
-  - 0.705
+  - 0.681
 - - 7
-  - 0.692
+  - 0.652
 - - 8
-  - 0.692
+  - 0.631
 - - 9
-  - 0.668
+  - 0.596
 - - 10
-  - 0.68
+  - 0.571
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.828
+min_avg_word_length: 2
+new_line_ratio: 0.053
 stopwords:
 - da
 - wen
@@ -46,8 +46,8 @@ stopwords:
 - go
 top_n_grams:
 - - 2
-  - 0.467
+  - 0.848
 - - 3
-  - 0.645
+  - 0.858
 - - 4
-  - 0.893
+  - 0.927

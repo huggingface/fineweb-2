@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.588
 dup_n_grams:
 - - 5
-  - 0.613
+  - 0.409
 - - 6
-  - 0.53
+  - 0.381
 - - 7
-  - 0.499
+  - 0.368
 - - 8
-  - 0.55
+  - 0.343
 - - 9
-  - 0.56
+  - 0.327
 - - 10
-  - 0.516
+  - 0.299
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - ki
 - bann
@@ -39,8 +39,8 @@ stopwords:
 - lor
 top_n_grams:
 - - 2
-  - 0.484
+  - 1.216
 - - 3
-  - 0.638
+  - 1.213
 - - 4
-  - 0.774
+  - 1.117

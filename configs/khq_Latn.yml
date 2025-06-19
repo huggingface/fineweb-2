@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.515
 dup_n_grams:
 - - 5
-  - 0.721
+  - 0.471
 - - 6
-  - 0.702
+  - 0.469
 - - 7
-  - 0.697
+  - 0.45
 - - 8
-  - 0.697
+  - 0.429
 - - 9
-  - 0.697
+  - 0.413
 - - 10
-  - 0.693
+  - 0.385
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 3
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 2
+new_line_ratio: 0.067
 stopwords:
 - ka
 - a
@@ -48,8 +48,8 @@ stopwords:
 - woodi
 top_n_grams:
 - - 2
-  - 0.418
+  - 1.042
 - - 3
-  - 0.508
+  - 1.007
 - - 4
-  - 0.592
+  - 0.915

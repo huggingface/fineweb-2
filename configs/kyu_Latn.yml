@@ -1,23 +1,23 @@
-dup_line_frac: 0.75
+dup_line_frac: 0.735
 dup_n_grams:
 - - 5
-  - 0.629
+  - 0.464
 - - 6
-  - 0.581
+  - 0.417
 - - 7
-  - 0.588
+  - 0.408
 - - 8
-  - 0.527
+  - 0.388
 - - 9
-  - 0.527
+  - 0.374
 - - 10
-  - 0.513
+  - 0.355
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.868
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.844
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - a
 - "d\u1ED1"
@@ -43,8 +43,8 @@ stopwords:
 - "lahy\u01CE"
 top_n_grams:
 - - 2
-  - 0.63
+  - 1.492
 - - 3
-  - 0.895
+  - 1.559
 - - 4
-  - 0.952
+  - 1.434

@@ -1,23 +1,23 @@
-dup_line_frac: 0.897
+dup_line_frac: 0.616
 dup_n_grams:
 - - 5
-  - 0.768
+  - 0.494
 - - 6
-  - 0.767
+  - 0.489
 - - 7
-  - 0.765
+  - 0.475
 - - 8
-  - 0.766
+  - 0.452
 - - 9
-  - 0.765
+  - 0.43
 - - 10
-  - 0.761
+  - 0.402
 language_score: 0.408
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 6
-new_line_ratio: 0.111
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 4
+new_line_ratio: 0.1
 stopwords:
 - omu
 - kandi
@@ -35,8 +35,8 @@ stopwords:
 - ebi
 top_n_grams:
 - - 2
-  - 0.565
+  - 1.119
 - - 3
-  - 0.731
+  - 1.137
 - - 4
-  - 0.861
+  - 0.994

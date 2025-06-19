@@ -1,23 +1,23 @@
-dup_line_frac: 0.972
+dup_line_frac: 1.155
 dup_n_grams:
 - - 5
-  - 0.877
+  - 0.874
 - - 6
-  - 0.791
+  - 0.805
 - - 7
-  - 0.877
+  - 0.842
 - - 8
-  - 0.802
+  - 0.779
 - - 9
-  - 0.759
+  - 0.706
 - - 10
-  - 0.752
+  - 0.696
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.795
-min_avg_word_length: 5
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.757
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - e
 - deli
@@ -42,8 +42,8 @@ stopwords:
 - goli
 top_n_grams:
 - - 2
-  - 1.852
+  - 3.4
 - - 3
-  - 2.747
+  - 3.633
 - - 4
-  - 3.585
+  - 3.593

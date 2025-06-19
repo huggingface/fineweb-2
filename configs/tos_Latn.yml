@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.129
 dup_n_grams:
 - - 5
-  - 0.025
+  - 0.118
 - - 6
-  - 0.019
+  - 0.112
 - - 7
-  - 0.014
+  - 0.104
 - - 8
-  - 0.008
+  - 0.094
 - - 9
-  - 0.007
+  - 0.089
 - - 10
-  - 0.006
+  - 0.081
 language_score: 0.894
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.806
-min_avg_word_length: 7
-new_line_ratio: 0.071
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.784
+min_avg_word_length: 5
+new_line_ratio: 0.059
 stopwords:
 - "chu\u0331"
 - c
@@ -41,8 +41,8 @@ stopwords:
 - pala
 top_n_grams:
 - - 2
-  - 0.037
+  - 0.083
 - - 3
-  - 0.054
+  - 0.084
 - - 4
-  - 0.078
+  - 0.079

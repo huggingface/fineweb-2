@@ -1,23 +1,23 @@
-dup_line_frac: 0.615
+dup_line_frac: 0.667
 dup_n_grams:
 - - 5
-  - 0.381
-- - 6
-  - 0.349
-- - 7
-  - 0.328
-- - 8
   - 0.304
+- - 6
+  - 0.273
+- - 7
+  - 0.253
+- - 8
+  - 0.235
 - - 9
-  - 0.28
+  - 0.215
 - - 10
-  - 0.258
+  - 0.195
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 19
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 6
-new_line_ratio: 0.25
+max_avg_word_length: 20
+max_non_alpha_words_ratio: 0.756
+min_avg_word_length: 3
+new_line_ratio: 0.2
 stopwords:
 - mattu
 - ee
@@ -30,8 +30,8 @@ stopwords:
 - mele
 top_n_grams:
 - - 2
-  - 0.455
+  - 0.871
 - - 3
-  - 0.554
+  - 0.742
 - - 4
-  - 0.6
+  - 0.646

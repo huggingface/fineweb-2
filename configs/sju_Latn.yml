@@ -1,23 +1,23 @@
-dup_line_frac: 0.959
+dup_line_frac: 0.822
 dup_n_grams:
 - - 5
-  - 0.746
+  - 0.508
 - - 6
-  - 0.744
+  - 0.488
 - - 7
-  - 0.742
+  - 0.47
 - - 8
-  - 0.738
+  - 0.45
 - - 9
-  - 0.737
+  - 0.422
 - - 10
-  - 0.716
+  - 0.39
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 33
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 6
-new_line_ratio: 0.167
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 5
+new_line_ratio: 0.125
 stopwords:
 - jah
 - "le\xE4"
@@ -51,8 +51,8 @@ stopwords:
 - kommuvnan
 top_n_grams:
 - - 2
-  - 0.436
+  - 0.811
 - - 3
-  - 0.472
+  - 0.712
 - - 4
-  - 0.424
+  - 0.578

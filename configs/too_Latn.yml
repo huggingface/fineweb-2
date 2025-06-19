@@ -1,23 +1,23 @@
-dup_line_frac: 0.842
+dup_line_frac: 0.618
 dup_n_grams:
 - - 5
-  - 0.556
+  - 0.514
 - - 6
-  - 0.695
+  - 0.547
 - - 7
-  - 0.433
+  - 0.394
 - - 8
-  - 0.426
+  - 0.383
 - - 9
-  - 0.422
+  - 0.347
 - - 10
-  - 0.427
+  - 0.337
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.647
-min_avg_word_length: 6
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.621
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - "l\u0101"
 - huan
@@ -44,8 +44,8 @@ stopwords:
 - na
 top_n_grams:
 - - 2
-  - 0.897
+  - 1.714
 - - 3
-  - 1.149
+  - 1.584
 - - 4
-  - 1.516
+  - 1.437

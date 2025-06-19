@@ -1,23 +1,23 @@
-dup_line_frac: 0.231
+dup_line_frac: 0.413
 dup_n_grams:
 - - 5
-  - 0.521
+  - 0.437
 - - 6
-  - 0.497
+  - 0.423
 - - 7
-  - 0.475
+  - 0.4
 - - 8
-  - 0.453
+  - 0.381
 - - 9
-  - 0.438
+  - 0.363
 - - 10
-  - 0.404
+  - 0.328
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.617
+max_non_alpha_words_ratio: 0.605
 min_avg_word_length: 2
-new_line_ratio: 0.036
+new_line_ratio: 0.029
 stopwords:
 - a
 - "\u025B"
@@ -42,8 +42,8 @@ stopwords:
 - "\u2011b\u0269"
 top_n_grams:
 - - 2
-  - 0.723
+  - 0.962
 - - 3
-  - 0.969
+  - 0.938
 - - 4
-  - 1.549
+  - 0.98

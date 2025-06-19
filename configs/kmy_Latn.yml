@@ -1,23 +1,23 @@
-dup_line_frac: 0.895
+dup_line_frac: 1.049
 dup_n_grams:
 - - 5
-  - 0.753
+  - 0.71
 - - 6
-  - 0.621
+  - 0.635
 - - 7
-  - 0.711
+  - 0.649
 - - 8
-  - 0.804
+  - 0.64
 - - 9
-  - 0.468
+  - 0.472
 - - 10
-  - 0.52
+  - 0.464
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.87
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.848
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - "d\u0269"
 - die
@@ -45,8 +45,8 @@ stopwords:
 - yisa
 top_n_grams:
 - - 2
-  - 1.747
+  - 2.91
 - - 3
-  - 2.484
+  - 3.016
 - - 4
-  - 3.116
+  - 2.862

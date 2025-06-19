@@ -1,23 +1,23 @@
-dup_line_frac: 0.848
+dup_line_frac: 0.843
 dup_n_grams:
 - - 5
-  - 0.73
+  - 0.63
 - - 6
-  - 0.715
+  - 0.619
 - - 7
-  - 0.707
+  - 0.614
 - - 8
-  - 0.711
+  - 0.575
 - - 9
-  - 0.752
+  - 0.585
 - - 10
-  - 0.706
+  - 0.515
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.846
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - ndo
 - ko
@@ -40,8 +40,8 @@ stopwords:
 - chujni
 top_n_grams:
 - - 2
-  - 0.844
+  - 1.405
 - - 3
-  - 1.072
+  - 1.485
 - - 4
-  - 1.685
+  - 1.503

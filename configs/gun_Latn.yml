@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.322
 dup_n_grams:
 - - 5
-  - 0.374
+  - 0.269
 - - 6
-  - 0.374
+  - 0.229
 - - 7
-  - 0.318
+  - 0.206
 - - 8
-  - 0.31
+  - 0.196
 - - 9
-  - 0.296
+  - 0.184
 - - 10
-  - 0.3
+  - 0.171
 language_score: 0.661
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.816
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - ha'e
 - va'e
@@ -38,8 +38,8 @@ stopwords:
 - nhanderuete
 top_n_grams:
 - - 2
-  - 0.136
+  - 0.466
 - - 3
-  - 0.268
+  - 0.519
 - - 4
-  - 0.286
+  - 0.445

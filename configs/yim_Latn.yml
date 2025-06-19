@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.402
 dup_n_grams:
 - - 5
-  - 0.104
+  - 0.189
 - - 6
-  - 0.061
+  - 0.186
 - - 7
-  - 0.034
+  - 0.162
 - - 8
-  - 0.023
+  - 0.148
 - - 9
-  - 0.021
+  - 0.134
 - - 10
-  - 0.013
+  - 0.125
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 3
+new_line_ratio: 0.091
 stopwords:
 - "t\xFCsho"
 - ching
@@ -37,8 +37,8 @@ stopwords:
 - tha
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.415
 - - 3
-  - 0.968
+  - 1.065
 - - 4
-  - 1.0
+  - 0.944

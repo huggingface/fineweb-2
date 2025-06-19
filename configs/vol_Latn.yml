@@ -1,23 +1,23 @@
-dup_line_frac: 0.429
+dup_line_frac: 0.344
 dup_n_grams:
 - - 5
-  - 0.367
+  - 0.216
 - - 6
-  - 0.355
+  - 0.194
 - - 7
-  - 0.338
+  - 0.186
 - - 8
-  - 0.324
+  - 0.171
 - - 9
-  - 0.326
+  - 0.164
 - - 10
-  - 0.323
+  - 0.151
 language_score: 0.68
-line_punct_thr: 0.167
-max_avg_word_length: 10
+line_punct_thr: 0.143
+max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.62
 min_avg_word_length: 3
-new_line_ratio: 0.25
+new_line_ratio: 0.214
 stopwords:
 - in
 - e
@@ -32,8 +32,8 @@ stopwords:
 - "\xE4binon"
 top_n_grams:
 - - 2
-  - 0.167
+  - 0.324
 - - 3
-  - 0.212
+  - 0.29
 - - 4
-  - 0.232
+  - 0.242

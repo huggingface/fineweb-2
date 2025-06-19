@@ -1,23 +1,23 @@
-dup_line_frac: 0.6
+dup_line_frac: 0.481
 dup_n_grams:
 - - 5
-  - 0.55
+  - 0.366
 - - 6
-  - 0.531
+  - 0.353
 - - 7
-  - 0.528
+  - 0.33
 - - 8
-  - 0.486
+  - 0.298
 - - 9
-  - 0.507
+  - 0.278
 - - 10
-  - 0.506
+  - 0.265
 language_score: 0.394
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.886
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - nu
 - tuku
@@ -41,8 +41,8 @@ stopwords:
 - kile
 top_n_grams:
 - - 2
-  - 0.686
+  - 1.236
 - - 3
-  - 0.966
+  - 1.15
 - - 4
-  - 0.978
+  - 1.031

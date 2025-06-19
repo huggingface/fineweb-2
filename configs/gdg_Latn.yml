@@ -1,23 +1,23 @@
-dup_line_frac: 0.007
+dup_line_frac: 0.195
 dup_n_grams:
 - - 5
-  - 0.512
+  - 0.564
 - - 6
-  - 0.62
+  - 0.676
 - - 7
-  - 0.357
+  - 0.398
 - - 8
-  - 0.403
+  - 0.433
 - - 9
-  - 0.465
+  - 0.479
 - - 10
-  - 0.512
+  - 0.505
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.791
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.762
+min_avg_word_length: 3
+new_line_ratio: 0.077
 stopwords:
 - a
 - sino
@@ -37,8 +37,8 @@ stopwords:
 - ammena
 top_n_grams:
 - - 2
-  - 0.504
+  - 1.046
 - - 3
-  - 0.853
+  - 1.299
 - - 4
-  - 0.899
+  - 1.076

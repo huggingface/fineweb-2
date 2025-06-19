@@ -1,23 +1,23 @@
-dup_line_frac: 0.115
+dup_line_frac: 0.173
 dup_n_grams:
 - - 5
-  - 0.035
+  - 0.133
 - - 6
-  - 0.022
+  - 0.12
 - - 7
-  - 0.014
+  - 0.119
 - - 8
-  - 0.013
+  - 0.102
 - - 9
-  - 0.01
+  - 0.095
 - - 10
-  - 0.008
+  - 0.092
 language_score: 0.797
-line_punct_thr: 0.167
-max_avg_word_length: 108
+line_punct_thr: 0.0
+max_avg_word_length: 109
 max_non_alpha_words_ratio: 0.8
 min_avg_word_length: 2
-new_line_ratio: 0.583
+new_line_ratio: 0.455
 stopwords:
 - "\uAB70\uAB84"
 - "\uAB7F\uAB70"
@@ -32,8 +32,8 @@ stopwords:
 - "\uAB74\uAB7C\uABBB\u13FB\uAB7F"
 top_n_grams:
 - - 2
-  - 0.072
+  - 0.489
 - - 3
-  - 0.088
+  - 0.461
 - - 4
-  - 0.109
+  - 0.39

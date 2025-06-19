@@ -1,23 +1,23 @@
-dup_line_frac: 0.547
+dup_line_frac: 0.535
 dup_n_grams:
 - - 5
-  - 0.759
+  - 0.833
 - - 6
-  - 0.763
+  - 0.842
 - - 7
-  - 0.776
+  - 0.835
 - - 8
-  - 0.755
+  - 0.813
 - - 9
-  - 0.772
+  - 0.803
 - - 10
-  - 0.759
+  - 0.783
 language_score: 0.353
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.862
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.838
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - "\xEBm"
 - "b\xEB"
@@ -39,8 +39,8 @@ stopwords:
 - go
 top_n_grams:
 - - 2
-  - 1.68
+  - 2.823
 - - 3
-  - 2.59
+  - 3.456
 - - 4
-  - 3.494
+  - 3.887

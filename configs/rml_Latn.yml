@@ -1,23 +1,23 @@
-dup_line_frac: 0.875
+dup_line_frac: 0.686
 dup_n_grams:
 - - 5
-  - 0.641
+  - 0.572
 - - 6
-  - 0.62
+  - 0.544
 - - 7
-  - 0.608
+  - 0.478
 - - 8
-  - 0.606
+  - 0.451
 - - 9
-  - 0.592
+  - 0.37
 - - 10
-  - 0.589
+  - 0.351
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.1
 stopwords:
 - te
 - so
@@ -47,8 +47,8 @@ stopwords:
 - togi
 top_n_grams:
 - - 2
-  - 0.938
+  - 1.636
 - - 3
-  - 1.225
+  - 1.591
 - - 4
-  - 1.681
+  - 1.423

@@ -1,22 +1,22 @@
-dup_line_frac: 0.875
+dup_line_frac: 0.718
 dup_n_grams:
 - - 5
-  - 0.631
+  - 0.597
 - - 6
-  - 0.628
+  - 0.584
 - - 7
-  - 0.621
+  - 0.564
 - - 8
-  - 0.616
+  - 0.541
 - - 9
-  - 0.611
+  - 0.519
 - - 10
-  - 0.612
+  - 0.491
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 4
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
 new_line_ratio: 0.143
 stopwords:
 - do
@@ -54,8 +54,8 @@ stopwords:
 - pongoduatan
 top_n_grams:
 - - 2
-  - 0.957
+  - 1.502
 - - 3
-  - 1.344
+  - 1.628
 - - 4
-  - 1.731
+  - 1.622

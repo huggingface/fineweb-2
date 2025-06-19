@@ -1,23 +1,23 @@
-dup_line_frac: 0.077
+dup_line_frac: 0.3
 dup_n_grams:
 - - 5
-  - 0.366
+  - 0.269
 - - 6
-  - 0.297
+  - 0.233
 - - 7
-  - 0.217
+  - 0.209
 - - 8
-  - 0.136
+  - 0.191
 - - 9
-  - 0.143
+  - 0.169
 - - 10
-  - 0.11
+  - 0.155
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.083
 stopwords:
 - "p\xFC"
 - mu
@@ -34,8 +34,8 @@ stopwords:
 - sheri
 top_n_grams:
 - - 2
-  - 0.6
+  - 1.022
 - - 3
-  - 0.638
+  - 0.849
 - - 4
-  - 0.682
+  - 0.735

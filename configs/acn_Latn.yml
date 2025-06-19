@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.321
 dup_n_grams:
 - - 5
-  - 0.357
+  - 0.249
 - - 6
-  - 0.349
+  - 0.241
 - - 7
-  - 0.323
+  - 0.225
 - - 8
-  - 0.316
+  - 0.213
 - - 9
-  - 0.31
+  - 0.201
 - - 10
-  - 0.302
+  - 0.185
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.879
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.864
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - lyis
 - gas
@@ -47,8 +47,8 @@ stopwords:
 - jens
 top_n_grams:
 - - 2
-  - 0.107
+  - 0.464
 - - 3
-  - 0.136
+  - 0.453
 - - 4
-  - 0.163
+  - 0.4

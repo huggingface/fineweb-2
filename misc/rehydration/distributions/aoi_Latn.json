@@ -1,0 +1,1 @@
+{"cluster_sizes":[1,2,3,5,6,7,8,11,13,29],"cluster_removal_rates":[75.0,100.0,100.0,0.0,6.349206349206349,20.0,11.76470588235294,100.0,100.0,100.0],"cluster_post_filtering_doc_counts":[3,0,0,9,59,8,30,0,0,0],"tail_threshold":64,"tail_removal_rate":0.0,"tail_post_filtering_doc_counts":1,"global_removal_rate":19.708029197080293}

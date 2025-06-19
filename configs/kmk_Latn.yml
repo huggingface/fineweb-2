@@ -1,23 +1,23 @@
-dup_line_frac: 0.208
+dup_line_frac: 0.358
 dup_n_grams:
 - - 5
-  - 0.256
+  - 0.23
 - - 6
-  - 0.081
+  - 0.17
 - - 7
-  - 0.038
+  - 0.155
 - - 8
-  - 0.014
+  - 0.143
 - - 9
-  - 0.0
+  - 0.125
 - - 10
-  - 0.0
+  - 0.112
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.84
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - un
 - kan
@@ -39,8 +39,8 @@ stopwords:
 - tagu
 top_n_grams:
 - - 2
-  - 0.499
+  - 0.885
 - - 3
-  - 0.536
+  - 0.788
 - - 4
-  - 0.463
+  - 0.549

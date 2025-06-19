@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.188
 dup_n_grams:
 - - 5
-  - 0.18
+  - 0.179
 - - 6
-  - 0.138
+  - 0.162
 - - 7
   - 0.135
 - - 8
-  - 0.095
+  - 0.122
 - - 9
-  - 0.099
+  - 0.113
 - - 10
-  - 0.082
+  - 0.099
 language_score: 0.802
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.905
-min_avg_word_length: 3
-new_line_ratio: 0.091
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.889
+min_avg_word_length: 2
+new_line_ratio: 0.077
 stopwords:
 - ve
 - "aw\u02EC"
@@ -43,8 +43,8 @@ stopwords:
 - "la\u02C7"
 top_n_grams:
 - - 2
-  - 0.112
+  - 0.156
 - - 3
-  - 0.189
+  - 0.207
 - - 4
-  - 0.131
+  - 0.133

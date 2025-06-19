@@ -1,23 +1,23 @@
-dup_line_frac: 0.848
+dup_line_frac: 1.139
 dup_n_grams:
 - - 5
-  - 0.681
+  - 0.834
 - - 6
-  - 0.669
+  - 0.821
 - - 7
-  - 0.694
+  - 0.845
 - - 8
-  - 0.694
+  - 0.833
 - - 9
-  - 0.669
+  - 0.789
 - - 10
-  - 0.681
+  - 0.785
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - mu
 - mani
@@ -34,8 +34,8 @@ stopwords:
 - haba
 top_n_grams:
 - - 2
-  - 0.77
+  - 1.461
 - - 3
-  - 1.198
+  - 1.824
 - - 4
-  - 1.577
+  - 2.025

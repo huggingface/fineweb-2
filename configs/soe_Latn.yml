@@ -1,23 +1,23 @@
-dup_line_frac: 0.667
+dup_line_frac: 0.539
 dup_n_grams:
 - - 5
-  - 0.822
+  - 0.674
 - - 6
-  - 0.829
+  - 0.742
 - - 7
-  - 0.808
+  - 0.642
 - - 8
-  - 0.815
+  - 0.654
 - - 9
-  - 0.8
+  - 0.675
 - - 10
-  - 0.792
+  - 0.491
 language_score: 0.55
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 4
-new_line_ratio: 0.125
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 3
+new_line_ratio: 0.111
 stopwords:
 - la
 - "dj\u025B"
@@ -46,8 +46,8 @@ stopwords:
 - "wanany\u0254"
 top_n_grams:
 - - 2
-  - 1.691
+  - 3.12
 - - 3
-  - 2.411
+  - 3.265
 - - 4
-  - 3.041
+  - 3.207

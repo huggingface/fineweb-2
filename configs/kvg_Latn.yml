@@ -1,23 +1,23 @@
-dup_line_frac: 0.933
+dup_line_frac: 0.672
 dup_n_grams:
 - - 5
-  - 0.796
+  - 0.482
 - - 6
-  - 0.796
+  - 0.474
 - - 7
-  - 0.812
+  - 0.466
 - - 8
-  - 0.782
+  - 0.434
 - - 9
-  - 0.796
+  - 0.42
 - - 10
-  - 0.796
+  - 0.394
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.675
-min_avg_word_length: 5
-new_line_ratio: 0.059
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.659
+min_avg_word_length: 4
+new_line_ratio: 0.048
 stopwords:
 - te
 - yaq
@@ -44,8 +44,8 @@ stopwords:
 - manqa
 top_n_grams:
 - - 2
-  - 0.357
+  - 0.782
 - - 3
-  - 0.364
+  - 0.699
 - - 4
-  - 0.326
+  - 0.545

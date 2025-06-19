@@ -1,22 +1,22 @@
-dup_line_frac: 0.429
+dup_line_frac: 0.331
 dup_n_grams:
 - - 5
-  - 0.125
+  - 0.161
 - - 6
-  - 0.118
+  - 0.165
 - - 7
-  - 0.106
+  - 0.136
 - - 8
-  - 0.07
+  - 0.133
 - - 9
-  - 0.077
+  - 0.113
 - - 10
-  - 0.096
+  - 0.109
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 4
+min_avg_word_length: 2
 new_line_ratio: 0.2
 stopwords:
 - "\u182A\u185D"
@@ -35,8 +35,8 @@ stopwords:
 - "\u185D\u1837\u185D"
 top_n_grams:
 - - 2
-  - 0.274
+  - 0.469
 - - 3
-  - 0.157
+  - 0.296
 - - 4
-  - 0.178
+  - 0.268

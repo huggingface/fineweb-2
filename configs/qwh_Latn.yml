@@ -1,23 +1,23 @@
-dup_line_frac: 0.525
+dup_line_frac: 0.485
 dup_n_grams:
 - - 5
-  - 0.623
+  - 0.441
 - - 6
-  - 0.598
+  - 0.398
 - - 7
-  - 0.564
+  - 0.379
 - - 8
-  - 0.549
+  - 0.358
 - - 9
-  - 0.564
+  - 0.335
 - - 10
-  - 0.524
+  - 0.303
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 6
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.714
+min_avg_word_length: 4
+new_line_ratio: 0.091
 stopwords:
 - y
 - tse
@@ -37,8 +37,8 @@ stopwords:
 - diospa
 top_n_grams:
 - - 2
-  - 0.79
+  - 1.617
 - - 3
-  - 1.0
+  - 1.579
 - - 4
-  - 1.0
+  - 1.428

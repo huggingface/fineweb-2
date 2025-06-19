@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.206
 dup_n_grams:
 - - 5
-  - 0.086
+  - 0.151
 - - 6
-  - 0.069
+  - 0.141
 - - 7
-  - 0.042
+  - 0.13
 - - 8
-  - 0.033
+  - 0.12
 - - 9
-  - 0.024
+  - 0.111
 - - 10
-  - 0.021
+  - 0.101
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.752
-min_avg_word_length: 4
-new_line_ratio: 0.042
+max_non_alpha_words_ratio: 0.731
+min_avg_word_length: 3
+new_line_ratio: 0.034
 stopwords:
 - "ne\u0331"
 - nij
@@ -41,8 +41,8 @@ stopwords:
 - "nana\u0331"
 top_n_grams:
 - - 2
-  - 0.06
+  - 0.213
 - - 3
-  - 0.102
+  - 0.193
 - - 4
-  - 0.13
+  - 0.206

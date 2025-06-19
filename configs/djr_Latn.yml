@@ -1,23 +1,23 @@
-dup_line_frac: 0.496
+dup_line_frac: 0.659
 dup_n_grams:
 - - 5
-  - 0.446
+  - 0.469
 - - 6
-  - 0.441
+  - 0.456
 - - 7
-  - 0.44
+  - 0.446
 - - 8
-  - 0.439
+  - 0.434
 - - 9
-  - 0.439
+  - 0.412
 - - 10
-  - 0.438
+  - 0.394
 language_score: 0.669
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 6
-new_line_ratio: 0.05
+max_non_alpha_words_ratio: 0.784
+min_avg_word_length: 4
+new_line_ratio: 0.04
 stopwords:
 - ga
 - "\u014Bunhi"
@@ -36,8 +36,8 @@ stopwords:
 - "\u014Barra"
 top_n_grams:
 - - 2
-  - 0.331
+  - 0.739
 - - 3
-  - 0.16
+  - 0.606
 - - 4
-  - 0.197
+  - 0.549

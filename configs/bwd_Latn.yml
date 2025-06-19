@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.425
 dup_n_grams:
 - - 5
-  - 0.42
+  - 0.451
 - - 6
-  - 0.418
+  - 0.444
 - - 7
-  - 0.417
+  - 0.432
 - - 8
-  - 0.415
+  - 0.41
 - - 9
-  - 0.414
+  - 0.394
 - - 10
-  - 0.414
+  - 0.366
 language_score: 0.44
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 4
+new_line_ratio: 0.077
 stopwords:
 - ada
 - wagaine
@@ -43,8 +43,8 @@ stopwords:
 - una
 top_n_grams:
 - - 2
-  - 0.222
+  - 1.347
 - - 3
-  - 0.185
+  - 1.324
 - - 4
-  - 0.215
+  - 1.222

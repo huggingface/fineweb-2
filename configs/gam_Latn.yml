@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.118
 dup_n_grams:
 - - 5
-  - 0.803
+  - 0.631
 - - 6
-  - 0.799
+  - 0.627
 - - 7
-  - 0.788
+  - 0.605
 - - 8
-  - 0.793
+  - 0.589
 - - 9
-  - 0.799
+  - 0.568
 - - 10
-  - 0.787
+  - 0.533
 language_score: 0.629
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.844
-min_avg_word_length: 3
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - ge
 - ye
@@ -45,8 +45,8 @@ stopwords:
 - yene
 top_n_grams:
 - - 2
-  - 0.819
+  - 1.472
 - - 3
-  - 1.001
+  - 1.318
 - - 4
-  - 1.438
+  - 1.342

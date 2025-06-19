@@ -1,23 +1,23 @@
-dup_line_frac: 0.046
+dup_line_frac: 0.411
 dup_n_grams:
 - - 5
-  - 0.052
+  - 0.263
 - - 6
-  - 0.032
+  - 0.249
 - - 7
-  - 0.022
+  - 0.223
 - - 8
-  - 0.011
+  - 0.219
 - - 9
-  - 0.012
+  - 0.2
 - - 10
-  - 0.014
+  - 0.188
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.731
-min_avg_word_length: 5
-new_line_ratio: 0.067
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.706
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - ti
 - ka
@@ -35,8 +35,8 @@ stopwords:
 - siu'neje
 top_n_grams:
 - - 2
-  - 0.535
+  - 0.824
 - - 3
-  - 0.816
+  - 0.817
 - - 4
-  - 0.649
+  - 0.626

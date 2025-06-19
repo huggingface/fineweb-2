@@ -1,23 +1,23 @@
-dup_line_frac: 0.444
+dup_line_frac: 0.407
 dup_n_grams:
 - - 5
-  - 0.684
+  - 0.521
 - - 6
-  - 0.681
+  - 0.502
 - - 7
-  - 0.642
+  - 0.471
 - - 8
-  - 0.643
+  - 0.446
 - - 9
-  - 0.64
+  - 0.42
 - - 10
-  - 0.632
+  - 0.387
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 16
-max_non_alpha_words_ratio: 0.633
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.613
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - paeni
 - tema
@@ -34,8 +34,8 @@ stopwords:
 - okaatzi
 top_n_grams:
 - - 2
-  - 0.5
+  - 0.899
 - - 3
-  - 0.825
+  - 0.993
 - - 4
-  - 0.917
+  - 0.915

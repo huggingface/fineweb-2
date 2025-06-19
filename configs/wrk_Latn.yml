@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.241
 dup_n_grams:
 - - 5
-  - 0.409
+  - 0.256
 - - 6
-  - 0.397
+  - 0.245
 - - 7
-  - 0.39
+  - 0.234
 - - 8
-  - 0.385
+  - 0.218
 - - 9
-  - 0.367
+  - 0.203
 - - 10
-  - 0.367
+  - 0.191
 language_score: 0.881
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 6
-new_line_ratio: 0.053
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.767
+min_avg_word_length: 5
+new_line_ratio: 0.042
 stopwords:
 - baki
 - nanda
@@ -45,8 +45,8 @@ stopwords:
 - nani
 top_n_grams:
 - - 2
-  - 0.122
+  - 0.195
 - - 3
-  - 0.153
+  - 0.189
 - - 4
-  - 0.18
+  - 0.173

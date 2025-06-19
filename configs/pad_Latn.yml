@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.112
 dup_n_grams:
 - - 5
-  - 0.071
+  - 0.123
 - - 6
-  - 0.053
+  - 0.112
 - - 7
-  - 0.04
+  - 0.1
 - - 8
-  - 0.029
+  - 0.092
 - - 9
-  - 0.025
+  - 0.083
 - - 10
-  - 0.021
+  - 0.074
 language_score: 0.783
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.753
-min_avg_word_length: 6
-new_line_ratio: 0.071
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.733
+min_avg_word_length: 4
+new_line_ratio: 0.056
 stopwords:
 - ida
 - ra
@@ -36,8 +36,8 @@ stopwords:
 - fori
 top_n_grams:
 - - 2
-  - 0.038
+  - 0.129
 - - 3
-  - 0.048
+  - 0.111
 - - 4
-  - 0.048
+  - 0.076

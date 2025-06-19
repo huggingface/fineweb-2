@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.311
 dup_n_grams:
 - - 5
-  - 0.386
+  - 0.238
 - - 6
-  - 0.379
+  - 0.231
 - - 7
-  - 0.324
+  - 0.205
 - - 8
-  - 0.322
+  - 0.195
 - - 9
-  - 0.304
+  - 0.179
 - - 10
-  - 0.299
+  - 0.164
 language_score: 0.3
-line_punct_thr: 0.5
+line_punct_thr: 0.25
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.789
-min_avg_word_length: 5
-new_line_ratio: 0.133
+min_avg_word_length: 4
+new_line_ratio: 0.125
 stopwords:
 - to
 - lo
@@ -35,8 +35,8 @@ stopwords:
 - timur
 top_n_grams:
 - - 2
-  - 0.128
+  - 0.595
 - - 3
-  - 0.147
+  - 0.546
 - - 4
-  - 0.17
+  - 0.487

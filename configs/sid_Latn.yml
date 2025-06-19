@@ -1,22 +1,22 @@
-dup_line_frac: 0.694
+dup_line_frac: 0.536
 dup_n_grams:
 - - 5
-  - 0.582
+  - 0.381
 - - 6
-  - 0.604
+  - 0.367
 - - 7
-  - 0.553
+  - 0.331
 - - 8
-  - 0.537
+  - 0.319
 - - 9
-  - 0.43
+  - 0.28
 - - 10
-  - 0.495
+  - 0.264
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 6
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 4
 new_line_ratio: 0.143
 stopwords:
 - gede
@@ -61,8 +61,8 @@ stopwords:
 - qullaawa
 top_n_grams:
 - - 2
-  - 0.684
+  - 1.204
 - - 3
-  - 0.75
+  - 1.069
 - - 4
-  - 0.83
+  - 0.943

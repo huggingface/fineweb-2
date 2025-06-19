@@ -1,23 +1,23 @@
-dup_line_frac: 0.324
+dup_line_frac: 0.298
 dup_n_grams:
 - - 5
-  - 0.154
+  - 0.152
 - - 6
-  - 0.135
+  - 0.14
 - - 7
-  - 0.115
+  - 0.129
 - - 8
-  - 0.105
+  - 0.118
 - - 9
-  - 0.092
+  - 0.108
 - - 10
-  - 0.078
+  - 0.096
 language_score: 0.701
-line_punct_thr: 0.2
-max_avg_word_length: 10
+line_punct_thr: 0.167
+max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.788
 min_avg_word_length: 4
-new_line_ratio: 0.276
+new_line_ratio: 0.25
 stopwords:
 - eta
 - da
@@ -29,8 +29,8 @@ stopwords:
 - izan
 top_n_grams:
 - - 2
-  - 0.1
+  - 0.263
 - - 3
-  - 0.133
+  - 0.227
 - - 4
-  - 0.164
+  - 0.192

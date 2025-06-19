@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.206
 dup_n_grams:
 - - 5
-  - 0.096
+  - 0.136
 - - 6
-  - 0.086
+  - 0.12
 - - 7
-  - 0.068
+  - 0.109
 - - 8
-  - 0.056
+  - 0.101
 - - 9
-  - 0.048
+  - 0.085
 - - 10
-  - 0.043
+  - 0.082
 language_score: 0.711
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.897
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.871
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - edo
 - awa
@@ -41,8 +41,8 @@ stopwords:
 - embobo
 top_n_grams:
 - - 2
-  - 0.088
+  - 0.488
 - - 3
-  - 0.074
+  - 0.439
 - - 4
-  - 0.044
+  - 0.36

@@ -1,23 +1,23 @@
-dup_line_frac: 0.128
+dup_line_frac: 0.087
 dup_n_grams:
 - - 5
-  - 0.798
+  - 0.454
 - - 6
-  - 0.798
+  - 0.451
 - - 7
-  - 0.798
+  - 0.441
 - - 8
-  - 0.798
+  - 0.424
 - - 9
-  - 0.798
+  - 0.405
 - - 10
-  - 0.797
+  - 0.381
 language_score: 0.58
 line_punct_thr: -1
 max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.807
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.062
 stopwords:
 - a
 - na
@@ -37,8 +37,8 @@ stopwords:
 - "nk\u0259"
 top_n_grams:
 - - 2
-  - 1.74
+  - 2.228
 - - 3
-  - 2.684
+  - 2.336
 - - 4
-  - 3.624
+  - 2.234

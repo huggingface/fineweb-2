@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.057
 dup_n_grams:
 - - 5
-  - 0.049
+  - 0.068
 - - 6
-  - 0.03
+  - 0.06
 - - 7
-  - 0.021
+  - 0.047
 - - 8
-  - 0.014
+  - 0.04
 - - 9
-  - 0.009
+  - 0.037
 - - 10
-  - 0.007
+  - 0.032
 language_score: 0.86
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.873
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.852
+min_avg_word_length: 3
+new_line_ratio: 0.05
 stopwords:
 - "hi\xB3"
 - "j\xE1un\xB2"
@@ -43,8 +43,8 @@ stopwords:
 - "qu\xED\xB9"
 top_n_grams:
 - - 2
-  - 0.079
-- - 3
   - 0.124
+- - 3
+  - 0.136
 - - 4
-  - 0.12
+  - 0.107

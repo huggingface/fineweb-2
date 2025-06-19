@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.325
 dup_n_grams:
 - - 5
-  - 0.179
+  - 0.183
 - - 6
-  - 0.182
+  - 0.177
 - - 7
-  - 0.179
+  - 0.168
 - - 8
   - 0.157
 - - 9
-  - 0.161
+  - 0.15
 - - 10
-  - 0.158
+  - 0.136
 language_score: 0.681
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - hanona
 - ia
@@ -38,8 +38,8 @@ stopwords:
 - ki'a
 top_n_grams:
 - - 2
-  - 0.13
+  - 0.585
 - - 3
-  - 0.138
+  - 0.545
 - - 4
-  - 0.161
+  - 0.386

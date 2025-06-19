@@ -1,23 +1,23 @@
-dup_line_frac: 0.24
+dup_line_frac: 0.425
 dup_n_grams:
 - - 5
-  - 0.746
+  - 0.882
 - - 6
-  - 0.747
+  - 0.884
 - - 7
-  - 0.746
+  - 0.877
 - - 8
-  - 0.745
+  - 0.864
 - - 9
-  - 0.747
+  - 0.85
 - - 10
-  - 0.745
+  - 0.829
 language_score: 0.882
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.783
+max_non_alpha_words_ratio: 0.764
 min_avg_word_length: 3
-new_line_ratio: 0.05
+new_line_ratio: 0.04
 stopwords:
 - ta
 - ke
@@ -44,8 +44,8 @@ stopwords:
 - ma'e
 top_n_grams:
 - - 2
-  - 1.745
+  - 3.009
 - - 3
-  - 2.741
+  - 3.859
 - - 4
-  - 3.736
+  - 4.516

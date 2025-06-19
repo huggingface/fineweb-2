@@ -1,23 +1,23 @@
-dup_line_frac: 0.167
+dup_line_frac: 0.283
 dup_n_grams:
 - - 5
-  - 0.157
+  - 0.217
 - - 6
-  - 0.058
+  - 0.211
 - - 7
-  - 0.049
+  - 0.204
 - - 8
-  - 0.054
+  - 0.195
 - - 9
-  - 0.032
+  - 0.184
 - - 10
-  - 0.0
+  - 0.155
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 25
-max_non_alpha_words_ratio: 0.688
-min_avg_word_length: 7
-new_line_ratio: 0.125
+max_avg_word_length: 26
+max_non_alpha_words_ratio: 0.647
+min_avg_word_length: 5
+new_line_ratio: 0.1
 stopwords:
 - ari
 - pawa
@@ -37,8 +37,8 @@ stopwords:
 - aririka
 top_n_grams:
 - - 2
-  - 0.287
+  - 0.927
 - - 3
-  - 0.32
+  - 0.852
 - - 4
-  - 0.395
+  - 0.75

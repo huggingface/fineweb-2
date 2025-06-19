@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.36
 dup_n_grams:
 - - 5
-  - 0.366
+  - 0.271
 - - 6
-  - 0.303
+  - 0.238
 - - 7
-  - 0.295
+  - 0.225
 - - 8
-  - 0.133
+  - 0.205
 - - 9
-  - 0.117
+  - 0.192
 - - 10
-  - 0.088
+  - 0.163
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 19
-max_non_alpha_words_ratio: 0.758
-min_avg_word_length: 8
-new_line_ratio: 0.083
+max_avg_word_length: 20
+max_non_alpha_words_ratio: 0.737
+min_avg_word_length: 5
+new_line_ratio: 0.067
 stopwords:
 - dioso
 - nexata
@@ -37,8 +37,8 @@ stopwords:
 - jivi
 top_n_grams:
 - - 2
-  - 0.183
+  - 0.803
 - - 3
-  - 0.245
+  - 0.782
 - - 4
-  - 0.269
+  - 0.686

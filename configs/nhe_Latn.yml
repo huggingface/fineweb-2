@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.146
 dup_n_grams:
 - - 5
-  - 0.022
+  - 0.128
 - - 6
-  - 0.008
+  - 0.124
 - - 7
-  - 0.0
+  - 0.109
 - - 8
-  - 0.0
+  - 0.101
 - - 9
-  - 0.0
+  - 0.096
 - - 10
-  - 0.0
+  - 0.085
 language_score: 0.583
 line_punct_thr: -1
-max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.844
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_avg_word_length: 12
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - huan
 - tlen
@@ -39,8 +39,8 @@ stopwords:
 - ni
 top_n_grams:
 - - 2
-  - 0.103
+  - 0.369
 - - 3
-  - 0.165
+  - 0.381
 - - 4
-  - 0.184
+  - 0.343

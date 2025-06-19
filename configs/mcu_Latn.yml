@@ -1,23 +1,23 @@
-dup_line_frac: 0.375
+dup_line_frac: 0.212
 dup_n_grams:
 - - 5
-  - 0.346
+  - 0.168
 - - 6
-  - 0.341
+  - 0.165
 - - 7
-  - 0.281
+  - 0.136
 - - 8
-  - 0.277
+  - 0.129
 - - 9
-  - 0.268
+  - 0.121
 - - 10
-  - 0.271
+  - 0.114
 language_score: 0.83
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.833
-min_avg_word_length: 3
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.818
+min_avg_word_length: 2
+new_line_ratio: 0.053
 stopwords:
 - "b\u0254\u0300"
 - "b\u0254\u0301"
@@ -37,8 +37,8 @@ stopwords:
 - "s\xE2"
 top_n_grams:
 - - 2
-  - 0.077
+  - 0.117
 - - 3
-  - 0.099
+  - 0.121
 - - 4
-  - 0.118
+  - 0.122

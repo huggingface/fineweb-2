@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.089
 dup_n_grams:
 - - 5
-  - 0.035
+  - 0.09
 - - 6
-  - 0.024
+  - 0.084
 - - 7
-  - 0.015
+  - 0.078
 - - 8
-  - 0.009
+  - 0.071
 - - 9
-  - 0.007
+  - 0.066
 - - 10
-  - 0.005
+  - 0.057
 language_score: 0.841
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.876
-min_avg_word_length: 6
-new_line_ratio: 0.083
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.862
+min_avg_word_length: 4
+new_line_ratio: 0.067
 stopwords:
 - faqa
 - "s\xEDa"
@@ -38,8 +38,8 @@ stopwords:
 - "q\xEDmasee"
 top_n_grams:
 - - 2
-  - 0.039
+  - 0.129
 - - 3
-  - 0.044
+  - 0.114
 - - 4
-  - 0.038
+  - 0.094

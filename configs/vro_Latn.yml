@@ -1,23 +1,23 @@
-dup_line_frac: 0.682
+dup_line_frac: 0.619
 dup_n_grams:
 - - 5
-  - 0.43
+  - 0.327
 - - 6
-  - 0.409
+  - 0.307
 - - 7
-  - 0.377
+  - 0.281
 - - 8
-  - 0.34
+  - 0.254
 - - 9
-  - 0.301
+  - 0.231
 - - 10
-  - 0.289
+  - 0.212
 language_score: 0.3
-line_punct_thr: 0.083
+line_punct_thr: 0.0
 max_avg_word_length: 11
 max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 3
-new_line_ratio: 0.633
+min_avg_word_length: 2
+new_line_ratio: 0.453
 stopwords:
 - ja
 - om
@@ -56,8 +56,8 @@ stopwords:
 - keelen
 top_n_grams:
 - - 2
-  - 0.327
+  - 0.639
 - - 3
-  - 0.413
+  - 0.581
 - - 4
-  - 0.458
+  - 0.513

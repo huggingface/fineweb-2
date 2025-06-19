@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.351
 dup_n_grams:
 - - 5
-  - 0.395
+  - 0.341
 - - 6
-  - 0.392
+  - 0.335
 - - 7
-  - 0.391
+  - 0.325
 - - 8
-  - 0.389
+  - 0.312
 - - 9
-  - 0.383
+  - 0.294
 - - 10
-  - 0.382
+  - 0.278
 language_score: 0.737
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.87
-min_avg_word_length: 4
-new_line_ratio: 0.053
+max_non_alpha_words_ratio: 0.845
+min_avg_word_length: 3
+new_line_ratio: 0.043
 stopwords:
 - ne
 - te
@@ -39,8 +39,8 @@ stopwords:
 - "ket\xE0"
 top_n_grams:
 - - 2
-  - 0.096
+  - 0.242
 - - 3
-  - 0.116
+  - 0.265
 - - 4
-  - 0.143
+  - 0.258

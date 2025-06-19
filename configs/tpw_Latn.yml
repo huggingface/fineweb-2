@@ -1,22 +1,22 @@
-dup_line_frac: 0.942
+dup_line_frac: 0.613
 dup_n_grams:
 - - 5
-  - 0.77
+  - 0.512
 - - 6
-  - 0.76
+  - 0.499
 - - 7
-  - 0.76
+  - 0.49
 - - 8
-  - 0.772
+  - 0.48
 - - 9
-  - 0.76
+  - 0.452
 - - 10
-  - 0.767
+  - 0.436
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 16
 max_non_alpha_words_ratio: 0.667
-min_avg_word_length: 3
+min_avg_word_length: 1
 new_line_ratio: 0.333
 stopwords:
 - i
@@ -51,8 +51,8 @@ stopwords:
 - "ir\u0169namo"
 top_n_grams:
 - - 2
-  - 1.0
+  - 2.039
 - - 3
-  - 1.726
+  - 2.166
 - - 4
-  - 1.89
+  - 2.14

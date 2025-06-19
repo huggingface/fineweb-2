@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.473
 dup_n_grams:
 - - 5
-  - 0.964
+  - 1.076
 - - 6
-  - 0.963
+  - 1.078
 - - 7
-  - 0.964
+  - 1.066
 - - 8
-  - 0.963
+  - 1.045
 - - 9
-  - 0.963
+  - 1.018
 - - 10
-  - 0.964
+  - 0.987
 language_score: 0.759
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.629
-min_avg_word_length: 4
-new_line_ratio: 0.062
+max_non_alpha_words_ratio: 0.609
+min_avg_word_length: 3
+new_line_ratio: 0.05
 stopwords:
 - et
 - ink'ez
@@ -41,8 +41,8 @@ stopwords:
 - sizi
 top_n_grams:
 - - 2
-  - 1.282
+  - 2.531
 - - 3
-  - 2.244
+  - 3.315
 - - 4
-  - 2.884
+  - 3.35

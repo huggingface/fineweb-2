@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.547
 dup_n_grams:
 - - 5
-  - 0.124
+  - 0.182
 - - 6
-  - 0.021
+  - 0.143
 - - 7
-  - 0.007
+  - 0.128
 - - 8
-  - 0.001
+  - 0.117
 - - 9
-  - 0.0
+  - 0.105
 - - 10
-  - 0.0
+  - 0.091
 language_score: 0.3
-line_punct_thr: 0.118
-max_avg_word_length: 22
+line_punct_thr: 0.0
+max_avg_word_length: 23
 max_non_alpha_words_ratio: 0.816
-min_avg_word_length: 1
-new_line_ratio: 0.667
+min_avg_word_length: 0
+new_line_ratio: 0.375
 stopwords:
 - e
 - nder
@@ -29,8 +29,8 @@ stopwords:
 - diiwal
 top_n_grams:
 - - 2
-  - 0.459
+  - 0.701
 - - 3
-  - 0.463
+  - 0.528
 - - 4
-  - 0.22
+  - 0.331

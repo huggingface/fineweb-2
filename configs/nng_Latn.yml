@@ -1,23 +1,23 @@
-dup_line_frac: 0.794
+dup_line_frac: 0.649
 dup_n_grams:
 - - 5
-  - 0.682
+  - 0.477
 - - 6
-  - 0.64
+  - 0.451
 - - 7
-  - 0.641
+  - 0.432
 - - 8
-  - 0.613
+  - 0.409
 - - 9
-  - 0.597
+  - 0.389
 - - 10
-  - 0.597
+  - 0.343
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 6
-new_line_ratio: 0.091
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.767
+min_avg_word_length: 5
+new_line_ratio: 0.077
 stopwords:
 - heirou
 - thimi
@@ -35,8 +35,8 @@ stopwords:
 - rapya
 top_n_grams:
 - - 2
-  - 0.656
+  - 1.24
 - - 3
-  - 0.967
+  - 1.208
 - - 4
-  - 1.006
+  - 1.082

@@ -1,23 +1,23 @@
-dup_line_frac: 0.857
+dup_line_frac: 0.812
 dup_n_grams:
 - - 5
-  - 0.455
+  - 0.42
 - - 6
-  - 0.453
+  - 0.403
 - - 7
-  - 0.448
+  - 0.391
 - - 8
-  - 0.442
+  - 0.368
 - - 9
-  - 0.439
+  - 0.356
 - - 10
-  - 0.431
+  - 0.341
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.774
-min_avg_word_length: 4
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.75
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - ma
 - nako
@@ -38,8 +38,8 @@ stopwords:
 - nowora
 top_n_grams:
 - - 2
-  - 0.98
+  - 1.51
 - - 3
-  - 1.567
+  - 1.67
 - - 4
-  - 2.142
+  - 1.651

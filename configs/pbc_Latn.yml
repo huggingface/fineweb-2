@@ -1,23 +1,23 @@
-dup_line_frac: 0.028
+dup_line_frac: 0.297
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.19
 - - 6
-  - 0.0
+  - 0.189
 - - 7
-  - 0.0
+  - 0.181
 - - 8
-  - 0.0
+  - 0.172
 - - 9
-  - 0.0
+  - 0.149
 - - 10
-  - 0.0
+  - 0.146
 language_score: 0.728
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.806
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - "m\xE0l\xE0"
 - uya
@@ -40,8 +40,8 @@ stopwords:
 - wechi
 top_n_grams:
 - - 2
-  - 0.162
+  - 1.084
 - - 3
-  - 0.195
+  - 1.079
 - - 4
-  - 0.197
+  - 0.97

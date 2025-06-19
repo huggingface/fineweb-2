@@ -1,23 +1,23 @@
-dup_line_frac: 0.312
+dup_line_frac: 0.428
 dup_n_grams:
 - - 5
-  - 0.463
+  - 0.289
 - - 6
-  - 0.153
+  - 0.25
 - - 7
-  - 0.143
+  - 0.235
 - - 8
-  - 0.134
+  - 0.224
 - - 9
-  - 0.117
+  - 0.193
 - - 10
-  - 0.113
+  - 0.171
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.845
-min_avg_word_length: 4
-new_line_ratio: 0.048
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.825
+min_avg_word_length: 3
+new_line_ratio: 0.038
 stopwords:
 - "nap\u0303a"
 - la
@@ -40,8 +40,8 @@ stopwords:
 - poli
 top_n_grams:
 - - 2
-  - 0.42
+  - 0.803
 - - 3
-  - 0.588
+  - 0.726
 - - 4
-  - 0.667
+  - 0.662

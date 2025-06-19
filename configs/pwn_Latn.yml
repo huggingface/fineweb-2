@@ -1,23 +1,23 @@
-dup_line_frac: 0.813
+dup_line_frac: 0.697
 dup_n_grams:
 - - 5
-  - 0.514
+  - 0.387
 - - 6
-  - 0.502
+  - 0.363
 - - 7
-  - 0.48
+  - 0.335
 - - 8
-  - 0.408
+  - 0.299
 - - 9
-  - 0.396
+  - 0.271
 - - 10
-  - 0.383
+  - 0.245
 language_score: 0.3
-line_punct_thr: 0.286
-max_avg_word_length: 7
+line_punct_thr: 0.2
+max_avg_word_length: 8
 max_non_alpha_words_ratio: 0.816
 min_avg_word_length: 3
-new_line_ratio: 0.194
+new_line_ratio: 0.131
 stopwords:
 - a
 - i
@@ -34,8 +34,8 @@ stopwords:
 - caucau
 top_n_grams:
 - - 2
-  - 0.465
+  - 0.86
 - - 3
-  - 0.519
+  - 0.833
 - - 4
-  - 0.544
+  - 0.723

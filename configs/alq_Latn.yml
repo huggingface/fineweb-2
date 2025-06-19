@@ -1,23 +1,23 @@
 dup_line_frac: 0.429
 dup_n_grams:
 - - 5
-  - 0.705
+  - 0.442
 - - 6
-  - 0.694
+  - 0.433
 - - 7
-  - 0.672
+  - 0.417
 - - 8
-  - 0.682
+  - 0.399
 - - 9
-  - 0.66
+  - 0.377
 - - 10
-  - 0.64
+  - 0.349
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.793
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - ka
 - kidji
@@ -42,8 +42,8 @@ stopwords:
 - apitc
 top_n_grams:
 - - 2
-  - 0.667
+  - 0.937
 - - 3
-  - 0.836
+  - 0.823
 - - 4
-  - 0.977
+  - 0.719

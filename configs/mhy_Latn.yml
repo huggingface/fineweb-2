@@ -1,23 +1,23 @@
-dup_line_frac: 0.967
+dup_line_frac: 1.279
 dup_n_grams:
 - - 5
-  - 0.722
+  - 0.867
 - - 6
-  - 0.714
+  - 0.857
 - - 7
-  - 0.696
+  - 0.832
 - - 8
-  - 0.679
+  - 0.799
 - - 9
-  - 0.666
+  - 0.769
 - - 10
-  - 0.696
+  - 0.78
 language_score: 0.621
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.788
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - sa
 - yiru
@@ -43,8 +43,8 @@ stopwords:
 - kude
 top_n_grams:
 - - 2
-  - 0.553
+  - 1.17
 - - 3
-  - 0.898
+  - 1.474
 - - 4
-  - 0.777
+  - 1.337

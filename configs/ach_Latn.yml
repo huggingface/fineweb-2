@@ -1,23 +1,23 @@
-dup_line_frac: 0.476
+dup_line_frac: 0.451
 dup_n_grams:
 - - 5
-  - 0.384
+  - 0.331
 - - 6
-  - 0.384
+  - 0.321
 - - 7
-  - 0.374
+  - 0.306
 - - 8
-  - 0.37
+  - 0.294
 - - 9
-  - 0.367
+  - 0.275
 - - 10
-  - 0.381
+  - 0.261
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.821
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.786
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - ma
 - i
@@ -38,8 +38,8 @@ stopwords:
 - dano
 top_n_grams:
 - - 2
-  - 0.629
+  - 0.872
 - - 3
-  - 0.298
+  - 0.603
 - - 4
-  - 0.315
+  - 0.542

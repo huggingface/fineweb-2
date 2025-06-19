@@ -1,23 +1,23 @@
-dup_line_frac: 0.423
+dup_line_frac: 0.394
 dup_n_grams:
 - - 5
-  - 0.393
+  - 0.296
 - - 6
-  - 0.394
+  - 0.295
 - - 7
-  - 0.369
+  - 0.276
 - - 8
-  - 0.373
+  - 0.264
 - - 9
-  - 0.35
+  - 0.246
 - - 10
-  - 0.37
+  - 0.228
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 4
-new_line_ratio: 0.175
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.758
+min_avg_word_length: 2
+new_line_ratio: 0.155
 stopwords:
 - ja
 - um
@@ -43,8 +43,8 @@ stopwords:
 - "aga\u0304"
 top_n_grams:
 - - 2
-  - 0.423
+  - 1.034
 - - 3
-  - 0.636
+  - 0.995
 - - 4
-  - 0.689
+  - 0.893

@@ -1,23 +1,23 @@
-dup_line_frac: 0.951
+dup_line_frac: 0.987
 dup_n_grams:
 - - 5
-  - 0.708
+  - 0.451
 - - 6
-  - 0.695
+  - 0.439
 - - 7
-  - 0.677
+  - 0.416
 - - 8
-  - 0.66
+  - 0.392
 - - 9
-  - 0.65
+  - 0.367
 - - 10
-  - 0.635
+  - 0.34
 language_score: 0.346
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.839
-min_avg_word_length: 4
-new_line_ratio: 0.083
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.81
+min_avg_word_length: 3
+new_line_ratio: 0.071
 stopwords:
 - nyi
 - ho
@@ -36,8 +36,8 @@ stopwords:
 - gab
 top_n_grams:
 - - 2
-  - 0.422
+  - 0.782
 - - 3
-  - 0.569
+  - 0.754
 - - 4
-  - 0.727
+  - 0.69

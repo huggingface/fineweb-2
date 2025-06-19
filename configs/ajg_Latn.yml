@@ -1,23 +1,23 @@
-dup_line_frac: 0.267
+dup_line_frac: 0.374
 dup_n_grams:
 - - 5
-  - 0.287
+  - 0.237
 - - 6
-  - 0.244
+  - 0.218
 - - 7
-  - 0.178
+  - 0.206
 - - 8
-  - 0.159
+  - 0.191
 - - 9
-  - 0.192
+  - 0.183
 - - 10
-  - 0.151
+  - 0.167
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.842
-min_avg_word_length: 3
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 2
+new_line_ratio: 0.091
 stopwords:
 - "y\xED"
 - "n\u0254"
@@ -39,8 +39,8 @@ stopwords:
 - so
 top_n_grams:
 - - 2
-  - 0.545
+  - 1.063
 - - 3
-  - 1.0
+  - 1.392
 - - 4
-  - 0.759
+  - 0.974

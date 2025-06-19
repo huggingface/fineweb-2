@@ -1,23 +1,23 @@
-dup_line_frac: 0.947
+dup_line_frac: 0.791
 dup_n_grams:
 - - 5
-  - 0.666
+  - 0.701
 - - 6
-  - 0.658
+  - 0.689
 - - 7
-  - 0.657
+  - 0.675
 - - 8
-  - 0.657
+  - 0.671
 - - 9
-  - 0.634
+  - 0.66
 - - 10
   - 0.664
 language_score: 0.783
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.05
 stopwords:
 - a
 - ha
@@ -39,8 +39,8 @@ stopwords:
 - jesus
 top_n_grams:
 - - 2
-  - 1.657
+  - 2.509
 - - 3
-  - 2.628
+  - 3.246
 - - 4
-  - 3.581
+  - 3.735

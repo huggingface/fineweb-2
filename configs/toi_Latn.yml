@@ -1,23 +1,23 @@
-dup_line_frac: 0.934
+dup_line_frac: 0.767
 dup_n_grams:
 - - 5
-  - 0.765
+  - 0.535
 - - 6
-  - 0.76
+  - 0.523
 - - 7
-  - 0.728
+  - 0.492
 - - 8
-  - 0.725
+  - 0.467
 - - 9
-  - 0.703
+  - 0.439
 - - 10
-  - 0.693
+  - 0.407
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 6
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 4
+new_line_ratio: 0.125
 stopwords:
 - kuti
 - alimwi
@@ -63,8 +63,8 @@ stopwords:
 - bakali
 top_n_grams:
 - - 2
-  - 0.774
+  - 1.322
 - - 3
-  - 1.0
+  - 1.323
 - - 4
-  - 1.135
+  - 1.234

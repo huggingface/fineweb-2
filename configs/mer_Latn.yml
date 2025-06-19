@@ -1,23 +1,23 @@
-dup_line_frac: 0.2
+dup_line_frac: 0.346
 dup_n_grams:
 - - 5
-  - 0.327
+  - 0.266
 - - 6
-  - 0.305
+  - 0.26
 - - 7
-  - 0.287
+  - 0.25
 - - 8
-  - 0.267
+  - 0.231
 - - 9
-  - 0.236
+  - 0.218
 - - 10
-  - 0.226
+  - 0.199
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 10
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 4
-new_line_ratio: 0.143
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 3
+new_line_ratio: 0.125
 stopwords:
 - na
 - "n\u0129"
@@ -39,8 +39,8 @@ stopwords:
 - "jar\u0129a"
 top_n_grams:
 - - 2
-  - 0.471
+  - 1.092
 - - 3
-  - 0.541
+  - 1.061
 - - 4
-  - 0.627
+  - 0.987

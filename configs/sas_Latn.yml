@@ -1,23 +1,23 @@
-dup_line_frac: 0.222
+dup_line_frac: 0.29
 dup_n_grams:
 - - 5
-  - 0.283
+  - 0.257
 - - 6
-  - 0.172
+  - 0.215
 - - 7
-  - 0.136
+  - 0.195
 - - 8
-  - 0.12
+  - 0.18
 - - 9
-  - 0.096
+  - 0.167
 - - 10
-  - 0.09
+  - 0.153
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 4
+new_line_ratio: 0.062
 stopwords:
 - saq
 - pade
@@ -41,8 +41,8 @@ stopwords:
 - araq
 top_n_grams:
 - - 2
-  - 0.33
+  - 0.655
 - - 3
-  - 0.386
+  - 0.585
 - - 4
-  - 0.298
+  - 0.468

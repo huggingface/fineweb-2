@@ -1,23 +1,23 @@
-dup_line_frac: 0.789
+dup_line_frac: 0.676
 dup_n_grams:
 - - 5
-  - 0.609
+  - 0.515
 - - 6
-  - 0.568
+  - 0.493
 - - 7
-  - 0.542
+  - 0.458
 - - 8
-  - 0.55
+  - 0.426
 - - 9
-  - 0.554
+  - 0.403
 - - 10
-  - 0.533
+  - 0.384
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.708
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.686
+min_avg_word_length: 3
+new_line_ratio: 0.053
 stopwords:
 - i
 - anu
@@ -41,8 +41,8 @@ stopwords:
 - ko
 top_n_grams:
 - - 2
-  - 0.699
+  - 1.372
 - - 3
-  - 1.105
+  - 1.453
 - - 4
-  - 1.36
+  - 1.424

@@ -1,23 +1,23 @@
-dup_line_frac: 0.474
+dup_line_frac: 0.478
 dup_n_grams:
 - - 5
-  - 0.553
+  - 0.415
 - - 6
-  - 0.531
+  - 0.4
 - - 7
-  - 0.494
+  - 0.382
 - - 8
-  - 0.515
+  - 0.356
 - - 9
-  - 0.526
+  - 0.346
 - - 10
-  - 0.472
+  - 0.327
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.786
-min_avg_word_length: 6
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 4
+new_line_ratio: 0.05
 stopwords:
 - ga
 - banha
@@ -39,8 +39,8 @@ stopwords:
 - "m\xE4"
 top_n_grams:
 - - 2
-  - 0.735
+  - 1.343
 - - 3
-  - 1.03
+  - 1.309
 - - 4
-  - 1.354
+  - 1.235

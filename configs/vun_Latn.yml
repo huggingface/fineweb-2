@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.182
 dup_n_grams:
 - - 5
-  - 0.045
+  - 0.144
 - - 6
-  - 0.032
+  - 0.143
 - - 7
-  - 0.017
+  - 0.124
 - - 8
-  - 0.013
+  - 0.116
 - - 9
-  - 0.012
+  - 0.109
 - - 10
-  - 0.009
+  - 0.097
 language_score: 0.8
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 4
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.72
+min_avg_word_length: 3
+new_line_ratio: 0.083
 stopwords:
 - na
 - kyipfa
@@ -40,8 +40,8 @@ stopwords:
 - ko
 top_n_grams:
 - - 2
-  - 0.129
+  - 0.422
 - - 3
-  - 0.158
+  - 0.343
 - - 4
-  - 0.245
+  - 0.372

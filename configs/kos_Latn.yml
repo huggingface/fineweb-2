@@ -1,23 +1,23 @@
-dup_line_frac: 0.933
+dup_line_frac: 0.792
 dup_n_grams:
 - - 5
-  - 0.608
+  - 0.463
 - - 6
-  - 0.593
+  - 0.442
 - - 7
-  - 0.587
+  - 0.42
 - - 8
-  - 0.608
+  - 0.406
 - - 9
-  - 0.617
+  - 0.386
 - - 10
-  - 0.608
+  - 0.357
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.824
-min_avg_word_length: 3
-new_line_ratio: 0.125
+max_avg_word_length: 9
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 2
+new_line_ratio: 0.1
 stopwords:
 - in
 - ke
@@ -42,8 +42,8 @@ stopwords:
 - kuh
 top_n_grams:
 - - 2
-  - 0.766
+  - 1.091
 - - 3
-  - 1.242
+  - 1.218
 - - 4
-  - 1.615
+  - 1.198

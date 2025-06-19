@@ -1,23 +1,23 @@
-dup_line_frac: 0.4
+dup_line_frac: 0.396
 dup_n_grams:
 - - 5
-  - 0.412
+  - 0.377
 - - 6
-  - 0.409
+  - 0.37
 - - 7
-  - 0.407
+  - 0.357
 - - 8
-  - 0.404
+  - 0.342
 - - 9
-  - 0.401
+  - 0.322
 - - 10
-  - 0.397
+  - 0.305
 language_score: 0.644
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.724
-min_avg_word_length: 5
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.704
+min_avg_word_length: 4
+new_line_ratio: 0.059
 stopwords:
 - to
 - bajiro
@@ -41,8 +41,8 @@ stopwords:
 - "mu\u0336a"
 top_n_grams:
 - - 2
-  - 0.107
+  - 0.202
 - - 3
-  - 0.141
+  - 0.186
 - - 4
-  - 0.173
+  - 0.185

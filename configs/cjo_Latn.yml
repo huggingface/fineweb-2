@@ -1,23 +1,23 @@
-dup_line_frac: 0.635
+dup_line_frac: 0.468
 dup_n_grams:
 - - 5
-  - 0.856
+  - 0.919
 - - 6
-  - 0.862
+  - 0.896
 - - 7
-  - 0.843
+  - 0.877
 - - 8
-  - 0.853
+  - 0.843
 - - 9
-  - 0.836
+  - 0.807
 - - 10
-  - 0.829
+  - 0.76
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 23
-max_non_alpha_words_ratio: 0.696
-min_avg_word_length: 8
-new_line_ratio: 0.1
+max_avg_word_length: 24
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 5
+new_line_ratio: 0.083
 stopwords:
 - eejatzi
 - tajorentsi
@@ -42,8 +42,8 @@ stopwords:
 - iroka
 top_n_grams:
 - - 2
-  - 1.834
+  - 3.456
 - - 3
-  - 2.717
+  - 3.863
 - - 4
-  - 3.554
+  - 4.021

@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.169
 dup_n_grams:
 - - 5
-  - 0.072
+  - 0.126
 - - 6
-  - 0.055
+  - 0.115
 - - 7
-  - 0.036
+  - 0.093
 - - 8
-  - 0.026
+  - 0.084
 - - 9
-  - 0.021
+  - 0.07
 - - 10
-  - 0.014
+  - 0.063
 language_score: 0.846
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.806
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 2
+new_line_ratio: 0.059
 stopwords:
 - ku
 - na
@@ -45,8 +45,8 @@ stopwords:
 - "\u014Butu"
 top_n_grams:
 - - 2
-  - 0.025
+  - 0.262
 - - 3
-  - 0.026
+  - 0.181
 - - 4
-  - 0.027
+  - 0.183

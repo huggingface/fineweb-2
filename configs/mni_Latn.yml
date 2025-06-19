@@ -1,23 +1,23 @@
-dup_line_frac: 0.728
+dup_line_frac: 0.658
 dup_n_grams:
 - - 5
-  - 0.471
+  - 0.401
 - - 6
-  - 0.455
+  - 0.375
 - - 7
-  - 0.427
+  - 0.344
 - - 8
-  - 0.409
+  - 0.307
 - - 9
-  - 0.408
+  - 0.278
 - - 10
-  - 0.406
+  - 0.249
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 6
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.778
+min_avg_word_length: 3
+new_line_ratio: 0.125
 stopwords:
 - amasung
 - asi
@@ -38,8 +38,8 @@ stopwords:
 - mahakpu
 top_n_grams:
 - - 2
-  - 0.468
+  - 0.983
 - - 3
-  - 0.537
+  - 0.893
 - - 4
-  - 0.556
+  - 0.763

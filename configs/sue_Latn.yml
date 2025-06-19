@@ -1,23 +1,23 @@
-dup_line_frac: 0.042
+dup_line_frac: 0.277
 dup_n_grams:
 - - 5
-  - 0.131
+  - 0.216
 - - 6
-  - 0.115
+  - 0.209
 - - 7
-  - 0.127
+  - 0.195
 - - 8
-  - 0.113
+  - 0.182
 - - 9
-  - 0.097
+  - 0.17
 - - 10
-  - 0.082
+  - 0.157
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.844
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_non_alpha_words_ratio: 0.821
+min_avg_word_length: 3
+new_line_ratio: 0.062
 stopwords:
 - awa
 - meni
@@ -40,8 +40,8 @@ stopwords:
 - senua
 top_n_grams:
 - - 2
-  - 0.162
+  - 0.859
 - - 3
-  - 0.177
+  - 0.779
 - - 4
-  - 0.218
+  - 0.713

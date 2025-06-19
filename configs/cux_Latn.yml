@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.14
 dup_n_grams:
 - - 5
-  - 0.091
+  - 0.109
 - - 6
-  - 0.033
+  - 0.072
 - - 7
-  - 0.021
+  - 0.06
 - - 8
-  - 0.014
+  - 0.052
 - - 9
-  - 0.009
+  - 0.052
 - - 10
-  - 0.006
+  - 0.045
 language_score: 0.866
 line_punct_thr: -1
 max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.815
-min_avg_word_length: 4
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 3
+new_line_ratio: 0.048
 stopwords:
 - "y\u0101"
 - chi
@@ -41,8 +41,8 @@ stopwords:
 - "\xE1\xE1m\xE1"
 top_n_grams:
 - - 2
-  - 0.062
+  - 0.223
 - - 3
-  - 0.105
+  - 0.251
 - - 4
-  - 0.084
+  - 0.202

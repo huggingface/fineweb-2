@@ -1,23 +1,23 @@
-dup_line_frac: 0.862
+dup_line_frac: 0.963
 dup_n_grams:
 - - 5
-  - 0.581
+  - 0.605
 - - 6
-  - 0.58
+  - 0.601
 - - 7
-  - 0.58
+  - 0.593
 - - 8
-  - 0.581
+  - 0.577
 - - 9
-  - 0.581
+  - 0.555
 - - 10
-  - 0.58
+  - 0.524
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 3
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 2
+new_line_ratio: 0.067
 stopwords:
 - "ka\u014B"
 - ga
@@ -42,8 +42,8 @@ stopwords:
 - goo
 top_n_grams:
 - - 2
-  - 1.353
+  - 2.358
 - - 3
-  - 2.123
+  - 2.719
 - - 4
-  - 2.891
+  - 2.826

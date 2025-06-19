@@ -1,23 +1,23 @@
-dup_line_frac: 0.589
+dup_line_frac: 0.532
 dup_n_grams:
 - - 5
-  - 0.431
+  - 0.341
 - - 6
-  - 0.404
+  - 0.318
 - - 7
-  - 0.387
+  - 0.294
 - - 8
-  - 0.373
+  - 0.27
 - - 9
-  - 0.364
+  - 0.246
 - - 10
-  - 0.352
+  - 0.221
 language_score: 0.3
-line_punct_thr: 0.357
+line_punct_thr: 0.25
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.77
-min_avg_word_length: 4
-new_line_ratio: 0.281
+min_avg_word_length: 3
+new_line_ratio: 0.276
 stopwords:
 - de
 - vun
@@ -35,8 +35,8 @@ stopwords:
 - dialekt
 top_n_grams:
 - - 2
-  - 0.377
+  - 0.718
 - - 3
-  - 0.422
+  - 0.636
 - - 4
-  - 0.451
+  - 0.544

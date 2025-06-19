@@ -1,22 +1,22 @@
-dup_line_frac: 0.355
+dup_line_frac: 0.329
 dup_n_grams:
 - - 5
-  - 0.0
+  - 0.098
 - - 6
-  - 0.0
+  - 0.095
 - - 7
-  - 0.0
+  - 0.09
 - - 8
-  - 0.0
+  - 0.085
 - - 9
-  - 0.0
+  - 0.079
 - - 10
-  - 0.0
+  - 0.072
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.75
-min_avg_word_length: 6
+max_avg_word_length: 14
+max_non_alpha_words_ratio: 0.7
+min_avg_word_length: 4
 new_line_ratio: 0.143
 stopwords:
 - bona
@@ -52,8 +52,8 @@ stopwords:
 - indlela
 top_n_grams:
 - - 2
-  - 0.135
+  - 0.368
 - - 3
-  - 0.183
+  - 0.315
 - - 4
-  - 0.231
+  - 0.267

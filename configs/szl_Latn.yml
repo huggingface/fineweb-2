@@ -1,23 +1,23 @@
-dup_line_frac: 0.787
+dup_line_frac: 0.825
 dup_n_grams:
 - - 5
-  - 0.394
+  - 0.318
 - - 6
-  - 0.365
+  - 0.29
 - - 7
-  - 0.343
+  - 0.266
 - - 8
-  - 0.323
+  - 0.239
 - - 9
-  - 0.306
+  - 0.217
 - - 10
-  - 0.286
+  - 0.196
 language_score: 0.3
-line_punct_thr: 0.333
+line_punct_thr: 0.143
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.788
 min_avg_word_length: 3
-new_line_ratio: 0.136
+new_line_ratio: 0.116
 stopwords:
 - we
 - je
@@ -47,8 +47,8 @@ stopwords:
 - "nazw\xE3"
 top_n_grams:
 - - 2
-  - 0.286
+  - 0.534
 - - 3
-  - 0.314
+  - 0.462
 - - 4
-  - 0.354
+  - 0.404

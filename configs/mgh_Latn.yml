@@ -1,23 +1,23 @@
-dup_line_frac: 0.641
+dup_line_frac: 0.538
 dup_n_grams:
 - - 5
-  - 0.588
+  - 0.422
 - - 6
-  - 0.566
+  - 0.391
 - - 7
-  - 0.553
+  - 0.369
 - - 8
-  - 0.514
+  - 0.338
 - - 9
-  - 0.467
+  - 0.311
 - - 10
-  - 0.442
+  - 0.287
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.783
-min_avg_word_length: 5
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.744
+min_avg_word_length: 4
+new_line_ratio: 0.125
 stopwords:
 - ni
 - wiira
@@ -30,8 +30,8 @@ stopwords:
 - nlhuku
 top_n_grams:
 - - 2
-  - 0.784
+  - 1.42
 - - 3
-  - 0.945
+  - 1.329
 - - 4
-  - 1.0
+  - 1.121

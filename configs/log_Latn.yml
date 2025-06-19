@@ -1,23 +1,23 @@
-dup_line_frac: 0.324
+dup_line_frac: 0.241
 dup_n_grams:
 - - 5
-  - 0.41
+  - 0.246
 - - 6
-  - 0.492
+  - 0.277
 - - 7
-  - 0.574
+  - 0.319
 - - 8
-  - 0.656
+  - 0.333
 - - 9
-  - 0.738
+  - 0.359
 - - 10
-  - 0.129
+  - 0.073
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.852
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 2
+new_line_ratio: 0.045
 stopwords:
 - "dh\u0268"
 - "n\u0268"
@@ -40,8 +40,8 @@ stopwords:
 - "\xE0y\u0268"
 top_n_grams:
 - - 2
-  - 1.549
+  - 1.757
 - - 3
-  - 2.098
+  - 1.614
 - - 4
-  - 2.467
+  - 1.339

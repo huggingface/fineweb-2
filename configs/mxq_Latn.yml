@@ -1,23 +1,23 @@
-dup_line_frac: 0.0
+dup_line_frac: 0.115
 dup_n_grams:
 - - 5
-  - 0.032
+  - 0.101
 - - 6
-  - 0.018
+  - 0.099
 - - 7
-  - 0.011
+  - 0.085
 - - 8
-  - 0.005
+  - 0.078
 - - 9
-  - 0.0
+  - 0.075
 - - 10
-  - 0.0
+  - 0.066
 language_score: 0.846
 line_punct_thr: -1
 max_avg_word_length: 14
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.091
+max_non_alpha_words_ratio: 0.773
+min_avg_word_length: 4
+new_line_ratio: 0.071
 stopwords:
 - ja
 - es
@@ -35,8 +35,8 @@ stopwords:
 - "di\uA78Cib\u0289"
 top_n_grams:
 - - 2
-  - 0.099
+  - 0.163
 - - 3
-  - 0.171
+  - 0.215
 - - 4
-  - 0.169
+  - 0.165

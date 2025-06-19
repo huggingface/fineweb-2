@@ -1,23 +1,23 @@
-dup_line_frac: 0.484
+dup_line_frac: 0.469
 dup_n_grams:
 - - 5
-  - 0.405
+  - 0.328
 - - 6
-  - 0.391
+  - 0.317
 - - 7
-  - 0.375
+  - 0.3
 - - 8
-  - 0.365
+  - 0.284
 - - 9
-  - 0.359
+  - 0.268
 - - 10
-  - 0.348
+  - 0.249
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 5
-max_non_alpha_words_ratio: 0.875
-min_avg_word_length: 3
-new_line_ratio: 0.056
+max_avg_word_length: 6
+max_non_alpha_words_ratio: 0.846
+min_avg_word_length: 2
+new_line_ratio: 0.048
 stopwords:
 - de
 - ji
@@ -45,8 +45,8 @@ stopwords:
 - jeishu
 top_n_grams:
 - - 2
-  - 0.127
+  - 0.292
 - - 3
-  - 0.146
+  - 0.26
 - - 4
-  - 0.157
+  - 0.217

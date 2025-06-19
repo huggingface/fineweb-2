@@ -1,23 +1,23 @@
-dup_line_frac: 0.016
+dup_line_frac: 0.263
 dup_n_grams:
 - - 5
-  - 0.033
+  - 0.206
 - - 6
-  - 0.019
+  - 0.196
 - - 7
-  - 0.013
+  - 0.189
 - - 8
-  - 0.01
+  - 0.185
 - - 9
-  - 0.003
+  - 0.163
 - - 10
-  - 0.003
+  - 0.152
 language_score: 0.603
 line_punct_thr: -1
 max_avg_word_length: 15
-max_non_alpha_words_ratio: 0.727
-min_avg_word_length: 6
-new_line_ratio: 0.1
+max_non_alpha_words_ratio: 0.698
+min_avg_word_length: 4
+new_line_ratio: 0.083
 stopwords:
 - teoso
 - iua
@@ -39,8 +39,8 @@ stopwords:
 - maerekati
 top_n_grams:
 - - 2
-  - 0.867
+  - 1.2
 - - 3
-  - 0.312
+  - 0.848
 - - 4
-  - 0.384
+  - 0.761

@@ -1,23 +1,23 @@
-dup_line_frac: 0.834
+dup_line_frac: 0.651
 dup_n_grams:
 - - 5
-  - 0.668
+  - 0.479
 - - 6
-  - 0.667
+  - 0.47
 - - 7
-  - 0.622
+  - 0.443
 - - 8
-  - 0.632
+  - 0.415
 - - 9
-  - 0.624
+  - 0.389
 - - 10
-  - 0.59
+  - 0.351
 language_score: 0.537
 line_punct_thr: -1
 max_avg_word_length: 11
-max_non_alpha_words_ratio: 0.8
-min_avg_word_length: 5
-new_line_ratio: 0.111
+max_non_alpha_words_ratio: 0.769
+min_avg_word_length: 4
+new_line_ratio: 0.091
 stopwords:
 - ni
 - nga
@@ -31,8 +31,8 @@ stopwords:
 - yesu
 top_n_grams:
 - - 2
-  - 0.814
+  - 1.551
 - - 3
-  - 1.0
+  - 1.469
 - - 4
-  - 1.267
+  - 1.339

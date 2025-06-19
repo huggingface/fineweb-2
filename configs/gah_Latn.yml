@@ -1,23 +1,23 @@
-dup_line_frac: 1.0
+dup_line_frac: 0.856
 dup_n_grams:
 - - 5
-  - 0.923
+  - 0.647
 - - 6
-  - 0.923
+  - 0.645
 - - 7
-  - 0.923
+  - 0.629
 - - 8
-  - 0.923
+  - 0.608
 - - 9
-  - 0.923
+  - 0.584
 - - 10
-  - 0.923
+  - 0.552
 language_score: 0.644
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.857
-min_avg_word_length: 5
-new_line_ratio: 0.077
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 4
+new_line_ratio: 0.067
 stopwords:
 - nene
 - loko
@@ -36,8 +36,8 @@ stopwords:
 - neve
 top_n_grams:
 - - 2
-  - 0.962
+  - 1.513
 - - 3
-  - 1.308
+  - 1.388
 - - 4
-  - 1.961
+  - 1.456

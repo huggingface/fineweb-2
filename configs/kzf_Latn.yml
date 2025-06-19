@@ -1,23 +1,23 @@
-dup_line_frac: 0.951
+dup_line_frac: 0.871
 dup_n_grams:
 - - 5
-  - 0.787
+  - 0.631
 - - 6
-  - 0.81
+  - 0.617
 - - 7
-  - 0.795
+  - 0.589
 - - 8
-  - 0.784
+  - 0.568
 - - 9
-  - 0.792
+  - 0.536
 - - 10
-  - 0.771
+  - 0.5
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.818
+max_non_alpha_words_ratio: 0.792
 min_avg_word_length: 4
-new_line_ratio: 0.071
+new_line_ratio: 0.062
 stopwords:
 - to
 - etu
@@ -41,8 +41,8 @@ stopwords:
 - sabana
 top_n_grams:
 - - 2
-  - 0.896
+  - 1.479
 - - 3
-  - 1.003
+  - 1.393
 - - 4
-  - 1.767
+  - 1.396

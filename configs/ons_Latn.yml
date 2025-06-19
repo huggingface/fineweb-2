@@ -1,23 +1,23 @@
-dup_line_frac: 0.727
+dup_line_frac: 0.601
 dup_n_grams:
 - - 5
-  - 0.771
+  - 0.644
 - - 6
-  - 0.74
+  - 0.619
 - - 7
-  - 0.863
+  - 0.659
 - - 8
-  - 0.74
+  - 0.588
 - - 9
-  - 0.833
+  - 0.605
 - - 10
-  - 0.617
+  - 0.495
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 8
-max_non_alpha_words_ratio: 0.812
-min_avg_word_length: 4
-new_line_ratio: 0.067
+max_non_alpha_words_ratio: 0.789
+min_avg_word_length: 3
+new_line_ratio: 0.056
 stopwords:
 - "e\u014Be"
 - wane
@@ -42,8 +42,8 @@ stopwords:
 - "e\u014Bane"
 top_n_grams:
 - - 2
-  - 1.789
+  - 2.456
 - - 3
-  - 2.617
+  - 2.483
 - - 4
-  - 3.379
+  - 2.34

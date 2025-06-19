@@ -1,23 +1,23 @@
-dup_line_frac: 0.9
+dup_line_frac: 0.888
 dup_n_grams:
 - - 5
-  - 0.73
+  - 0.642
 - - 6
-  - 0.712
+  - 0.618
 - - 7
-  - 0.688
+  - 0.584
 - - 8
-  - 0.671
+  - 0.553
 - - 9
-  - 0.663
+  - 0.511
 - - 10
-  - 0.628
+  - 0.448
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 16
-max_non_alpha_words_ratio: 0.6
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.576
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - "\u019Aandios"
 - al
@@ -43,8 +43,8 @@ stopwords:
 - "\xBF"
 top_n_grams:
 - - 2
-  - 1.291
+  - 1.918
 - - 3
-  - 1.703
+  - 1.908
 - - 4
-  - 1.974
+  - 1.715

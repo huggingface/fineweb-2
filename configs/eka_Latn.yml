@@ -1,23 +1,23 @@
-dup_line_frac: 0.875
+dup_line_frac: 0.722
 dup_n_grams:
 - - 5
-  - 0.697
+  - 0.494
 - - 6
-  - 0.706
+  - 0.477
 - - 7
-  - 0.674
+  - 0.439
 - - 8
-  - 0.691
+  - 0.423
 - - 9
-  - 0.674
+  - 0.4
 - - 10
-  - 0.652
+  - 0.366
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.788
-min_avg_word_length: 3
-new_line_ratio: 0.071
+max_avg_word_length: 7
+max_non_alpha_words_ratio: 0.765
+min_avg_word_length: 2
+new_line_ratio: 0.056
 stopwords:
 - go
 - bo
@@ -46,8 +46,8 @@ stopwords:
 - jisos
 top_n_grams:
 - - 2
-  - 0.645
+  - 1.099
 - - 3
-  - 0.889
+  - 1.036
 - - 4
-  - 1.279
+  - 0.991

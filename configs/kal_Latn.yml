@@ -1,23 +1,23 @@
-dup_line_frac: 0.5
+dup_line_frac: 0.465
 dup_n_grams:
 - - 5
-  - 0.37
+  - 0.294
 - - 6
-  - 0.377
+  - 0.284
 - - 7
-  - 0.317
+  - 0.262
 - - 8
-  - 0.337
+  - 0.247
 - - 9
-  - 0.365
+  - 0.232
 - - 10
-  - 0.248
+  - 0.207
 language_score: 0.3
-line_punct_thr: 0.25
+line_punct_thr: 0.166
 max_avg_word_length: 16
 max_non_alpha_words_ratio: 0.713
-min_avg_word_length: 6
-new_line_ratio: 0.239
+min_avg_word_length: 5
+new_line_ratio: 0.194
 stopwords:
 - aamma
 - kalaallit
@@ -35,8 +35,8 @@ stopwords:
 - qanoq
 top_n_grams:
 - - 2
-  - 0.354
+  - 0.728
 - - 3
-  - 0.391
+  - 0.637
 - - 4
-  - 0.453
+  - 0.567

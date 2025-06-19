@@ -1,23 +1,23 @@
-dup_line_frac: 0.01
+dup_line_frac: 0.291
 dup_n_grams:
 - - 5
-  - 0.1
+  - 0.286
 - - 6
-  - 0.103
+  - 0.279
 - - 7
-  - 0.096
+  - 0.265
 - - 8
-  - 0.076
+  - 0.237
 - - 9
-  - 0.092
+  - 0.219
 - - 10
-  - 0.062
+  - 0.2
 language_score: 0.622
 line_punct_thr: -1
 max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.773
-min_avg_word_length: 5
-new_line_ratio: 0.056
+max_non_alpha_words_ratio: 0.76
+min_avg_word_length: 4
+new_line_ratio: 0.045
 stopwords:
 - ngu
 - oni
@@ -42,8 +42,8 @@ stopwords:
 - ngundilo
 top_n_grams:
 - - 2
-  - 0.149
+  - 1.06
 - - 3
-  - 0.229
+  - 1.023
 - - 4
-  - 0.095
+  - 0.906

@@ -1,23 +1,23 @@
-dup_line_frac: 0.889
+dup_line_frac: 0.762
 dup_n_grams:
 - - 5
-  - 0.672
+  - 0.524
 - - 6
-  - 0.666
+  - 0.497
 - - 7
-  - 0.703
+  - 0.493
 - - 8
-  - 0.668
+  - 0.456
 - - 9
-  - 0.666
+  - 0.428
 - - 10
-  - 0.618
+  - 0.388
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 9
-max_non_alpha_words_ratio: 0.893
-min_avg_word_length: 4
-new_line_ratio: 0.077
+max_avg_word_length: 10
+max_non_alpha_words_ratio: 0.868
+min_avg_word_length: 3
+new_line_ratio: 0.067
 stopwords:
 - en
 - det
@@ -43,8 +43,8 @@ stopwords:
 - meigim
 top_n_grams:
 - - 2
-  - 0.335
+  - 0.665
 - - 3
-  - 0.504
+  - 0.702
 - - 4
-  - 0.559
+  - 0.639

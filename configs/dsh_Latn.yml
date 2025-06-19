@@ -1,23 +1,23 @@
-dup_line_frac: 0.459
+dup_line_frac: 0.393
 dup_n_grams:
 - - 5
-  - 0.413
+  - 0.316
 - - 6
-  - 0.408
+  - 0.306
 - - 7
-  - 0.408
+  - 0.291
 - - 8
-  - 0.41
+  - 0.261
 - - 9
-  - 0.407
+  - 0.249
 - - 10
-  - 0.394
+  - 0.239
 language_score: 0.3
 line_punct_thr: -1
-max_avg_word_length: 7
-max_non_alpha_words_ratio: 0.818
-min_avg_word_length: 4
-new_line_ratio: 0.071
+max_avg_word_length: 8
+max_non_alpha_words_ratio: 0.8
+min_avg_word_length: 3
+new_line_ratio: 0.059
 stopwords:
 - "h\xED"
 - gaa
@@ -48,8 +48,8 @@ stopwords:
 - mu
 top_n_grams:
 - - 2
-  - 0.206
+  - 0.911
 - - 3
-  - 0.183
+  - 0.816
 - - 4
-  - 0.168
+  - 0.701

@@ -1,23 +1,23 @@
-dup_line_frac: 0.907
+dup_line_frac: 0.99
 dup_n_grams:
 - - 5
-  - 0.48
+  - 0.485
 - - 6
-  - 0.482
+  - 0.485
 - - 7
-  - 0.478
+  - 0.472
 - - 8
-  - 0.477
+  - 0.457
 - - 9
-  - 0.47
+  - 0.433
 - - 10
-  - 0.47
+  - 0.419
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 6
-max_non_alpha_words_ratio: 0.778
-min_avg_word_length: 3
-new_line_ratio: 0.059
+max_non_alpha_words_ratio: 0.757
+min_avg_word_length: 2
+new_line_ratio: 0.048
 stopwords:
 - "b\u0259\u0300"
 - "k\u0259\u0300"
@@ -43,8 +43,8 @@ stopwords:
 - "b\u0259raa"
 top_n_grams:
 - - 2
-  - 0.239
+  - 1.068
 - - 3
-  - 0.226
+  - 1.106
 - - 4
-  - 0.185
+  - 1.003

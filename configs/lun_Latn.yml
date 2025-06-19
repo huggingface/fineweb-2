@@ -1,23 +1,23 @@
-dup_line_frac: 0.869
+dup_line_frac: 0.759
 dup_n_grams:
 - - 5
-  - 0.621
+  - 0.415
 - - 6
-  - 0.613
+  - 0.391
 - - 7
-  - 0.601
+  - 0.379
 - - 8
-  - 0.583
+  - 0.349
 - - 9
-  - 0.568
+  - 0.325
 - - 10
-  - 0.548
+  - 0.31
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 12
-max_non_alpha_words_ratio: 0.769
-min_avg_word_length: 6
-new_line_ratio: 0.143
+max_non_alpha_words_ratio: 0.727
+min_avg_word_length: 4
+new_line_ratio: 0.125
 stopwords:
 - neyi
 - nawa
@@ -30,8 +30,8 @@ stopwords:
 - yuma
 top_n_grams:
 - - 2
-  - 0.5
+  - 0.898
 - - 3
-  - 0.565
+  - 0.847
 - - 4
-  - 0.733
+  - 0.744

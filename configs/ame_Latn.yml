@@ -1,23 +1,23 @@
-dup_line_frac: 0.125
+dup_line_frac: 0.293
 dup_n_grams:
 - - 5
-  - 0.043
+  - 0.208
 - - 6
-  - 0.014
+  - 0.202
 - - 7
-  - 0.009
+  - 0.192
 - - 8
-  - 0.0
+  - 0.179
 - - 9
-  - 0.0
+  - 0.167
 - - 10
-  - 0.0
+  - 0.153
 language_score: 0.3
 line_punct_thr: -1
 max_avg_word_length: 15
-max_non_alpha_words_ratio: 0.7
-min_avg_word_length: 6
-new_line_ratio: 0.25
+max_non_alpha_words_ratio: 0.667
+min_avg_word_length: 3
+new_line_ratio: 0.2
 stopwords:
 - "\xF1e\xF1t\u0303"
 - "e'\xF1e"
@@ -41,8 +41,8 @@ stopwords:
 - allempo
 top_n_grams:
 - - 2
-  - 1.0
+  - 1.681
 - - 3
-  - 1.059
+  - 1.495
 - - 4
-  - 1.0
+  - 1.367

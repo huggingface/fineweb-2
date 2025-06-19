@@ -1,23 +1,23 @@
-dup_line_frac: 0.286
+dup_line_frac: 0.269
 dup_n_grams:
 - - 5
-  - 0.147
+  - 0.144
 - - 6
-  - 0.132
+  - 0.131
 - - 7
-  - 0.105
+  - 0.12
 - - 8
-  - 0.087
+  - 0.108
 - - 9
-  - 0.073
+  - 0.097
 - - 10
-  - 0.06
+  - 0.088
 language_score: 0.745
-line_punct_thr: 0.4
+line_punct_thr: 0.25
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.828
 min_avg_word_length: 3
-new_line_ratio: 0.203
+new_line_ratio: 0.167
 stopwords:
 - yn
 - y
@@ -36,8 +36,8 @@ stopwords:
 - wedi
 top_n_grams:
 - - 2
-  - 0.096
+  - 0.258
 - - 3
-  - 0.117
+  - 0.196
 - - 4
-  - 0.14
+  - 0.165

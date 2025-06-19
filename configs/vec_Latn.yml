@@ -1,23 +1,23 @@
-dup_line_frac: 0.714
+dup_line_frac: 0.706
 dup_n_grams:
 - - 5
-  - 0.382
+  - 0.299
 - - 6
-  - 0.349
+  - 0.267
 - - 7
-  - 0.317
+  - 0.237
 - - 8
-  - 0.295
+  - 0.212
 - - 9
-  - 0.273
+  - 0.191
 - - 10
-  - 0.25
+  - 0.167
 language_score: 0.3
-line_punct_thr: 0.167
+line_punct_thr: 0.0
 max_avg_word_length: 9
 max_non_alpha_words_ratio: 0.876
-min_avg_word_length: 3
-new_line_ratio: 0.286
+min_avg_word_length: 2
+new_line_ratio: 0.276
 stopwords:
 - de
 - el
@@ -46,8 +46,8 @@ stopwords:
 - abitanti
 top_n_grams:
 - - 2
-  - 0.316
+  - 0.614
 - - 3
-  - 0.434
+  - 0.61
 - - 4
-  - 0.511
+  - 0.531

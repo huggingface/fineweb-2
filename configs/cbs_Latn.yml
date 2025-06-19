@@ -1,23 +1,23 @@
-dup_line_frac: 0.333
+dup_line_frac: 0.283
 dup_n_grams:
 - - 5
-  - 0.391
+  - 0.255
 - - 6
-  - 0.387
+  - 0.251
 - - 7
-  - 0.367
+  - 0.236
 - - 8
-  - 0.359
+  - 0.223
 - - 9
-  - 0.354
+  - 0.21
 - - 10
-  - 0.346
+  - 0.194
 language_score: 0.698
 line_punct_thr: -1
 max_avg_word_length: 13
-max_non_alpha_words_ratio: 0.826
-min_avg_word_length: 5
-new_line_ratio: 0.083
+max_non_alpha_words_ratio: 0.792
+min_avg_word_length: 4
+new_line_ratio: 0.067
 stopwords:
 - jatu
 - en
@@ -37,8 +37,8 @@ stopwords:
 - xanen
 top_n_grams:
 - - 2
-  - 0.1
+  - 0.229
 - - 3
-  - 0.135
+  - 0.228
 - - 4
-  - 0.169
+  - 0.224
