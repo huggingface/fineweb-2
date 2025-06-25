@@ -21,7 +21,7 @@ def filter_top_percentile(counter, percentile=95):
 
 
 
-def filter_by_ratio(counter1, counter2, threshold=0.95):
+def filter_by_ratio(counter1, counter2, threshold=0.85):
     # Create a new Counter to store the results
     filtered_counter = Counter()
 
@@ -50,9 +50,9 @@ def save(tokenizer_id, selected_language):
         common_tf = pickle.load(f)
 
     language_filter_tf = filter_top_percentile(language_tf, 95)
-    filtered_counter = filter_by_ratio(language_filter_tf, common_tf, 0.95)
+    filtered_counter = filter_by_ratio(language_filter_tf, common_tf, 0.85)
 
-    output_dir = './wordlists-0.95'
+    output_dir = './wordlists-0.85'
     os.makedirs(output_dir, exist_ok=True)
     output_file = os.path.join(output_dir, f'{selected_language}.txt')
 

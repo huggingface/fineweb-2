@@ -86,7 +86,7 @@ class Decontaminate(BaseFilter):
         # check whitelist words
         normalized_space = self.normalizer.sub("", url).lower()
         if not self.whitelist_words:
-            return True
+            return False
         found = list(self.whitelist_automaton.iter(normalized_space))
         if found:
             words = [

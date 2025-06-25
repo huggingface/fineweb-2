@@ -47,7 +47,7 @@ Finally, use `wordlist_score.py` to decide if a text is contaminated or not. Thi
 **Summary:**
 1. `slurm_count_word.py`: Compute word frequencies for all languages and tokenizers.
 2. `count_common.py`: For each language, count how many of its words also appear in other languages (with the same tokenizer).
-3. `wordlist_gen.py`: Select words that are highly specific to each language (≥95% precision).
+3. `wordlist_gen.py`: Select words that are highly specific to each language (≥85% precision).
 4. `wordlist_score.py`: Use the generated wordlists to score and detect contamination in new texts.
 
 See each script for more details and customization options.
