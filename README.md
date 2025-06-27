@@ -3,6 +3,9 @@
 
 FineWeb 2 is the second iteration of the popular 🍷 FineWeb dataset, bringing high quality pretraining data to over 1000 🗣️ languages. For the actual data, please see the HuggingFace repository [https://huggingface.co/datasets/HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2).
 
+> [!NOTE]
+> We have officially released our 📝 **research paper**: https://huggingface.co/papers/2506.20920
+
 ## Data Pipeline 🚀
 The processing pipeline had to be heavily adapted for a multilingual setting. As each language has its own peculiarities, we **individually tuned each filter**, defining different thresholds and stopwords for each language. 📊
 These thresholds and stopwords are available in `/configs/{iso3_lang}_{script}.yml`.
