@@ -94,12 +94,13 @@ The dataset retains the same license as the original FineWeb, which is Open Data
 
 ## Citation 📖
 ```bibtex
-@software{penedo2024fineweb-2,
-  author = {Penedo, Guilherme and Kydlíček, Hynek and Sabolčec, Vinko and Messmer, Bettina and Foroutan, Negar and Jaggi, Martin and von Werra, Leandro and Wolf, Thomas},
-  title = {FineWeb2: A sparkling update with 1000s of languages},
-  month = dec,
-  year = 2024,
-  doi = { },
-  url = {https://huggingface.co/datasets/HuggingFaceFW/fineweb-2}
+@misc{penedo2025fineweb2pipelinescale,
+      title={FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language}, 
+      author={Guilherme Penedo and Hynek Kydlíček and Vinko Sabolčec and Bettina Messmer and Negar Foroutan and Amir Hossein Kargaran and Colin Raffel and Martin Jaggi and Leandro Von Werra and Thomas Wolf},
+      year={2025},
+      eprint={2506.20920},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.20920}, 
 }
 ```
