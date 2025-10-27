@@ -1,0 +1,36 @@
+dup_line_frac: 0.601
+dup_n_grams:
+- - 5
+  - 0.545
+- - 6
+  - 0.532
+- - 7
+  - 0.516
+- - 8
+  - 0.496
+- - 9
+  - 0.469
+- - 10
+  - 0.446
+language_score: 0.3
+line_punct_thr: 0.111
+max_avg_word_length: 11
+max_non_alpha_words_ratio: 0.833
+min_avg_word_length: 3
+new_line_ratio: 0.114
+stopwords:
+- da
+- a
+- na
+- ta
+- ya
+- kuma
+- cikin
+- ba
+top_n_grams:
+- - 2
+  - 2.82
+- - 3
+  - 3.257
+- - 4
+  - 3.311
