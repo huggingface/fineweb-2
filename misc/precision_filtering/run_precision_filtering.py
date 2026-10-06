@@ -30,10 +30,7 @@ class Decontaminate(BaseFilter):
         import ahocorasick
         from tldextract import TLDExtract
         self.tldextractor = TLDExtract()
-        self.domain_extension = None
-        domain_extension = [x for x in self.whitelist_words if x.startswith(".")]
-        if domain_extension:
-            self.domain_extension = domain_extension[0] + "/"
+        self.domain_extensions = [x.lower() for x in self.whitelist_words if x.startswith(".")]
 
         self.whitelist_words = [x for x in self.whitelist_words if not x.startswith(".")]
         
@@ -72,9 +69,10 @@ class Decontaminate(BaseFilter):
         url_info = self.tldextractor(url)
 
         # check domain extension
-        if self.domain_extension and self.domain_extension in url_info.fqdn:
-            document.metadata['url_match'] = self.domain_extension
-            # print(f"DOMAIN EXTENSION: {self.domain_extension} in {url_info.fqdn}")
+        # fqdn excludes URL paths, so match extensions without a trailing slash
+        domain_extension = next((x for x in self.domain_extensions if url_info.fqdn.lower().endswith(x)), None)
+        if domain_extension:
+            document.metadata['url_match'] = domain_extension
             return True
 
         # check lang code (pre space normalization)
